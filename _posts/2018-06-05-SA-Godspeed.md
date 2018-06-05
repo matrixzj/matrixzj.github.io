@@ -37,6 +37,8 @@ NOTE: USD to RMB exchange rate is 6.73
 |[Spacebars](#spacebars)|8.99|60.50|55|
 
 ![price]({{ "/assets/images/godspeed/Price.jpg" | absolute_url }})
+<img src="{{ 'assets/images/godspeed/Price.jpg' | relative_url }}" alt="price" class="image featured"/>
+<img src="{{ 'assets/images/picture01.jpg' | relative_url }}" alt="test" class="image featured"/>
 
 ## Kits
 ### SolarAlpha
@@ -129,4 +131,3 @@ NOTE: less than COQ(50)
 ![pictures8]({{ "/assets/images/godspeed/rendering_pics/MD-25045_20160922122915_05fdde153872c9e1.jpg" | absolute_url }})  
 
 <img src="{{ 'assets/images/picture01.jpg' | relative_url }}" alt="test" class="image featured"/>
-<img src="{{ 'assets/images/godspeed/rendering_pics/godspeed.jpg' | relative_url }}" alt="SA Godspeed" />
