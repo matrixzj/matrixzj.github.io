@@ -113,7 +113,7 @@ NOTE: less than COQ(50)
 * Profile: SA 1-1-2-3-4-3
 * Color Codes: WBO/GTD/BFJ/YCE/VCO/RA
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" class="image featured">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="40" width="140">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="150" width="340">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTD.png' | relative_url }}" alt="colorGTD" class="image featured">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png' | relative_url }}" alt="colorBFJ" class="image featured">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCE.png' | relative_url }}" alt="colorYCE" class="image featured">
