@@ -36,93 +36,76 @@ NOTE: USD to RMB exchange rate is 6.73
 |[Blanks](#blanks)|21.99|147.99|58|
 |[Spacebars](#spacebars)|8.99|60.50|55|
 
-<img src="{{ 'assets/images/godspeed/Price.jpg' | relative_url }}" alt="price" class="image featured'>
+<img src="{{ 'assets/images/godspeed/Price.jpg' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
 ### SolarAlpha
 **Price(USD):** 36.99	**Price(RMB):** 248.94	**Quantity:** 868
 <img src="{{ 'assets/images/godspeed/kits_pics/SolarAlphas.jpg' | relative_url }}"> alt="Solar Alphas" class="image featured">
-<img src="{{ 'assets/images/godspeed/kits_pics/SolarAlphas.jpg' | relative_url }}"> alt="Solar Alphas" class="image featured">
 
 ### LunarAlpha
 **Price(USD):** 39.99	**Price(RMB):** 269.13	**Quantity:** 204
-<img src="{{ 'assets/images/godspeed/kits_pics/LunarAlphas.jpg' | relative_url }}"> alt="Lunar Alphas" class="image featured">
 <img src="{{ 'assets/images/godspeed/kits_pics/LunarAlphas.jpg' | relative_url }}"> alt="Lunar Alphas" class="image featured">
 
 ### Cockpit
 **Price(USD):** 69.99	**Price(RMB):** 471.03	**Quantity:** 554
 <img src="{{ 'assets/images/godspeed/kits_pics/Cockpit.jpg' | relative_url }}"> alt="Cockpit" class="image featured">
-<img src="{{ 'assets/images/godspeed/kits_pics/Cockpit.jpg' | relative_url }}"> alt="Cockpit" class="image featured">
 
 ### Modifiers
 **Price(USD):** 34.99	**Price(RMB):** 235.48	**Quantity:** 640
-<img src="{{ 'assets/images/godspeed/kits_pics/Modifiers.jpg' | relative_url }}"> alt="Modifiers" class="image featured">
 <img src="{{ 'assets/images/godspeed/kits_pics/Modifiers.jpg' | relative_url }}"> alt="Modifiers" class="image featured">
 
 ### Calculus
 **Price(USD):** 23.99	**Price(RMB):** 161.45	**Quantity:** 401
 <img src="{{ 'assets/images/godspeed/kits_pics/Calculus.jpg' | relative_url }}"> alt="Calculus" class="image featured">
-<img src="{{ 'assets/images/godspeed/kits_pics/Calculus.jpg' | relative_url }}"> alt="Calculus" class="image featured">
 
 ### Novelties
 **Price(USD):** 39.99	**Price(RMB):** 269.13	**Quantity:** 872
-<img src="{{ 'assets/images/godspeed/kits_pics/Novelties.jpg' | relative_url }}"> alt="Novelties" class="image featured">
 <img src="{{ 'assets/images/godspeed/kits_pics/Novelties.jpg' | relative_url }}"> alt="Novelties" class="image featured">
 
 ### PhdPlanck
 **Price(USD):** 22.99	**Price(RMB):** 154.72	**Quantity:** 133
 <img src="{{ 'assets/images/godspeed/kits_pics/PhdPlanck.jpg' | relative_url }}"> alt="Phd Planck" class="image featured">
-<img src="{{ 'assets/images/godspeed/kits_pics/PhdPlanck.jpg' | relative_url }}"> alt="Phd Planck" class="image featured">
 
 ### 40s
 **Price(USD):** 47.99	**Price(RMB):** 322.97	**Quantity:** 98
 <img src="{{ 'assets/images/godspeed/kits_pics/40s.jpg' | relative_url }}"> alt="40s" class="image featured">
-<img src="{{ 'assets/images/godspeed/kits_pics/40s.jpg' | relative_url }}"> alt="40s" class="image featured">
 
 ### ErgoDox
 **Price(USD):** 46.99	**Price(RMB):** 316.24	**Quantity:** 172
-<img src="{{ 'assets/images/godspeed/kits_pics/ErgovonDox.jpg' | relative_url }}"> alt="Ergo von Dox" class="image featured">
 <img src="{{ 'assets/images/godspeed/kits_pics/ErgovonDox.jpg' | relative_url }}"> alt="Ergo von Dox" class="image featured">
 
 ### ~~BLancDox~~
 ~~**Price(USD):** 39.99	**Price(RMB):** 	**Quantity:** 45~~    
 NOTE: less than COQ(50)
 <img src="{{ 'assets/images/godspeed/kits_pics/BlancvonDox.jpg' | relative_url }}"> alt="Blank von Dox" class="image featured">
-<img src="{{ 'assets/images/godspeed/kits_pics/BlancvonDox.jpg' | relative_url }}"> alt="Blank von Dox" class="image featured">
 
 ### Tsafox
 **Price(USD):** 37.99	**Price(RMB):** 255.67	**Quantity:** 45
-<img src="assets/images/godspeed/kits_pics/Tsafox.png"> alt="Tsafox" class="image featured">
 <img src="assets/images/godspeed/kits_pics/Tsafox.png"> alt="Tsafox" class="image featured">
 
 ### Colevrak
 **Price(USD):** 26.99	**Price(RMB):** 181.64	**Quantity:** 56
 <img src="{{ 'assets/images/godspeed/kits_pics/Colevrak.jpg' | relative_url }}"> alt="Colevrak" class="image featured">
-<img src="{{ 'assets/images/godspeed/kits_pics/Colevrak.jpg' | relative_url }}"> alt="Colevrak" class="image featured">
 
 ### UK
 **Price(USD):** 24.99	**Price(RMB):** 168.18	**Quantity:** 37
-<img src="{{ 'assets/images/godspeed/kits_pics/UK.jpg' | relative_url }}"> alt="UK" class="image featured">
 <img src="{{ 'assets/images/godspeed/kits_pics/UK.jpg' | relative_url }}"> alt="UK" class="image featured">
 
 ### Norde
 **Price(USD):** 42.99	**Price(RMB):** 289.32	**Quantity:** 48
 <img src="{{ 'assets/images/godspeed/kits_pics/Norde.jpg' | relative_url }}"> alt="Norde" class="image featured">
-<img src="{{ 'assets/images/godspeed/kits_pics/Norde.jpg' | relative_url }}"> alt="Norde" class="image featured">
 
 ### Labs
 **Price(USD):** 11.99	**Price(RMB):** 80.69	**Quantity:** 81
-<img src="{{ 'assets/images/godspeed/kits_pics/Labs.jpg' | relative_url }}"> alt="Labs" class="image featured">
 <img src="{{ 'assets/images/godspeed/kits_pics/Labs.jpg' | relative_url }}"> alt="Labs" class="image featured">
 
 ### Blanks
 **Price(USD):** 21.99	**Price(RMB):** 147.99	**Quantity:** 58
 <img src="{{ 'assets/images/godspeed/kits_pics/Blanks.jpg' | relative_url }}"> alt="Blanks" class="image featured">
-<img src="{{ 'assets/images/godspeed/kits_pics/Blanks.jpg' | relative_url }}"> alt="Blanks" class="image featured">
 
 ### Spacebars
 **Price(USD):** 8.99	**Price(RMB):** 60.50	**Quantity:** 55
-<img src="{{ 'assets/images/godspeed/kits_pics/Spacebars.jpg' | relative_url }}"> alt="Spacebars" class="image featured">
 <img src="{{ 'assets/images/godspeed/kits_pics/Spacebars.jpg' | relative_url }}"> alt="Spacebars" class="image featured">
 
 ## Info
@@ -144,18 +127,9 @@ NOTE: less than COQ(50)
 
 ## Pictures  
 <img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122839_287a124a76ffe60b.jpg' | relative_url }}"> alt="pictures1" class="image featured">  
-<img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122839_287a124a76ffe60b.jpg' | relative_url }}"> alt="pictures1" class="image featured">  
-<img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122906_74de99d16fbd9eb7.jpg' | relative_url }}"> alt="pictures3" class="image featured">  
 <img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122906_74de99d16fbd9eb7.jpg' | relative_url }}"> alt="pictures3" class="image featured">  
 <img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122907_c4fb2e6ff6c80399.jpg' | relative_url }}"> alt="pictures4" class="image featured">  
-<img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122907_c4fb2e6ff6c80399.jpg' | relative_url }}"> alt="pictures4" class="image featured">  
-<img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122907_e6b299fc4c663ac2.jpg' | relative_url }}"> alt="pictures5" class="image featured">  
 <img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122907_e6b299fc4c663ac2.jpg' | relative_url }}"> alt="pictures5" class="image featured">  
 <img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122910_b04bbf7fadd53564.jpg' | relative_url }}"> alt="pictures6" class="image featured">  
-<img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122910_b04bbf7fadd53564.jpg' | relative_url }}"> alt="pictures6" class="image featured">  
-<img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122914_084b54588a41c310.jpg' | relative_url }}"> alt="pictures7" class="image featured">  
 <img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122914_084b54588a41c310.jpg' | relative_url }}"> alt="pictures7" class="image featured">  
 <img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122915_05fdde153872c9e1.jpg' | relative_url }}"> alt="pictures8" class="image featured">  
-<img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122915_05fdde153872c9e1.jpg' | relative_url }}"> alt="pictures8" class="image featured">  
-
-<img src="{{ 'assets/images/picture01.jpg' | relative_url }}" alt="test" class="image featured'>
