@@ -82,7 +82,7 @@ NOTE: less than COQ(50)
 
 ### Tsafox
 **Price(USD):** 37.99	**Price(RMB):** 255.67	**Quantity:** 45
-<img src="assets/images/godspeed/kits_pics/Tsafox.png"> alt="Tsafox" class="image featured">
+<img src="assets/images/godspeed/kits_pics/Tsafox.png" alt="Tsafox" class="image featured">
 
 ### Colevrak
 **Price(USD):** 26.99	**Price(RMB):** 181.64	**Quantity:** 56
@@ -112,12 +112,12 @@ NOTE: less than COQ(50)
 * Designer: Mito
 * Profile: SA 1-1-2-3-4-3
 * Color Codes: WBO/GTD/BFJ/YCE/VCO/RA
-<img src="../../SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png" alt="colorWBO" class="image featured">
-<img src="../../SP_ColorCodes/abs/SP_Abs_ColorCodes_GTD.png" alt="colorGTD" class="image featured">
-<img src="../../SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png" alt="colorBFJ" class="image featured">
-<img src="../../SP_ColorCodes/abs/SP_Abs_ColorCodes_YCE.png" alt="colorYCE" class="image featured">
-<img src="../../SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png" alt="colorVCO" class="image featured">
-<img src="../../SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png" alt="colorRA" class="image featured">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" class="image featured">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTD.png' | relative_url }}" alt="colorGTD" class="image featured">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png' | relative_url }}" alt="colorBFJ" class="image featured">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCE.png' | relative_url }}" alt="colorYCE" class="image featured">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" class="image featured">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png' | relative_url }}" alt="colorRA" class="image featured">
 
 ## Pictures  
 <img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122839_287a124a76ffe60b.jpg' | relative_url }}" alt="pictures1" class="image featured">  
