@@ -82,7 +82,7 @@ NOTE: less than COQ(50)
 
 ### Tsafox
 **Price(USD):** 37.99	**Price(RMB):** 255.67	**Quantity:** 45
-<img src="assets/images/godspeed/kits_pics/Tsafox.png" alt="Tsafox" class="image featured">
+<img src="{{ 'assets/images/godspeed/kits_pics/Tsafox.png' | relative_url }}" alt="Tsafox" class="image featured">
 
 ### Colevrak
 **Price(USD):** 26.99	**Price(RMB):** 181.64	**Quantity:** 56
