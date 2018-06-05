@@ -112,13 +112,14 @@ NOTE: less than COQ(50)
 * Designer: Mito
 * Profile: SA 1-1-2-3-4-3
 * Color Codes: WBO/GTD/BFJ/YCE/VCO/RA
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" class="image featured">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="150" width="340">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTD.png' | relative_url }}" alt="colorGTD" class="image featured">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png' | relative_url }}" alt="colorBFJ" class="image featured">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCE.png' | relative_url }}" alt="colorYCE" class="image featured">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" class="image featured">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png' | relative_url }}" alt="colorRA" class="image featured">
+<ul>
+  <li><img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="150" width="340"></li>
+  <li><img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTD.png' | relative_url }}" alt="colorGTD" height="150" width="340"></li>
+  <li><img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png' | relative_url }}" alt="colorBFJ" height="150" width="340"></li>
+  <li><img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCE.png' | relative_url }}" alt="colorYCE" height="150" width="340"></li>
+  <li><img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" height="150" width="340"></li>
+  <li><img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png' | relative_url }}" alt="colorRA" height="150" width="340"></li>
+</ul>
 
 ## Pictures  
 <img src="{{ 'assets/images/godspeed/rendering_pics/MD-25045_20160922122839_287a124a76ffe60b.jpg' | relative_url }}" alt="pictures1" class="image featured">  
