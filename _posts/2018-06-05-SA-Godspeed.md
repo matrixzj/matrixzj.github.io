@@ -127,3 +127,5 @@ NOTE: less than COQ(50)
 ![pictures6]({{ "/assets/images/godspeed/rendering_pics/MD-25045_20160922122910_b04bbf7fadd53564.jpg" | absolute_url }})  
 ![pictures7]({{ "/assets/images/godspeed/rendering_pics/MD-25045_20160922122914_084b54588a41c310.jpg" | absolute_url }})  
 ![pictures8]({{ "/assets/images/godspeed/rendering_pics/MD-25045_20160922122915_05fdde153872c9e1.jpg" | absolute_url }})  
+
+<a class="image featured"><img src="assets/images/picture01.jpg" alt="" /></a>
