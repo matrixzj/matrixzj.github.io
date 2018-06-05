@@ -129,3 +129,4 @@ NOTE: less than COQ(50)
 ![pictures8]({{ "/assets/images/godspeed/rendering_pics/MD-25045_20160922122915_05fdde153872c9e1.jpg" | absolute_url }})  
 
 <img class="image featured" src="assets/images/picture01.jpg" alt="test" />
+<img src="{{ 'assets/images/godspeed/rendering_pics/godspeed.jpg' | relative_url     }}" alt="SA Godspeed" />
