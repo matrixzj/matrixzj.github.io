@@ -38,6 +38,8 @@ NOTE: USD to RMB exchange rate is 6.73
 
 <img src="{{ 'assets/images/godspeed/Price.jpg' | relative_url }}" alt="price" class="image featured'/>
 
+<img src="{{ 'assets/images/picture01.jpg' | relative_url }}" alt="test" class="image featured"/>
+
 ## Kits
 ### SolarAlpha
 **Price(USD):** 36.99	**Price(RMB):** 248.94	**Quantity:** 868
