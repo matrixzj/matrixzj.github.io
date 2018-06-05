@@ -108,7 +108,6 @@ NOTE: less than COQ(50)
 **Price(USD):** 8.99	**Price(RMB):** 60.50	**Quantity:** 55
 ![Spacebars]({{ "/assets/images/godspeed/kits_pics/Spacebars.jpg" | absolute_url }})
 
-<img class="image featured" src="assets/images/picture01.jpg" alt="" />
 ## Info
 * Designer: Mito
 * Profile: SA 1-1-2-3-4-3
@@ -128,3 +127,5 @@ NOTE: less than COQ(50)
 ![pictures6]({{ "/assets/images/godspeed/rendering_pics/MD-25045_20160922122910_b04bbf7fadd53564.jpg" | absolute_url }})  
 ![pictures7]({{ "/assets/images/godspeed/rendering_pics/MD-25045_20160922122914_084b54588a41c310.jpg" | absolute_url }})  
 ![pictures8]({{ "/assets/images/godspeed/rendering_pics/MD-25045_20160922122915_05fdde153872c9e1.jpg" | absolute_url }})  
+
+<img class="image featured" src="assets/images/picture01.jpg" alt="test" />
