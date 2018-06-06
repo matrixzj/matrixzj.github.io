@@ -1,5 +1,7 @@
 ---
-title: SA Amazing Chocolatier 巧克力大亨
+title: >-
+  SA Amazing Chocolatier
+  巧克力大亨
 author: Matrix Zou
 layout: post
 ---
@@ -37,7 +39,7 @@ NOTE: USD to RMB exchange rate is 6.71
 ## Kits
 ### BaseAlphas
 **Price(USD):** 37	**Price(RMB):** 248	**Quantity:** 813
-![BaseAlphas](images/kits_pics/basealphas.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/basealphas.jpg' | relative_url }}" atl="BaseAlphas" class="image featured">
 
 ### Modifiers
 **Price(USD):** 35	**Price(RMB):** 235	**Quantity:** 652
