@@ -68,7 +68,7 @@ NOTE: USD to RMB exchange rate is 6.89
 <img src="{{ 'assets/images/dasheranddancer/kits_pics/dashercolevrak.jpg' | relative_url }}" atl="Dasher Colevrak" class="image featured">
 
 ### ~~Dancer Colevrak~~
-~~**Price(USD):** 29.99	**Price(RMB):** 206.63	**Quantity:** 8~~
+~~**Price(USD):** 29.99	**Price(RMB):** 206.63	**Quantity:** 8~~  
 NOTE: less than COQ(25)
 <img src="{{ 'assets/images/dasheranddancer/kits_pics/dancercolevrak.jpg' | relative_url }}" atl="Dancer Colevrak" class="image featured">
 
@@ -84,8 +84,8 @@ NOTE: less than COQ(25)
 **Price(USD):** 15.99	**Price(RMB):** 110.17	**Quantity:** 103
 <img src="{{ 'assets/images/dasheranddancer/kits_pics/dasheriso.jpg' | relative_url }}" atl="Dasher ISO" class="image featured">
 
-~~### Dancer ISO~~
-~~**Price(USD):** 24.99	**Price(RMB):** 172.18	**Quantity:** 18~~
+### ~~Dancer ISO~~
+~~**Price(USD):** 24.99	**Price(RMB):** 172.18	**Quantity:** 18~~  
 NOTE: less than COQ(25)
 <img src="{{ 'assets/images/dasheranddancer/kits_pics/danceriso.jpg' | relative_url }}" atl="Dancer ISO" class="image featured">
 
@@ -141,9 +141,9 @@ NOTE: less than COQ(25)
 * Designer: zslane
 * Profile: SA 1-1-2-3-4-3
 * Color Codes: BBJ/BO/WFK  
-![colorBBJ](../../SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png)
-![colorBO](../../SP_ColorCodes/abs/SP_Abs_ColorCodes_BO.png)
-![colorWFK](../../SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png)
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorWBO" height="150" width="340">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BO.png' | relative_url }}" alt="colorWBO" height="150" width="340">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWBO" height="150" width="340">
 
 ## Pictures
 <img src="{{ 'assets/images/dasheranddancer/rendering_pics/MD-26887_20161201153826_888e85522c4ee50a.jpg' | relative_url }}" atl="MD-26887_20161201153826_888e85522c4ee50a.jpg" class="image featured">
