@@ -87,14 +87,14 @@ NOTE: USD to RMB exchange rate is 6.71
 ![color_codes](images/colorcodes.jpg)
 
 ## Pictures
-![MD-24022_20160801102302_ecd9f22166e49dcb.png](images/rendering_pics/MD-24022_20160801102302_ecd9f22166e49dcb.png)
-![MD-24022_20160801102319_10dff2ae0e0a7ff0.png](images/rendering_pics/MD-24022_20160801102319_10dff2ae0e0a7ff0.png)
-![MD-24022_20160801102337_ec265a2532965ec9.png](images/rendering_pics/MD-24022_20160801102337_ec265a2532965ec9.png)
-![MD-24022_20160801160326_2fd3d74b30fe3f1a.png](images/rendering_pics/MD-24022_20160801160326_2fd3d74b30fe3f1a.png)
-![MD-24022_20160801160327_0c36462c7404b984.png](images/rendering_pics/MD-24022_20160801160327_0c36462c7404b984.png)
-![MD-24022_20160801160327_d9d738bb9d509b4a.png](images/rendering_pics/MD-24022_20160801160327_d9d738bb9d509b4a.png)
-![MD-24022_20160801160328_45382d688ebefd38.png](images/rendering_pics/MD-24022_20160801160328_45382d688ebefd38.png)
-![MD-24022_20160801160328_c2b263e9ea18b8eb.png](images/rendering_pics/MD-24022_20160801160328_c2b263e9ea18b8eb.png)
-![MD-24022_20160801160329_9b069917d1f9cd2a.png](images/rendering_pics/MD-24022_20160801160329_9b069917d1f9cd2a.png)
-![MD-24022_20160801160329_f588810331942d88.png](images/rendering_pics/MD-24022_20160801160329_f588810331942d88.png)
-![MD-24022_20160802032115_024ca1a65b4bcc94.jpg](images/rendering_pics/MD-24022_20160802032115_024ca1a65b4bcc94.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801102302_ecd9f22166e49dcb.png' | relative_url }}" atl="MD-24022_20160801102302_ecd9f22166e49dcb.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801102319_10dff2ae0e0a7ff0.png' | relative_url }}" atl="MD-24022_20160801102319_10dff2ae0e0a7ff0.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801102337_ec265a2532965ec9.png' | relative_url }}" atl="MD-24022_20160801102337_ec265a2532965ec9.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160326_2fd3d74b30fe3f1a.png' | relative_url }}" atl="MD-24022_20160801160326_2fd3d74b30fe3f1a.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160327_0c36462c7404b984.png' | relative_url }}" atl="MD-24022_20160801160327_0c36462c7404b984.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160327_d9d738bb9d509b4a.png' | relative_url }}" atl="MD-24022_20160801160327_d9d738bb9d509b4a.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160328_45382d688ebefd38.png' | relative_url }}" atl="MD-24022_20160801160328_45382d688ebefd38.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160328_c2b263e9ea18b8eb.png' | relative_url }}" atl="MD-24022_20160801160328_c2b263e9ea18b8eb.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160329_9b069917d1f9cd2a.png' | relative_url }}" atl="MD-24022_20160801160329_9b069917d1f9cd2a.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160329_f588810331942d88.png' | relative_url }}" atl="MD-24022_20160801160329_f588810331942d88.png" class="image featured">
+<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160802032115_024ca1a65b4bcc94.jpg' | relative_url }}" atl="MD-24022_20160802032115_024ca1a65b4bcc94.jpg" class="image featured">
