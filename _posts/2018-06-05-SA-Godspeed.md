@@ -3,7 +3,7 @@ title: SA Godspeed 神佑
 author: Matrix Zou
 layout: post
 icon: fa-keyboard-o
-tags: [ keycap ]
+tags: [ handrest ]
 ---
 
 # SA Godspeed
