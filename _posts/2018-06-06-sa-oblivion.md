@@ -170,7 +170,6 @@ NOTE: USD to RMB exchange rate is 6.80
 ## Pictures
 <img src="{{ 'assets/images/oblivion/rendering_pics/1800_20170828235648.jpg' | relative_url }}" atl="1800_20170828235648" class="image featured">
 <img src="{{ 'assets/images/oblivion/rendering_pics/65percent_20170828235648.jpg' | relative_url }}" atl="65percent_20170828235648" class="image featured">
-<img src="{{ 'assets/images/oblivion/rendering_pics/banner_20170825142313.jpg' | relative_url }}" atl="banner_20170825142313" class="image featured">
 <img src="{{ 'assets/images/oblivion/rendering_pics/ergodox_20170828235648.jpg' | relative_url }}" atl="ergodox_20170828235648" class="image featured">
 <img src="{{ 'assets/images/oblivion/rendering_pics/Happy_Hackers_20170828235648.jpg' | relative_url }}" atl="Happy_Hackers_20170828235648" class="image featured">
 <img src="{{ 'assets/images/oblivion/rendering_pics/md_sa_oblivion_keyboard_tkl_monochrome_red_hagoromo_top_20170825171441.jpg' | relative_url }}" atl="md_sa_oblivion_keyboard_tkl_monochrome_red_hagoromo_top_20170825171441" class="image featured">
