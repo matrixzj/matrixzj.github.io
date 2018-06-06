@@ -97,4 +97,3 @@ NOTE: USD to RMB exchange rate is 6.71
 <img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160328_c2b263e9ea18b8eb.png' | relative_url }}" atl="MD-24022_20160801160328_c2b263e9ea18b8eb.png" class="image featured">
 <img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160329_9b069917d1f9cd2a.png' | relative_url }}" atl="MD-24022_20160801160329_9b069917d1f9cd2a.png" class="image featured">
 <img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160329_f588810331942d88.png' | relative_url }}" atl="MD-24022_20160801160329_f588810331942d88.png" class="image featured">
-<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160802032115_024ca1a65b4bcc94.jpg' | relative_url }}" atl="MD-24022_20160802032115_024ca1a65b4bcc94.jpg" class="image featured">
