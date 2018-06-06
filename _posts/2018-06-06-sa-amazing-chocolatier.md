@@ -89,7 +89,6 @@ NOTE: USD to RMB exchange rate is 6.71
 ## Pictures
 <img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801102302_ecd9f22166e49dcb.png' | relative_url }}" atl="MD-24022_20160801102302_ecd9f22166e49dcb.png" class="image featured">
 <img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801102319_10dff2ae0e0a7ff0.png' | relative_url }}" atl="MD-24022_20160801102319_10dff2ae0e0a7ff0.png" class="image featured">
-<img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801102337_ec265a2532965ec9.png' | relative_url }}" atl="MD-24022_20160801102337_ec265a2532965ec9.png" class="image featured">
 <img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160326_2fd3d74b30fe3f1a.png' | relative_url }}" atl="MD-24022_20160801160326_2fd3d74b30fe3f1a.png" class="image featured">
 <img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160327_0c36462c7404b984.png' | relative_url }}" atl="MD-24022_20160801160327_0c36462c7404b984.png" class="image featured">
 <img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801160327_d9d738bb9d509b4a.png' | relative_url }}" atl="MD-24022_20160801160327_d9d738bb9d509b4a.png" class="image featured">
