@@ -7,8 +7,6 @@ layout: post
 icon: fa-keyboard-o
 ---
 
-# SA Amazing Chocolatier
-
 ref link: [SA Amazing Chocolatier Massdrop link](https://www.massdrop.com/buy/the-amazing-chocolatier-custom-sa-keycap-set)
 
 * [Price](#price)
