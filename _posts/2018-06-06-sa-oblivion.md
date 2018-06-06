@@ -3,6 +3,7 @@ title: SA Oblivion 码农
 author: Matrix Zou
 layout: post
 icon: fa-keyboard-o
+tags: [ keycaps ]
 ---
 
 # SA Oblivion

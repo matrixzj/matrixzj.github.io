@@ -5,6 +5,7 @@ title: >-
 author: Matrix Zou
 layout: post
 icon: fa-keyboard-o
+tags: [ keycaps ]
 ---
 
 # SA Amazing Chocolatier
