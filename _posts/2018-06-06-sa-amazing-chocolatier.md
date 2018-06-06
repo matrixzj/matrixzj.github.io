@@ -1,7 +1,7 @@
 ---
 title: >-
-  SA Amazing Chocolatier  
-  巧克力大亨
+   SA Amazing Chocolatier  
+   巧克力大亨
 author: Matrix Zou
 layout: post
 icon: fa-keyboard-o
