@@ -4,6 +4,7 @@ title: >-
   巧克力大亨
 author: Matrix Zou
 layout: post
+icon: fa-keyboard-o
 ---
 
 # SA Amazing Chocolatier
