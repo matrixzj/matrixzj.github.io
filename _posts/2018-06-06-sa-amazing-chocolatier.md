@@ -84,7 +84,7 @@ NOTE: USD to RMB exchange rate is 6.71
 * Designer: Zambumon
 * Profile: SA 1-1-2-3-4-3
 * Color Codes
-![color_codes](images/colorcodes.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/colorcodes.jpg' | relative_url }}" atl="color_codes" class="image featured">
 
 ## Pictures
 <img src="{{ 'assets/images/amazingchocolatier/rendering_pics/MD-24022_20160801102302_ecd9f22166e49dcb.png' | relative_url }}" atl="MD-24022_20160801102302_ecd9f22166e49dcb.png" class="image featured">
