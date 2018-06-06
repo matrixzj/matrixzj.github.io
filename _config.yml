@@ -37,6 +37,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 avatar: assets/images/avatar.jpg
 author: Matrix Zou
 email: matrix.zj@qq.com
+favicon: "assets/images/favicon.ico"
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog

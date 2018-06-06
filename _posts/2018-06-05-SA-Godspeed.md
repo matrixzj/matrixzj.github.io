@@ -2,6 +2,7 @@
 title: SA Godspeed 神佑
 author: Matrix Zou
 layout: post
+icon: fa-keyboard-o
 ---
 
 # SA Godspeed
