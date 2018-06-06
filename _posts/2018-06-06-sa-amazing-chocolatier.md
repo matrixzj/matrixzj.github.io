@@ -1,6 +1,6 @@
 ---
 title: >-
-  SA Amazing Chocolatier
+  SA Amazing Chocolatier  
   巧克力大亨
 author: Matrix Zou
 layout: post
@@ -43,42 +43,42 @@ NOTE: USD to RMB exchange rate is 6.71
 
 ### Modifiers
 **Price(USD):** 35	**Price(RMB):** 235	**Quantity:** 652
-![Modifiers](images/kits_pics/modifiers.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/modifiers.jpg' | relative_url }}" atl="Modifiers" class="image featured">
 
 ### Numpad
 **Price(USD):** 24	**Price(RMB):** 161	**Quantity:** 256
 ### Novelties
 **Price(USD):** 20	**Price(RMB):** 134	**Quantity:** 455
-![Numpad](images/kits_pics/numpadnovelties.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/numpadnovelties.jpg' | relative_url }}" atl="Numpad" class="image featured">
 
 ### 40%
 **Price(USD):** 39	**Price(RMB):** 262	**Quantity:** 139
-![40%](images/kits_pics/40.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/40.jpg' | relative_url }}" atl="40%" class="image featured">
 
 ### Ergodox
 **Price(USD):** 35	**Price(RMB):** 235	**Quantity:** 119
-![Ergodox](images/kits_pics/ergodox.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/ergodox.jpg' | relative_url }}" atl="Ergodox" class="image featured">
 
 ### Tsangan
 **Price(USD):** 32	**Price(RMB):** 215	**Quantity:** 153
-![Tsangan](images/kits_pics/tsangan.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/tsangan.jpg' | relative_url }}" atl="Tsangan" class="image featured">
 
 ### Dvorak
 **Price(USD):** 30	**Price(RMB):** 201	**Quantity:** 45
-![Dvorak](images/kits_pics/dvorak.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/dvorak.jpg' | relative_url }}" atl="Dvorak" class="image featured">
 
 ### UK
 **Price(USD):** 17	**Price(RMB):** 114	**Quantity:** 29
 ### Community
 **Price(USD):**  8	**Price(RMB):** 54	**Quantity:** 106
-![UK](images/kits_pics/ukcommunity.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/ukcommunity.jpg' | relative_url }}" atl="UK" class="image featured">
 
 ### International
 **Price(USD):** 40	**Price(RMB):** 268	**Quantity:** 37
-![International](images/kits_pics/international.jpg)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/international.jpg' | relative_url }}" atl="International" class="image featured">
 
 ### Raffle M
-![RaffleM](images/kits_pics/rafflem.png)
+<img src="{{ 'assets/images/amazingchocolatier/kits_pics/rafflem.png' | relative_url }}" atl="RaffleM" class="image featured">
 
 ## Info
 * Designer: Zambumon
