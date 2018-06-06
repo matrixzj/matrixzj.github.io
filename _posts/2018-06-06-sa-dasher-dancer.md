@@ -141,9 +141,9 @@ NOTE: less than COQ(25)
 * Designer: zslane
 * Profile: SA 1-1-2-3-4-3
 * Color Codes: BBJ/BO/WFK  
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorWBO" height="150" width="340">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BO.png' | relative_url }}" alt="colorWBO" height="150" width="340">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWBO" height="150" width="340">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorBBJ" height="150" width="340">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BO.png' | relative_url }}" alt="colorBO" height="150" width="340">
+<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="150" width="340">
 
 ## Pictures
 <img src="{{ 'assets/images/dasheranddancer/rendering_pics/MD-26887_20161201153826_888e85522c4ee50a.jpg' | relative_url }}" atl="MD-26887_20161201153826_888e85522c4ee50a.jpg" class="image featured">
