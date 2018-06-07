@@ -18,42 +18,42 @@ ref link:
 
 
 ## Kits
-<img src="{{ 'assets/images/noveltiesbee/kits_pics/bee.jpg' | relative_url }}" alt="BEE" class="image featured">
+<img src="{{ 'assets/images/noveltiesbee/kits_pics/bee.jpeg' | relative_url }}" alt="BEE" class="image featured">
 
 ## Info
 * Designer: Jack Studio / 0.01 Studio
 * Profile: SA 
-* Color Codes: YCF/NN
+* Color Codes: YCF/NN  
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="150" width="340">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
 
 ## Pictures
-Base Keycap: [SA Amazing Chocolatier 巧克力大亨](https://matrixzj.github.io/2018/06/06/sa-amazing-chocolatier.html)
-**Novelties Keycap: ** Bee
-Keyboard: IKBC Poker II
-<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee1.jpg' | relative_url }}" alt="bee1" class="image featured">
+Base Keycap: [SA Amazing Chocolatier 巧克力大亨](https://matrixzj.github.io/2018/06/06/sa-amazing-chocolatier.html)  
+**Novelties Keycap: ** Bee  
+Keyboard: IKBC Poker II  
+<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee1.jpeg' | relative_url }}" alt="bee1" class="image featured">
 
-Base Keycap: SA Blue/Grey 蓝灰
-**Novelties Keycap: ** Bee
-Keyboard: Varmilo VA68
-<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee2.jpg' | relative_url }}" alt="bee2" class="image featured">
+Base Keycap: SA Blue/Grey 蓝灰  
+**Novelties Keycap: ** Bee  
+Keyboard: Varmilo VA68  
+<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee2.jpeg' | relative_url }}" alt="bee2" class="image featured">
 
-Base Keycap: SA Blue/Grey 蓝灰
-**Novelties Keycap: ** Bee
-Keyboard: Varmilo VA68
-<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee3.jpg' | relative_url }}" alt="bee3" class="image featured">
+Base Keycap: SA Blue/Grey 蓝灰  
+**Novelties Keycap: ** Bee  
+Keyboard: Varmilo VA68  
+<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee3.jpeg' | relative_url }}" alt="bee3" class="image featured">
 
-Base Keycap: SA Cream Violet 奶紫 
-**Novelties Keycap: ** Bee
-Keyboard: IKBC Poker III
-<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee4.jpg' | relative_url }}" alt="bee4" class="image featured">
+Base Keycap: SA Cream Violet 奶紫  
+**Novelties Keycap: ** Bee  
+Keyboard: IKBC Poker III  
+<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee4.jpeg' | relative_url }}" alt="bee4" class="image featured">
 
-Base Keycap: SA Grey/White 灰白
-**Novelties Keycap: ** Bee
-Keyboard: Revo Kmini
-<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee5.jpg' | relative_url }}" alt="bee5" class="image featured">
+Base Keycap: SA Grey/White 灰白  
+**Novelties Keycap: ** Bee  
+Keyboard: Revo Kmini  
+<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee5.jpeg' | relative_url }}" alt="bee5" class="image featured">
 
 Base Keycap: [SA Godspeed 神佑](https://matrixzj.github.io/2018/06/05/SA-Godspeed.html)
-**Novelties Keycap: ** Bee
-Keyboard: Leopold FC660
-<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee6.jpg' | relative_url }}" alt="bee6" class="image featured">
+**Novelties Keycap: ** Bee  
+Keyboard: Leopold FC660  
+<img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee6.jpeg' | relative_url }}" alt="bee6" class="image featured">
