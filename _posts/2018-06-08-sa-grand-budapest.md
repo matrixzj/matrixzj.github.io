@@ -24,7 +24,7 @@ NOTE: USD to RMB exchange rate is 6.75
 |[40s+Ergo](#40sergo)|100.00|353.00+341.00|unknown|
 |[ISO](#iso)|70.00|473.00|unknown|
 
-* Price in USD is from MOQ1.
+\* Price in USD is from MOQ1.
 
 ## Kits
 ### Alphas
