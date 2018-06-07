@@ -84,6 +84,10 @@ NOTE: USD to RMB exchange rate is 6.55
 **Price(USD):** 6.99	**Price(RMB):** 49.00	**Quantity:** unknown
 <img src="{{ 'assets/images/dangerzone/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
+### Goose
+**Price(USD):** unknown	**Price(RMB):** unknown	**Quantity:** unknown
+<img src="{{ 'assets/images/dangerzone/kits_pics/goose.png' | relative_url }}" alt="goose" class="image featured">
+
 ## Info
 * Designer: Unknown
 * Profile: SA All R3
