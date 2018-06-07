@@ -98,7 +98,7 @@ NOTE: USD to RMB exchange rate is 6.55
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAS.png' | relative_url }}" alt="colorRAS" height="150" width="340">
 
 ## Pictures
-<img src="{{ 'assets/images/dangerzone/rendering_pics/MD-11125_20150916130744_6d23214a9aa41a70.jpg' | relative_url }}" alt="MD-11125_20150916130744_6d23214a9aa41a70" class="image featured">
+<img src="{{ 'assets/images/dangerzone/rendering_pics/dangerzone.jpg' | relative_url }}" alt="dangerzone" class="image featured">
 <img src="{{ 'assets/images/dangerzone/rendering_pics/MD-11125_20150914170534_fe66cbb2b124e9b6.png' | relative_url }}" alt="MD-11125_20150914170534_fe66cbb2b124e9b6.png" class="image featured">
 <img src="{{ 'assets/images/dangerzone/rendering_pics/MD-11125_20150914170536_6470cd9647937ea2.png' | relative_url }}" alt="MD-11125_20150914170536_6470cd9647937ea2.png" class="image featured">
 <img src="{{ 'assets/images/dangerzone/rendering_pics/MD-11125_20150914170536_64a1e5a4746fb5f6.png' | relative_url }}" alt="MD-11125_20150914170536_64a1e5a4746fb5f6.png" class="image featured">
