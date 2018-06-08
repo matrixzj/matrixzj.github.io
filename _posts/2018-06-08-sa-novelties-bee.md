@@ -28,8 +28,8 @@ ref link: Join QQ Group for Groupbuy info
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
 
 ## Pictures
-Base Keycap: [SA Amazing Chocolatier 巧克力大亨](https://matrixzj.github.io/2018/06/06/sa-amazing-chocolatier.html)  
 <font color="#f7b03c">Novelties Keycap: Bee</font>
+Base Keycap: [SA Amazing Chocolatier 巧克力大亨](https://matrixzj.github.io/2018/06/06/sa-amazing-chocolatier.html)
 Keyboard: IKBC Poker II  
 <img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee1.jpeg' | relative_url }}" alt="bee1" class="image featured">
 
