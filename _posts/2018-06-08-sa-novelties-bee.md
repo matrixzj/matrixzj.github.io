@@ -33,7 +33,7 @@ Base Keycap: [SA Amazing Chocolatier 巧克力大亨](https://matrixzj.github.io
 Keyboard: IKBC Poker II  
 <img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee1.jpeg' | relative_url }}" alt="bee1" class="image featured">
 
-<font color="#f7b03c">Novelties Keycap: Bee</b>  
+<font color="#f7b03c">Novelties Keycap: Bee</font>  
 Base Keycap: SA Blue/Grey 蓝灰  
 Keyboard: Varmilo VA68  
 <img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee2.jpeg' | relative_url }}" alt="bee2" class="image featured">
