@@ -6,7 +6,7 @@ icon: fa-keyboard-o
 tags: [ keycaps ]
 ---
 
-ref link: Join QQ Group for Groupbuy info
+ref link: Join QQ Group for Groupbuy info  
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=bd17d1dcd74d2c729d653386a9f04e4641ac3c979d004e178d76e9aa6ae1d382"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Jack Studio" title="Jack Studio"></a>
 
 * [Price](#price)
@@ -29,7 +29,7 @@ ref link: Join QQ Group for Groupbuy info
 
 ## Pictures
 Base Keycap: [SA Amazing Chocolatier 巧克力大亨](https://matrixzj.github.io/2018/06/06/sa-amazing-chocolatier.html)  
-<font color="#f7b03c"><b>Novelties Keycap: Bee</b></font>
+<font color="#gold"><b>Novelties Keycap: Bee</b></font>
 Keyboard: IKBC Poker II  
 <img src="{{ 'assets/images/noveltiesbee/rendering_pics/bee1.jpeg' | relative_url }}" alt="bee1" class="image featured">
 
