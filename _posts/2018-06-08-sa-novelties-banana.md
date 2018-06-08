@@ -20,7 +20,7 @@ ref link: Groupbuy was hosted in 'wolf' QQ Group
 |[Banana](#banana)|N/A|86.00|50|
 
 ## Kits
-<img src="{{ 'assets/images/noveltiesbanana/kits_pics/banana.png' | relative_url }}" alt="Banana" class="image featured">
+<img src="{{ 'assets/images/noveltiesbanana/kits_pics/banana.jpeg' | relative_url }}" alt="Banana" class="image featured">
 
 ## Info
 * Designer: FF
