@@ -23,13 +23,13 @@ NOTE: USD to RMB exchange rate is 6.75
 |[Modifiers](#modifiers)|120.00|805.00|unknown|
 |[40s](#40s)|53.00|353.00|unknown|
 |~~[Ergo](#ergo)~~|~~47.00~~|~~341.00~~|~~unknown~~|
-|~~[iSO](#iso)~~|~~70.00~~|~~473.00~~|unknown~~|
+|~~[iSO](#iso)~~|~~70.00~~|~~473.00~~|~~unknown~~|
 
 \* Price in USD is from MOQ1.
 
 ## Kits
 ### Alphas
-**Price(USD):** 65.00	**Price(RMB):** 439.00	**Quantity:** unknown
+**Price(USD):** 65.00	**Price(RMB):** 439.00	**Quantity:** unknown  
 Note: Novelties of Grand Budapest finally changed as second piture.
 <img src="{{ 'assets/images/grandbudapest/kits_pics/alphas.png' | relative_url }}" alt="Alphas" class="image featured">
 <img src="{{ 'assets/images/grandbudapest/kits_pics/novelties.jpeg' | relative_url }}" alt="Alphas" class="image featured">
