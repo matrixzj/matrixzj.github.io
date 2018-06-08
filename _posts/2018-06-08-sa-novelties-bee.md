@@ -6,7 +6,7 @@ icon: fa-keyboard-o
 tags: [ keycaps ]
 ---
 
-ref link: Join QQ Group for Groupbuy info  
+ref link: Join 'Jack Studio' QQ Group for Groupbuy info  
 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=bd17d1dcd74d2c729d653386a9f04e4641ac3c979d004e178d76e9aa6ae1d382"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Jack Studio" title="Jack Studio"></a>
 
 * [Price](#price)
