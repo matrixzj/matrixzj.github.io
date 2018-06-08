@@ -31,8 +31,8 @@ NOTE: USD to RMB exchange rate is 6.29
 **Price(USD):** 102.78	**Price(RMB):** 646.49	**Quantity:** 108
 <img src="{{ 'assets/images/bythesea/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
-### 40s
-**Price(USD):** 75.10	**Price(RMB):** 472.38	**Quantity:** unknown
+### ~~40s~~
+~~**Price(USD):** 75.10~~	~~**Price(RMB):** 472.38~~	~~**Quantity:** unknown~~
 <img src="{{ 'assets/images/bythesea/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Non Standard
@@ -47,9 +47,9 @@ NOTE: USD to RMB exchange rate is 6.29
 **Price(USD):** 39.50	**Price(RMB):** 248.46	**Quantity:** 53
 <img src="{{ 'assets/images/bythesea/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
 
-### Blanks
-**Price(USD):** 63.23	**Price(RMB):** 397.72	**Quantity:** unknown
-<img src="{{ 'assets/images/bythesea/kits_pics/blanks.png' | relative_url }}" alt="Blanks" class="image featured">
+### ~~Blanks~~
+~~**Price(USD):** 63.23~~	~~**Price(RMB):** 397.72~~	~~**Quantity:** unknown~~
+<img src="{{ 'assets/images/bythesea/kits_pics/blanks.jpg' | relative_url }}" alt="Blanks" class="image featured">
 
 ## Info
 * Designer: THRILLHOIAF
