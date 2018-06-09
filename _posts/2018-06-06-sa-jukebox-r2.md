@@ -90,7 +90,7 @@ NOTE: less than COQ(25)
 <img src="{{ 'assets/images/jukeboxr2/kits_pics/spacebar.jpg' | relative_url }}" atl="Spacebars" class="image featured">
 
 ## Info
-* Designer: SP
+* Designer: LSB(livingspeedbump)
 * Profile: SA 1-1-2-3-4-4
 * Color Codes: TM/VCO/RN  
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_TM.png' | relative_url }}" alt="colorTM" height="150" width="340">

@@ -89,7 +89,7 @@ NOTE: USD to RMB exchange rate is 6.55
 <img src="{{ 'assets/images/dangerzone/kits_pics/goose.png' | relative_url }}" alt="goose" class="image featured">
 
 ## Info
-* Designer: Unknown
+* Designer: Data(GH id)
 * Profile: SA All R3
 * Color Codes: BFU/GSM/YY/RAS  
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="150" width="340">
