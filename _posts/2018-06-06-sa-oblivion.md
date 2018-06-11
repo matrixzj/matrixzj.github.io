@@ -46,8 +46,8 @@ NOTE: USD to RMB exchange rate is 6.80
 |[tenkenless.asm](#tenkenlessasm)|28.99|197.13|63|
 |[macros.asm](#macroasm)|29.99|203.93|63|
 |[Arrows](#arrows)|9.99|67.93|436|
-|[GD & WFK spacebars](#gdwfkspacebars)|24.99|169.93|55|
-|[GQM spacebars](#gqmspacebars)|19.99|135.93|46|
+|[GD & WFK Spacebars](#gd-wfk-spacebars)|24.99|169.93|55|
+|[GQM Spacebars](#gqm-spacebars)|19.99|135.93|46|
 |[Oblivion OSX](#oblivion-osx)|24.99|169.93|73|
 |[Monochrome OSX](#monochrome-osx)|32.99|224.33|22|
 |[Communities](#communities)|15.99|108.73|168|
