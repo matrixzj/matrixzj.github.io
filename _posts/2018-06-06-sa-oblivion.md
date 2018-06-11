@@ -24,20 +24,20 @@ NOTE: USD to RMB exchange rate is 6.80
 | ------------- | ------------- | ----------- | -------- |
 |[Oblivion Alphas](#oblivion-alphas)|42.99|292.33|957|
 |[Hagoromo Alphas](#hagoromo-alphas)|42.99|292.33|633|
-|[Oblivion Modifiers](#modifiersoblivion)|47.99|326.33|611|
-|[Git Modifiers](#modifiersgit)|47.99|326.33|418|
-|[Monochrome Modifiers](#modifiersmonochrome)|59.99|407.93|357|
-|[Oblivion Numpad](#numpadoblivion)|30.99|210.73|345|
-|[Hagoromo Numpad](#numpadhagoromo)|30.99|210.73|225|
-|[Oblivion Extension](#extensionoblivion)|42.99|292.33|226|
-|[Git Extension](#extensiongit)|42.99|292.33|183|
-|[Monochrome Extension](#extensionmonochrome)|52.99|360.33|92|
-|[Minila](#extensionminila)|47.99|326.33|54|
+|[Oblivion Modifiers](#modifiers-oblivion)|47.99|326.33|611|
+|[Git Modifiers](#modifiers-git)|47.99|326.33|418|
+|[Monochrome Modifiers](#modifiers-monochrome)|59.99|407.93|357|
+|[Oblivion Numpad](#numpad-oblivion)|30.99|210.73|345|
+|[Hagoromo Numpad](#numpad-hagoromo)|30.99|210.73|225|
+|[Oblivion Extension](#extension-oblivion)|42.99|292.33|226|
+|[Git Extension](#extension-git)|42.99|292.33|183|
+|[Monochrome Extension](#extension-monochrome)|52.99|360.33|92|
+|[Minila](#extension-minila)|47.99|326.33|54|
 |[Assembly](#assembly)|25.99|176.73|270|
 |[40Bit](#40bit)|59.99|407.93|61|
 |[ErgoDox](#ergodox)|69.99|475.93|126|
-|[Oblivion Colevrak](#colevraksoblivion)|42.99|292.33|46|
-|[Hagoromo Colevrak](#colevrakshagoromo)|42.99|292.33|31|
+|[Oblivion Colevrak](#colevrak-oblivion)|42.99|292.33|46|
+|[Hagoromo Colevrak](#colevrak-hagoromo)|42.99|292.33|31|
 |[Oblivion and Git UK](#gitukoblivion)|42.99|292.33|43|
 |[Monochrome UK](#ukmonochrome)|42.99|292.33|39|
 |[Oblivion NorDe](#nordeoblivion)|29.99|203.93|31|
