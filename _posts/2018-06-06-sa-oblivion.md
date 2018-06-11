@@ -44,7 +44,7 @@ NOTE: USD to RMB exchange rate is 6.80
 |[Hagoromo NorDe](#norde-hagoromo)|29.99|203.93|27|
 |[Alternate F](#alternate-f)|12.99|88.33|225|
 |[tenkenless.asm](#tenkenlessasm)|28.99|197.13|63|
-|[macros.asm](#macroasm)|29.99|203.93|63|
+|[macros.asm](#macrosasm)|29.99|203.93|63|
 |[Arrows](#arrows)|9.99|67.93|436|
 |[GD & WFK Spacebars](#gd-wfk-spacebars)|24.99|169.93|55|
 |[GQM Spacebars](#gqm-spacebars)|19.99|135.93|46|
