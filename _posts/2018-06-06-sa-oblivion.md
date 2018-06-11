@@ -22,22 +22,22 @@ NOTE: USD to RMB exchange rate is 6.80
 
 | Name          | Price(USD)    | Price(RMB)  | Quantity |
 | ------------- | ------------- | ----------- | -------- |
-|[oblivion alphas](#kits_alphas_oblivion)|42.99|292.33|957|
-|[hagoromo alphas](#kits_alphas_hagoromo)|42.99|292.33|633|
-|[oblivion modifiers](#kits_modifiers_oblivion)|47.99|326.33|611|
-|[git modifiers](#kits_modifiers_git)|47.99|326.33|418|
-|[monochrome modifiers](#kits_modifiers_monochrome)|59.99|407.93|357|
-|[oblivion numpad](#kits_numpads_oblivion)|30.99|210.73|345|
-|[hagoromo numpad](#kits_numpads_hagoromo)|30.99|210.73|225|
-|[oblivion extension](#kits_extensions_oblivion)|42.99|292.33|226|
-|[git extension](#kits_extensions_git)|42.99|292.33|183|
-|[monochrome extension](#kits_extensions_monochrome)|52.99|360.33|92|
-|[minila](#kits_extensions_minila)|47.99|326.33|54|
-|[assembly](#kits_others_assembly)|25.99|176.73|270|
-|[40bit](#kits_others_40bit)|59.99|407.93|61|
-|[ErgoDox](#kits_others_ergodox)|69.99|475.93|126|
-|[oblivion colevrak](#kits_colevraks_oblivion)|42.99|292.33|46|
-|[hagoromo colevrak](#kits_colevraks_hagoromo)|42.99|292.33|31|
+|[Oblivion Alphas](#oblivionalphas)|42.99|292.33|957|
+|[hagoromo alphas](#alphas_hagoromo)|42.99|292.33|633|
+|[oblivion modifiers](#modifiers_oblivion)|47.99|326.33|611|
+|[git modifiers](#modifiers_git)|47.99|326.33|418|
+|[monochrome modifiers](#modifiers_monochrome)|59.99|407.93|357|
+|[oblivion numpad](#numpads_oblivion)|30.99|210.73|345|
+|[hagoromo numpad](#numpads_hagoromo)|30.99|210.73|225|
+|[oblivion extension](#extensions_oblivion)|42.99|292.33|226|
+|[git extension](#extensions_git)|42.99|292.33|183|
+|[monochrome extension](#extensions_monochrome)|52.99|360.33|92|
+|[minila](#extensions_minila)|47.99|326.33|54|
+|[assembly](#others_assembly)|25.99|176.73|270|
+|[40bit](#others_40bit)|59.99|407.93|61|
+|[ErgoDox](#others_ergodox)|69.99|475.93|126|
+|[oblivion colevrak](#colevraks_oblivion)|42.99|292.33|46|
+|[hagoromo colevrak](#colevraks_hagoromo)|42.99|292.33|31|
 |[oblivion and git uk](#oblivion--git-uk)|42.99|292.33|43|
 |[monochrome uk](#monochrome-uk)|42.99|292.33|39|
 |[oblivion NorDe](#oblivion-norde)|29.99|203.93|31|
