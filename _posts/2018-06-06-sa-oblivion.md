@@ -23,44 +23,45 @@ NOTE: USD to RMB exchange rate is 6.80
 | Name          | Price(USD)    | Price(RMB)  | Quantity |
 | ------------- | ------------- | ----------- | -------- |
 |[Oblivion Alphas](#oblivionalphas)|42.99|292.33|957|
-|[hagoromo alphas](#alphas_hagoromo)|42.99|292.33|633|
-|[oblivion modifiers](#modifiers_oblivion)|47.99|326.33|611|
-|[git modifiers](#modifiers_git)|47.99|326.33|418|
-|[monochrome modifiers](#modifiers_monochrome)|59.99|407.93|357|
-|[oblivion numpad](#numpads_oblivion)|30.99|210.73|345|
-|[hagoromo numpad](#numpads_hagoromo)|30.99|210.73|225|
-|[oblivion extension](#extensions_oblivion)|42.99|292.33|226|
-|[git extension](#extensions_git)|42.99|292.33|183|
-|[monochrome extension](#extensions_monochrome)|52.99|360.33|92|
-|[minila](#extensions_minila)|47.99|326.33|54|
-|[assembly](#others_assembly)|25.99|176.73|270|
-|[40bit](#others_40bit)|59.99|407.93|61|
-|[ErgoDox](#others_ergodox)|69.99|475.93|126|
-|[oblivion colevrak](#colevraks_oblivion)|42.99|292.33|46|
-|[hagoromo colevrak](#colevraks_hagoromo)|42.99|292.33|31|
-|[oblivion and git uk](#oblivion--git-uk)|42.99|292.33|43|
-|[monochrome uk](#monochrome-uk)|42.99|292.33|39|
-|[oblivion NorDe](#oblivion-norde)|29.99|203.93|31|
-|[Hagoromo NorDe](#hagoromo-norde)|29.99|203.93|27|
-|[Alternate F](#alternate-f)|12.99|88.33|225|
+|[Hagoromo Alphas](#hagoromoalphas)|42.99|292.33|633|
+|[Oblivion Modifiers](#modifiersoblivion)|47.99|326.33|611|
+|[Git Modifiers](#modifiersgit)|47.99|326.33|418|
+|[Monochrome Modifiers](#modifiersmonochrome)|59.99|407.93|357|
+|[Oblivion Numpad](#numpadoblivion)|30.99|210.73|345|
+|[Hagoromo Numpad](#numpadhagoromo)|30.99|210.73|225|
+|[Oblivion Extension](#extensionoblivion)|42.99|292.33|226|
+|[Git Extension](#extensiongit)|42.99|292.33|183|
+|[Monochrome Extension](#extensionmonochrome)|52.99|360.33|92|
+|[Minila](#extensionminila)|47.99|326.33|54|
+|[Assembly](#assembly)|25.99|176.73|270|
+|[40Bit](#40bit)|59.99|407.93|61|
+|[ErgoDox](#ergodox)|69.99|475.93|126|
+|[Oblivion Colevrak](#colevraksoblivion)|42.99|292.33|46|
+|[Hagoromo Colevrak](#colevrakshagoromo)|42.99|292.33|31|
+|[Oblivion and Git UK](#gitukoblivion)|42.99|292.33|43|
+|[Monochrome UK](#ukmonochrome)|42.99|292.33|39|
+|[Oblivion NorDe](#nordeoblivion)|29.99|203.93|31|
+|[Hagoromo NorDe](#nordehagoromo)|29.99|203.93|27|
+|[Alternate F](#alternatef)|12.99|88.33|225|
 |[tenkenless.asm](#tenkenlessasm)|28.99|197.13|63|
 |[macros.asm](#macroasm)|29.99|203.93|63|
-|[arrows](#arrows)|9.99|67.93|436|
-|[GD & WFK spacebars](#gd-wfk-spacebars)|24.99|169.93|55|
-|[GQM spacebars](#gqm-spacebars)|19.99|135.93|46|
-|[oblivion osx](#oblivion-osx)|24.99|169.93|73|
-|[monochrome osx](#monochrome-osx)|32.99|224.33|22|
-|[communities](#communities)|15.99|108.73|168|
-|[oblivion LED](#led)|39.99|271.93|69|
+|[Arrows](#arrows)|9.99|67.93|436|
+|[GD & WFK spacebars](#gdwfkspacebars)|24.99|169.93|55|
+|[GQM spacebars](#gqmspacebars)|19.99|135.93|46|
+|[Oblivion OSX](#oblivion-osx)|24.99|169.93|73|
+|[Monochrome OSX](#monochrome-osx)|32.99|224.33|22|
+|[Communities](#communities)|15.99|108.73|168|
+|[Oblivion LED](#led)|39.99|271.93|69|
 
 <img src="{{ 'assets/images/oblivion/price.jpg' | relative_url }}" atl="price" class="image featured">
 
 ## Kits
 ### Alphas
-#### Oblivion(Alphas)
+#### Oblivion Alphas
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 957
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_01_oblivion_alphas.png' | relative_url }}" atl="oblivion_alphas" class="image featured">
-#### Alphas_Hagoromo
+
+#### Hagoromo Alphas
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 633
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_02_hagoromo_alphas.png' | relative_url }}" atl="hagoromo_alphas" class="image featured">
 
@@ -68,9 +69,11 @@ NOTE: USD to RMB exchange rate is 6.80
 #### Modifiers_oblivion
 **Price(USD):** 47.99	**Price(RMB):** 326.33	**Quantity:** 611
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_03_oblivion_modifiers.png' | relative_url }}" atl="oblivion_modifiers" class="image featured">
+
 #### Modifiers_git
 **Price(USD):** 47.99	**Price(RMB):** 326.33	**Quantity:** 418
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_04_git_modifiers.png' | relative_url }}" atl="git_modifiers" class="image featured">
+
 #### Modifiers_monochrome
 **Price(USD):** 59.99	**Price(RMB):** 407.93	**Quantity:** 357
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_05_monochrome_modifiers.png' | relative_url }}" atl="monochrome_modifiers" class="image featured">
