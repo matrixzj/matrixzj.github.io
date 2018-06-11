@@ -38,11 +38,11 @@ NOTE: USD to RMB exchange rate is 6.80
 |[ErgoDox](#ergodox)|69.99|475.93|126|
 |[Oblivion Colevrak](#colevrak-oblivion)|42.99|292.33|46|
 |[Hagoromo Colevrak](#colevrak-hagoromo)|42.99|292.33|31|
-|[Oblivion and Git UK](#gitukoblivion)|42.99|292.33|43|
-|[Monochrome UK](#ukmonochrome)|42.99|292.33|39|
-|[Oblivion NorDe](#nordeoblivion)|29.99|203.93|31|
-|[Hagoromo NorDe](#nordehagoromo)|29.99|203.93|27|
-|[Alternate F](#alternatef)|12.99|88.33|225|
+|[Oblivion and Git UK](#oblivion-and-git-uk)|42.99|292.33|43|
+|[Monochrome UK](#monochrome-uk)|42.99|292.33|39|
+|[Oblivion NorDe](#oblivion-norde)|29.99|203.93|31|
+|[Hagoromo NorDe](#norde-hagoromo)|29.99|203.93|27|
+|[Alternate F](#alternate-f)|12.99|88.33|225|
 |[tenkenless.asm](#tenkenlessasm)|28.99|197.13|63|
 |[macros.asm](#macroasm)|29.99|203.93|63|
 |[Arrows](#arrows)|9.99|67.93|436|
@@ -96,11 +96,11 @@ NOTE: USD to RMB exchange rate is 6.80
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 183
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_09_git_extension.png' | relative_url }}" atl="git_extension" class="image featured">
 
-#### Extensions Monochrome
+#### Extension Monochrome
 **Price(USD):** 52.99	**Price(RMB):** 360.33	**Quantity:** 92
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_10_monochrome_extension.png' | relative_url }}" atl="monochrome_extension" class="image featured">
 
-#### Extensions Minila
+#### Extension Minila
 **Price(USD):** 47.99	**Price(RMB):** 326.33	**Quantity:** 54
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_11_minila.png' | relative_url }}" atl="minila" class="image featured">
 
@@ -117,12 +117,12 @@ NOTE: USD to RMB exchange rate is 6.80
 **Price(USD):** 69.99	**Price(RMB):** 475.93	**Quantity:** 126
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_14_ergodox.png' | relative_url }}" atl="ergodox" class="image featured">
 
-### Colevraks
-#### Colevraks Oblivion
+### Colevrak
+#### Colevrak Oblivion
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 46
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_15_oblivion_colevrak.png' | relative_url }}" atl="oblivion_colevrak" class="image featured">
 
-#### Colevraks Hagoromo
+#### Colevrak Hagoromo
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 31
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_16_hagoromo_colevrak.png' | relative_url }}" atl="hagoromo_colevrak" class="image featured">
 
