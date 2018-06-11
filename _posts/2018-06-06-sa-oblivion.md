@@ -56,67 +56,67 @@ NOTE: USD to RMB exchange rate is 6.80
 <img src="{{ 'assets/images/oblivion/price.jpg' | relative_url }}" atl="price" class="image featured">
 
 ## Kits
-### Kits_Alphas
-#### Kits_Alphas_Oblivion
+### Alphas
+#### Oblivion(Alphas)
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 957
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_01_oblivion_alphas.png' | relative_url }}" atl="oblivion_alphas" class="image featured">
-#### Kits_Alphas_Hagoromo
+#### Alphas_Hagoromo
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 633
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_02_hagoromo_alphas.png' | relative_url }}" atl="hagoromo_alphas" class="image featured">
 
-### Kits_Modifiers
-#### Kits_Modifiers_oblivion
+### Modifiers
+#### Modifiers_oblivion
 **Price(USD):** 47.99	**Price(RMB):** 326.33	**Quantity:** 611
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_03_oblivion_modifiers.png' | relative_url }}" atl="oblivion_modifiers" class="image featured">
-#### Kits_Modifiers_git
+#### Modifiers_git
 **Price(USD):** 47.99	**Price(RMB):** 326.33	**Quantity:** 418
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_04_git_modifiers.png' | relative_url }}" atl="git_modifiers" class="image featured">
-#### Kits_Modifiers_monochrome
+#### Modifiers_monochrome
 **Price(USD):** 59.99	**Price(RMB):** 407.93	**Quantity:** 357
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_05_monochrome_modifiers.png' | relative_url }}" atl="monochrome_modifiers" class="image featured">
 
-### Kits_Numpads
-#### Kits_Numpads_oblivion
+### Numpads
+#### Numpads_oblivion
 **Price(USD):** 30.99	**Price(RMB):** 210.73	**Quantity:** 345
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_06_oblivion_numpad.png' | relative_url }}" atl="oblivion_numpad" class="image featured">
-#### Kits_Numpads_hagoromo
+#### Numpads_hagoromo
 **Price(USD):** 30.99	**Price(RMB):** 210.73	**Quantity:** 225
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_07_hagoromo_numpad_5k.png' | relative_url }}" atl="hagoromo_numpad_5k" class="image featured">
 
-### Kits_Extensions
-#### Kits_Extensions_oblivion
+### Extensions
+#### Extensions_oblivion
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 226
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_08_oblivion_extension.png' | relative_url }}" atl="oblivion_extension" class="image featured">
-#### Kits_Extensions_git
+#### Extensions_git
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 183
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_09_git_extension.png' | relative_url }}" atl="git_extension" class="image featured">
-#### Kits_Extensions_monochrome
+#### Extensions_monochrome
 **Price(USD):** 52.99	**Price(RMB):** 360.33	**Quantity:** 92
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_10_monochrome_extension.png' | relative_url }}" atl="monochrome_extension" class="image featured">
-#### Kits_Extensions_minila
+#### Extensions_minila
 **Price(USD):** 47.99	**Price(RMB):** 326.33	**Quantity:** 54
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_11_minila.png' | relative_url }}" atl="minila" class="image featured">
 
-### Kits_Others
-#### Kits_Others_assembly
+### Others
+#### Others_assembly
 **Price(USD):** 25.99	**Price(RMB):** 176.73	**Quantity:** 270
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_12_assembly.png' | relative_url }}" atl="assembly" class="image featured">
-#### Kits_Others_40bit
+#### Others_40bit
 **Price(USD):** 59.99	**Price(RMB):** 407.93	**Quantity:** 61
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_13_40bit.png' | relative_url }}" atl="40bit" class="image featured">
-#### Kits_Others_ErgoDox
+#### Others_ErgoDox
 **Price(USD):** 69.99	**Price(RMB):** 475.93	**Quantity:** 126
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_14_ergodox.png' | relative_url }}" atl="ergodox" class="image featured">
 
-### Kits_Colevraks
-#### Kits_Colevraks_oblivion
+### Colevraks
+#### Colevraks_oblivion
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 46
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_15_oblivion_colevrak.png' | relative_url }}" atl="oblivion_colevrak" class="image featured">
-#### Kits_Colevraks_hagoromo
+#### Colevraks_hagoromo
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 31
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_16_hagoromo_colevrak.png' | relative_url }}" atl="hagoromo_colevrak" class="image featured">
 
-### Kits_UK & NorDes
+### UK & NorDes
 #### oblivion & git uk
 **Price(USD):** 42.99	**Price(RMB):** 292.33	**Quantity:** 43
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_17_oblivion_and_git_uk.png' | relative_url }}" atl="oblivion_and_git_uk" class="image featured">
@@ -130,7 +130,7 @@ NOTE: USD to RMB exchange rate is 6.80
 **Price(USD):** 29.99	**Price(RMB):** 203.93	**Quantity:** 27
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_20_hagoromo_norde.png' | relative_url }}" atl="hagoromo_norde" class="image featured">
 
-### Kits_Alternatives
+### Alternatives
 #### Alternate F
 **Price(USD):** 12.99	**Price(RMB):** 88.33	**Quantity:** 225
 <img src="{{ 'assets/images/oblivion/kits_pics/sa_oblivion_kit_21_alternate_function_colors.png' | relative_url }}" atl="alternate_function_colors" class="image featured">
