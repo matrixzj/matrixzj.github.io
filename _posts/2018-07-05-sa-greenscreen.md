@@ -7,6 +7,7 @@ tags: [ keycaps ]
 ---
 
 ref link: [Green Screen Massdrop link](https://www.massdrop.com/buy/massdrop-x-admgc-sa-green-screen-custom-keycap-set)
+Group Buy is not ended yet, Let's buy it !
 
 * [Price](#price)
 * [Kits](#kits)
