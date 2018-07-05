@@ -1,5 +1,5 @@
 ---
-title: SA 
+title: SA Kobayashi 犬岛
 author: Matrix Zou
 layout: post
 icon: fa-keyboard-o
