@@ -44,104 +44,104 @@ NOTE: USD to RMB exchange rate is 6.67
 |[LED](#led)|34.99|233.38|unknown|unknown|
 |[VIM](#vim)|24.99|166.68|unknown|unknown|
 
-<img src="{{ 'assets/images/greenscreen/Price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/greenscreen/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
 #### GreenScreenAlphas
 **Price(USD):** 45.99	**Price(RMB):** 306.75	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2greenscreenalphas.png' | relative_url }}" alt="GreenScreenAlphas" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/greenscreenalphas.png' | relative_url }}" alt="GreenScreenAlphas" class="image featured">
 
 #### AmberScreenAlphas
 **Price(USD):** 45.99	**Price(RMB):** 306.75	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2amberscreenalphas.png' | relative_url }}" alt="AmberScreenAlphas" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/amberscreenalphas.png' | relative_url }}" alt="AmberScreenAlphas" class="image featured">
 
 #### Modifiers
 **Price(USD):** 109.99	**Price(RMB):** 733.63	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2modifiers.png' | relative_url }}" alt="Modifiers" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/modifiers.png' | relative_url }}" alt="Modifiers" class="image featured">
 
 #### GreenScreenNumpad
 **Price(USD):** 36.99	**Price(RMB):** 246.72	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2greenscreennumpad.png' | relative_url }}" alt="GreenScreenNumpad" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/greenscreennumpad.png' | relative_url }}" alt="GreenScreenNumpad" class="image featured">
 
 #### AmberScreenNumpad
 **Price(USD):** 36.99	**Price(RMB):** 246.72	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2amberscreennumpad.png' | relative_url }}" alt="AmberScreenNumpad" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/amberscreennumpad.png' | relative_url }}" alt="AmberScreenNumpad" class="image featured">
 
 #### Novelties
 **Price(USD):** 59.99	**Price(RMB):** 400.13	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2novelties.png' | relative_url }}" alt="Novelties" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
 
 #### Assembly
 **Price(USD):** 29.99	**Price(RMB):** 200.03	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2assembly.png' | relative_url }}" alt="Assembly" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/assembly.png' | relative_url }}" alt="Assembly" class="image featured">
 
 #### 40bit
 **Price(USD):** 99.99	**Price(RMB):** 666.93	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r240bit.png' | relative_url }}" alt="40bit" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/40bit.png' | relative_url }}" alt="40bit" class="image featured">
 
 #### Ergodox
 **Price(USD):** 114.99	**Price(RMB):** 766.98	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
 
 #### GreenScreenColevrak
 **Price(USD):** 30.99	**Price(RMB):** 206.70	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2greenscreencolevrak.png' | relative_url }}" alt="GreenScreenColevrak" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/greenscreencolevrak.png' | relative_url }}" alt="GreenScreenColevrak" class="image featured">
 
 #### GreenScreenNorDeUK
 **Price(USD):** 69.99	**Price(RMB):** 466.83	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2greenscreennordeuk.png' | relative_url }}" alt="GreenScreenNorDeUK" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/greenscreennordeuk.png' | relative_url }}" alt="GreenScreenNorDeUK" class="image featured">
 
 #### AlternateF
 **Price(USD):** 22.99	**Price(RMB):** 153.34	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2alternatef.png' | relative_url }}" alt="AlternateF" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/alternatef.png' | relative_url }}" alt="AlternateF" class="image featured">
 
 #### TenkeylessASM
 **Price(USD):** 24.99	**Price(RMB):** 166.68	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2tenkeylessasm.png' | relative_url }}" alt="TenkeylessASM" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/tenkeylessasm.png' | relative_url }}" alt="TenkeylessASM" class="image featured">
 
 #### MacrosASM
 **Price(USD):** 34.99	**Price(RMB):** 233.38	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2macrosasm.png' | relative_url }}" alt="MacrosASM" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/macrosasm.png' | relative_url }}" alt="MacrosASM" class="image featured">
 
 #### Arrows
 **Price(USD):** 16.99	**Price(RMB):** 113.32	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2arrows.png' | relative_url }}" alt="Arrows" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/arrows.png' | relative_url }}" alt="Arrows" class="image featured">
 
 #### Spacekeys
 **Price(USD):** 42.99	**Price(RMB):** 286.74	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2spacekeys.png' | relative_url }}" alt="Spacekeys" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/spacekeys.png' | relative_url }}" alt="Spacekeys" class="image featured">
 
 #### GTTSpacebars
 **Price(USD):** 13.99	**Price(RMB):** 93.31	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2gttspacebars.png' | relative_url }}" alt="GTTSpacebars" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/gttspacebars.png' | relative_url }}" alt="GTTSpacebars" class="image featured">
 
 #### GQMSpacebars
 **Price(USD):** 13.99	**Price(RMB):** 93.31	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2gqmspacebars.png' | relative_url }}" alt="GQMSpacebars" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/gqmspacebars.png' | relative_url }}" alt="GQMSpacebars" class="image featured">
 
 #### VATSpacebars
 **Price(USD):** 13.99	**Price(RMB):** 93.31	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2vatspacebars.png' | relative_url }}" alt="VATSpacebars" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/vatspacebars.png' | relative_url }}" alt="VATSpacebars" class="image featured">
 
 #### YBPSpacebars
 **Price(USD):** 13.99	**Price(RMB):** 93.31	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2ybpspacebars.png' | relative_url }}" alt="YBPSpacebars" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/ybpspacebars.png' | relative_url }}" alt="YBPSpacebars" class="image featured">
 
 #### OSX
 **Price(USD):** 39.99	**Price(RMB):** 266.73	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2osx.png' | relative_url }}" alt="OSX" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/osx.png' | relative_url }}" alt="OSX" class="image featured">
 
 #### Communities
 **Price(USD):** 17.99	**Price(RMB):** 119.99	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2communities.png' | relative_url }}" alt="Communities" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/communities.png' | relative_url }}" alt="Communities" class="image featured">
 
 #### LED
 **Price(USD):** 34.99	**Price(RMB):** 233.38	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2led.png' | relative_url }}" alt="LED" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/led.png' | relative_url }}" alt="LED" class="image featured">
 
 #### VIM
 **Price(USD):** 24.99	**Price(RMB):** 166.68	**Price(KP):** unkown	**Quantity:** unknown
-<img src="{{ 'assets/images/greenscreen/kits_pics/r2vim.png' | relative_url }}" alt="VIM" class="image featured">
+<img src="{{ 'assets/images/greenscreen/kits_pics/vim.png' | relative_url }}" alt="VIM" class="image featured">
 
 ## Info
 * Designer: Oblotzk/admgc/Harlw
