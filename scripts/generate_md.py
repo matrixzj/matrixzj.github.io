@@ -6,11 +6,11 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-name = 'Green Screen'
-rate = 6.67
-designer = 'Oblotzk/admgc/Harlw'
-profile = '1-1-2-3-4-3'
-colorcodes = 'GTT/GQM/TBN/VAT/YBP'
+name = 'Kobayashi'
+rate = 6.47
+designer = 'Madeo'
+profile = '1-1-2-3-4-4'
+colorcodes = 'WCK/OAV/YBP/TGG/WA'
 
 print """---
 title: SA 
@@ -20,7 +20,7 @@ icon: fa-keyboard-o
 tags: [ keycaps ]
 ---
 
-ref link: []()
+ref link: [SA Kobayashi Groupbuy Link](https://novelkeys.xyz/products/sa-kobayashi-gb?variant=12158371135581)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -33,7 +33,7 @@ print 'NOTE: USD to RMB exchange rate is %.2f' % (float(rate))
 
 # generate price table
 print """
-| Name          | Price(USD)    | Price(RMB)  | Price(KP)  | Quantity |
+| Name          | Price(USD)    | Price(RMB)  | Price(ZF)  | Quantity |
 | ------------- | ------------- | ----------- | ---------- | -------- |"""
 with open(filepath) as fp:  
    line = fp.readline()
@@ -66,9 +66,9 @@ with open(filepath) as fp:
        line = fp.readline()
        cnt += 1
 
-print ''
-print '<img src="{{ \'assets/images/%s/Price.jpg\' | relative_url }}" alt="price" class="image featured">' % name.lower().replace(" ","")
-print ''
+#print ''
+#print '<img src="{{ \'assets/images/%s/Price.jpg\' | relative_url }}" alt="price" class="image featured">' % name.lower().replace(" ","")
+#print ''
 
 # generate kits part
 print '## Kits'
@@ -99,7 +99,7 @@ with open(filepath) as fp:
 
        print "#### %s" % kitname
        print result
-       print '<img src="{{ \'assets/images/%s/kits_pics/r2%s.png\' | relative_url }}" alt="%s" class="image featured">' % ( name.lower().replace(" ",""), kitname.lower().replace(" ",""), kitname.replace(" ","") )
+       print '<img src="{{ \'assets/images/%s/kits_pics/%s.png\' | relative_url }}" alt="%s" class="image featured">' % ( name.lower().replace(" ",""), kitname.lower().replace(" ",""), kitname.replace(" ","") )
        print ''
        line = fp.readline()
        cnt += 1
