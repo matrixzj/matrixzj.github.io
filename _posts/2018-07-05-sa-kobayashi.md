@@ -25,15 +25,15 @@ NOTE: USD to RMB exchange rate is 6.47
 
 ## Kits
 #### Alphas
-**Price(USD):** 70.00	**Price(RMB):** 452.90	**Price(KP):** 488.00	**Quantity:** unknown
+**Price(USD):** 70.00	**Price(RMB):** 452.90	**Price(ZF):** 488.00	**Quantity:** unknown
 <img src="{{ 'assets/images/kobayashi/kits_pics/alphas.png' | relative_url }}" alt="Alphas" class="image featured">
 
 #### Modifiers
-**Price(USD):** 130.00	**Price(RMB):** 841.10	**Price(KP):** 899.00	**Quantity:** unknown
+**Price(USD):** 130.00	**Price(RMB):** 841.10	**Price(ZF):** 899.00	**Quantity:** unknown
 <img src="{{ 'assets/images/kobayashi/kits_pics/modifiers.png' | relative_url }}" alt="Modifiers" class="image featured">
 
 #### 40Bit
-**Price(USD):** 75.00	**Price(RMB):** 485.25	**Price(KP):** 499.00	**Quantity:** unknown
+**Price(USD):** 75.00	**Price(RMB):** 485.25	**Price(ZF):** 499.00	**Quantity:** unknown
 <img src="{{ 'assets/images/kobayashi/kits_pics/40bit.png' | relative_url }}" alt="40Bit" class="image featured">
 
 ## Info
