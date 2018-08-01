@@ -24,7 +24,7 @@ NOTE: USD to RMB exchange rate is 6.67
 |[AmberScreenAlphas](#amberscreenalphas)|45.99|311.35|190|
 |[Modifiers](#modifiers)|99.99|676.93|299|
 |[GreenScreenNumpad](#greenscreennumpad)|32.99|223.34|122|
-|-[AmberScreenNumpad](#amberscreennumpad)-|36.99|250.42|68|
+|~~[AmberScreenNumpad](#amberscreennumpad)~~|36.99|250.42|68|
 |[Novelties](#novelties)|49.99|338.43|153|
 |[Assembly](#assembly)|23.99|162.41|114|
 |[40bit](#40bit)|99.99|676.93|9|
