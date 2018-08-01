@@ -27,21 +27,21 @@ NOTE: USD to RMB exchange rate is 6.67
 |~~[AmberScreenNumpad](#amberscreennumpad)~~|36.99|250.42|68|
 |[Novelties](#novelties)|49.99|338.43|153|
 |[Assembly](#assembly)|23.99|162.41|114|
-|[40bit](#40bit)|99.99|676.93|9|
-|[Ergodox](#ergodox)|114.99|778.48|23|
-|[GreenScreenColevrak](#greenscreencolevrak)|30.99|209.80|19|
-|[GreenScreenNorDeUK](#greenscreennordeuk)|69.99|473.83|14|
+|~~[40bit](#40bit)~~|99.99|676.93|9|
+|~~[Ergodox](#ergodox)~~|114.99|778.48|23|
+|~~[GreenScreenColevrak](#greenscreencolevrak)~~|30.99|209.80|19|
+|~~[GreenScreenNorDeUK](#greenscreennordeuk)~~|69.99|473.83|14|
 |[AlternateF](#alternatef)|20.99|142.10|79|
-|[TenkeylessASM](#tenkeylessasm)|24.99|169.18|20|
-|[MacrosASM](#macrosasm)|34.99|236.88|18|
+|~~[TenkeylessASM](#tenkeylessasm)~~|24.99|169.18|20|
+|~~[MacrosASM](#macrosasm)~~|34.99|236.88|18|
 |[Arrows](#arrows)|15.99|108.25|129|
 |[Spacekeys](#spacekeys)|42.99|291.04|25|
-|[GTTSpacebars](#gttspacebars)|13.99|94.71|16|
-|[GQMSpacebars](#gqmspacebars)|13.99|94.71|14|
+|~~[GTTSpacebars](#gttspacebars)~~|13.99|94.71|16|
+|~~[GQMSpacebars](#gqmspacebars)~~|13.99|94.71|14|
 |[VATSpacebars](#vatspacebars)|7.99|54.09|116|
 |[YBPSpacebars](#ybpspacebars)|10.99|74.40|74|
 |[OSX](#osx)|39.99|270.73|29|
-|[Communities](#communities)|17.99|121.79|25|
+|~~[Communities](#communities)~~|17.99|121.79|25|
 |[LED](#led)|34.99|236.88|27|
 |[VIM](#vim)|16.99|115.02|195|
 
@@ -64,7 +64,7 @@ NOTE: USD to RMB exchange rate is 6.67
 **Price(USD):** 32.99   **Price(RMB):** 223.34  **Quantity:** 122
 <img src="{{ 'assets/images/greenscreen/kits_pics/greenscreennumpad.png' | relative_url }}" alt="GreenScreenNumpad" class="image featured">
 
-#### AmberScreenNumpad
+#### ~~AmberScreenNumpad~~
 **Price(USD):** 36.99   **Price(RMB):** 250.42  **Quantity:** 68
 <img src="{{ 'assets/images/greenscreen/kits_pics/amberscreennumpad.png' | relative_url }}" alt="AmberScreenNumpad" class="image featured">
 
@@ -76,19 +76,19 @@ NOTE: USD to RMB exchange rate is 6.67
 **Price(USD):** 23.99   **Price(RMB):** 162.41  **Quantity:** 114
 <img src="{{ 'assets/images/greenscreen/kits_pics/assembly.png' | relative_url }}" alt="Assembly" class="image featured">
 
-#### 40bit
+#### ~~40bit~~
 **Price(USD):** 99.99   **Price(RMB):** 676.93  **Quantity:** 9
 <img src="{{ 'assets/images/greenscreen/kits_pics/40bit.png' | relative_url }}" alt="40bit" class="image featured">
 
-#### Ergodox
+#### ~~Ergodox~~
 **Price(USD):** 114.99  **Price(RMB):** 778.48  **Quantity:** 23
 <img src="{{ 'assets/images/greenscreen/kits_pics/ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
 
-#### GreenScreenColevrak
+#### ~~GreenScreenColevrak~~
 **Price(USD):** 30.99   **Price(RMB):** 209.80  **Quantity:** 19
 <img src="{{ 'assets/images/greenscreen/kits_pics/greenscreencolevrak.png' | relative_url }}" alt="GreenScreenColevrak" class="image featured">
 
-#### GreenScreenNorDeUK
+#### ~~GreenScreenNorDeUK~~
 **Price(USD):** 69.99   **Price(RMB):** 473.83  **Quantity:** 14
 <img src="{{ 'assets/images/greenscreen/kits_pics/greenscreennordeuk.png' | relative_url }}" alt="GreenScreenNorDeUK" class="image featured">
 
@@ -96,11 +96,11 @@ NOTE: USD to RMB exchange rate is 6.67
 **Price(USD):** 20.99   **Price(RMB):** 142.10  **Quantity:** 79
 <img src="{{ 'assets/images/greenscreen/kits_pics/alternatef.png' | relative_url }}" alt="AlternateF" class="image featured">
 
-#### TenkeylessASM
+#### ~~TenkeylessASM~~
 **Price(USD):** 24.99   **Price(RMB):** 169.18  **Quantity:** 20
 <img src="{{ 'assets/images/greenscreen/kits_pics/tenkeylessasm.png' | relative_url }}" alt="TenkeylessASM" class="image featured">
 
-#### MacrosASM
+#### ~~MacrosASM~~
 **Price(USD):** 34.99   **Price(RMB):** 236.88  **Quantity:** 18
 <img src="{{ 'assets/images/greenscreen/kits_pics/macrosasm.png' | relative_url }}" alt="MacrosASM" class="image featured">
 
@@ -112,11 +112,11 @@ NOTE: USD to RMB exchange rate is 6.67
 **Price(USD):** 42.99   **Price(RMB):** 291.04  **Quantity:** 25
 <img src="{{ 'assets/images/greenscreen/kits_pics/spacekeys.png' | relative_url }}" alt="Spacekeys" class="image featured">
 
-#### GTTSpacebars
+#### ~~GTTSpacebars~~
 **Price(USD):** 13.99   **Price(RMB):** 94.71   **Quantity:** 16
 <img src="{{ 'assets/images/greenscreen/kits_pics/gttspacebars.png' | relative_url }}" alt="GTTSpacebars" class="image featured">
 
-#### GQMSpacebars
+#### ~~GQMSpacebars~~
 **Price(USD):** 13.99   **Price(RMB):** 94.71   **Quantity:** 14
 <img src="{{ 'assets/images/greenscreen/kits_pics/gqmspacebars.png' | relative_url }}" alt="GQMSpacebars" class="image featured">
 
@@ -132,7 +132,7 @@ NOTE: USD to RMB exchange rate is 6.67
 **Price(USD):** 39.99   **Price(RMB):** 270.73  **Quantity:** 29
 <img src="{{ 'assets/images/greenscreen/kits_pics/osx.png' | relative_url }}" alt="OSX" class="image featured">
 
-#### Communities
+#### ~~Communities~~
 **Price(USD):** 17.99   **Price(RMB):** 121.79  **Quantity:** 25
 <img src="{{ 'assets/images/greenscreen/kits_pics/communities.png' | relative_url }}" alt="Communities" class="image featured">
 
