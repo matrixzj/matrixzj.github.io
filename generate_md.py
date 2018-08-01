@@ -6,11 +6,11 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-name = 'Pulse R1'
-rate = 6.16
-designer = 'Mito'
+name = 'Green Screen'
+rate = 6.77
+designer = 'Oblotzk/admgc/Harlw'
 profile = '1-1-2-3-4-3'
-colorcodes = 'OAS/NN/RA/VAT/BBQ'
+colorcodes = 'GTT/GQM/TBN/VAT/YBP'
 
 print """---
 title: SA 
@@ -33,8 +33,8 @@ print 'NOTE: USD to RMB exchange rate is %.2f' % (float(rate))
 
 # generate price table
 print """
-| Name          | Price(USD)    | Price(RMB)  | Price(KP)  | Quantity |
-| ------------- | ------------- | ----------- | ---------- | -------- |"""
+| Name          | Price(USD)    |  Price(KP)  | Quantity |
+| ------------- | ------------- |  ---------- | -------- |"""
 with open(filepath) as fp:  
    line = fp.readline()
    cnt = 1
@@ -42,18 +42,18 @@ with open(filepath) as fp:
        kitname = line.split('|')[0]
        usdprice = line.split('|')[1]
        rmbprice = line.split('|')[2]
-       kpprice = line.split('|')[3]
+#       kpprice = line.split('|')[3]
        quantity = line.split('|')[-1]
 
        if len(rmbprice) < 2:
           rmbprice = float(usdprice) * float(rate)
        result = '|[%s](#%s)|%.2f|%.2f|' % (kitname, kitname.lower().replace(" ",""), float(usdprice), float(rmbprice))
 
-       if len(kpprice) > 1:
-          result_kpprice = '%.2f|' % (float(kpprice))
-       else: 
-          result_kpprice = 'unknown|'
-       result = result + result_kpprice
+#       if len(kpprice) > 1:
+#          result_kpprice = '%.2f|' % (float(kpprice))
+#       else: 
+#          result_kpprice = 'unknown|'
+#       result = result + result_kpprice
 
        if len(quantity) > 1:
           result_quantity = '%d|' % (int(quantity))
@@ -79,17 +79,18 @@ with open(filepath) as fp:
        kitname = line.split('|')[0]
        usdprice = line.split('|')[1]
        rmbprice = line.split('|')[2]
-       kpprice = line.split('|')[3]
+#       kpprice = line.split('|')[3]
+       quantity = line.split('|')[-1]
 
        if len(rmbprice) < 2:
           rmbprice = float(usdprice) * float(rate)
        result = '**Price(USD):** %.2f\t**Price(RMB):** %.2f' % (float(usdprice), float(rmbprice))
        
-       if len(kpprice) > 1:
-          result_kpprice = '\t**Price(KP):** %.2f' % (float(kpprice))
-       else: 
-          result_kpprice = '\t**Price(KP):** unkown'
-       result = result + result_kpprice
+#       if len(kpprice) > 1:
+#          result_kpprice = '\t**Price(KP):** %.2f' % (float(kpprice))
+#       else: 
+#          result_kpprice = '\t**Price(KP):** unkown'
+#       result = result + result_kpprice
 
        if len(quantity) > 1:
           result_quantity = '\t**Quantity:** %d' % (int(quantity))
@@ -99,7 +100,7 @@ with open(filepath) as fp:
 
        print "#### %s" % kitname
        print result
-       print '<img src="{{ \'assets/images/%s/kits_pics/r2%s.png\' | relative_url }}" alt="%s" class="image featured">' % ( name.lower().replace(" ",""), kitname.lower().replace(" ",""), kitname.replace(" ","") )
+       print '<img src="{{ \'assets/images/%s/kits_pics/%s.png\' | relative_url }}" alt="%s" class="image featured">' % ( name.lower().replace(" ",""), kitname.lower().replace(" ",""), kitname.replace(" ","") )
        print ''
        line = fp.readline()
        cnt += 1
