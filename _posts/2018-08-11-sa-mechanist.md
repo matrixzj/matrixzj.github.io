@@ -106,7 +106,7 @@ NOTE: USD to RMB exchange rate is 6.85
 ## Info
 * Designer: HOQ
 * Profile: SA 1-1-2-3-4-3
-* Color Codes: BFR/BBJ/BFM/WFK
+* Color Codes: BFR/BBJ/BFM/WFK  
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="colorBFR" height="150" width="340">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorBBJ" height="150" width="340">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFM.png' | relative_url }}" alt="colorBFM" height="150" width="340">
