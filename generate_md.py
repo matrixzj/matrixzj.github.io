@@ -6,11 +6,11 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-name = 'Green Screen'
-rate = 6.77
-designer = 'Oblotzk/admgc/Harlw'
+name = 'Mechanist'
+rate = 6.85
+designer = 'HOQ'
 profile = '1-1-2-3-4-3'
-colorcodes = 'GTT/GQM/TBN/VAT/YBP'
+colorcodes = 'BFR/BBJ/BFM/WFK/BBJ'
 
 print """---
 title: SA 
