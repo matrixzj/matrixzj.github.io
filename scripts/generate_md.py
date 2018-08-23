@@ -6,11 +6,11 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-name = 'Kobayashi'
-rate = 6.47
-designer = 'Madeo'
-profile = '1-1-2-3-4-4'
-colorcodes = 'WCK/OAV/YBP/TGG/WA'
+name = 'Lime'
+rate = 6.87
+designer = 'Kingnesta'
+profile = '1-1-2-3-4-3'
+colorcodes = 'VAT/VBQ/WFK'
 
 print """---
 title: SA 
@@ -66,7 +66,7 @@ with open(filepath) as fp:
        line = fp.readline()
        cnt += 1
 
-#print ''
+print ''
 #print '<img src="{{ \'assets/images/%s/Price.jpg\' | relative_url }}" alt="price" class="image featured">' % name.lower().replace(" ","")
 #print ''
 
