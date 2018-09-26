@@ -1,5 +1,5 @@
 ---
-title: SA Symbiosis R2
+title: SA Symbiosis R2 塞班R2
 author: Matrix Zou
 layout: post
 icon: fa-keyboard-o
