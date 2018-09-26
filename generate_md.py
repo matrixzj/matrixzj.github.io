@@ -48,12 +48,16 @@ with open(filepath) as fp:
        result = '|[%s](#%s)|' % (kitname, kitname.lower().replace(" ",""))
 
        if len(usdprice) < 1:
-          usdprice = 'unknown|'
-       result = result + usdprice
+          usdprice = 'unknown'
+          result = result + usdprice + '|'
+       else:
+          usdprice = float(usdprice)
+          result = ("%s%.2f|") % (result, usdprice)
 
-       if len(rmbprice) > 0:
+
+       if type(usdprice) is float:
           rmbprice = float(usdprice) * float(rate)
-          result = result + float(rmbprice)
+          result = ("%s%.2f|") % (result, float(rmbprice))
        else:
           rmbprice = 'unknown|'
           result = result + rmbprice
@@ -95,9 +99,10 @@ with open(filepath) as fp:
           usdprice = 'unknown|'
           result = '**Price(USD):** ' + usdprice
        else:
+          usdprice = float(usdprice)
           result = '**Price(USD):** %.2f\t' % usdprice
 
-       if len(rmbprice) < 2 and type(usdprice) is float:
+       if type(usdprice) is float:
           rmbprice = float(usdprice) * float(rate)
           result = result + '**Price(RMB):** %.2f' % (float(rmbprice))
        else:
