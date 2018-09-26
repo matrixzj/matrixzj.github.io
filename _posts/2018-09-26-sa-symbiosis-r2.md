@@ -1,5 +1,5 @@
 ---
-title: SA 
+title: SA Symbiosis R2
 author: Matrix Zou
 layout: post
 icon: fa-keyboard-o
@@ -41,92 +41,90 @@ NOTE: USD to RMB exchange rate is 6.87
 |[Novelties](#novelties)|unknown|unknown|unknown|
 |[Cadr](#cadr)|unknown|unknown|unknown|
 
-<img src="{{ 'assets/images/symbiosisr2/Price.jpg' | relative_url }}" alt="price" class="image featured">
-
 ## Kits
 #### Alphas
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/alphas.png' | relative_url }}" alt="Alphas" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/alphas.jpg' | relative_url }}" alt="Alphas" class="image featured">
 
 #### Modifiers
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/modifiers.png' | relative_url }}" alt="Modifiers" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/modifiers.jpg' | relative_url }}" alt="Modifiers" class="image featured">
 
 #### Extensions
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/extensions.png' | relative_url }}" alt="Extensions" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/extensions.jpg' | relative_url }}" alt="Extensions" class="image featured">
 
 #### Numpad
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
 #### Ergodox
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/ergodox.jpg' | relative_url }}" alt="Ergodox" class="image featured">
 
 #### Ortho
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/ortho.png' | relative_url }}" alt="Ortho" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/ortho.jpg' | relative_url }}" alt="Ortho" class="image featured">
 
 #### 40s
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 #### NorDeUK
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/nordeuk.png' | relative_url }}" alt="NorDeUK" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/nordeuk.jpg' | relative_url }}" alt="NorDeUK" class="image featured">
 
 #### Colevrak
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/colevrak.png' | relative_url }}" alt="Colevrak" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/colevrak.jpg' | relative_url }}" alt="Colevrak" class="image featured">
 
 #### Vim
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/vim.png' | relative_url }}" alt="Vim" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/vim.jpg' | relative_url }}" alt="Vim" class="image featured">
 
 #### Cadet
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/cadet.png' | relative_url }}" alt="Cadet" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/cadet.jpg' | relative_url }}" alt="Cadet" class="image featured">
 
 #### GreyChoices
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/greychoices.png' | relative_url }}" alt="GreyChoices" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/greychoices.jpg' | relative_url }}" alt="GreyChoices" class="image featured">
 
 #### BlueChoices
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/bluechoices.png' | relative_url }}" alt="BlueChoices" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/bluechoices.jpg' | relative_url }}" alt="BlueChoices" class="image featured">
 
 #### Game
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/game.png' | relative_url }}" alt="Game" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/game.jpg' | relative_url }}" alt="Game" class="image featured">
 
 #### Arrows
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/arrows.png' | relative_url }}" alt="Arrows" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/arrows.jpg' | relative_url }}" alt="Arrows" class="image featured">
 
 #### Spacekeys
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/spacekeys.png' | relative_url }}" alt="Spacekeys" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/spacekeys.jpg' | relative_url }}" alt="Spacekeys" class="image featured">
 
 #### GreySpacebars
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/greyspacebars.png' | relative_url }}" alt="GreySpacebars" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/greyspacebars.jpg' | relative_url }}" alt="GreySpacebars" class="image featured">
 
 #### BlueSpacebars
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/bluespacebars.png' | relative_url }}" alt="BlueSpacebars" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/bluespacebars.jpg' | relative_url }}" alt="BlueSpacebars" class="image featured">
 
 #### YellowSpacebars
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/yellowspacebars.png' | relative_url }}" alt="YellowSpacebars" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/yellowspacebars.jpg' | relative_url }}" alt="YellowSpacebars" class="image featured">
 
 #### Novelties
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
 #### Cadr
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/cadr.png' | relative_url }}" alt="Cadr" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/cadr.jpg' | relative_url }}" alt="Cadr" class="image featured">
 
 ## Info
 * Designer: xblackdog
