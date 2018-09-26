@@ -30,12 +30,12 @@ NOTE: USD to RMB exchange rate is 6.87
 |[Colevrak](#colevrak)|unknown|unknown|unknown|
 |[Vim](#vim)|unknown|unknown|unknown|
 |[Cadet](#cadet)|unknown|unknown|unknown|
-|[GreyChoices](#greychoices)|unknown|unknown|unknown|
+|[GreyChoices](#graychoices)|unknown|unknown|unknown|
 |[BlueChoices](#bluechoices)|unknown|unknown|unknown|
 |[Game](#game)|unknown|unknown|unknown|
 |[Arrows](#arrows)|unknown|unknown|unknown|
 |[Spacekeys](#spacekeys)|unknown|unknown|unknown|
-|[GreySpacebars](#greyspacebars)|unknown|unknown|unknown|
+|[GreySpacebars](#grayspacebars)|unknown|unknown|unknown|
 |[BlueSpacebars](#bluespacebars)|unknown|unknown|unknown|
 |[YellowSpacebars](#yellowspacebars)|unknown|unknown|unknown|
 |[Novelties](#novelties)|unknown|unknown|unknown|
@@ -88,7 +88,7 @@ NOTE: USD to RMB exchange rate is 6.87
 
 #### GreyChoices
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/greychoices.jpg' | relative_url }}" alt="GreyChoices" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/graychoices.jpg' | relative_url }}" alt="GreyChoices" class="image featured">
 
 #### BlueChoices
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
@@ -108,7 +108,7 @@ NOTE: USD to RMB exchange rate is 6.87
 
 #### GreySpacebars
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/greyspacebars.jpg' | relative_url }}" alt="GreySpacebars" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/grayspacebars.jpg' | relative_url }}" alt="GreySpacebars" class="image featured">
 
 #### BlueSpacebars
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
@@ -130,7 +130,7 @@ NOTE: USD to RMB exchange rate is 6.87
 * Designer: xblackdog
 * Profile: SA 1-1-2-3-4-3
 * Color Codes: BFP/GD/YBP/RDA/RA/WFK/WCK/NN  
-<img src="{{ 'assets/images/symbiosisr2/colors.jpg' | relative_url }}" alt="color" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/colors.jpg' | relative_url }}" alt="color" class="image featured"
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFP.png' | relative_url }}" alt="colorBFP" height="150" width="340">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_GD.png' | relative_url }}" alt="colorGD" height="150" width="340">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="150" width="340">
