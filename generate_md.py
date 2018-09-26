@@ -96,7 +96,7 @@ with open(filepath) as fp:
        quantity = line.split('|')[-1]
 
        if len(usdprice) < 1:
-          usdprice = 'unknown|'
+          usdprice = 'unknown'
           result = '**Price(USD):** ' + usdprice
        else:
           usdprice = float(usdprice)
@@ -106,7 +106,7 @@ with open(filepath) as fp:
           rmbprice = float(usdprice) * float(rate)
           result = result + '**Price(RMB):** %.2f' % (float(rmbprice))
        else:
-          rmbprice = 'unknown|'
+          rmbprice = 'unknown'
           result = result + '**Price(RMB):** ' + rmbprice
           
        

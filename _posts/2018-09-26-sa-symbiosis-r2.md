@@ -125,7 +125,7 @@ NOTE: USD to RMB exchange rate is 6.87
 <img src="{{ 'assets/images/symbiosisr2/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
 #### Cadr
-**Price(USD):** unknown|**Price(RMB):** unknown        **Quantity:** unknown
+**Price(USD):** unknown    **Price(RMB):** unknown        **Quantity:** unknown
 <img src="{{ 'assets/images/symbiosisr2/kits_pics/cadr.jpg' | relative_url }}" alt="Cadr" class="image featured">
 
 ## Info
