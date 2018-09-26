@@ -6,7 +6,7 @@ icon: fa-keyboard-o
 tags: [ keycaps ]
 ---
 
-ref link: [KONO GB Link](https://kono.store/collections/keycap-sets/products/sa-symbiosis-keycaps?variant=12358483968100)
+ref link: [KONO GB Link](https://kono.store/collections/keycap-sets/products/sa-symbiosis-keycaps)
 
 * [Price](#price)
 * [Kits](#kits)
