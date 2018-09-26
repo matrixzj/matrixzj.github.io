@@ -30,12 +30,12 @@ NOTE: USD to RMB exchange rate is 6.87
 |[Colevrak](#colevrak)|unknown|unknown|unknown|
 |[Vim](#vim)|unknown|unknown|unknown|
 |[Cadet](#cadet)|unknown|unknown|unknown|
-|[GreyChoices](#graychoices)|unknown|unknown|unknown|
+|[GrayChoices](#graychoices)|unknown|unknown|unknown|
 |[BlueChoices](#bluechoices)|unknown|unknown|unknown|
 |[Game](#game)|unknown|unknown|unknown|
 |[Arrows](#arrows)|unknown|unknown|unknown|
 |[Spacekeys](#spacekeys)|unknown|unknown|unknown|
-|[GreySpacebars](#grayspacebars)|unknown|unknown|unknown|
+|[GraySpacebars](#grayspacebars)|unknown|unknown|unknown|
 |[BlueSpacebars](#bluespacebars)|unknown|unknown|unknown|
 |[YellowSpacebars](#yellowspacebars)|unknown|unknown|unknown|
 |[Novelties](#novelties)|unknown|unknown|unknown|
@@ -86,9 +86,9 @@ NOTE: USD to RMB exchange rate is 6.87
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
 <img src="{{ 'assets/images/symbiosisr2/kits_pics/cadet.jpg' | relative_url }}" alt="Cadet" class="image featured">
 
-#### GreyChoices
+#### GrayChoices
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/graychoices.jpg' | relative_url }}" alt="GreyChoices" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/graychoices.jpg' | relative_url }}" alt="GrayChoices" class="image featured">
 
 #### BlueChoices
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
@@ -106,9 +106,9 @@ NOTE: USD to RMB exchange rate is 6.87
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
 <img src="{{ 'assets/images/symbiosisr2/kits_pics/spacekeys.jpg' | relative_url }}" alt="Spacekeys" class="image featured">
 
-#### GreySpacebars
+#### GraySpacebars
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
-<img src="{{ 'assets/images/symbiosisr2/kits_pics/grayspacebars.jpg' | relative_url }}" alt="GreySpacebars" class="image featured">
+<img src="{{ 'assets/images/symbiosisr2/kits_pics/grayspacebars.jpg' | relative_url }}" alt="GraySpacebars" class="image featured">
 
 #### BlueSpacebars
 **Price(USD):** unknown|**Price(RMB):** unknown|	**Quantity:** unknown
