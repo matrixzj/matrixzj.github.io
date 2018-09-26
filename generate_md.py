@@ -6,11 +6,11 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-name = 'Mechanist'
-rate = 6.85
-designer = 'HOQ'
+name = 'Symbiosis R2'
+rate = 6.87
+designer = 'xblackdog'
 profile = '1-1-2-3-4-3'
-colorcodes = 'BFR/BBJ/BFM/WFK/BBJ'
+colorcodes = 'BFP/GD/YBP/RDA/RA/WFK/WCK/NN'
 
 print """---
 title: SA 
@@ -45,9 +45,18 @@ with open(filepath) as fp:
 #       kpprice = line.split('|')[3]
        quantity = line.split('|')[-1]
 
-       if len(rmbprice) < 2:
+       result = '|[%s](#%s)|' % (kitname, kitname.lower().replace(" ",""))
+
+       if len(usdprice) < 1:
+          usdprice = 'unknown|'
+       result = result + usdprice
+
+       if len(rmbprice) > 0:
           rmbprice = float(usdprice) * float(rate)
-       result = '|[%s](#%s)|%.2f|%.2f|' % (kitname, kitname.lower().replace(" ",""), float(usdprice), float(rmbprice))
+          result = result + float(rmbprice)
+       else:
+          rmbprice = 'unknown|'
+          result = result + rmbprice
 
 #       if len(kpprice) > 1:
 #          result_kpprice = '%.2f|' % (float(kpprice))
@@ -82,9 +91,19 @@ with open(filepath) as fp:
 #       kpprice = line.split('|')[3]
        quantity = line.split('|')[-1]
 
-       if len(rmbprice) < 2:
+       if len(usdprice) < 1:
+          usdprice = 'unknown|'
+          result = '**Price(USD):** ' + usdprice
+       else:
+          result = '**Price(USD):** %.2f\t' % usdprice
+
+       if len(rmbprice) < 2 and type(usdprice) is float:
           rmbprice = float(usdprice) * float(rate)
-       result = '**Price(USD):** %.2f\t**Price(RMB):** %.2f' % (float(usdprice), float(rmbprice))
+          result = result + '**Price(RMB):** %.2f' % (float(rmbprice))
+       else:
+          rmbprice = 'unknown|'
+          result = result + '**Price(RMB):** ' + rmbprice
+          
        
 #       if len(kpprice) > 1:
 #          result_kpprice = '\t**Price(KP):** %.2f' % (float(kpprice))
