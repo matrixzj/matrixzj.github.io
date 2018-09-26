@@ -130,6 +130,7 @@ NOTE: USD to RMB exchange rate is 6.87
 * Designer: xblackdog
 * Profile: SA 1-1-2-3-4-3
 * Color Codes: BFP/GD/YBP/RDA/RA/WFK/WCK/NN  
+<img src="{{ 'assets/images/symbiosisr2/colors.jpg' | relative_url }}" alt="color" class="image featured">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFP.png' | relative_url }}" alt="colorBFP" height="150" width="340">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_GD.png' | relative_url }}" alt="colorGD" height="150" width="340">
 <img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="150" width="340">
