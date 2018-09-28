@@ -33,8 +33,8 @@ print 'NOTE: USD to RMB exchange rate is %.2f' % (float(rate))
 
 # generate price table
 print """
-| Name          | Price(USD)    |  Price(RMB)  | Quantity |
-| ------------- | ------------- |  ---------- | -------- |"""
+| Name          | Price(USD)    |  Price(RMB) |  Price(ZF) | Quantity |
+| ------------- | ------------- |  ---------- |  --------- | -------- |"""
 with open(filepath) as fp:  
    line = fp.readline()
    cnt = 1
@@ -42,7 +42,7 @@ with open(filepath) as fp:
        kitname = line.split('|')[0]
        usdprice = line.split('|')[1]
        rmbprice = line.split('|')[2]
-#       kpprice = line.split('|')[3]
+       zfprice = line.split('|')[3]
        quantity = line.split('|')[-1]
 
        result = '|[%s](#%s)|' % (kitname, kitname.lower().replace(" ",""))
@@ -65,11 +65,11 @@ with open(filepath) as fp:
           rmbprice = 'unknown|'
           result = result + rmbprice
 
-#       if len(kpprice) > 1:
-#          result_kpprice = '%.2f|' % (float(kpprice))
-#       else: 
-#          result_kpprice = 'unknown|'
-#       result = result + result_kpprice
+       if len(zfprice) > 1:
+          result_zfprice = '%.2f|' % float(zfprice)
+       else: 
+          result_zfprice = 'unknown|'
+       result = result + result_zfprice
 
        if len(quantity) > 1:
           result_quantity = '%d|' % (int(quantity))
@@ -95,7 +95,7 @@ with open(filepath) as fp:
        kitname = line.split('|')[0]
        usdprice = line.split('|')[1]
        rmbprice = line.split('|')[2]
-#       kpprice = line.split('|')[3]
+       zfprice = line.split('|')[3]
        quantity = line.split('|')[-1]
 
        if len(usdprice) < 1:
@@ -116,11 +116,11 @@ with open(filepath) as fp:
           result = result + '**Price(RMB):** ' + rmbprice
           
        
-#       if len(kpprice) > 1:
-#          result_kpprice = '\t**Price(KP):** %.2f' % (float(kpprice))
-#       else: 
-#          result_kpprice = '\t**Price(KP):** unkown'
-#       result = result + result_kpprice
+       if len(zfprice) > 1:
+          result_zfprice = '\t**Price(ZF):** %.2f\t' % (float(zfprice))
+       else: 
+          result_zfprice = '\t**Price(ZF):** unkown'
+       result = result + result_zfprice
 
        if len(quantity) > 1:
           result_quantity = '\t**Quantity:** %d' % (int(quantity))
