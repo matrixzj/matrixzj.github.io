@@ -45,7 +45,7 @@ NOTE: USD to RMB exchange rate is 6.67
 |[LED](#led)|34.99|236.88|27|
 |[VIM](#vim)|16.99|115.02|195|
 
-<img src="{{ 'assets/images/greenscreen/Price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/greenscreen/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
 #### GreenScreenAlphas
