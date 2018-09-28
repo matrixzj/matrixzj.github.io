@@ -6,11 +6,11 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-name = 'Symbiosis R2'
+name = 'Banana'
 rate = 6.87
-designer = 'xblackdog'
-profile = '1-1-2-3-4-3'
-colorcodes = 'BFP/GD/YBP/RDA/RA/WFK/WCK/NN'
+designer = 'FF'
+profile = '1-1-2-3-4-4'
+colorcodes = 'YBP/SCK/GX'
 
 print """---
 title: SA 
@@ -33,7 +33,7 @@ print 'NOTE: USD to RMB exchange rate is %.2f' % (float(rate))
 
 # generate price table
 print """
-| Name          | Price(USD)    |  Price(KP)  | Quantity |
+| Name          | Price(USD)    |  Price(RMB)  | Quantity |
 | ------------- | ------------- |  ---------- | -------- |"""
 with open(filepath) as fp:  
    line = fp.readline()
@@ -57,6 +57,9 @@ with open(filepath) as fp:
 
        if type(usdprice) is float:
           rmbprice = float(usdprice) * float(rate)
+          result = ("%s%.2f|") % (result, float(rmbprice))
+       elif len(rmbprice) > 1:
+          rmbprice = float(rmbprice)
           result = ("%s%.2f|") % (result, float(rmbprice))
        else:
           rmbprice = 'unknown|'
@@ -97,14 +100,17 @@ with open(filepath) as fp:
 
        if len(usdprice) < 1:
           usdprice = 'unknown'
-          result = '**Price(USD):** ' + usdprice
+          result = '**Price(USD):** %s \t' % (usdprice)
        else:
           usdprice = float(usdprice)
           result = '**Price(USD):** %.2f\t' % usdprice
 
        if type(usdprice) is float:
           rmbprice = float(usdprice) * float(rate)
-          result = result + '**Price(RMB):** %.2f' % (float(rmbprice))
+          result = result + '**Price(RMB):** %.2f\t' % (float(rmbprice))
+       elif len(rmbprice) > 1:
+          rmbprice = float(rmbprice)
+          result = result + '**Price(RMB):** %.2f\t' % (float(rmbprice))
        else:
           rmbprice = 'unknown'
           result = result + '**Price(RMB):** ' + rmbprice
@@ -124,7 +130,7 @@ with open(filepath) as fp:
 
        print "#### %s" % kitname
        print result
-       print '<img src="{{ \'assets/images/%s/kits_pics/%s.png\' | relative_url }}" alt="%s" class="image featured">' % ( name.lower().replace(" ",""), kitname.lower().replace(" ",""), kitname.replace(" ","") )
+       print '<img src="{{ \'assets/images/%s/kits_pics/%s.jpg\' | relative_url }}" alt="%s" class="image featured">' % ( name.lower().replace(" ",""), kitname.lower().replace(" ",""), kitname.replace(" ","") )
        print ''
        line = fp.readline()
        cnt += 1
