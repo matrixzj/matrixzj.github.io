@@ -6,14 +6,14 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-name = 'Banana'
+name = 'Bee'
 rate = 6.87
-designer = 'FF'
-profile = '1-1-2-3-4-4'
-colorcodes = 'YBP/SCK/GX'
+designer = 'Jack Studio & 0.01'
+profile = '1-1-2-3-4-3'
+colorcodes = 'YCF/BFJ/NN'
 
 print """---
-title: SA 
+title: SA Bee
 author: Matrix Zou
 layout: post
 icon: fa-keyboard-o
