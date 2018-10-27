@@ -127,7 +127,7 @@ NOTE: USD to RMB exchange rate is 6.87
 <img src="{{ 'assets/images/symbiosisr2/kits_pics/cadr.jpg' | relative_url }}" alt="Cadr" class="image featured">
 
 ## Info
-* Designer: xblackdog
+* Designer: xblackdog/hhkbp2
 * Profile: SA 1-1-2-3-4-3
 * Color Codes: BFP/GD/YBP/RDA/RA/WFK/WCK/NN
 <img src="{{ 'assets/images/symbiosisr2/colors.jpg' | relative_url }}" alt="color" class="image featured">
