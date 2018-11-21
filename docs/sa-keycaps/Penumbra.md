@@ -31,23 +31,23 @@ OCO Price was 260 USD.
 ## Kits
 ### Base
 **Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
-<img src="{{ 'assets/images/SA-keycaps/penumbra/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Solarized Alphas
 **Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
-<img src="{{ 'assets/images/SA-keycaps/penumbra/kits_pics/solarizedalphas.jpg' | relative_url }}" alt="SolarizedAlphas" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/solarizedalphas.png' | relative_url }}" alt="SolarizedAlphas" class="image featured">
 
 ### Tsangan
 **Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
-<img src="{{ 'assets/images/SA-keycaps/penumbra/kits_pics/tsangan.jpg' | relative_url }}" alt="Tsangan" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/tsangan.png' | relative_url }}" alt="Tsangan" class="image featured">
 
 ### Numpad
 **Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
-<img src="{{ 'assets/images/SA-keycaps/penumbra/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
 
 ### SolarISO
 **Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
-<img src="{{ 'assets/images/SA-keycaps/penumbra/kits_pics/solariso.jpg' | relative_url }}" alt="SolarISO" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/solariso.png' | relative_url }}" alt="SolarISO" class="image featured">
 
 ## Info
 * Designer: Bunny
@@ -56,6 +56,6 @@ OCO Price was 260 USD.
 * Color Codes: unknown
 
 ## Pictures
-<img src="{{ 'assets/images/SA-keycaps/penumbra/rendering_pics/3.jpg' | relative_url }}" alt="3" class="image featured">
-<img src="{{ 'assets/images/SA-keycaps/penumbra/rendering_pics/2.jpg' | relative_url }}" alt="2" class="image featured">
-<img src="{{ 'assets/images/SA-keycaps/penumbra/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/penumbra/rendering_pics/3.jpg' | relative_url }}" alt="3" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/penumbra/rendering_pics/2.jpg' | relative_url }}" alt="2" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/penumbra/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">

@@ -135,4 +135,4 @@ print """
 picpath = '/home/juzou/documents/matrixzj.github.io/assets/images/%s-keycaps/%s/rendering_pics/' % (keycapstype.lower(), name.lower().replace(" ",""))
 pictures = [f for f in listdir(picpath)]
 for pic in pictures:
-   print '<img src="{{ \'assets/images/%s-keycaps/%s/rendering_pics/%s\' | relative_url }}" alt="%s" class="image featured">' % ( keycapstype, name.lower().replace(" ",""), pic, pic.replace(".jpg","") )
+   print '<img src="{{ \'assets/images/%s-keycaps/%s/rendering_pics/%s\' | relative_url }}" alt="%s" class="image featured">' % ( keycapstype.lower(), name.lower().replace(" ",""), pic, pic.replace(".jpg","") )
