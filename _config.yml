@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Keycaps/Keyboards
 description: Stay Hungry! Stay Foolish!
-baseurl: "/webtest" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 remote_theme: pmarsceill/just-the-docs
 avatar: assets/images/avatar.jpg
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
