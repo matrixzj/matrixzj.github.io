@@ -50,6 +50,7 @@ permalink: /
 ## GMK KeyCaps
 
 * [Carbon R2 大碳R2](docs/gmk-keycaps/Carbon-R2/)
+* [DMG](docs/gmk-keycaps/DMG/)
 
 ---
 
