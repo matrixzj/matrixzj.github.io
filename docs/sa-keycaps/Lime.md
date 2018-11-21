@@ -30,31 +30,31 @@ NOTE: USD to RMB exchange rate is 6.87
 |[Communities](#communities)|10.00|68.70|unknown|unknown|
 
 ## Kits
-#### Tenkeyless
+### Tenkeyless
 **Price(USD):** 100.00    **Price(RMB):** 687.00    **Price(KP):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/lime/kits_pics/tenkeyless.jpg' | relative_url }}" alt="Tenkeyless" class="image featured">
 
-#### Numpad
+### Numpad
 **Price(USD):** 28.00    **Price(RMB):** 192.36    **Price(KP):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/lime/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
-#### Novelties
+### Novelties
 **Price(USD):** 25.00    **Price(RMB):** 171.75    **Price(KP):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/lime/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
-#### Specialties
+### Specialties
 **Price(USD):** 40.00    **Price(RMB):** 274.80    **Price(KP):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/lime/kits_pics/specialties.jpg' | relative_url }}" alt="Specialties" class="image featured">
 
-#### 40Percent
+### 40Percent
 **Price(USD):** 50.00    **Price(RMB):** 343.50    **Price(KP):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/lime/kits_pics/40percent.jpg' | relative_url }}" alt="40Percent" class="image featured">
 
-#### ISOUK
+### ISOUK
 **Price(USD):** 20.00    **Price(RMB):** 137.40    **Price(KP):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/lime/kits_pics/isouk.jpg' | relative_url }}" alt="ISOUK" class="image featured">
 
-#### Communities
+### Communities
 **Price(USD):** 10.00    **Price(RMB):** 68.70    **Price(KP):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/lime/kits_pics/communities.jpg' | relative_url }}" alt="Communities" class="image featured">
 

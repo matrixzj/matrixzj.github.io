@@ -44,87 +44,87 @@ NOTE: USD to RMB exchange rate is 6.87
 |[Cadr](#cadr)|209.99|1442.63|1500.00|unknown|
 
 ## Kits
-#### Alphas
+### Alphas
 **Price(USD):** 34.99   **Price(RMB):** 240.38          **Price(ZF):** 260.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/alphas.jpg' | relative_url }}" alt="Alphas" class="image featured">
 
-#### Modifiers
+### Modifiers
 **Price(USD):** 69.99   **Price(RMB):** 480.83          **Price(ZF):** 500.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/modifiers.jpg' | relative_url }}" alt="Modifiers" class="image featured">
 
-#### Extension
+### Extension
 **Price(USD):** 67.99   **Price(RMB):** 467.09          **Price(ZF):** 476.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/extension.jpg' | relative_url }}" alt="Extension" class="image featured">
 
-#### Numpad
+### Numpad
 **Price(USD):** 30.99   **Price(RMB):** 212.90          **Price(ZF):** 219.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
-#### Ergodox
+### Ergodox
 **Price(USD):** 98.99   **Price(RMB):** 680.06          **Price(ZF):** 693.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/ergodox.jpg' | relative_url }}" alt="Ergodox" class="image featured">
 
-#### Ortho
+### Ortho
 **Price(USD):** 44.99   **Price(RMB):** 309.08          **Price(ZF):** 315.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/ortho.jpg' | relative_url }}" alt="Ortho" class="image featured">
 
-#### 40s
+### 40s
 **Price(USD):** 89.99   **Price(RMB):** 618.23          **Price(ZF):** 630.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
-#### NorDeUK
+### NorDeUK
 **Price(USD):** 47.99   **Price(RMB):** 329.69          **Price(ZF):** 339.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/nordeuk.jpg' | relative_url }}" alt="NorDeUK" class="image featured">
 
-#### Colevrak
+### Colevrak
 **Price(USD):** 49.99   **Price(RMB):** 343.43          **Price(ZF):** 350.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/colevrak.jpg' | relative_url }}" alt="Colevrak" class="image featured">
 
-#### Vim
+### Vim
 **Price(USD):** 13.99   **Price(RMB):** 96.11           **Price(ZF):** 98.00            **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/vim.jpg' | relative_url }}" alt="Vim" class="image featured">
 
-#### Cadet
+### Cadet
 **Price(USD):** 38.99   **Price(RMB):** 267.86          **Price(ZF):** 277.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/cadet.jpg' | relative_url }}" alt="Cadet" class="image featured">
 
-#### GrayChoices
+### GrayChoices
 **Price(USD):** 25.99   **Price(RMB):** 178.55          **Price(ZF):** 188.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/graychoices.jpg' | relative_url }}" alt="GrayChoices" class="image featured">
 
-#### BlueChoices
+### BlueChoices
 **Price(USD):** 25.99   **Price(RMB):** 178.55          **Price(ZF):** 188.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/bluechoices.jpg' | relative_url }}" alt="BlueChoices" class="image featured">
 
-#### Game
+### Game
 **Price(USD):** 3.99    **Price(RMB):** 27.41           **Price(ZF):** 29.00            **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/game.jpg' | relative_url }}" alt="Game" class="image featured">
 
-#### Arrows
+### Arrows
 **Price(USD):** 18.99   **Price(RMB):** 130.46          **Price(ZF):** 135.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/arrows.jpg' | relative_url }}" alt="Arrows" class="image featured">
 
-#### Spacekeys
+### Spacekeys
 **Price(USD):** 53.99   **Price(RMB):** 370.91          **Price(ZF):** 378.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/spacekeys.jpg' | relative_url }}" alt="Spacekeys" class="image featured">
 
-#### GraySpacebars
+### GraySpacebars
 **Price(USD):** 15.99   **Price(RMB):** 109.85          **Price(ZF):** 112.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/grayspacebars.jpg' | relative_url }}" alt="GraySpacebars" class="image featured">
 
-#### BlueSpacebars
+### BlueSpacebars
 **Price(USD):** 15.99   **Price(RMB):** 109.85          **Price(ZF):** 112.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/bluespacebars.jpg' | relative_url }}" alt="BlueSpacebars" class="image featured">
 
-#### YellowSpacebars
+### YellowSpacebars
 **Price(USD):** 15.99   **Price(RMB):** 109.85          **Price(ZF):** 112.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/yellowspacebars.jpg' | relative_url }}" alt="YellowSpacebars" class="image featured">
 
-#### Novelties
+### Novelties
 **Price(USD):** 38.99   **Price(RMB):** 267.86          **Price(ZF):** 273.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
-#### Cadr
+### Cadr
 **Price(USD):** 209.99  **Price(RMB):** 1442.63         **Price(ZF):** 1500.00          **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/kits_pics/cadr.jpg' | relative_url }}" alt="Cadr" class="image featured">
 

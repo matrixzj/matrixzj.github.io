@@ -49,99 +49,99 @@ NOTE: USD to RMB exchange rate is 6.67
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
-#### GreenScreenAlphas
+### GreenScreenAlphas
 **Price(USD):** 43.99   **Price(RMB):** 297.81  **Quantity:** 353
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/greenscreenalphas.png' | relative_url }}" alt="GreenScreenAlphas" class="image featured">
 
-#### AmberScreenAlphas
+### AmberScreenAlphas
 **Price(USD):** 45.99   **Price(RMB):** 311.35  **Quantity:** 190
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/amberscreenalphas.png' | relative_url }}" alt="AmberScreenAlphas" class="image featured">
 
-#### Modifiers
+### Modifiers
 **Price(USD):** 99.99   **Price(RMB):** 676.93  **Quantity:** 299
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/modifiers.png' | relative_url }}" alt="Modifiers" class="image featured">
 
-#### GreenScreenNumpad
+### GreenScreenNumpad
 **Price(USD):** 32.99   **Price(RMB):** 223.34  **Quantity:** 122
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/greenscreennumpad.png' | relative_url }}" alt="GreenScreenNumpad" class="image featured">
 
-#### ~~AmberScreenNumpad~~
+### ~~AmberScreenNumpad~~
 **Price(USD):** 36.99   **Price(RMB):** 250.42  **Quantity:** 68
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/amberscreennumpad.png' | relative_url }}" alt="AmberScreenNumpad" class="image featured">
 
-#### Novelties
+### Novelties
 **Price(USD):** 49.99   **Price(RMB):** 338.43  **Quantity:** 153
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
 
-#### Assembly
+### Assembly
 **Price(USD):** 23.99   **Price(RMB):** 162.41  **Quantity:** 114
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/assembly.png' | relative_url }}" alt="Assembly" class="image featured">
 
-#### ~~40bit~~
+### ~~40bit~~
 **Price(USD):** 99.99   **Price(RMB):** 676.93  **Quantity:** 9
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/40bit.png' | relative_url }}" alt="40bit" class="image featured">
 
-#### ~~Ergodox~~
+### ~~Ergodox~~
 **Price(USD):** 114.99  **Price(RMB):** 778.48  **Quantity:** 23
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
 
-#### ~~GreenScreenColevrak~~
+### ~~GreenScreenColevrak~~
 **Price(USD):** 30.99   **Price(RMB):** 209.80  **Quantity:** 19
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/greenscreencolevrak.png' | relative_url }}" alt="GreenScreenColevrak" class="image featured">
 
-#### ~~GreenScreenNorDeUK~~
+### ~~GreenScreenNorDeUK~~
 **Price(USD):** 69.99   **Price(RMB):** 473.83  **Quantity:** 14
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/greenscreennordeuk.png' | relative_url }}" alt="GreenScreenNorDeUK" class="image featured">
 
-#### AlternateF
+### AlternateF
 **Price(USD):** 20.99   **Price(RMB):** 142.10  **Quantity:** 79
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/alternatef.png' | relative_url }}" alt="AlternateF" class="image featured">
 
-#### ~~TenkeylessASM~~
+### ~~TenkeylessASM~~
 **Price(USD):** 24.99   **Price(RMB):** 169.18  **Quantity:** 20
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/tenkeylessasm.png' | relative_url }}" alt="TenkeylessASM" class="image featured">
 
-#### ~~MacrosASM~~
+### ~~MacrosASM~~
 **Price(USD):** 34.99   **Price(RMB):** 236.88  **Quantity:** 18
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/macrosasm.png' | relative_url }}" alt="MacrosASM" class="image featured">
 
-#### Arrows
+### Arrows
 **Price(USD):** 15.99   **Price(RMB):** 108.25  **Quantity:** 129
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/arrows.png' | relative_url }}" alt="Arrows" class="image featured">
 
-#### Spacekeys
+### Spacekeys
 **Price(USD):** 42.99   **Price(RMB):** 291.04  **Quantity:** 25
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/spacekeys.png' | relative_url }}" alt="Spacekeys" class="image featured">
 
-#### ~~GTTSpacebars~~
+### ~~GTTSpacebars~~
 **Price(USD):** 13.99   **Price(RMB):** 94.71   **Quantity:** 16
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/gttspacebars.png' | relative_url }}" alt="GTTSpacebars" class="image featured">
 
-#### ~~GQMSpacebars~~
+### ~~GQMSpacebars~~
 **Price(USD):** 13.99   **Price(RMB):** 94.71   **Quantity:** 14
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/gqmspacebars.png' | relative_url }}" alt="GQMSpacebars" class="image featured">
 
-#### VATSpacebars
+### VATSpacebars
 **Price(USD):** 7.99    **Price(RMB):** 54.09   **Quantity:** 116
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/vatspacebars.png' | relative_url }}" alt="VATSpacebars" class="image featured">
 
-#### YBPSpacebars
+### YBPSpacebars
 **Price(USD):** 10.99   **Price(RMB):** 74.40   **Quantity:** 74
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/ybpspacebars.png' | relative_url }}" alt="YBPSpacebars" class="image featured">
 
-#### OSX
+### OSX
 **Price(USD):** 39.99   **Price(RMB):** 270.73  **Quantity:** 29
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/osx.png' | relative_url }}" alt="OSX" class="image featured">
 
-#### ~~Communities~~
+### ~~Communities~~
 **Price(USD):** 17.99   **Price(RMB):** 121.79  **Quantity:** 25
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/communities.png' | relative_url }}" alt="Communities" class="image featured">
 
-#### LED
+### LED
 **Price(USD):** 34.99   **Price(RMB):** 236.88  **Quantity:** 27
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/led.png' | relative_url }}" alt="LED" class="image featured">
 
-#### VIM
+### VIM
 **Price(USD):** 16.99   **Price(RMB):** 115.02  **Quantity:** 195
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/vim.png' | relative_url }}" alt="VIM" class="image featured">
 

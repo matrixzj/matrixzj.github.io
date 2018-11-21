@@ -57,130 +57,130 @@ NOTE: USD to RMB exchange rate is 6.80
 
 ## Kits
 ### Alphas
-#### Oblivion Alphas
+### Oblivion Alphas
 **Price(USD):** 42.99    **Price(RMB):** 292.33    **Quantity:** 957
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_01_oblivion_alphas.png' | relative_url }}" atl="oblivion_alphas" class="image featured">
 
-#### Hagoromo Alphas
+### Hagoromo Alphas
 **Price(USD):** 42.99    **Price(RMB):** 292.33    **Quantity:** 633
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_02_hagoromo_alphas.png' | relative_url }}" atl="hagoromo_alphas" class="image featured">
 
 ### Modifiers
-#### Modifiers Oblivion
+### Modifiers Oblivion
 **Price(USD):** 47.99    **Price(RMB):** 326.33    **Quantity:** 611
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_03_oblivion_modifiers.png' | relative_url }}" atl="oblivion_modifiers" class="image featured">
 
-#### Modifiers Git
+### Modifiers Git
 **Price(USD):** 47.99    **Price(RMB):** 326.33    **Quantity:** 418
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_04_git_modifiers.png' | relative_url }}" atl="git_modifiers" class="image featured">
 
-#### Modifiers Monochrome
+### Modifiers Monochrome
 **Price(USD):** 59.99    **Price(RMB):** 407.93    **Quantity:** 357
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_05_monochrome_modifiers.png' | relative_url }}" atl="monochrome_modifiers" class="image featured">
 
 ### Numpad
-#### Numpad Oblivion
+### Numpad Oblivion
 **Price(USD):** 30.99    **Price(RMB):** 210.73    **Quantity:** 345
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_06_oblivion_numpad.png' | relative_url }}" atl="oblivion_numpad" class="image featured">
 
-#### Numpad Hagoromo
+### Numpad Hagoromo
 **Price(USD):** 30.99    **Price(RMB):** 210.73    **Quantity:** 225
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_07_hagoromo_numpad_5k.png' | relative_url }}" atl="hagoromo_numpad_5k" class="image featured">
 
 ### Extension
-#### Extension Oblivion
+### Extension Oblivion
 **Price(USD):** 42.99    **Price(RMB):** 292.33    **Quantity:** 226
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_08_oblivion_extension.png' | relative_url }}" atl="oblivion_extension" class="image featured">
 
-#### Extension Git
+### Extension Git
 **Price(USD):** 42.99    **Price(RMB):** 292.33    **Quantity:** 183
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_09_git_extension.png' | relative_url }}" atl="git_extension" class="image featured">
 
-#### Extension Monochrome
+### Extension Monochrome
 **Price(USD):** 52.99    **Price(RMB):** 360.33    **Quantity:** 92
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_10_monochrome_extension.png' | relative_url }}" atl="monochrome_extension" class="image featured">
 
-#### Extension Minila
+### Extension Minila
 **Price(USD):** 47.99    **Price(RMB):** 326.33    **Quantity:** 54
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_11_minila.png' | relative_url }}" atl="minila" class="image featured">
 
 ### Others
-#### Assembly
+### Assembly
 **Price(USD):** 25.99    **Price(RMB):** 176.73    **Quantity:** 270
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_12_assembly.png' | relative_url }}" atl="assembly" class="image featured">
 
-#### 40bit
+### 40bit
 **Price(USD):** 59.99    **Price(RMB):** 407.93    **Quantity:** 61
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_13_40bit.png' | relative_url }}" atl="40bit" class="image featured">
 
-#### ErgoDox
+### ErgoDox
 **Price(USD):** 69.99    **Price(RMB):** 475.93    **Quantity:** 126
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_14_ergodox.png' | relative_url }}" atl="ergodox" class="image featured">
 
 ### Colevrak
-#### Colevrak Oblivion
+### Colevrak Oblivion
 **Price(USD):** 42.99    **Price(RMB):** 292.33    **Quantity:** 46
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_15_oblivion_colevrak.png' | relative_url }}" atl="oblivion_colevrak" class="image featured">
 
-#### Colevrak Hagoromo
+### Colevrak Hagoromo
 **Price(USD):** 42.99    **Price(RMB):** 292.33    **Quantity:** 31
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_16_hagoromo_colevrak.png' | relative_url }}" atl="hagoromo_colevrak" class="image featured">
 
 ### UK & NorDes
-#### Oblivion and Git UK
+### Oblivion and Git UK
 **Price(USD):** 42.99    **Price(RMB):** 292.33    **Quantity:** 43
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_17_oblivion_and_git_uk.png' | relative_url }}" atl="oblivion_and_git_uk" class="image featured">
 
-#### Monochrome UK
+### Monochrome UK
 **Price(USD):** 42.99    **Price(RMB):** 292.33    **Quantity:** 39
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_18_monochrome_uk.png' | relative_url }}" atl="monochrome_uk" class="image featured">
 
-#### Oblivion NorDe
+### Oblivion NorDe
 **Price(USD):** 29.99    **Price(RMB):** 203.93    **Quantity:** 31
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_19_oblivion_norde.png' | relative_url }}" atl="oblivion_norde" class="image featured">
 
-#### NorDe Hagoromo
+### NorDe Hagoromo
 **Price(USD):** 29.99    **Price(RMB):** 203.93    **Quantity:** 27
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_20_hagoromo_norde.png' | relative_url }}" atl="hagoromo_norde" class="image featured">
 
 ### Alternatives
-#### Alternate F
+### Alternate F
 **Price(USD):** 12.99    **Price(RMB):** 88.33    **Quantity:** 225
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_21_alternate_function_colors.png' | relative_url }}" atl="alternate_function_colors" class="image featured">
 
-#### tenkenless.asm
+### tenkenless.asm
 **Price(USD):** 28.99    **Price(RMB):** 197.13    **Quantity:** 63
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_22_tenkeyless_asm.png' | relative_url }}" atl="tenkeyless_asm" class="image featured">
 
-#### macros.asm
+### macros.asm
 **Price(USD):** 29.99    **Price(RMB):** 203.93    **Quantity:** 63
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_23_macros_asm.png' | relative_url }}" atl="macros_asm" class="image featured">
 
-#### Arrows
+### Arrows
 **Price(USD):** 9.99    **Price(RMB):** 67.93    **Quantity:** 436
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_24_arrows.png' | relative_url }}" atl="arrows" class="image featured">
 
-#### GD WFK Spacebars
+### GD WFK Spacebars
 **Price(USD):** 24.99    **Price(RMB):** 169.93    **Quantity:** 55
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_25_gd_and_wfk_spacekeys.png' | relative_url }}" atl="gd_and_wfk_spacekeys" class="image featured">
 
-#### GQM Spacebars
+### GQM Spacebars
 **Price(USD):** 19.99    **Price(RMB):** 135.93    **Quantity:** 46
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_26_gqm_spacebars_and_keys.png' | relative_url }}" atl="gqm_spacebars_and_keys" class="image featured">
 
-#### Oblivion OSX
+### Oblivion OSX
 **Price(USD):** 24.99    **Price(RMB):** 169.93    **Quantity:** 73
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_27_oblivion_osx.png' | relative_url }}" atl="oblivion_osx" class="image featured">
 
-#### Monochrome OSX
+### Monochrome OSX
 **Price(USD):** 32.99    **Price(RMB):** 224.33    **Quantity:** 22
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_28_monochrome_osx.png' | relative_url }}" atl="monochrome_osx" class="image featured">
 
-#### Communities
+### Communities
 **Price(USD):** 15.99    **Price(RMB):** 108.73    **Quantity:** 168
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_29_communities.png' | relative_url }}" atl="communities" class="image featured">
 
-#### LED
+### LED
 **Price(USD):** 39.99    **Price(RMB):** 271.93    **Quantity:** 69
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_30_oblivion_led_pad_printed.png' | relative_url }}" atl="oblivion_led_pad_printed" class="image featured">
 

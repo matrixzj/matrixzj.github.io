@@ -39,63 +39,63 @@ NOTE: USD to RMB exchange rate is 6.87
 <img src="{{ 'assets/images/sa-keycaps/bee/Price.jpg' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
-#### Base
+### Base
 **Price(USD):** 119.99  **Price(RMB):** 824.33          **Price(ZF):** 823.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
-#### BlueAlphas
+### BlueAlphas
 **Price(USD):** 74.99   **Price(RMB):** 515.18          **Price(ZF):** 514.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/bluealphas.jpg' | relative_url }}" alt="BlueAlphas" class="image featured">
 
-#### Numpad
+### Numpad
 **Price(USD):** 51.99   **Price(RMB):** 357.17          **Price(ZF):** 357.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
-#### Novelties
+### Novelties
 **Price(USD):** 54.99   **Price(RMB):** 377.78          **Price(ZF):** 377.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
-#### Planck
+### Planck
 **Price(USD):** 49.99   **Price(RMB):** 343.43          **Price(ZF):** 343.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/planck.jpg' | relative_url }}" alt="Planck" class="image featured">
 
-#### Tsafox
+### Tsafox
 **Price(USD):** 84.99   **Price(RMB):** 583.88          **Price(ZF):** 583.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/tsafox.jpg' | relative_url }}" alt="Tsafox" class="image featured">
 
-#### Ergodox
+### Ergodox
 **Price(USD):** 69.99   **Price(RMB):** 480.83          **Price(ZF):** 480.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/ergodox.jpg' | relative_url }}" alt="Ergodox" class="image featured">
 
-#### Led
+### Led
 **Price(USD):** 34.99   **Price(RMB):** 240.38          **Price(ZF):** 240.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/led.jpg' | relative_url }}" alt="Led" class="image featured">
 
-#### Arrows
+### Arrows
 **Price(USD):** 22.99   **Price(RMB):** 157.94          **Price(ZF):** 158.00           **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/arrows.jpg' | relative_url }}" alt="Arrows" class="image featured">
 
-#### AlternateColorway
+### AlternateColorway
 **Price(USD):** 14.99   **Price(RMB):** 102.98          **Price(ZF):** 75.00            **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/alternatecolorway.jpg' | relative_url }}" alt="AlternateColorway" class="image featured">
 
-#### NumberRow
+### NumberRow
 **Price(USD):** 14.99   **Price(RMB):** 102.98          **Price(ZF):** 75.00            **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/numberrow.jpg' | relative_url }}" alt="NumberRow" class="image featured">
 
-#### BlueSpacebars
+### BlueSpacebars
 **Price(USD):** 14.99   **Price(RMB):** 102.98          **Price(ZF):** 88.00            **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/bluespacebars.jpg' | relative_url }}" alt="BlueSpacebars" class="image featured">
 
-#### YellowSpacebars
+### YellowSpacebars
 **Price(USD):** 14.99   **Price(RMB):** 102.98          **Price(ZF):** 88.00            **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/yellowspacebars.jpg' | relative_url }}" alt="YellowSpacebars" class="image featured">
 
-#### ISO
+### ISO
 **Price(USD):** 19.99   **Price(RMB):** 137.33          **Price(ZF):** 94.00            **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/iso.jpg' | relative_url }}" alt="ISO" class="image featured">
 
-#### ISO
+### ISO
 **Price(USD):** 19.99    **Price(RMB):** 137.33        **Price(Taobao):** 94.00        **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/bee/kits_pics/iso.jpg' | relative_url }}" alt="ISO" class="image featured">
 

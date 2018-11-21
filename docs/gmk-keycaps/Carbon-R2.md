@@ -6,7 +6,7 @@ parent: GMK Keycaps
 nav_order: 1
 ---
 
-# GMK Carbon R2
+# Carbon R2
 
 ref link: [GMK Carbon Massdrop link](https://www.massdrop.com/buy/gmk-carbon-custom-keycap-set)
 
@@ -43,75 +43,75 @@ NOTE: USD to RMB exchange rate is 6.94
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
-#### Carbon Base
+### Carbon Base
 **Price(USD):** 159.99  **Price(RMB):** 1110.33         **Price(ZF):** 1117.00          **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/carbonbase.jpg' | relative_url }}" alt="CarbonBase" class="image featured">
 
-#### Bone Base
+### Bone Base
 **Price(USD):** 159.99  **Price(RMB):** 1110.33         **Price(ZF):** 1117.00          **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/bonebase.jpg' | relative_url }}" alt="BoneBase" class="image featured">
 
-#### Assembly
+### Assembly
 **Price(USD):** 109.99  **Price(RMB):** 763.33          **Price(ZF):** 768.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/assembly.jpg' | relative_url }}" alt="Assembly" class="image featured">
 
-#### Umka Modifiers
+### Umka Modifiers
 **Price(USD):** 159.99  **Price(RMB):** 1110.33         **Price(ZF):** 1117.00          **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/umkamodifiers.jpg' | relative_url }}" alt="UmkaModifiers" class="image featured">
 
-#### Beezarre Alphas
+### Beezarre Alphas
 **Price(USD):** 109.99  **Price(RMB):** 763.33          **Price(ZF):** 768.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/beezarrealphas.jpg' | relative_url }}" alt="BeezarreAlphas" class="image featured">
 
-#### Boneyard Alphas
+### Boneyard Alphas
 **Price(USD):** 109.99  **Price(RMB):** 763.33          **Price(ZF):** 768.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/boneyardalphas.jpg' | relative_url }}" alt="BoneyardAlphas" class="image featured">
 
-#### Carbon Cadet
+### Carbon Cadet
 **Price(USD):** 42.99   **Price(RMB):** 298.35          **Price(ZF):** 301.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/carboncadet.jpg' | relative_url }}" alt="CarbonCadet" class="image featured">
 
-#### Bone Icon Extension
+### Bone Icon Extension
 **Price(USD):** 72.99   **Price(RMB):** 506.55          **Price(ZF):** 510.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/boneiconextension.jpg' | relative_url }}" alt="BoneIconExtension" class="image featured">
 
-#### NorDeUK
+### NorDeUK
 **Price(USD):** 74.99   **Price(RMB):** 520.43          **Price(ZF):** 524.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/nordeuk.jpg' | relative_url }}" alt="NorDeUK" class="image featured">
 
-#### DC
+### DC
 **Price(USD):** 59.99   **Price(RMB):** 416.33          **Price(ZF):** 419.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/dc.jpg' | relative_url }}" alt="DC" class="image featured">
 
-#### Space
+### Space
 **Price(USD):** 49.99   **Price(RMB):** 346.93          **Price(ZF):** 349.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/space.jpg' | relative_url }}" alt="Space" class="image featured">
 
-#### Arrows
+### Arrows
 **Price(USD):** 49.99   **Price(RMB):** 346.93          **Price(ZF):** 349.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/arrows.jpg' | relative_url }}" alt="Arrows" class="image featured">
 
-#### Novelties
+### Novelties
 **Price(USD):** 49.99   **Price(RMB):** 346.93          **Price(ZF):** 419.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
-#### Rolling Bones
+### Rolling Bones
 **Price(USD):** 89.99   **Price(RMB):** 624.53          **Price(ZF):** 629.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/rollingbones.jpg' | relative_url }}" alt="RollingBones" class="image featured">
 
-#### Half-Life Lambda
+### Half-Life Lambda
 **Price(USD):** 39.99   **Price(RMB):** 277.53          **Price(ZF):** 280.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/half-lifelambda.jpg' | relative_url }}" alt="Half-LifeLambda" class="image featured">
 
-#### Warning Signs R0
+### Warning Signs R0
 **Price(USD):** 79.99   **Price(RMB):** 555.13          **Price(ZF):** 559.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/warningsignsr0.jpg' | relative_url }}" alt="WarningSignsR0" class="image featured">
 
-#### Warning Signs R1
+### Warning Signs R1
 **Price(USD):** 59.99   **Price(RMB):** 416.33          **Price(ZF):** 419.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/warningsignsr1.jpg' | relative_url }}" alt="WarningSignsR1" class="image featured">
 
-#### Salty
+### Salty
 **Price(USD):** 34.99   **Price(RMB):** 242.83          **Price(ZF):** 245.00           **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/salty.jpg' | relative_url }}" alt="Salty" class="image featured">
 
@@ -119,6 +119,7 @@ NOTE: USD to RMB exchange rate is 6.94
 * Designer: T0mb3ry
 * Profile: SA 0-1-2-3-4-5
 * Color Codes:
+* GB Time: 2018-11
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/rendering_pics/TkWlQAvQsi4b3woSF0Mf_AI7B2353-copy.jpg' | relative_url }}" alt="TkWlQAvQsi4b3woSF0Mf_AI7B2353-copy" class="image featured">

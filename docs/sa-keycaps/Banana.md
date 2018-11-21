@@ -26,7 +26,7 @@ NOTE: USD to RMB exchange rate is 6.87
 <img src="{{ 'assets/images/sa-keycaps/banana/price.png' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
-#### Full Set
+### Full Set
 **Price(USD):** 188.00     **Price(RMB):** 1290.00        **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/banana/kits_pics/fullset.jpg' | relative_url }}" alt="FullSet" class="image featured">
 
