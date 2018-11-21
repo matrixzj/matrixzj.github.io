@@ -30,23 +30,18 @@ OCO Price was 260 USD.
 
 ## Kits
 ### Base
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Solarized Alphas
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/solarizedalphas.png' | relative_url }}" alt="SolarizedAlphas" class="image featured">
 
 ### Tsangan
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/tsangan.png' | relative_url }}" alt="Tsangan" class="image featured">
 
 ### Numpad
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
 
 ### SolarISO
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** unkown    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/solariso.png' | relative_url }}" alt="SolarISO" class="image featured">
 
 ## Info
