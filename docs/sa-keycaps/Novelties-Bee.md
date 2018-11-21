@@ -18,6 +18,10 @@ ref link: Join 'Jack Studio' QQ Group for Groupbuy info
 
 ## Price
 
+| Name          | Price(USD)    | Price(RMB)  | Quantity |
+| ------------- | ------------- | ----------- | -------- |
+|[Bee](#kits)|N/A|106.00|unknown|
+
 
 ## Kits
 <img src="{{ 'assets/images/sa-keycaps/noveltiesbee/kits_pics/bee.jpeg' | relative_url }}" alt="BEE" class="image featured">

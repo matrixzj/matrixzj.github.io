@@ -39,8 +39,9 @@ NOTE: USD to RMB exchange rate is 6.94
 
 ## Info
 * Designer: TheKeyCompany
-* Profile: SA GMK 1-1-2-3-4-4
+* Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-11
+* ColorCodes: as shown in kits pictures
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/dmg/rendering_pics/5.jpg' | relative_url }}" alt="5" class="image featured">

@@ -116,7 +116,7 @@ with open(filepath) as fp:
 
        print "### %s" % kitname
        print result
-       print '<img src="{{ \'assets/images/%s/%s/kits_pics/%s.jpg\' | relative_url }}" alt="%s" class="image featured">' % ( keycapstype, name.lower().replace(" ",""), kitname.lower().replace(" ",""), kitname.replace(" ","") )
+       print '<img src="{{ \'assets/images/%s-keycaps/%s/kits_pics/%s.jpg\' | relative_url }}" alt="%s" class="image featured">' % ( keycapstype, name.lower().replace(" ",""), kitname.lower().replace(" ",""), kitname.replace(" ","") )
        print ''
        line = fp.readline()
        cnt += 1
