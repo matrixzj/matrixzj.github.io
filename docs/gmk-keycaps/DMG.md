@@ -24,20 +24,18 @@ NOTE: USD to RMB exchange rate is 6.94
 |[pocket](#pocket)|48.00|333.12|339.00|unknown|
 |[space](#space)|22.00|152.68|156.00|unknown|
 
-<img src="{{ 'assets/images/gmk-keycaps/dmg/price.jpg' | relative_url }}" alt="price" class="image featured">
-
 ## Kits
 ### base
 **Price(USD):** 169.00    **Price(RMB):** 1172.86        **Price(ZF):** 1198.00        **Quantity:** unknown
-<img src="{{ 'assets/images/gmk/dmg/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/dmg/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### pocket
 **Price(USD):** 48.00    **Price(RMB):** 333.12        **Price(ZF):** 339.00        **Quantity:** unknown
-<img src="{{ 'assets/images/gmk/dmg/kits_pics/pocket.jpg' | relative_url }}" alt="pocket" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/dmg/kits_pics/pocket.jpg' | relative_url }}" alt="pocket" class="image featured">
 
 ### space
 **Price(USD):** 22.00    **Price(RMB):** 152.68        **Price(ZF):** 156.00        **Quantity:** unknown
-<img src="{{ 'assets/images/gmk/dmg/kits_pics/space.jpg' | relative_url }}" alt="space" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/dmg/kits_pics/space.jpg' | relative_url }}" alt="space" class="image featured">
 
 ## Info
 * Designer: TheKeyCompany
