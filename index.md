@@ -44,6 +44,7 @@ permalink: /
 * [Pulse R1 脉冲R1](docs/sa-keycaps/Pulse-R1/)  
 * [Pulse R2 脉冲R2](docs/sa-keycaps/Pulse-R2/)  
 * [Pulse R3 脉冲R3](docs/sa-keycaps/Pulse-R3/)  
+* [Penumbra](docs/sa-keycaps/Penumbra/)  
 
 ---
 

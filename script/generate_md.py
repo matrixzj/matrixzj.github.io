@@ -6,11 +6,11 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-name = 'DMG'
-keycapstype = 'gmk'
-rate = 6.94
-designer = 'TheKeyCompany'
-profile = '%s 1-1-2-3-4-4' % ( keycapstype.upper() )
+name = 'Penumbra'
+keycapstype = 'SA'
+rate = 6.07
+designer = 'Bunny'
+profile = '%s 1-2-3-3-4-4' % ( keycapstype.upper() )
 colorcodes = ''
 
 print "---\ntitle: %s\nlayout: default\nicon: fa-keyboard-o\nparent: %s Keycaps\nnav_order: 1\n---\n\n# %s\n\nref link: []()\n\n* [Price](#price)\n* [Kits](#kits)\n* [Info](#info)\n* [Pictures](#pictures)\n\n## Price" % (name, keycapstype, name)
@@ -124,7 +124,7 @@ with open(filepath) as fp:
 # generate info part
 print """## Info
 * Designer: %s
-* Profile: SA %s""" % (designer, profile)
+* Profile: %s""" % (designer, profile)
 print "* Color Codes: %s  " % (colorcodes)
 for color in colorcodes.split('/'):
     print '<img src="{{ \'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_%s.png\' | relative_url }}" alt="color%s" height="150" width="340">' % (color, color)
@@ -132,7 +132,7 @@ for color in colorcodes.split('/'):
 # generate picture part
 print """
 ## Pictures"""
-picpath = '/home/juzou/documents/matrixzj.github.io/assets/images/%s-keycaps/%s/rendering_pics/' % (keycapstype, name.lower().replace(" ",""))
+picpath = '/home/juzou/documents/matrixzj.github.io/assets/images/%s-keycaps/%s/rendering_pics/' % (keycapstype.lower(), name.lower().replace(" ",""))
 pictures = [f for f in listdir(picpath)]
 for pic in pictures:
    print '<img src="{{ \'assets/images/%s-keycaps/%s/rendering_pics/%s\' | relative_url }}" alt="%s" class="image featured">' % ( keycapstype, name.lower().replace(" ",""), pic, pic.replace(".jpg","") )
