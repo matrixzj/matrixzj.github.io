@@ -54,6 +54,7 @@ permalink: /
 * [Nautilus 鹦鹉螺](docs/sa-keycaps/Nautilus/)
 * [Dolch 灰黑](docs/sa-keycaps/Dolch/)
 * [Cain 灰蓝](docs/sa-keycaps/Cain/)
+* [Add](docs/sa-keycaps/Add/)
 
 ---
 
