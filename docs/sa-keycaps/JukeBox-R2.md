@@ -92,6 +92,7 @@ NOTE: less than COQ(25)
 ## Info
 * Designer: LSB(livingspeedbump)
 * Profile: SA 1-1-2-3-4-4
+* GB Time: 2016-05
 * Color Codes: TM/VCO/RN  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TM.png' | relative_url }}" alt="colorTM" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" height="150" width="340">

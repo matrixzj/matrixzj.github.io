@@ -112,7 +112,8 @@ NOTE: less than COQ(50)
 
 ## Info
 * Designer: Mito
-* Profile: SA 1-1-2-3-4-3
+* Profile: SA 1-1-2-3-4-3 / 2-3-3-3-3-3 (cockpit)
+* GB Time: 2016-09
 * Color Codes: WBO/GTD/BFJ/YCE/VCO/RA
 
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="150" width="340">

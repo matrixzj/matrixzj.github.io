@@ -189,6 +189,7 @@ NOTE: less than COQ(25)
 ## Info
 * Designer: T0mb3ry
 * Profile: SA 1-1-2-3-4-4
+* GB Time: 2017-05
 * Color Codes: OBC/WBO/GQM  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OBC.png' | relative_url }}" alt="colorOBC" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="150" width="340">

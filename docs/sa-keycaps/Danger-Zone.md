@@ -92,7 +92,8 @@ NOTE: USD to RMB exchange rate is 6.55
 
 ## Info
 * Designer: Data(GH id)
-* Profile: SA All R3
+* Profile: SA Uniform R3
+* GB Time: 2015-09
 * Color Codes: BFU/GSM/YY/RAS  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GSM.png' | relative_url }}" alt="colorGSM" height="150" width="340">

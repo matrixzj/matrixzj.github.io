@@ -56,6 +56,7 @@ NOTE: USD to RMB exchange rate is 6.29
 ## Info
 * Designer: THRILLHOIAF
 * Profile: SA 1-1-2-3-4-4
+* GB Time: 2018-02
 * Color Codes: Most of color are not from SP abs color codes, please refer info in kits pictures  
 
 ## Pictures

@@ -76,6 +76,7 @@ NOTE: USD to RMB exchange rate is 6.60
 ## Info
 * Designer: Thesiscamper 
 * Profile: SA 1-1-2-3-4-4
+* GB Time: 2015-11
 * Color Codes: VAT/RDE/OAS/RN/WFK/NN  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAT.png' | relative_url }}" alt="colorVAT" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDE.png' | relative_url }}" alt="colorRDE" height="150" width="340">

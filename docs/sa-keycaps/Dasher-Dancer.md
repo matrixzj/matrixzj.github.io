@@ -140,6 +140,7 @@ NOTE: less than COQ(25)
 ## Info
 * Designer: zslane
 * Profile: SA 1-1-2-3-4-3
+* GB Time: 2016-12
 * Color Codes: BBJ/BO/WFK  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorBBJ" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BO.png' | relative_url }}" alt="colorBO" height="150" width="340">
