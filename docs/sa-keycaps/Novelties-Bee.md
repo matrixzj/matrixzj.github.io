@@ -29,6 +29,7 @@ ref link: Join 'Jack Studio' QQ Group for Groupbuy info
 ## Info
 * Designer: Jack Studio / 0.01 Studio
 * Profile: SA 
+* GB Time: 2018-06
 * Color Codes: YCF/NN  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
