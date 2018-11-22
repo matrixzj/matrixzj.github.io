@@ -33,6 +33,7 @@ NOTE: USD to RMB exchange rate is 6.87
 ## Info
 * Designer: FF
 * Profile: SA 1-1-2-3-4-4
+* GB Time: 2018-10
 * Color Codes: YBP/WCK/GX  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="150" width="340">
