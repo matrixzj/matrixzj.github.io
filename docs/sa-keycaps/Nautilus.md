@@ -32,10 +32,9 @@ NOTE: USD to RMB exchange rate is 6.90
 
 ## Info
 * Designer: Zambumon
-* Profile: 1-1-2-3-4-3
+* Profile: SA 1-1-2-3-4-3
 * GB Time: 2018-08
 * Color Codes:   
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_.png' | relative_url }}" alt="color" height="150" width="340">
 
 
 ## Pictures

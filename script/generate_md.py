@@ -178,7 +178,7 @@ print ''
 #
 print """## Info
 * Designer: %s
-* Profile: %s""" % (designer, profile)
+* Profile: %s %s""" % (designer, keycapstype, profile)
 print "* GB Time: %s" % time
 if keycapstype == "SA":
     print "* Color Codes: %s  " % (colorcodes)

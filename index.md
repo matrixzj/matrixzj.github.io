@@ -52,6 +52,7 @@ permalink: /
 * [Violet on Cream 奶紫ZF](docs/sa-keycaps/Violet-on-Cream/)
 * [Nautilus 鹦鹉螺](docs/sa-keycaps/Nautilus/)
 * [Dolch 灰黑](docs/sa-keycaps/Dolch/)
+* [Cain 灰蓝](docs/sa-keycaps/Cain/)
 
 ---
 

@@ -32,7 +32,7 @@ NOTE: USD to RMB exchange rate is 6.90
 
 ## Info
 * Designer: Round 5
-* Profile: 1-1-2-3-4-3
+* Profile: SA 1-1-2-3-4-3
 * GB Time: 2017-01
 * Color Codes: RAS/WFK/GPA/NN  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAS.png' | relative_url }}" alt="colorRAS" height="150" width="340">
