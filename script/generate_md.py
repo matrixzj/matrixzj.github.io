@@ -196,3 +196,8 @@ if os.path.isdir(picPath):
     pictures = [f for f in listdir(picPath)]
     for pic in pictures:
        print '<img src="{{ \'assets/images/%s-keycaps/%s/rendering_pics/%s\' | relative_url }}" alt="%s" class="image featured">' % ( keycapstype.lower(), name.lower().replace(" ",""), pic, pic.replace(".jpg","") )
+
+
+# generate index
+print "* [%s %s](docs/%s-keycaps/%s/)" % (name, cname, keycapstype, name)
+
