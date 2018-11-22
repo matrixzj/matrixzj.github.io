@@ -40,4 +40,5 @@ NOTE: USD to RMB exchange rate is 6.87
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GX.png' | relative_url }}" alt="colorGX" height="150" width="340">
 
 ## Pictures
+<img src="{{ 'assets/images/sa-keycaps/banana/rendering_pics/banana.jpg' | relative_url }}" alt="banana" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/banana/rendering_pics/QQ20180928-0.jpg' | relative_url }}" alt="QQ20180928-0" class="image featured">
