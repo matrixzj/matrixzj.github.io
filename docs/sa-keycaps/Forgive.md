@@ -38,6 +38,7 @@ NOTE: USD to RMB exchange rate is 6.90
 ## Info
 * Designer: HOQ
 * Profile: SA 1-1-2-3-4-4
+* GB Time: 2018-11
 * Color Codes: VCO/VAF/RCU/NN  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAF.png' | relative_url }}" alt="colorVAF" height="150" width="340">

@@ -172,6 +172,7 @@ print ''
 print """## Info
 * Designer: %s
 * Profile: %s""" % (designer, profile)
+print "* GB Time: %s" % time
 if keycapstype == "SA":
     print "* Color Codes: %s  " % (colorcodes)
     for color in colorcodes.split('/'):
