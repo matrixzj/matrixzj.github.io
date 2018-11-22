@@ -41,6 +41,7 @@ NOTE: USD to RMB exchange rate is 6.47
 ## Info
 * Designer: Madeo
 * Profile: SA 1-1-2-3-4-4
+* GB Time: 2018-06
 * Color Codes: WCK/OAV/YBP/TGG/WA  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAV.png' | relative_url }}" alt="colorOAV" height="150" width="340">
