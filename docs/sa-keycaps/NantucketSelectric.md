@@ -44,10 +44,10 @@ NOTE: USD to RMB exchange rate is 6.58
 * Designer: skullydazed
 * Profile: SA 1-1-2-3-4-4
 * Color Codes: BBI/WV/RDD/YCF  
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBI.png' | relative_url }}" alt="colorBBI" height="150" width="340">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_WV.png' | relative_url }}" alt="colorWV" height="150" width="340">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDD.png' | relative_url }}" alt="colorRDD" height="150" width="340">
-<img src="{{ 'assets/images/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBI.png' | relative_url }}" alt="colorBBI" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WV.png' | relative_url }}" alt="colorWV" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDD.png' | relative_url }}" alt="colorRDD" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="150" width="340">
 
 
 ## Pictures
