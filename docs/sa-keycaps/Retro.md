@@ -16,6 +16,7 @@ ref link: [SA Retro Groupbuy Link](https://ctrlalt.io/buys/sa-retro)
 * [Pictures](#pictures)
 
 ## Price
+
 Since groupbuy was happened in May 2015 via Ctrlalt, price info was unable to get. If you know it, please let me. Thanks a lot!
 
 ## Kits
