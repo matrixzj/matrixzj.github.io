@@ -130,7 +130,7 @@ NOTE: USD to RMB exchange rate is 6.87
 
 ## Info
 * Designer: xblackdog/hhkbp2
-* Profile: SA 1-1-2-3-4-3
+* Profile: SA Uniform R3(round1)/ 1-1-2-3-4-3(round2) and Uniform R3(cadr kit)
 * GB Time: 2015-02(PMK) / 2018-09(Kono)
 * Color Codes: BFP/GD/YBP/RDA/RA/WFK/WCK/NN
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/colors.jpg' | relative_url }}" alt="color" class="image featured">

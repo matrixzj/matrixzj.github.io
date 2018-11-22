@@ -61,12 +61,14 @@ NOTE: USD to RMB exchange rate is 6.87
 ## Info
 * Designer: Kingnesta
 * Profile: SA 1-1-2-3-4-3
+* GB Time: 
 * Color Codes: VAT/VBQ/WFK (Grey colors in Lime is customized)
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAT.png' | relative_url }}" alt="colorVAT" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VBQ.png' | relative_url }}" alt="colorVBQ" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="150" width="340">
 
 ## Pictures
+<img src="{{ 'assets/images/sa-keycaps/lime/rendering_pics/lime.png' | relative_url }}" alt="lime.png" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/lime/rendering_pics/Render2.png' | relative_url }}" alt="Render2.png" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/lime/rendering_pics/Render1.png' | relative_url }}" alt="Render1.png" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/lime/rendering_pics/Render4.png' | relative_url }}" alt="Render4.png" class="image featured">
