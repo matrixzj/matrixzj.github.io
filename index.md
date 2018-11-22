@@ -48,6 +48,7 @@ permalink: /
 * [Nantucket Selectric 大航海](docs/sa-keycaps/NantucketSelectric/)  
 * [Forgive 原谅](docs/sa-keycaps/Forgive/)  
 * [JukeBox R1 脆皮鸡R1](docs/sa-keycaps/JukeBox-R1/)
+* [Song 宋](docs/sa-keycaps/Song/)
 
 ---
 

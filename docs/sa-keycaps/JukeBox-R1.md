@@ -24,7 +24,7 @@ Since groupbuy was happened in June 2015 via Massdrop, price info was unable to 
 <img src="{{ 'assets/images/sa-keycaps/jukeboxr1/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Non-Standard
-<img src="{{ 'assets/images/sa-keycaps/jukeboxr1/kits_pics/non-standard.jpg' | relative_url }}" alt="Non-Standard" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/jukeboxr1/kits_pics/nonstandard.jpg' | relative_url }}" alt="Non-Standard" class="image featured">
 
 ### Novelties
 <img src="{{ 'assets/images/sa-keycaps/jukeboxr1/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
