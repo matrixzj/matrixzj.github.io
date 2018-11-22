@@ -62,7 +62,8 @@ NOTE: USD to RMB exchange rate is 6.87
 * Designer: Kingnesta
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2018-08(Pre-Production on PMK)
-* Color Codes: VAT/VBQ/WFK (Grey colors in Lime is customized)
+* Color Codes: VAT/VBQ/WFK/GUH/GUK
+GUH is a custom color match to Pantone 430C and GUK is a custom color match to Pantone 5455C
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAT.png' | relative_url }}" alt="colorVAT" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VBQ.png' | relative_url }}" alt="colorVBQ" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="150" width="340">
