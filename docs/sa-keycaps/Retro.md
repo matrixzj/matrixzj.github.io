@@ -16,7 +16,7 @@ ref link: [SA Retro Groupbuy Link](https://ctrlalt.io/buys/sa-retro)
 * [Pictures](#pictures)
 
 ## Price
-Since groupbuy was happened in 2015, price info was unable to get. If you know it, please let me. Thanks a lot!
+Since groupbuy was happened in May 2015 via Ctrlalt, price info was unable to get. If you know it, please let me. Thanks a lot!
 
 ## Kits
 ### Retro Burgundy
@@ -76,6 +76,7 @@ Since groupbuy was happened in 2015, price info was unable to get. If you know i
 ## Info
 * Designer: Matt3o
 * Profile: SA 1-1-2-3-4-4
+* GB Time: 2015-05
 * Color Codes: WA/VAV/RBC/TBN  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WA.png' | relative_url }}" alt="colorWA" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAV.png' | relative_url }}" alt="colorVAV" height="150" width="340">
@@ -83,5 +84,6 @@ Since groupbuy was happened in 2015, price info was unable to get. If you know i
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBN.png' | relative_url }}" alt="colorTBN" height="150" width="340">
 
 ## Pictures
+<img src="{{ 'assets/images/sa-keycaps/retro/rendering_pics/retro.jpg' | relative_url }}" alt="retro" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/retro/rendering_pics/lg_39057bdf5be96324e656853e3dc43642.jpg' | relative_url }}" alt="lg_39057bdf5be96324e656853e3dc43642" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/retro/rendering_pics/retro01.jpg' | relative_url }}" alt="retro01" class="image featured">
