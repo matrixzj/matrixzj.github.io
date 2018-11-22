@@ -55,6 +55,7 @@ permalink: /
 * [Dolch 灰黑](docs/sa-keycaps/Dolch/)
 * [Cain 灰蓝](docs/sa-keycaps/Cain/)
 * [Add](docs/sa-keycaps/Add/)
+* [Doom 奶紫](docs/sa-keycaps/Doom/)
 
 ---
 
