@@ -38,7 +38,7 @@ NOTE: USD to RMB exchange rate is 6.85
 |[Spacebars](#spacebars)|9.18|62.88|unknown|
 |[Arrows](#arrows)|8.59|58.84|unknown|
 
-<img src="{{ 'assets/images/sa-keycaps/mechanist/Price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/mechanist/price.png' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
 ### Alphas
@@ -108,6 +108,7 @@ NOTE: USD to RMB exchange rate is 6.85
 ## Info
 * Designer: HOQ
 * Profile: SA 1-1-2-3-4-3
+* GB Time: 2018-08
 * Color Codes: BFR/BBJ/BFM/WFK  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="colorBFR" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorBBJ" height="150" width="340">
@@ -116,3 +117,4 @@ NOTE: USD to RMB exchange rate is 6.85
 <img src="{{ 'assets/images/sa-keycaps/mechanist/mechanistcolor.png' | relative_url }}" alt="mechanist design color" class="image featured">
 
 ## Pictures
+<img src="{{ 'assets/images/sa-keycaps/mechanist/rendering_pics/mechanist.png' | relative_url }}" alt="mechanist" class="image featured">
