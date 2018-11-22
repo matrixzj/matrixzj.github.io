@@ -199,5 +199,5 @@ if os.path.isdir(picPath):
 
 
 # generate index
-print "* [%s %s](docs/%s-keycaps/%s/)" % (name, cname, keycapstype, name)
+print "* [%s %s](docs/%s-keycaps/%s/)" % (name, cname, keycapstype.lower(), name)
 
