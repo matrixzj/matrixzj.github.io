@@ -36,10 +36,17 @@ colorcodes = lines[7].split("'")[1]
 # get plateform
 platform = lines[8].split("'")[1]
 
-# key: usd, rmb, zfprice, quantity
+# get link
+link = lines[9].split("'")[1]
+
+# generate navOrder
+keycapPath = '/home/juzou/documents/matrixzj.github.io/docs/%s-keycaps/' % keycapstype.lower()
+navOrder = len([eachfile for eachfile in os.listdir(keycapPath) if os.path.isfile(os.path.join(keycapPath, eachfile))])
+
+# key: name, usd, rmb, proxyprice, quantity
 priceDict = {}
 sn = 1
-for line in lines[9:]:
+for line in lines[10:]:
     kitName = line.split("|")[0]
 
     kitUSD = line.split("|")[1]
@@ -72,7 +79,7 @@ for line in lines[9:]:
     priceDict[sn] = [kitName, kitUSD, kitRMB, kitPlatformPrice, kitQuantity]
     sn += 1
 
-print "---\ntitle: %s %s\nlayout: default\nicon: fa-keyboard-o\nparent: %s Keycaps\nnav_order: 1\n---\n\n# %s %s\n\nref link: []()\n\n* [Price](#price)\n* [Kits](#kits)\n* [Info](#info)\n* [Pictures](#pictures)\n\n\n## Price  " % (name, cname, keycapstype, name, cname)
+print "---\ntitle: %s %s\nlayout: default\nicon: fa-keyboard-o\nparent: %s Keycaps\nnav_order: %d\n---\n\n# %s %s\n\nref link: [%s %s GB Link](%s)\n\n* [Price](#price)\n* [Kits](#kits)\n* [Info](#info)\n* [Pictures](#pictures)\n\n\n## Price  " % (name, cname, keycapstype, navOrder, name, cname, name, platform, link)
 
 print 'NOTE: USD to RMB exchange rate is %.2f' % rate
 
