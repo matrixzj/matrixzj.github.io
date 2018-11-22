@@ -1,12 +1,12 @@
 ---
-title: Symbiosis R2 塞班/共生R2
+title: Symbiosis 塞班/共生
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 21
 ---
 
-# Symbiosis R2 塞班/共生R2
+# Symbiosis 塞班/共生
 
 ref link: [KONO GB Link](https://kono.store/collections/keycap-sets/products/sa-symbiosis-keycaps)
 
@@ -131,6 +131,7 @@ NOTE: USD to RMB exchange rate is 6.87
 ## Info
 * Designer: xblackdog/hhkbp2
 * Profile: SA 1-1-2-3-4-3
+* GB Time: 2015-02(PMK) / 2018-09(Kono)
 * Color Codes: BFP/GD/YBP/RDA/RA/WFK/WCK/NN
 <img src="{{ 'assets/images/sa-keycaps/symbiosisr2/colors.jpg' | relative_url }}" alt="color" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFP.png' | relative_url }}" alt="colorBFP" height="150" width="340">

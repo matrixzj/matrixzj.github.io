@@ -38,7 +38,7 @@ permalink: /
 * [Kobayashi 犬岛](docs/sa-keycaps/Kobayashi/)  
 * [Mechanist 机械师](docs/sa-keycaps/Mechanist/)  
 * [Lime 青柠](docs/sa-keycaps/Lime/)  
-* [Symbiosis R2 塞班/共生R2](docs/sa-keycaps/Symbiosis-R2/)  
+* [Symbiosis 塞班/共生](docs/sa-keycaps/Symbiosis/)  
 * [Banana 香蕉](docs/sa-keycaps/Banana/)  
 * [Bee 蜜蜂](docs/sa-keycaps/Bee/)  
 * [Pulse R1 脉冲R1](docs/sa-keycaps/Pulse-R1/)  
