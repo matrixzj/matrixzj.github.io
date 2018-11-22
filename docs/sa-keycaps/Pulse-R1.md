@@ -17,7 +17,6 @@ ref link: [Pulse R1 link](https://geekhack.org/index.php?topic=61822.0)
 
 ## Price
 
-Round 1: 09/2014  
 NOTE: USD to RMB exchange rate is 6.16
 
 | Name          | Price(USD)    | Price(RMB)  | Price(KP)  | Quantity |
@@ -76,7 +75,8 @@ NOTE: USD to RMB exchange rate is 6.16
 
 ## Info
 * Designer: Mito
-* Profile: SA 1-1-2-3-4-3
+* Profile: SA 3-1-2-3-4-3 / 3-3-2-3-4-3 for 60% Stripe
+* GB Time: 2014-09
 * Color Codes: OAS/NN/RA/VAT/BBQ  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAS.png' | relative_url }}" alt="colorOAS" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
@@ -85,12 +85,4 @@ NOTE: USD to RMB exchange rate is 6.16
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBQ.png' | relative_url }}" alt="colorBBQ" height="150" width="340">
 
 ## Pictures
-<img src="{{ 'assets/images/sa-keycaps/pulser1/rendering_pics/picture01.jpg' | relative_url }}" atl="picture01.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/pulser1/rendering_pics/picture02.jpg' | relative_url }}" atl="picture02.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/pulser1/rendering_pics/picture03.jpg' | relative_url }}" atl="picture03.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/pulser1/rendering_pics/picture04.jpg' | relative_url }}" atl="picture04.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/pulser1/rendering_pics/picture05.jpg' | relative_url }}" atl="picture05.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/pulser1/rendering_pics/picture06.jpg' | relative_url }}" atl="picture06.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/pulser1/rendering_pics/picture07.jpg' | relative_url }}" atl="picture07.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/pulser1/rendering_pics/picture08.jpg' | relative_url }}" atl="picture08.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/pulser1/rendering_pics/picture09.jpg' | relative_url }}" atl="picture09.jpg" class="image featured">
+Please refer to Round 3 pictures

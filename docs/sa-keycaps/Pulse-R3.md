@@ -17,7 +17,6 @@ ref link: [Pulse R3 Massdrop link](https://www.massdrop.com/buy/pulse-sa-keycap-
 
 ## Price
 
-Round 3: 05/2018
 NOTE: USD to RMB exchange rate is 6.40
 
 | Name          | Price(USD)    | Price(RMB)  | Quantity |
