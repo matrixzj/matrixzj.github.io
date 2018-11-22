@@ -111,7 +111,7 @@ NOTE: USD to RMB exchange rate is 6.87
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee1.jpg' | relative_url }}" alt="bee1" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee2.jpg' | relative_url }}" alt="bee2" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee3.png' | relative_url }}" alt="bee3" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee3.jpg' | relative_url }}" alt="bee3" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee4.jpg' | relative_url }}" alt="bee4" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee5.jpg' | relative_url }}" alt="bee5" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee6.jpg' | relative_url }}" alt="bee6" class="image featured">
