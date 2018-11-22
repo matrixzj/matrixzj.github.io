@@ -109,14 +109,14 @@ NOTE: USD to RMB exchange rate is 6.87
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
 
 ## Pictures
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee.jpg' | relative_url }}" alt="bee" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/AoZA9eJxQCKbpbWF7A4i_微信图片_20180727174500.jpg' | relative_url }}" alt="AoZA9eJxQCKbpbWF7A4i_微信图片_20180727174500" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/SfvvHdSSQ4mIqYeSS7PB_pcs.png' | relative_url }}" alt="SfvvHdSSQ4mIqYeSS7PB_pcs.png" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/dip62rB6Q4aXZsirTuz3_微信图片_20180727174513.jpg' | relative_url }}" alt="dip62rB6Q4aXZsirTuz3_微信图片_20180727174513" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/u1E5maLJSW6qvRrkaEMI_vdcHTzauQimhjXO3Ewhp_TB2yLo9yLiSBuNkSnhJXXbDcpXa_!!86015913.jpg' | relative_url }}" alt="u1E5maLJSW6qvRrkaEMI_vdcHTzauQimhjXO3Ewhp_TB2yLo9yLiSBuNkSnhJXXbDcpXa_!!86015913" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/EFWhXWrbSKCyZltbfsTQ_微信图片_20180727174434.jpg' | relative_url }}" alt="EFWhXWrbSKCyZltbfsTQ_微信图片_20180727174434" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/C4LGotXMTcupg77Tc5Ry_kfEcdlWURKmDIv87JRiw_TB2h6f1X56guuRjy0FmXXa0DXXa_!!86015913.jpg' | relative_url }}" alt="C4LGotXMTcupg77Tc5Ry_kfEcdlWURKmDIv87JRiw_TB2h6f1X56guuRjy0FmXXa0DXXa_!!86015913" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/cTFx5tPT4q5sXUceROxY_Dgfpb8yZRHGW5Z1bPRKp_TB2anyVHkOWBuNjSsppXXXPgpXa_!!86015913.jpg' | relative_url }}" alt="cTFx5tPT4q5sXUceROxY_Dgfpb8yZRHGW5Z1bPRKp_TB2anyVHkOWBuNjSsppXXXPgpXa_!!86015913" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/dywSA3W1RDKvh4kFaJFs_banner.jpg' | relative_url }}" alt="dywSA3W1RDKvh4kFaJFs_banner" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/Oq2fn1gCSdGOoCabq94m_微信图片_20180727174456.jpg' | relative_url }}" alt="Oq2fn1gCSdGOoCabq94m_微信图片_20180727174456" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/kf3o3VCoTcWuvoPc5Hzq_微信图片_20180727174507.jpg' | relative_url }}" alt="kf3o3VCoTcWuvoPc5Hzq_微信图片_20180727174507" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee1.jpg' | relative_url }}" alt="bee1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee2.jpg' | relative_url }}" alt="bee2" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee3.png' | relative_url }}" alt="bee3" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee4.jpg' | relative_url }}" alt="bee4" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee5.jpg' | relative_url }}" alt="bee5" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee6.jpg' | relative_url }}" alt="bee6" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee7.jpg' | relative_url }}" alt="bee7" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee8.jpg' | relative_url }}" alt="bee8" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee9.jpg' | relative_url }}" alt="bee9" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee10.jpg' | relative_url }}" alt="bee10" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee11.jpg' | relative_url }}" alt="bee11" class="image featured">
