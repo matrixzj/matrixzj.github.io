@@ -45,6 +45,7 @@ permalink: /
 * [Pulse R2 脉冲R2](docs/sa-keycaps/Pulse-R2/)  
 * [Pulse R3 脉冲R3](docs/sa-keycaps/Pulse-R3/)  
 * [Penumbra](docs/sa-keycaps/Penumbra/)  
+* [Nantucket Selectric 大航海](docs/sa-keycaps/NantucketSelectric/)  
 
 ---
 
