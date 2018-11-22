@@ -1,0 +1,19 @@
+name = 'Nantucket Selectric'
+keycapstype = 'SA'
+rate = '6.58'
+designer = 'skullydazed'
+profile = 'SA 1-1-2-3-4-4'
+time = '2016-01'
+colorcodes = 'BBI/WV/RDD/YCF'
+TKL|85||||
+Planck|37||||
+Ergodox|88||||
+Numpad|24||||
+Homing|7||||
+DC|30||||
+ISO|22||||
+EU|55||||
+MAC|19||||
+Specialty|32||||
+Cape Cod|13||||
+Amity Island|20||||

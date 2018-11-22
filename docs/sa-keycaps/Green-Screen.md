@@ -19,7 +19,7 @@ ref link: [Green Screen Massdrop link](https://www.massdrop.com/buy/massdrop-x-a
 
 NOTE: USD to RMB exchange rate is 6.67
 
-| Name          | Price(USD)    |  Price(KP)  | Quantity |
+| Name          | Price(USD)    |  Price(RMB)  | Quantity |
 | ------------- | ------------- |  ---------- | -------- |
 |[GreenScreenAlphas](#greenscreenalphas)|43.99|297.81|353|
 |[AmberScreenAlphas](#amberscreenalphas)|45.99|311.35|190|
