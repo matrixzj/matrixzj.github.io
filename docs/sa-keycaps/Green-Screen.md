@@ -148,6 +148,7 @@ NOTE: USD to RMB exchange rate is 6.67
 ## Info
 * Designer: Oblotzk/admgc/Harlw
 * Profile: SA 1-1-2-3-4-3
+* GB Time: 2018-07
 * Color Codes: GTT/GQM/TBN/VAT/YBP  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTT.png' | relative_url }}" alt="colorGTT" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GQM.png' | relative_url }}" alt="colorGQM" height="150" width="340">
@@ -157,6 +158,7 @@ NOTE: USD to RMB exchange rate is 6.67
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/greenscreencolor.png' | relative_url }}" alt="green screen design color" class="image featured">
 
 ## Pictures
+<img src="{{ 'assets/images/sa-keycaps/greenscreen/rendering_pics/greenscreen.jpg' | relative_url }}" alt="greenscreen" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/rendering_pics/EhD7OYZETE6oFXIzji6A_sa_green_screen_m65_green_accents_novelties_3k.jpg' | relative_url }}" alt="EhD7OYZETE6oFXIzji6A_sa_green_screen_m65_green_accents_novelties_3k" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/rendering_pics/gYnMABjzRYaQSPV4ILOy_sa_green_screen_vernetkl_green_accents_3k.jpg' | relative_url }}" alt="gYnMABjzRYaQSPV4ILOy_sa_green_screen_vernetkl_green_accents_3k" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/rendering_pics/yYkB3y99Sdqb79vHiicA_banner.jpg' | relative_url }}" alt="yYkB3y99Sdqb79vHiicA_banner" class="image featured">
