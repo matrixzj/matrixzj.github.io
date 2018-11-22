@@ -102,12 +102,14 @@ NOTE: USD to RMB exchange rate is 6.87
 ## Info
 * Designer: Jack Studio & 0.01
 * Profile: SA 1-1-2-3-4-3
+* GB Time: 2018-10
 * Color Codes: YCF/BFJ/NN  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png' | relative_url }}" alt="colorBFJ" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
 
 ## Pictures
+<img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee.jpg' | relative_url }}" alt="bee" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/AoZA9eJxQCKbpbWF7A4i_微信图片_20180727174500.jpg' | relative_url }}" alt="AoZA9eJxQCKbpbWF7A4i_微信图片_20180727174500" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/SfvvHdSSQ4mIqYeSS7PB_pcs.png' | relative_url }}" alt="SfvvHdSSQ4mIqYeSS7PB_pcs.png" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/dip62rB6Q4aXZsirTuz3_微信图片_20180727174513.jpg' | relative_url }}" alt="dip62rB6Q4aXZsirTuz3_微信图片_20180727174513" class="image featured">
