@@ -41,7 +41,7 @@ link = lines[9].split("'")[1]
 
 # generate navOrder
 keycapPath = '/home/juzou/documents/matrixzj.github.io/docs/%s-keycaps/' % keycapstype.lower()
-navOrder = len([eachfile for eachfile in os.listdir(keycapPath) if os.path.isfile(os.path.join(keycapPath, eachfile))]) 
+navOrder = len([eachfile for eachfile in os.listdir(keycapPath) if os.path.isfile(os.path.join(keycapPath, eachfile))]) - 1
 
 # key: name, usd, rmb, proxyprice, quantity
 priceDict = {}
