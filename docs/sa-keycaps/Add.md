@@ -26,11 +26,11 @@ NOTE: USD to RMB exchange rate is 6.69/6.83
 ## Kits
 ### Round1
 **Price(USD):** 194.00    **Price(RMB):** 1297.86    **Quantity:** 75
-<img src="{{ 'assets/images/sa-keycaps/add/kits_pics/round1.jpg' | relative_url }}" alt="Round1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/add/kits_pics/round1.png' | relative_url }}" alt="Round1" class="image featured">
 
 ### Round2
 **Price(USD):** 212.00    **Price(RMB):** 1418.28    **Quantity:** 75
-<img src="{{ 'assets/images/sa-keycaps/add/kits_pics/round2.jpg' | relative_url }}" alt="Round2" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/add/kits_pics/round2.png' | relative_url }}" alt="Round2" class="image featured">
 
 
 ## Info
