@@ -50,6 +50,7 @@ permalink: /
 * [JukeBox R1 脆皮鸡R1](docs/sa-keycaps/JukeBox-R1/)
 * [Song 宋](docs/sa-keycaps/Song/)
 * [Violet on Cream 奶紫ZF](docs/sa-keycaps/Violet-on-Cream/)
+* [Jack Selectric 电子系列](docs/sa-keycaps/Jack Selectric/)
 * [Nautilus 鹦鹉螺](docs/sa-keycaps/Nautilus/)
 * [Dolch 灰黑](docs/sa-keycaps/Dolch/)
 * [Cain 灰蓝](docs/sa-keycaps/Cain/)
