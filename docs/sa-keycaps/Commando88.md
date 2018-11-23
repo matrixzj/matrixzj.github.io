@@ -59,7 +59,7 @@ NOTE: USD to RMB exchange rate is 6.68
 <img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/gamer.png' | relative_url }}" alt="Gamer" class="image featured">
 
 ### S:76
-**Price(USD):** 10.00    **Price(RMB):** 66.80    **Price(KP):** 69    **Quantity:** unknown
+**Price(USD):** 10.00    **Price(RMB):** 66.80    **Price(KP):** 69    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/s-76.png' | relative_url }}" alt="S:76" class="image featured">
 
 ### CS
