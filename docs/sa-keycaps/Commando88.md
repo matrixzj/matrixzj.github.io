@@ -40,61 +40,61 @@ NOTE: USD to RMB exchange rate is 6.68
 ## Kits
 ### Combat Soldier
 **Price(USD):** 95.00    **Price(RMB):** 634.60    **Price(KP):** 639    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/combatsoldier.jpg' | relative_url }}" alt="Combat Soldier" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/combatsoldier.png' | relative_url }}" alt="Combat Soldier" class="image featured">
 
 ### Upgrade 01
 **Price(USD):** 45.00    **Price(RMB):** 300.60    **Price(KP):** 339    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/upgrade01.jpg' | relative_url }}" alt="Upgrade 01" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/upgrade01.png' | relative_url }}" alt="Upgrade 01" class="image featured">
 
 ### Upgrade 02
 **Price(USD):** 25.00    **Price(RMB):** 167.00    **Price(KP):** 169    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/upgrade02.jpg' | relative_url }}" alt="Upgrade 02" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/upgrade02.png' | relative_url }}" alt="Upgrade 02" class="image featured">
 
 ### Numpad
 **Price(USD):** 30.00    **Price(RMB):** 200.40    **Price(KP):** 203    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
 
 ### Gamer
 **Price(USD):** 15.00    **Price(RMB):** 100.20    **Price(KP):** 103    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/gamer.jpg' | relative_url }}" alt="Gamer" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/gamer.png' | relative_url }}" alt="Gamer" class="image featured">
 
 ### S:76
 **Price(USD):** 10.00    **Price(RMB):** 66.80    **Price(KP):** 69    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/s:76.jpg' | relative_url }}" alt="S:76" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/s:76.png' | relative_url }}" alt="S:76" class="image featured">
 
 ### CS
 **Price(USD):** 50.00    **Price(RMB):** 334.00    **Price(KP):** 339    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/cs.jpg' | relative_url }}" alt="CS" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/cs.png' | relative_url }}" alt="CS" class="image featured">
 
 ### Forest Commando
 **Price(USD):** 70.00    **Price(RMB):** 467.60    **Price(KP):** 475    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/forestcommando.jpg' | relative_url }}" alt="Forest Commando" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/forestcommando.png' | relative_url }}" alt="Forest Commando" class="image featured">
 
 ### ErgoDox
 **Price(USD):** 30.00    **Price(RMB):** 200.40    **Price(KP):** 203    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/ergodox.jpg' | relative_url }}" alt="ErgoDox" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/ergodox.png' | relative_url }}" alt="ErgoDox" class="image featured">
 
 ### Vietnamese Lotus
 **Price(USD):** 15.00    **Price(RMB):** 100.20    **Price(KP):** 103    **Quantity:** unknown  
 Note: This price is only for random 6 lotus. For full 24, it is 50 USD. 
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/vietnameselotus.jpg' | relative_url }}" alt="Vietnamese Lotus" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/vietnameselotus.png' | relative_url }}" alt="Vietnamese Lotus" class="image featured">
 
 ### WASD
 **Price(USD):** 10.00    **Price(RMB):** 66.80    **Price(KP):** 69    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/wasd.jpg' | relative_url }}" alt="WASD" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/wasd.png' | relative_url }}" alt="WASD" class="image featured">
 
 ### Blank
 **Price(USD):** 20.00    **Price(RMB):** 133.60    **Price(KP):** 136    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/blank.jpg' | relative_url }}" alt="Blank" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/blank.png' | relative_url }}" alt="Blank" class="image featured">
 
 ### Enter
 **Price(USD):** 15.00    **Price(RMB):** 100.20    **Price(KP):** unknown    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/enter.jpg' | relative_url }}" alt="Enter" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/enter.png' | relative_url }}" alt="Enter" class="image featured">
 
 ### Ghost Commander
 **Price(USD):** 250.00    **Price(RMB):** 1670.00    **Price(KP):** 1679    **Quantity:** 88    
 Note: Donation needed for this kit
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/ghostcommander.jpg' | relative_url }}" alt="Ghost Commander" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/ghostcommander.png' | relative_url }}" alt="Ghost Commander" class="image featured">
 
 
 ## Info
