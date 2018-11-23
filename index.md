@@ -69,6 +69,7 @@ permalink: /
 * [Novelties Blue Addon ](docs/sa-keycaps/Novelties-Blue-Addon/)
 * [Creamy Orange 奶橙](docs/sa-keycaps/Creamy-Orange/)
 * [Camping 野营](docs/sa-keycaps/Camping/)
+* [PhotoStudio PS](docs/sa-keycaps/PhotoStudio/)
 
 ---
 
