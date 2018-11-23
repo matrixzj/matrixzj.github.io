@@ -26,7 +26,7 @@ NOTE: USD to RMB exchange rate is 6.68
 |[Upgrade 02](#upgrade02)|25.00|167.00|169|unknown|
 |[Numpad](#numpad)|30.00|200.40|203|unknown|
 |[Gamer](#gamer)|15.00|100.20|103|unknown|
-|[S:76](#s:76)|10.00|66.80|69|unknown|
+|[S:76](#s76)|10.00|66.80|69|unknown|
 |[CS](#cs)|50.00|334.00|339|unknown|
 |[Forest Commando](#forestcommando)|70.00|467.60|475|unknown|
 |[ErgoDox](#ergodox)|30.00|200.40|203|unknown|
