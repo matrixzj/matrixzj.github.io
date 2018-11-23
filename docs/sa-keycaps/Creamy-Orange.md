@@ -31,7 +31,7 @@ ref link: [Creamy Orange KP GB Link](https://item.taobao.com/item.htm?spm=a1z10.
 
 ### Rotten Orange
 **Price(USD):** unknown    **Price(RMB):** unknown    **Price(KP):** 327    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/creamyorange/kits_pics/rottenorange.jpg' | relative_url }}" alt="Rotten Orange" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/creamyorange/kits_pics/rotten-orange.jpg' | relative_url }}" alt="Rotten Orange" class="image featured">
 
 
 ## Info
