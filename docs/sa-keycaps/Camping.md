@@ -21,12 +21,12 @@ NOTE: USD to RMB exchange rate is 6.69
 
 | Name          | Price(USD)    |  Price(RMB) |  Price(GH) | Quantity |
 | ------------- | ------------- |  ---------- |  --------- | -------- |
-|[All](#all)|280.00|1873.20|unknown|150|
+|[All](#all)|250.00|1672.50|1450|150|
 
 
 ## Kits
 ### All
-**Price(USD):** 280.00    **Price(RMB):** 1873.20    **Price(GH):** unknown    **Quantity:** 150
+**Price(USD):** 250.00    **Price(RMB):** 1672.50    **Price(GH):** 1450    **Quantity:** 150
 <img src="{{ 'assets/images/sa-keycaps/camping/kits_pics/all.jpg' | relative_url }}" alt="All" class="image featured">
 
 
