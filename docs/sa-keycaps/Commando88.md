@@ -40,15 +40,15 @@ NOTE: USD to RMB exchange rate is 6.68
 ## Kits
 ### Combat Soldier
 **Price(USD):** 95.00    **Price(RMB):** 634.60    **Price(KP):** 639    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/combatsoldier.png' | relative_url }}" alt="Combat Soldier" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/combat-soldier.png' | relative_url }}" alt="Combat Soldier" class="image featured">
 
 ### Upgrade 01
 **Price(USD):** 45.00    **Price(RMB):** 300.60    **Price(KP):** 339    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/upgrade01.png' | relative_url }}" alt="Upgrade 01" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/upgrade-01.png' | relative_url }}" alt="Upgrade 01" class="image featured">
 
 ### Upgrade 02
 **Price(USD):** 25.00    **Price(RMB):** 167.00    **Price(KP):** 169    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/upgrade02.png' | relative_url }}" alt="Upgrade 02" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/upgrade-02.png' | relative_url }}" alt="Upgrade 02" class="image featured">
 
 ### Numpad
 **Price(USD):** 30.00    **Price(RMB):** 200.40    **Price(KP):** 203    **Quantity:** unknown
@@ -60,15 +60,16 @@ NOTE: USD to RMB exchange rate is 6.68
 
 ### S:76
 **Price(USD):** 10.00    **Price(RMB):** 66.80    **Price(KP):** 69    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/s:76.png' | relative_url }}" alt="S:76" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/s-76.png' | relative_url }}" alt="S:76" class="image featured">
 
 ### CS
 **Price(USD):** 50.00    **Price(RMB):** 334.00    **Price(KP):** 339    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/cs.png' | relative_url }}" alt="CS" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/cs-extras.png' | relative_url }}" alt="CS" class="image featured">
 
 ### Forest Commando
 **Price(USD):** 70.00    **Price(RMB):** 467.60    **Price(KP):** 475    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/forestcommando.png' | relative_url }}" alt="Forest Commando" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/forest-commando.png' | relative_url }}" alt="Forest Commando" class="image featured">
 
 ### ErgoDox
 **Price(USD):** 30.00    **Price(RMB):** 200.40    **Price(KP):** 203    **Quantity:** unknown
@@ -77,7 +78,7 @@ NOTE: USD to RMB exchange rate is 6.68
 ### Vietnamese Lotus
 **Price(USD):** 15.00    **Price(RMB):** 100.20    **Price(KP):** 103    **Quantity:** unknown  
 Note: This price is only for random 6 lotus. For full 24, it is 50 USD. 
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/vietnameselotus.png' | relative_url }}" alt="Vietnamese Lotus" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/vietnamese-lotus.png' | relative_url }}" alt="Vietnamese Lotus" class="image featured">
 
 ### WASD
 **Price(USD):** 10.00    **Price(RMB):** 66.80    **Price(KP):** 69    **Quantity:** unknown
@@ -94,7 +95,7 @@ Note: This price is only for random 6 lotus. For full 24, it is 50 USD.
 ### Ghost Commander
 **Price(USD):** 250.00    **Price(RMB):** 1670.00    **Price(KP):** 1679    **Quantity:** 88    
 Note: Donation needed for this kit
-<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/ghostcommander.png' | relative_url }}" alt="Ghost Commander" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando88/kits_pics/ghost-commander.png' | relative_url }}" alt="Ghost Commander" class="image featured">
 
 
 ## Info
