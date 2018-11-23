@@ -39,94 +39,98 @@ NOTE: USD to RMB exchange rate is 6.66
 |[Shades of Love](#shadesoflove)|75.00|499.50|494.00|unknown|
 |[ErgoDox](#ergodox)|20.00|133.20|132.00|unknown|
 |[Mysterious](#mysterious)|15.00|99.90|99.00|unknown|
-|[Love Sweet](#lovesweet)|unknown|unknown|669.00|unknown|
+|[Love Sweet](#lovesweet)|240.00|1598.40|unknown|unknown|
 |[Love Pink](#lovepink)|unknown|unknown|1239.00|unknown|
 |[Deeper Love](#deeperlove)|unknown|unknown|1676.00|unknown|
 
 
 ## Kits
 ### Base White
-**Price(USD):** 35.00    **Price(RMB):** 233.10    **Price(GH):** 229.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/base-white.jpg' | relative_url }}" alt="Base White" class="image featured">
+**Price(USD):** 35.00    **Price(RMB):** 233.10    **Price(KP):** 229.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/base-white.png' | relative_url }}" alt="Base White" class="image featured">
 
 ### Alpha Grey
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(GH):** 302.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/alpha-grey.jpg' | relative_url }}" alt="Alpha Grey" class="image featured">
+**Price(USD):** unknown    **Price(RMB):** unknown    **Price(KP):** 302.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/alpha-grey.png' | relative_url }}" alt="Alpha Grey" class="image featured">
 
 ### Alpha Pink
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(GH):** 302.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/alpha-pink.jpg' | relative_url }}" alt="Alpha Pink" class="image featured">
+**Price(USD):** unknown    **Price(RMB):** unknown    **Price(KP):** 302.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/alpha-pink.png' | relative_url }}" alt="Alpha Pink" class="image featured">
 
 ### Mod Grey
-**Price(USD):** 50.00    **Price(RMB):** 333.00    **Price(GH):** 329.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/mod-grey.jpg' | relative_url }}" alt="Mod Grey" class="image featured">
+**Price(USD):** 50.00    **Price(RMB):** 333.00    **Price(KP):** 329.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/mod-grey.png' | relative_url }}" alt="Mod Grey" class="image featured">
 
 ### Mod Pink
-**Price(USD):** 50.00    **Price(RMB):** 333.00    **Price(GH):** 329.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/mod-pink.jpg' | relative_url }}" alt="Mod Pink" class="image featured">
+**Price(USD):** 50.00    **Price(RMB):** 333.00    **Price(KP):** 329.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/mod-pink.png' | relative_url }}" alt="Mod Pink" class="image featured">
 
 ### Mod White
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(GH):** 704.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/mod-white.jpg' | relative_url }}" alt="Mod White" class="image featured">
+**Price(USD):** unknown    **Price(RMB):** unknown    **Price(KP):** 704.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/mod-white.png' | relative_url }}" alt="Mod White" class="image featured">
 
 ### Extra Grey
-**Price(USD):** 35.00    **Price(RMB):** 233.10    **Price(GH):** 229.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/extra-grey.jpg' | relative_url }}" alt="Extra Grey" class="image featured">
+**Price(USD):** 35.00    **Price(RMB):** 233.10    **Price(KP):** 229.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/extra-grey.png' | relative_url }}" alt="Extra Grey" class="image featured">
 
 ### Extra Pink
-**Price(USD):** 35.00    **Price(RMB):** 233.10    **Price(GH):** 229.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/extra-pink.jpg' | relative_url }}" alt="Extra Pink" class="image featured">
+**Price(USD):** 35.00    **Price(RMB):** 233.10    **Price(KP):** 229.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/extra-pink.png' | relative_url }}" alt="Extra Pink" class="image featured">
 
 ### Numpad Base
-**Price(USD):** 10.00    **Price(RMB):** 66.60    **Price(GH):** 66.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/numpad-base.jpg' | relative_url }}" alt="Numpad Base" class="image featured">
+**Price(USD):** 10.00    **Price(RMB):** 66.60    **Price(KP):** 66.00    **Quantity:** unknown  
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/numpad-base.png' | relative_url }}" alt="Numpad Base" class="image featured">
 
 ### Numpad Mod Grey
-**Price(USD):** 25.00    **Price(RMB):** 166.50    **Price(GH):** 165.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/numpad-mod-grey.jpg' | relative_url }}" alt="Numpad Mod Grey" class="image featured">
+**Price(USD):** 25.00    **Price(RMB):** 166.50    **Price(KP):** 165.00    **Quantity:** unknown  
+NOTE: Without 4 mysterious novelties, it will be 15 USD.
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/numpad-mod-grey.png' | relative_url }}" alt="Numpad Mod Grey" class="image featured">
 
 ### Numpad Mod Pink
-**Price(USD):** 25.00    **Price(RMB):** 166.50    **Price(GH):** 165.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/numpad-mod-pink.jpg' | relative_url }}" alt="Numpad Mod Pink" class="image featured">
+**Price(USD):** 25.00    **Price(RMB):** 166.50    **Price(KP):** 165.00    **Quantity:** unknown  
+NOTE: Without 4 mysterious novelties, it will be 15 USD.
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/numpad-mod-pink.png' | relative_url }}" alt="Numpad Mod Pink" class="image featured">
 
 ### Passion Pulse
-**Price(USD):** 25.00    **Price(RMB):** 166.50    **Price(GH):** 165.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/passion-pulse.jpg' | relative_url }}" alt="Passion Pulse" class="image featured">
+**Price(USD):** 25.00    **Price(RMB):** 166.50    **Price(KP):** 165.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/passion-pulse.png' | relative_url }}" alt="Passion Pulse" class="image featured">
 
 ### Chocolate Pulse
-**Price(USD):** 25.00    **Price(RMB):** 166.50    **Price(GH):** 165.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/chocolate-pulse.jpg' | relative_url }}" alt="Chocolate Pulse" class="image featured">
+**Price(USD):** 25.00    **Price(RMB):** 166.50    **Price(KP):** 165.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/chocolate-pulse.png' | relative_url }}" alt="Chocolate Pulse" class="image featured">
 
 ### Love Stripes 1
-**Price(USD):** 35.00    **Price(RMB):** 233.10    **Price(GH):** 229.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/love-stripes-1.jpg' | relative_url }}" alt="Love Stripes 1" class="image featured">
+**Price(USD):** 35.00    **Price(RMB):** 233.10    **Price(KP):** 229.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/love-stripes-1.png' | relative_url }}" alt="Love Stripes 1" class="image featured">
 
 ### Love Stripes 2
-**Price(USD):** 20.00    **Price(RMB):** 133.20    **Price(GH):** 132.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/love-stripes-2.jpg' | relative_url }}" alt="Love Stripes 2" class="image featured">
+**Price(USD):** 20.00    **Price(RMB):** 133.20    **Price(KP):** 132.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/love-stripes-2.png' | relative_url }}" alt="Love Stripes 2" class="image featured">
 
 ### Shades of Love
-**Price(USD):** 75.00    **Price(RMB):** 499.50    **Price(GH):** 494.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/shades-of-love.jpg' | relative_url }}" alt="Shades of Love" class="image featured">
+**Price(USD):** 75.00    **Price(RMB):** 499.50    **Price(KP):** 494.00    **Quantity:** unknown  
+NOTE: 15 USD per row
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/shades-of-love.png' | relative_url }}" alt="Shades of Love" class="image featured">
 
 ### ErgoDox
-**Price(USD):** 20.00    **Price(RMB):** 133.20    **Price(GH):** 132.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/ergodox.jpg' | relative_url }}" alt="ErgoDox" class="image featured">
+**Price(USD):** 20.00    **Price(RMB):** 133.20    **Price(KP):** 132.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/ergodox.png' | relative_url }}" alt="ErgoDox" class="image featured">
 
 ### Mysterious
-**Price(USD):** 15.00    **Price(RMB):** 99.90    **Price(GH):** 99.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/mysterious.jpg' | relative_url }}" alt="Mysterious" class="image featured">
+**Price(USD):** 15.00    **Price(RMB):** 99.90    **Price(KP):** 99.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/mysterious.png' | relative_url }}" alt="Mysterious" class="image featured">
 
 ### Love Sweet
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(GH):** 669.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/love-sweet.jpg' | relative_url }}" alt="Love Sweet" class="image featured">
+**Price(USD):** 240.00    **Price(RMB):** 1598.49    **Price(KP):** unknown    **Quantity:** unknown  
+NOTE: Donation Needed !
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/love-sweet.png' | relative_url }}" alt="Love Sweet" class="image featured">
 
 ### Love Pink
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(GH):** 1239.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/love-pink.jpg' | relative_url }}" alt="Love Pink" class="image featured">
+**Price(USD):** unknown    **Price(RMB):** unknown    **Price(KP):** 1239.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/love-pink.png' | relative_url }}" alt="Love Pink" class="image featured">
 
 ### Deeper Love
-**Price(USD):** unknown    **Price(RMB):** unknown    **Price(GH):** 1676.00    **Quantity:** unknown
+**Price(USD):** unknown    **Price(RMB):** unknown    **Price(KP):** 1676.00    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/deeper-love.jpg' | relative_url }}" alt="Deeper Love" class="image featured">
 
 
