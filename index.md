@@ -61,6 +61,7 @@ permalink: /
 * [Composition 构成](docs/sa-keycaps/Composition/)
 * [Bubble 泡泡](docs/sa-keycaps/Bubble/)
 * [Vilebloom ](docs/sa-keycaps/Vilebloom/)
+* [Commando 88 突击88](docs/sa-keycaps/Commando88/)
 
 ---
 
