@@ -1,0 +1,12 @@
+name = 'Corner Creatures'
+cname = '角落生物'
+keycapstype = 'SA'
+rate = '6.90'
+designer = 'Wenjie'
+profile = '1-1-2-3-4-4'
+time = '2017-03'
+colorcodes = 'BEY/WCK'
+platform = 'ZF'
+link = 'http://www.zfrontier.com/m/3777'
+Base|199||||
+Addons|166||||
