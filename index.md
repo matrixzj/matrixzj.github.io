@@ -59,6 +59,8 @@ permalink: /
 * [Toxic 毒药](docs/sa-keycaps/Toxic/)
 * [Blood Shadow 黑红](docs/sa-keycaps/Blood-Shadow/)
 * [Composition 构成](docs/sa-keycaps/Composition/)
+* [Bubble 泡泡](docs/sa-keycaps/Bubble/)
+* [Vilebloom ](docs/sa-keycaps/Vilebloom/)
 
 ---
 
