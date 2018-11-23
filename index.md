@@ -67,6 +67,7 @@ permalink: /
 * [HyperFuse](docs/sa-keycaps/HyperFuse/)
 * [Ocean Dolch](docs/sa-keycaps/Ocean Dolch/)
 * [Novelties Blue Addon ](docs/sa-keycaps/Novelties-Blue-Addon/)
+* [Creamy Orange 奶橙](docs/sa-keycaps/Creamy-Orange/)
 
 ---
 
