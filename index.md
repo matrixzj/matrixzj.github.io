@@ -66,6 +66,7 @@ permalink: /
 * [Abyss 深海](docs/sa-keycaps/Abyss/)
 * [HyperFuse](docs/sa-keycaps/HyperFuse/)
 * [Ocean Dolch](docs/sa-keycaps/Ocean Dolch/)
+* [Novelties Blue Addon ](docs/sa-keycaps/Novelties-Blue-Addon/)
 
 ---
 
