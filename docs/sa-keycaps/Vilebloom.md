@@ -60,8 +60,7 @@ NOTE: GBP to RMB exchange rate is 8.68
 * Designer: 
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2018-05
-* Color Codes:   
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_.png' | relative_url }}" alt="color" height="150" width="340">
+* Color Codes: unknown  
 
 
 ## Pictures
