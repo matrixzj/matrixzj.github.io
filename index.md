@@ -71,6 +71,7 @@ permalink: /
 * [Camping 野营](docs/sa-keycaps/Camping/)
 * [PhotoStudio PS](docs/sa-keycaps/PhotoStudio/)
 * [Corner Creatures 角落生物](docs/sa-keycaps/Corner-Creatures/)
+* [Valentine 情人节](docs/sa-keycaps/Valentine/)
 
 ---
 
