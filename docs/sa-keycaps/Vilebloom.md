@@ -39,7 +39,7 @@ NOTE: GBP to RMB exchange rate is 8.68
 **Price(GBP):** 24.00    **Price(RMB):** 208.32    **Price(ZF):** 194.00    **Quantity:** unknown
 ### NorDe
 **Price(GBP):** 27.50    **Price(RMB):** 238.70    **Price(ZF):** 242.00    **Quantity:** unknown
-<img src="{{ ''ssets/images/sa-keycaps/vilebloom/kits_pics/base-numpad-norde.jpg | relative_url }}" alt="Base" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/vilebloom/kits_pics/base-numpad-norde.jpg'| relative_url }}" alt="Base" class="image featured">
 
 ### Non Standard
 **Price(GBP):** 36.00    **Price(RMB):** 312.48    **Price(ZF):** 310.00    **Quantity:** unknown
