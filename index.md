@@ -65,6 +65,7 @@ permalink: /
 * [Honeywell](docs/sa-keycaps/Honeywell/)
 * [Abyss 深海](docs/sa-keycaps/Abyss/)
 * [HyperFuse](docs/sa-keycaps/HyperFuse/)
+* [Ocean Dolch](docs/sa-keycaps/Ocean Dolch/)
 
 ---
 
