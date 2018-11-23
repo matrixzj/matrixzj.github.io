@@ -186,10 +186,12 @@ print """## Info
 * Designer: %s
 * Profile: %s %s""" % (designer, keycapstype, profile)
 print "* GB Time: %s" % time
-if keycapstype == "SA":
+if keycapstype == "SA" and colorcodes != '' :
     print "* Color Codes: %s  " % (colorcodes)
     for color in colorcodes.split('/'):
         print '<img src="{{ \'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_%s.png\' | relative_url }}" alt="color%s" height="150" width="340">' % (color, color)
+elif keycapstype == "SA" and colorcodes == '' :
+    print "* Color Codes: unknown  "
 print ''
 print ''
 

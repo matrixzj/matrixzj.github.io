@@ -64,6 +64,7 @@ permalink: /
 * [Commando 88 突击88](docs/sa-keycaps/Commando88/)
 * [Honeywell](docs/sa-keycaps/Honeywell/)
 * [Abyss 深海](docs/sa-keycaps/Abyss/)
+* [HyperFuse](docs/sa-keycaps/HyperFuse/)
 
 ---
 
