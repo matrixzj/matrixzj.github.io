@@ -58,6 +58,7 @@ permalink: /
 * [Doom 奶紫](docs/sa-keycaps/Doom/)
 * [Toxic 毒药](docs/sa-keycaps/Toxic/)
 * [Blood Shadow 黑红](docs/sa-keycaps/Blood-Shadow/)
+* [Composition 构成](docs/sa-keycaps/Composition/)
 
 ---
 

@@ -19,7 +19,10 @@ cname = lines[1].split("'")[1]
 keycapstype = lines[2].split("'")[1]
 
 # get rate
-rate = float(lines[3].split("'")[1])
+if lines[3].split("'")[1]:
+    rate = float(lines[3].split("'")[1])
+else:
+    rate = ""
 
 # get designer
 designer = lines[4].split("'")[1]
@@ -59,8 +62,10 @@ for line in lines[10:]:
     kitRMB = line.split("|")[2]
     if len(kitRMB) < 1 and isinstance(kitUSD, float):
         kitRMB = float(kitUSD) * rate
-    else:
+    elif len(kitRMB) > 1:
         kitRMB = float(kitRMB)
+    else:
+	kitRMB = 'unknown'
 
     kitPlatformPrice = line.split("|")[3]
     if platform:
@@ -81,7 +86,8 @@ for line in lines[10:]:
 
 print "---\ntitle: %s %s\nlayout: default\nicon: fa-keyboard-o\nparent: %s Keycaps\nnav_order: %d\n---\n\n# %s %s\n\nref link: [%s %s GB Link](%s)\n\n* [Price](#price)\n* [Kits](#kits)\n* [Info](#info)\n* [Pictures](#pictures)\n\n\n## Price  " % (name, cname, keycapstype, navOrder, name, cname, name, platform, link)
 
-print 'NOTE: USD to RMB exchange rate is %.2f' % rate
+if rate:
+    print 'NOTE: USD to RMB exchange rate is %.2f' % rate
 
 # generate price table
 if platform: 
