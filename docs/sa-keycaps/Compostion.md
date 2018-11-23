@@ -23,7 +23,7 @@ ref link: [Composition Taobao GB Link](https://item.taobao.com/item.htm?spm=a230
 |[Base](#base)|unknown|unknown|582.00|unknown|
 |[Non-Standard](#non-standard)|unknown|unknown|212.00|unknown|
 |[Numpad](#numpad)|unknown|unknown|165.00|unknown|
-|[Extra Arrows](#extraarrow)|unknown|unknown|68.00|unknown|
+|[Extra Arrows](#numpad--extra-arrows)|unknown|unknown|68.00|unknown|
 
 
 ## Kits
