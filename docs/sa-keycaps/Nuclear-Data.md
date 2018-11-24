@@ -8,7 +8,7 @@ nav_order: 58
 
 # Nuclear Data 核子
 
-ref link: [Nuclear Data GH GB Link](https://geekhack.org/index.php?topic=61198.0)
+ref link: [Nuclear Data GH GB Link](https://geekhack.org/index.php?topic=61198.0)   
 ref link: [Nuclear Data PMK Link](https://pimpmykeyboard.com/sa-nuclear-data-keyset/)
 
 * [Price](#price)
