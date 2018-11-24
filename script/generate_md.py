@@ -199,6 +199,7 @@ print ''
 # generate picture part
 #
 picPath = '/home/juzou/documents/matrixzj.github.io/assets/images/%s-keycaps/%s/rendering_pics/' % (keycapstype.lower(), name.lower().replace(" ",""))
+print picPath
 if os.path.isdir(picPath):
     print '## Pictures'
     pictures = [f for f in listdir(picPath)]

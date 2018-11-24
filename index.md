@@ -75,6 +75,7 @@ permalink: /
 * [Strong Spirit 陆军](docs/sa-keycaps/Strong-Spirit/)
 * [Chronicler 瞎眼](docs/sa-keycaps/Chronicler/)
 * [Solarized Penumbra 白PB](docs/sa-keycaps/Solarized-Penumbra/)
+* [Modern Selectric 大电子](docs/sa-keycaps/Modern-Selectric/)
 
 ---
 

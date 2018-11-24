@@ -1,5 +1,5 @@
-name = 'Modern Selectirc'
-cname = ''
+name = 'Modern Selectric'
+cname = '大电子'
 keycapstype = 'SA'
 rate = ''
 designer = 'skullydazed'
@@ -8,5 +8,17 @@ time = '2015-05'
 colorcodes = ''
 platform = 'GH'
 link = 'https://geekhack.org/index.php?topic=72254.0'
-TKL|USD|RMB|PlatformPrice|Quantity|
-All|
+alternate-command|||||
+base|||||
+colemak|||||
+dvorak|||||
+iso-1|||||
+iso-2|||||
+iso-3|||||
+mac|||||
+numpad|||||
+small-board-1|||||
+small-boards-2|||||
+tkl-modifier-1|||||
+tkl-modifier-2|||||
+wkl|||||
