@@ -5,6 +5,7 @@ icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 833
 
+
 # Add 
 
 * [Price](#price)
@@ -16,19 +17,19 @@ nav_order: 833
 ## Price  
 NOTE: USD to RMB exchange rate is 6.69/6.83
 
-| Name          | Price(USD)    |  Price(RMB) |  Quantity |
-| ------------- | ------------- |  ---------- |  -------- |
-|[Round1](#round1)|194.00|1297.86|75|
-|[Round2](#round2)|212.00|1418.28|75|
+| Name          | Price(USD)    |  Price(RMB) |  Price(QQ) | Quantity |
+| ------------- | ------------- |  ---------- |  --------- | -------- |
+|[Round1](#round1)|194.00|1297.86|unknown|75|
+|[Round2](#round2)|212.00|1418.28|1450|75|
 
 
 ## Kits
 ### Round1
-**Price(USD):** 194.00    **Price(RMB):** 1297.86    **Quantity:** 75
+**Price(USD):** 194.00    **Price(RMB):** 1297.86    **Price(QQ):** unknwon    **Quantity:** 75
 <img src="{{ 'assets/images/sa-keycaps/add/kits_pics/round1.png' | relative_url }}" alt="Round1" class="image featured">
 
 ### Round2
-**Price(USD):** 212.00    **Price(RMB):** 1418.28    **Quantity:** 75
+**Price(USD):** 212.00    **Price(RMB):** 1418.28    **Price(QQ):1450.00    **Quantity:** 75
 <img src="{{ 'assets/images/sa-keycaps/add/kits_pics/round2.png' | relative_url }}" alt="Round2" class="image featured">
 
 
