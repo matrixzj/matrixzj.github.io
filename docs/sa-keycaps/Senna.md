@@ -70,7 +70,7 @@ NOTE: USD to RMB exchange rate is 6.90
 
 ### Planck/Atomic
 **Price(USD):** 92.00    **Price(RMB):** 634.80    **Price(KP):** 369.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/senna/kits_pics/planck/atomic.png' | relative_url }}" alt="Planck/Atomic" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/senna/kits_pics/planck-atomic.png' | relative_url }}" alt="Planck/Atomic" class="image featured">
 
 ### ISO
 **Price(USD):** 25.00    **Price(RMB):** 172.50    **Price(KP):** 139.00    **Quantity:** unknown
