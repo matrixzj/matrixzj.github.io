@@ -78,6 +78,8 @@ permalink: /
 * [Modern Selectric 大电子](docs/sa-keycaps/Modern-Selectric/)
 * [Nuclear Data 核子](docs/sa-keycaps/Nuclear-Data/)
 * [Calm Depths 深海](docs/sa-keycaps/Calm-Depths/)
+* [Commando 23 突击23](docs/sa-keycaps/Commando-23/)
+
 
 ---
 
