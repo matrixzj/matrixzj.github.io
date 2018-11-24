@@ -29,7 +29,7 @@ NOTE: USD to RMB exchange rate is 6.90
 |[Senninha Novelties](#senninhanovelties)|37.00|255.30|252.00|unknown|
 |[Non-Standard](#non-standard)|65.00|448.50|267.00|unknown|
 |[Non-Standard-Opposite](#non-standard-opposite)|90.00|621.00|267.00|unknown|
-|[Planck/Atomic](#planck/atomic)|92.00|634.80|369.00|unknown|
+|[Planck/Atomic](#planckatomic)|92.00|634.80|369.00|unknown|
 |[ISO](#iso)|25.00|172.50|139.00|unknown|
 |[DC](#dc)|52.00|358.80|364.00|unknown|
 |[ErgoDox](#ergodox)|156.00|1076.40|597.00|unknown|
@@ -68,7 +68,7 @@ NOTE: USD to RMB exchange rate is 6.90
 **Price(USD):** 90.00    **Price(RMB):** 621.00    **Price(KP):** 267.00    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/senna/kits_pics/non-standard-opposite.png' | relative_url }}" alt="Non-Standard-Opposite" class="image featured">
 
-### Planck/Atomic
+### Planck Atomic
 **Price(USD):** 92.00    **Price(RMB):** 634.80    **Price(KP):** 369.00    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/senna/kits_pics/planck-atomic.png' | relative_url }}" alt="Planck/Atomic" class="image featured">
 
