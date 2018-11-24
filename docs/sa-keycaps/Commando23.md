@@ -75,4 +75,3 @@ NOTE: USD to RMB exchange rate is 6.14
 <img src="{{ 'assets/images/sa-keycaps/commando23/rendering_pics/3.jpeg' | relative_url }}" alt="3.jpeg" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/commando23/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/commando23/rendering_pics/2.JPG' | relative_url }}" alt="2.JPG" class="image featured">
-* [Commando 23 突击23](docs/sa-keycaps/Commando-23/)
