@@ -33,31 +33,32 @@ NOTE: USD to RMB exchange rate is 6.14
 ## Kits
 ### Standard
 **Price(USD):** 69.40    **Price(RMB):** 426.12    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/standard.jpg' | relative_url }}" alt="Standard" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/standard.png' | relative_url }}" alt="Standard" class="image featured">
 
 ### Upgrade 01
 **Price(USD):** 41.25    **Price(RMB):** 253.27    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/upgrade-01.jpg' | relative_url }}" alt="Upgrade 01" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/upgrade-01.png' | relative_url }}" alt="Upgrade 01" class="image featured">
 
 ### Upgrade 02
 **Price(USD):** 32.40    **Price(RMB):** 198.94    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/upgrade-02.jpg' | relative_url }}" alt="Upgrade 02" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/upgrade-02.png' | relative_url }}" alt="Upgrade 02" class="image featured">
 
 ### Gamer
 **Price(USD):** 31.00    **Price(RMB):** 190.34    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/gamer.jpg' | relative_url }}" alt="Gamer" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/gamer.png' | relative_url }}" alt="Gamer" class="image featured">
 
 ### Numpad
 **Price(USD):** 26.60    **Price(RMB):** 163.32    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/numpad-extra.png' | relative_url }}" alt="Numpad-extra" class="image featured">
 
 ### VL
 **Price(USD):** 8.57    **Price(RMB):** 52.62    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/vl.jpg' | relative_url }}" alt="VL" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/vl.png' | relative_url }}" alt="VL" class="image featured">
 
 ### ErgoDox
 **Price(USD):** 25.00    **Price(RMB):** 153.50    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/ergodox.jpg' | relative_url }}" alt="ErgoDox" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/commando23/kits_pics/ergodox.png' | relative_url }}" alt="ErgoDox" class="image featured">
 
 
 ## Info
