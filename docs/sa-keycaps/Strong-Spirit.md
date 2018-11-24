@@ -58,9 +58,11 @@ NOTE: USD to RMB exchange rate is 6.88
 * Designer: Kingnestea
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2017-02
-* Color Codes: YG/RA  
+* Color Codes: YG/RA/NN/WFK 
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YG.png' | relative_url }}" alt="colorYG" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png' | relative_url }}" alt="colorRA" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="150" width="340">
 
 
 ## Pictures
