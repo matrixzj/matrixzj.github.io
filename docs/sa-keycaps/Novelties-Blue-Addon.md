@@ -3,7 +3,8 @@ title: Novelties Blue Addon
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 49
+nav_order: 739
+nav_order: 739
 ---
 
 # Novelties Blue Addon 

@@ -3,7 +3,8 @@ title: Vilebloom
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 43
+nav_order: 559
+nav_order: 559
 ---
 
 # Vilebloom 

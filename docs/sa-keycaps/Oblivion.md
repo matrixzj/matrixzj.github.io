@@ -3,7 +3,8 @@ title: Oblivion 湮没/码农
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 7
+nav_order: 679
+nav_order: 679
 ---
 
 # Oblivion

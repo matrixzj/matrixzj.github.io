@@ -3,7 +3,8 @@ title: Amazing Chocolatier 巧克力大亨
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 3
+nav_order: 829
+nav_order: 829
 ---
 
 # SA Amazing Chocolatier

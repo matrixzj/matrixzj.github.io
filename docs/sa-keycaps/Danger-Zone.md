@@ -3,7 +3,8 @@ title: Danger Zone 壮志凌云
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 12
+nav_order: 864
+nav_order: 864
 ---
 
 # Danger Zone 壮志凌云

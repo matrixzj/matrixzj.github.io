@@ -3,7 +3,8 @@ title: Modern Selectric 大电子
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 58
+nav_order: 884
+nav_order: 884
 ---
 
 # Modern Selectric 大电子

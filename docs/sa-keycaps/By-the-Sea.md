@@ -3,7 +3,8 @@ title: By the Sea
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 11
+nav_order: 594
+nav_order: 594
 ---
 
 # By the Sea

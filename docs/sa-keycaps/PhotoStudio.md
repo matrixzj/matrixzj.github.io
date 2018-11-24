@@ -3,7 +3,8 @@ title: PhotoStudio PS
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 52
+nav_order: 826
+nav_order: 826
 ---
 
 # PhotoStudio PS

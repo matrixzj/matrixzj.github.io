@@ -3,7 +3,8 @@ title: GodSpeed 神佑
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 1
+nav_order: 823
+nav_order: 823
 ---
 
 # SA GodSpeed

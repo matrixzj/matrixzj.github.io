@@ -3,7 +3,8 @@ title: Symbiosis 塞班/共生
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 21
+nav_order: 889
+nav_order: 889
 ---
 
 # Symbiosis 塞班/共生
