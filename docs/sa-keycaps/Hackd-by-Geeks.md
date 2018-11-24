@@ -1,5 +1,5 @@
 ---
-title: Hackd by Geeks 
+title: Hack'd by Geeks 
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
@@ -27,7 +27,7 @@ NOTE: USD to RMB exchange rate is 6.28
 ## Kits
 ### All
 **Price(USD):** 120.00    **Price(RMB):** 753.60    **Price(CtrlAlt):** unknown    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/hackdbygeeks/kits_pics/all.jpg' | relative_url }}" alt="All" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/hackdbygeeks/kits_pics/all.png' | relative_url }}" alt="All" class="image featured">
 
 
 ## Info
