@@ -72,6 +72,7 @@ permalink: /
 * [PhotoStudio PS](docs/sa-keycaps/PhotoStudio/)
 * [Corner Creatures 角落生物](docs/sa-keycaps/Corner-Creatures/)
 * [Valentine 2017 情人节](docs/sa-keycaps/Valentine-2017/)
+* [Strong Spirit 陆军](docs/sa-keycaps/Strong-Spirit/)
 
 ---
 
