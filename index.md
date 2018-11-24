@@ -49,6 +49,7 @@ permalink: /
 * [Carbon R2 大碳R2](docs/sa-keycaps/Carbon-R2/)
 * [Ocean Dolch](docs/sa-keycaps/Ocean Dolch/)
 * [Toxic 毒药](docs/sa-keycaps/Toxic/)
+* [Senna 塞纳](docs/sa-keycaps/Senna/)
 * [Novelties Blue Addon](docs/sa-keycaps/Novelties-Blue-Addon/)
 * [Corner Creatures 角落生物](docs/sa-keycaps/Corner-Creatures/)
 * [Cain 灰蓝](docs/sa-keycaps/Cain/)
