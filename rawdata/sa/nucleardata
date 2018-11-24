@@ -1,0 +1,24 @@
+name = 'Nuclear Data'
+cname = '核子'
+keycapstype = 'SA'
+rate = '6.28'
+designer = 'Matt3o / Samewisekoi'
+profile = 'Uniform R3'
+time = '2014-07'
+colorcodes = ''
+platform = 'PMK'
+link = 'https://pimpmykeyboard.com/sa-nuclear-data-keyset/'
+Base|63|||||
+Radioactive|12|||||
+Specialty|23|||||
+ISO|9|||||
+WKL|19|||||
+Deep Dish|3|||||
+Base|125|||||
+Radioactive|25|||||
+Specialty|20|||||
+Macro|15|||||
+Deep Dish|10|||||
+Edit|8|||||
+WKL|12|||||
+ISO|15|||||

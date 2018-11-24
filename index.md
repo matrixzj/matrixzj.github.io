@@ -76,6 +76,7 @@ permalink: /
 * [Chronicler 瞎眼](docs/sa-keycaps/Chronicler/)
 * [Solarized Penumbra 白PB](docs/sa-keycaps/Solarized-Penumbra/)
 * [Modern Selectric 大电子](docs/sa-keycaps/Modern-Selectric/)
+* [Nuclear Data 核子](docs/sa-keycaps/Nuclear-Data/)
 
 ---
 
