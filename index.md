@@ -77,7 +77,7 @@ permalink: /
 * [Solarized Penumbra 白PB](docs/sa-keycaps/Solarized-Penumbra/)
 * [Modern Selectric 大电子](docs/sa-keycaps/Modern-Selectric/)
 * [Nuclear Data 核子](docs/sa-keycaps/Nuclear-Data/)
-* [Calm Depths R1 深海R1](docs/sa-keycaps/Calm-Depths-R1/)
+* [Calm Depths 深海](docs/sa-keycaps/Calm-Depths/)
 
 ---
 

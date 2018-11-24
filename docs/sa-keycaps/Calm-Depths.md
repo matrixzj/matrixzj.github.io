@@ -1,14 +1,14 @@
 ---
-title: Calm Depths R1 深海R1
+title: Calm Depths 深海
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 60
 ---
 
-# Calm Depths R1 深海R1
+# Calm Depths 深海
 
-ref link: [Calm Depths R1 GH GB Link](https://geekhack.org/index.php?topic=48214.0)
+ref link: [Calm Depths GH GB Link](https://geekhack.org/index.php?topic=48214.0)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -33,31 +33,31 @@ NOTE: USD to RMB exchange rate is 6.13
 ## Kits
 ### Alphas
 **Price(USD):** 31.33    **Price(RMB):** 192.05    **Quantity:** 212
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/kits_pics/alphas.png' | relative_url }}" alt="Alphas" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/kits_pics/alphas.png' | relative_url }}" alt="Alphas" class="image featured">
 
 ### Mods
 **Price(USD):** 34.28    **Price(RMB):** 210.14    **Quantity:** 194
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/kits_pics/mods.png' | relative_url }}" alt="Mods" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/kits_pics/mods.png' | relative_url }}" alt="Mods" class="image featured">
 
 ### Numpad
 **Price(USD):** 14.11    **Price(RMB):** 86.49    **Quantity:** 117
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
 
 ### ISO
 **Price(USD):** 19.13    **Price(RMB):** 117.27    **Quantity:** 19
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/kits_pics/iso.png' | relative_url }}" alt="ISO" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/kits_pics/iso.png' | relative_url }}" alt="ISO" class="image featured">
 
 ### Tsangan
 **Price(USD):** 9.86    **Price(RMB):** 60.44    **Quantity:** 109
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/kits_pics/tsangan.png' | relative_url }}" alt="Tsangan" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/kits_pics/tsangan.png' | relative_url }}" alt="Tsangan" class="image featured">
 
 ### Ergodox
 **Price(USD):** 29.40    **Price(RMB):** 180.22    **Quantity:** 46
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/kits_pics/ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/kits_pics/ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
 
 ### Gamer
 **Price(USD):** 4.74    **Price(RMB):** 29.06    **Quantity:** 82
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/kits_pics/gamer.png' | relative_url }}" alt="Gamer" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/kits_pics/gamer.png' | relative_url }}" alt="Gamer" class="image featured">
 
 
 ## Info
@@ -70,8 +70,7 @@ NOTE: USD to RMB exchange rate is 6.13
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTA.png' | relative_url }}" alt="colorGTA" height="150" width="340">
 
 
-/home/juzou/documents/matrixzj.github.io/assets/images/sa-keycaps/calmdepthsr1/rendering_pics/
 ## Pictures
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/rendering_pics/3.jpg' | relative_url }}" alt="3" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/calmdepthsr1/rendering_pics/2.jpg' | relative_url }}" alt="2" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/rendering_pics/3.jpg' | relative_url }}" alt="3" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/calmdepths/rendering_pics/2.jpg' | relative_url }}" alt="2" class="image featured">
