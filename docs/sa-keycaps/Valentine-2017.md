@@ -4,7 +4,6 @@ layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 839
-nav_order: 839
 ---
 
 # Valentine 2017 情人节

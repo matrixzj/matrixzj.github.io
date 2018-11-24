@@ -4,7 +4,6 @@ layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 709
-nav_order: 709
 ---
 
 # SA Carbon R2

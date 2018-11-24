@@ -4,7 +4,6 @@ layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 874
-nav_order: 874
 ---
 
 # JukeBox R1 脆皮鸡R1

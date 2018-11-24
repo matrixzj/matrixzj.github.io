@@ -4,7 +4,6 @@ layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 534
-nav_order: 534
 ---
 
 # Composition 构成

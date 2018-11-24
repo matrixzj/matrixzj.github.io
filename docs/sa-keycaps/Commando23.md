@@ -4,7 +4,6 @@ layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 999
-nav_order: 999
 ---
 
 # Commando 23 突击23

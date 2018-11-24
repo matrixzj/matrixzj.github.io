@@ -4,7 +4,6 @@ layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 569
-nav_order: 569
 ---
 
 # Trouble Minds EVA R2

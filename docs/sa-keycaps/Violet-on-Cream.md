@@ -4,7 +4,6 @@ layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 504
-nav_order: 504
 ---
 
 # Violet on Cream 奶紫ZF

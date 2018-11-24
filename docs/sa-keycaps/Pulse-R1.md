@@ -4,7 +4,6 @@ layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 939
-nav_order: 939
 ---
 
 # Pulse R1 脉冲R1
