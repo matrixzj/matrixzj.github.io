@@ -110,8 +110,8 @@ There is still a lot of wrong/missing info in this page. Any suggestions/advice/
 
 ### Contributing
 
-This page is maintained by Matrix Zou and Specially Thanks GodFire/Stepstone/Saga contributions.
-感谢 野火/Mr. Lee/江总, Matrix负责搬砖
+This page is maintained by Matrix Zou and Specially Thanks GodFire/Stepstone contributions.
+感谢 野火/Mr. Lee, Matrix负责搬砖
 
 ## About the project
 
