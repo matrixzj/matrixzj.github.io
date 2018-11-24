@@ -63,7 +63,7 @@ permalink: /
 * [Vilebloom ](docs/sa-keycaps/Vilebloom/)
 * [Commando 88 突击88](docs/sa-keycaps/Commando88/)
 * [Honeywell](docs/sa-keycaps/Honeywell/)
-* [Abyss 深海](docs/sa-keycaps/Abyss/)
+* [Abyss 深渊](docs/sa-keycaps/Abyss/)
 * [HyperFuse](docs/sa-keycaps/HyperFuse/)
 * [Ocean Dolch](docs/sa-keycaps/Ocean Dolch/)
 * [Novelties Blue Addon ](docs/sa-keycaps/Novelties-Blue-Addon/)
