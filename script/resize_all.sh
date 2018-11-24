@@ -3,7 +3,7 @@
 path=$1
 
 # resize rendering pictures
-for i in $(find rendering_pics/$path -size +300k -print); do
+for i in $(find rendering_pics/$path -size +400k -print); do
     fileName=$(echo $i | awk -F'/' '{print $NF}')
     echo $fileName
     /home/juzou/documents/matrixzj.github.io/script/resize_pic.py rendering_pics $fileName
