@@ -26,7 +26,7 @@ NOTE: USD to RMB exchange rate is 6.95
 
 
 ## Kits
-### Base te
+### Base
 **Price(USD):** 144.99    **Price(RMB):** 1007.68    **Price(ZF):** unknown    
 <img src="{{ 'assets/images/gmk-keycaps/monochrome/kits_pics/base.jpeg' | relative_url }}" alt="Base" class="image featured">
 
