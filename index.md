@@ -24,6 +24,7 @@ permalink: /
 * [Banana 香蕉](docs/sa-keycaps/Banana/)
 * [Bee 蜜蜂](docs/sa-keycaps/Bee/)
 * [Lime 青柠](docs/sa-keycaps/Lime/)
+* [Symbiosis R2 塞班/共生R2](docs/sa-keycaps/Symbiosis-R2/)
 * [Nautilus 鹦鹉螺](docs/sa-keycaps/Nautilus/)
 * [Mechanist 机械师](docs/sa-keycaps/Mechanist/)
 * [Composition 构成](docs/sa-keycaps/Composition/)
@@ -81,7 +82,7 @@ permalink: /
 * [JukeBox R1 脆皮鸡R1](docs/sa-keycaps/JukeBox-R1/)
 * [Retro 复古](docs/sa-keycaps/Retro/)
 * [Modern Selectric 大电子](docs/sa-keycaps/Modern-Selectric/)
-* [Symbiosis 塞班/共生](docs/sa-keycaps/Symbiosis/)
+* [Symbiosis R1 塞班/共生R1](docs/sa-keycaps/Symbiosis-R1/)
 * [1976](docs/sa-keycaps/1976/)
 * [Hack'd by Geeks ](docs/sa-keycaps/Hackd-by-Geeks/)
 
