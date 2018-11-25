@@ -37,7 +37,7 @@ NOTE: USD to RMB exchange rate is 6.95
 
 ### Icon Modi & LED
 **Price(USD):** 65.00    **Price(RMB):** 451.75    **Price(ZF):** 476.00    
-<img src="{{ 'assets/images/gmk-keycaps/handarbeit/kits_pics/icon-modi-&-led.png' | relative_url }}" alt="Icon Modi & LED" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/handarbeit/kits_pics/icon-modi-led.png' | relative_url }}" alt="Icon Modi & LED" class="image featured">
 
 
 ## Info
