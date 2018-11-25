@@ -3,7 +3,7 @@ title: DMG
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 2
+nav_order: 10
 ---
 
 # DMG

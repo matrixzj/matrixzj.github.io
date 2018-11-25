@@ -3,7 +3,7 @@ title: Carbon R2 大碳R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 1
+nav_order: 15
 ---
 
 # Carbon R2
@@ -118,8 +118,8 @@ NOTE: USD to RMB exchange rate is 6.94
 ## Info
 * Designer: T0mb3ry
 * Profile: SA 0-1-2-3-4-5
-* Color Codes:
 * GB Time: 2018-11
+* Color Codes: unknown
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/rendering_pics/TkWlQAvQsi4b3woSF0Mf_AI7B2353-copy.jpg' | relative_url }}" alt="TkWlQAvQsi4b3woSF0Mf_AI7B2353-copy" class="image featured">
