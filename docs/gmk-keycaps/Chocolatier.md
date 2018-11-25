@@ -3,7 +3,7 @@ title: Chocolatier 巧克力
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 30
+nav_order: 10130
 ---
 
 # Chocolatier 巧克力

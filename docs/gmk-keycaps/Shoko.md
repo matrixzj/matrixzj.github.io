@@ -3,7 +3,7 @@ title: Shoko 硝子
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 5
+nav_order: 10105
 ---
 
 # Shoko 硝子
