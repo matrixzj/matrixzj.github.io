@@ -21,12 +21,12 @@ NOTE: USD to RMB exchange rate is 6.95
 
 | Name          | Price(USD)    |  Price(RMB) |  Price(ZF) | Quantity |
 | ------------- | ------------- |  ---------- |  --------- | -------- |
-|[All](#all)|170.00|1181.50|1200|unknown|
+|[All](#all)|170.00|1181.50|1049|unknown|
 
 
 ## Kits
 ### All
-**Price(USD):** 170.00    **Price(RMB):** 1181.50    **Price(ZF):** 1200    **Quantity:** unknown
+**Price(USD):** 170.00    **Price(RMB):** 1181.50    **Price(ZF):** 1049    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/violetoncream/kits_pics/all.jpg' | relative_url }}" alt="All" class="image featured">
 
 
