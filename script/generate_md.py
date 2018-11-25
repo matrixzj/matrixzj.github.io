@@ -66,12 +66,18 @@ link = lines[8].split("'")[1]
 
 # generate navOrder
 keycapPath = '/home/juzou/documents/matrixzj.github.io/docs/%s-keycaps/' % keycapstype.lower()
-navOrder = ( len([eachfile for eachfile in os.listdir(keycapPath) if os.path.isfile(os.path.join(keycapPath, eachfile))]) - 1) * 5
+navOrder = ( len([eachfile for eachfile in os.listdir(keycapPath) if os.path.isfile(os.path.join(keycapPath, eachfile))]) - 1) * 5 + 10000
 
 # key: name, usd, rmb, proxyprice, quantity
 priceDict = {}
 sn = 1
 for line in lines[9:]:
+    lengthLine = len(line.split("|"))
+    if lengthLine == 6:
+	hasQuantity = True
+    else:
+	hasQuantity = False
+
     kitName = line.split("|")[0]
 
     kitUSD = line.split("|")[1]
@@ -96,16 +102,16 @@ for line in lines[9:]:
         else:
             float(kitPlatformPrice)
 
-    if keycapstype == 'SA':
+    if hasQuantity:
         kitQuantity = line.split("|")[4]
 	if len(kitQuantity) < 1:
 	    kitQuantity = 'unknown'
 	else:
 	    int(kitQuantity)
 
-    if keycapstype == 'SA':
+    if hasQuantity:
 	priceDict[sn] = [kitName, kitUSD, kitRMB, kitPlatformPrice, kitQuantity]
-    elif keycapstype == 'GMK':
+    else:
 	priceDict[sn] = [kitName, kitUSD, kitRMB, kitPlatformPrice]
     sn += 1
 
@@ -115,19 +121,14 @@ if rate:
     print 'NOTE: USD to RMB exchange rate is %.2f' % rate
 
 # generate price table
-if keycapstype == "GMK": 
+if hasQuantity: 	
     print """
-| Name          | Price(USD)    |  Price(RMB) |  Quantity |
-| ------------- | ------------- |  ---------- |  -------- |"""
-else:
-    if platform: 
-	print """
 | Name          | Price(USD)    |  Price(RMB) |  Price(%s) | Quantity |
 | ------------- | ------------- |  ---------- |  --------- | -------- |""" % platform
-    else:
-	print """
-| Name          | Price(USD)    |  Price(RMB) |  Quantity |
-| ------------- | ------------- |  ---------- |  -------- |"""
+else:
+    print """
+| Name          | Price(USD)    |  Price(RMB) |  Price(%s) |
+| ------------- | ------------- |  ---------- |  --------- |""" % platform
 
 for i in priceDict:
     # check USD
@@ -156,11 +157,13 @@ for i in priceDict:
             printKitFormat = printKitFormat + "**Price(%s):** %s    "
 
     # check Quantity
-    if keycapstype == 'SA':
+    if hasQuantity:
         if isinstance(priceDict[i][4], int):
             printPriceFormat = printPriceFormat + "%d|"
+            printKitFormat = printKitFormat + "**Quantity:** %d  "
         else:
             printPriceFormat = printPriceFormat + "%s|"
+            printKitFormat = printKitFormat + "**Quantity:** %s  "
 
     if keycapstype == 'SA':
         if platform: 
@@ -169,9 +172,9 @@ for i in priceDict:
     	    print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2],  priceDict[i][4])
     if keycapstype == 'GMK':
         if platform: 
-            print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3])
+            print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3], priceDict[i][4])
         else:
-    	    print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2])
+    	    print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3])
 
 
 priceRelFilePath = 'assets/images/%s-keycaps/%s/price.jpg' % ( keycapstype, name.lower().replace(" ","") )
@@ -186,17 +189,11 @@ print ''
 print '## Kits'
 for i in priceDict:
     print '### %s' % priceDict[i][0]
-    if keycapstype == 'SA':
+    if hasQuantity:
         if platform:
-            print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, float(priceDict[i][3]), priceDict[i][4])
+            print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3], priceDict[i][4])
         else:
 	   print printKitFormat % (priceDict[i][1], priceDict[i][2], priceDict[i][4])
-    if keycapstype == 'GMK':
-	print printKitFormat
-        if platform:
-            print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3])
-        else:
-	   print printKitFormat % (priceDict[i][1], priceDict[i][2])
 
     imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s.png' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
     print imagePrintFormat % (keycapstype.lower(), name.lower().replace(" ",""), priceDict[i][0].lower().replace(" ","-"), priceDict[i][0])

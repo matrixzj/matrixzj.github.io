@@ -3,7 +3,7 @@ title: Royal Navy 皇家海军
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10120
+nav_order: 10020
 ---
 
 # Royal Navy 皇家海军
@@ -29,7 +29,7 @@ NOTE: GBP to RMB exchange rate is 8.95
 ## Kits
 ### Base
 **Price(GBP):** 127.50    **Price(RMB):** 1141.13    **Price(ZF):** 1207.00    **Quantity:** unknown
-<img src="{{ 'assets/images/gmk-keycaps/royalnavy/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/royalnavy/kits_pics/base.jpeg' | relative_url }}" alt="Base" class="image featured">
 
 ### SpaceBars
 **Price(GBP):** 29.90    **Price(RMB):** 267.60    **Price(ZF):** 267.00    **Quantity:** unknown

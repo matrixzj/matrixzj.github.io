@@ -28,10 +28,11 @@ Since groupbuy was happened in Feburary 2015 via PMK, price info was unable to g
 * Designer: xblackdog
 * Profile: SA Uniform R3
 * GB Time: 2015-02
-* Color Codes: GC/BO/WA/NN  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GC.png' | relative_url }}" alt="colorGC" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BO.png' | relative_url }}" alt="colorBO" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WA.png' | relative_url }}" alt="colorWA" height="150" width="340">
+* Color Codes: YG/BE/WW/GTG/NN
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YG.png' | relative_url }}" alt="colorYG" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BE.png' | relative_url }}" alt="colorBE" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WW.png' | relative_url }}" alt="colorWW" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTG.png' | relative_url }}" alt="colorGTG" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
 
 
