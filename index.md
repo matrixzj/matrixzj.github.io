@@ -107,6 +107,7 @@ permalink: /
 * [Royal Navy 皇家海军](docs/gmk-keycaps/Royal-Navy/)
 * [Handarbeit+](docs/gmk-keycaps/Handarbeit/)
 * [Chocolatier 巧克力](docs/gmk-keycaps/Chocolatier/)
+* [Tokyo Nights 东京之夜](docs/gmk-keycaps/Tokyo-Nights/)
 
 ---
 
