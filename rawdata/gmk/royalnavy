@@ -1,0 +1,12 @@
+name = 'Royal Navy'
+cname = '皇家海军'
+keycapstype = 'GMK'
+designer = ''
+profile = '1-1-2-3-4-4'
+time = '2018-11'
+colorcodes = 'as shown in kits pictures'
+platform = 'ZF'
+link = 'http://www.zfrontier.com/m/4937'
+Base|127.5||1207||
+SpaceBars|29.9||267||
+ErgoPlanck|75.5||688||

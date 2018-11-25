@@ -51,7 +51,7 @@ link = lines[8].split("'")[1]
 
 # generate navOrder
 keycapPath = '/home/juzou/documents/matrixzj.github.io/docs/%s-keycaps/' % keycapstype.lower()
-navOrder = len([eachfile for eachfile in os.listdir(keycapPath) if os.path.isfile(os.path.join(keycapPath, eachfile))]) - 1
+navOrder = len([eachfile for eachfile in os.listdir(keycapPath) if os.path.isfile(os.path.join(keycapPath, eachfile))]) * 5
 
 # key: name, usd, rmb, proxyprice, quantity
 priceDict = {}
@@ -180,7 +180,7 @@ for i in priceDict:
 	print printFormat % (priceDict[i][1], priceDict[i][2], platform, float(priceDict[i][3]), priceDict[i][4])
     else:
 	print printFormat % (priceDict[i][1], priceDict[i][2], priceDict[i][4])
-    imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s.jpg' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
+    imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s.png' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
     print imagePrintFormat % (keycapstype.lower(), name.lower().replace(" ",""), priceDict[i][0].lower().replace(" ","-"), priceDict[i][0])
     print ''
 
