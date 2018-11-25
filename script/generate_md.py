@@ -115,52 +115,63 @@ if rate:
     print 'NOTE: USD to RMB exchange rate is %.2f' % rate
 
 # generate price table
-if platform: 
+if keycapstype == "GMK": 
     print """
+| Name          | Price(USD)    |  Price(RMB) |  Quantity |
+| ------------- | ------------- |  ---------- |  -------- |"""
+else:
+    if platform: 
+	print """
 | Name          | Price(USD)    |  Price(RMB) |  Price(%s) | Quantity |
 | ------------- | ------------- |  ---------- |  --------- | -------- |""" % platform
-else:
-    print """
+    else:
+	print """
 | Name          | Price(USD)    |  Price(RMB) |  Quantity |
 | ------------- | ------------- |  ---------- |  -------- |"""
 
 for i in priceDict:
     # check USD
     if isinstance(priceDict[i][1], float):
-        printFormat = "|[%s](#%s)|%.2f|"
+        printPriceFormat = "|[%s](#%s)|%.2f|"
+        printKitFormat = "**Price(USD):** %.2f    "
     else:
-        printFormat = "|[%s](#%s)|%s|"
+        printPriceFormat = "|[%s](#%s)|%s|"
+        printKitFormat = "**Price(USD):** %s    "
 
     # check RMB
     if isinstance(priceDict[i][2], float):
-        printFormat = printFormat + "%.2f|"
+        printPriceFormat = printPriceFormat + "%.2f|"
+        printKitFormat = printKitFormat + "**Price(RMB):** %.2f    "
     else:
-        printFormat = printFormat + "%s|"
+        printPriceFormat = printPriceFormat + "%s|"
+        printKitFormat = printKitFormat + "**Price(RMB):** %s    "
 
     # check PlateformPrice
     if platform: 
-        if isinstance(priceDict[i][3], str):
-            printFormat = printFormat + "%.2f|"
+        if isinstance(priceDict[i][3], float):
+            printPriceFormat = printPriceFormat + "%.2f|"
+            printKitFormat = printKitFormat + "**Price(%s):** %.2f    "
         else:
-            printFormat = printFormat + "%s|"
+            printPriceFormat = printPriceFormat + "%s|"
+            printKitFormat = printKitFormat + "**Price(%s):** %s    "
 
     # check Quantity
     if keycapstype == 'SA':
         if isinstance(priceDict[i][4], int):
-            printFormat = printFormat + "%d|"
+            printPriceFormat = printPriceFormat + "%d|"
         else:
-            printFormat = printFormat + "%s|"
+            printPriceFormat = printPriceFormat + "%s|"
 
     if keycapstype == 'SA':
         if platform: 
-            print printFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], float(priceDict[i][3]), priceDict[i][4])
+            print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], float(priceDict[i][3]), priceDict[i][4])
         else:
-    	    print printFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2],  priceDict[i][4])
+    	    print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2],  priceDict[i][4])
     if keycapstype == 'GMK':
         if platform: 
-            print printFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], float(priceDict[i][3]))
+            print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3])
         else:
-    	    print printFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2])
+    	    print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2])
 
 
 priceRelFilePath = 'assets/images/%s-keycaps/%s/price.jpg' % ( keycapstype, name.lower().replace(" ","") )
@@ -175,43 +186,17 @@ print ''
 print '## Kits'
 for i in priceDict:
     print '### %s' % priceDict[i][0]
-
-    # check USD
-    if isinstance(priceDict[i][1], float):
-        printFormat = "**Price(USD):** %.2f    "
-    else:
-        printFormat = "**Price(USD):** %s    "
-
-    # check RMB
-    if isinstance(priceDict[i][2], float):
-        printFormat = printFormat + "**Price(RMB):** %.2f    "
-    else:
-        printFormat = printFormat + "**Price(RMB):** %s    "
-
-    # check platformPrice
-    if platform: 
-        if isinstance(priceDict[i][3], str):
-	    printFormat = printFormat + "**Price(%s):** %.2f    "
-        else:
-	    printFormat = printFormat + "**Price(%s):** %s    "
-
-    # check Quantity
-    if keycapstype == 'SA':
-        if isinstance(priceDict[i][4], int):
-            printFormat = printFormat + "**Quantity:** %d"
-        else:
-            printFormat = printFormat + "**Quantity:** %s"
-
     if keycapstype == 'SA':
         if platform:
-            print printFormat % (priceDict[i][1], priceDict[i][2], platform, float(priceDict[i][3]), priceDict[i][4])
+            print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, float(priceDict[i][3]), priceDict[i][4])
         else:
-	   print printFormat % (priceDict[i][1], priceDict[i][2], priceDict[i][4])
+	   print printKitFormat % (priceDict[i][1], priceDict[i][2], priceDict[i][4])
     if keycapstype == 'GMK':
+	print printKitFormat
         if platform:
-            print printFormat % (priceDict[i][1], priceDict[i][2], platform, float(priceDict[i][3]))
+            print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3])
         else:
-	   print printFormat % (priceDict[i][1], priceDict[i][2])
+	   print printKitFormat % (priceDict[i][1], priceDict[i][2])
 
     imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s.png' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
     print imagePrintFormat % (keycapstype.lower(), name.lower().replace(" ",""), priceDict[i][0].lower().replace(" ","-"), priceDict[i][0])
