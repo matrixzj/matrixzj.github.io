@@ -6,7 +6,7 @@ parent: SA Keycaps
 nav_order: 522
 ---
 
-# Symbiosis R2 塞班/共生 R1
+# Symbiosis R2 塞班/共生 R2
 
 ref link: [KONO GB Link](https://kono.store/collections/keycap-sets/products/sa-symbiosis-keycaps)
 
