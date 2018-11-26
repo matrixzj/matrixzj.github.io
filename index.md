@@ -113,6 +113,7 @@ permalink: /
 * [Modern Dolch ](docs/gmk-keycaps/Modern-Dolch/)
 * [MR Sleeves Addon ](docs/gmk-keycaps/MR-Sleeves-Addon/)
 * [Space Cadet 太空学员](docs/gmk-keycaps/Space-Cadet/)
+* [Metaverse](docs/gmk-keycaps/Metaverse/)
 
 ### 2017
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)

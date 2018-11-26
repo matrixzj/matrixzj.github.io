@@ -187,7 +187,7 @@ for i in priceDict:
     else:
 	print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3])
 
-    imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s.jpg' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
+    imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s.png' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
     print imagePrintFormat % (keycapstype.lower(), name.lower().replace(" ",""), priceDict[i][0].lower().replace(" ","-"), priceDict[i][0])
     print ''
 
