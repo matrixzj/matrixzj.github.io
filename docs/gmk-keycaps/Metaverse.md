@@ -19,7 +19,7 @@ ref link: [Metaverse GH GB Link](https://geekhack.org/index.php?topic=96598.0)
 ## Price  
 NOTE: USD to RMB exchange rate is 6.67
 
-| Name          | Price(USD)    |  Price(RMB) |  Price(GH) |
+| Name          | Price(USD)    |  Price(RMB) |  Price(ZF) |
 | ------------- | ------------- |  ---------- |  --------- |
 |[Base](#base)|160.00|1067.20|unknown|
 |[Novelties](#novelties)|70.00|466.90|unknown|
@@ -29,19 +29,19 @@ NOTE: USD to RMB exchange rate is 6.67
 
 ## Kits
 ### Base
-**Price(USD):** 160.00    **Price(RMB):** 1067.20    **Price(GH):** unknown    
+**Price(USD):** 160.00    **Price(RMB):** 1067.20    **Price(ZF):** unknown    
 <img src="{{ 'assets/images/gmk-keycaps/metaverse/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Novelties
-**Price(USD):** 70.00    **Price(RMB):** 466.90    **Price(GH):** unknown    
+**Price(USD):** 70.00    **Price(RMB):** 466.90    **Price(ZF):** unknown    
 <img src="{{ 'assets/images/gmk-keycaps/metaverse/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
 
 ### Grey
-**Price(USD):** 58.00    **Price(RMB):** 386.86    **Price(GH):** unknown    
+**Price(USD):** 58.00    **Price(RMB):** 386.86    **Price(ZF):** unknown    
 <img src="{{ 'assets/images/gmk-keycaps/metaverse/kits_pics/grey.png' | relative_url }}" alt="Grey" class="image featured">
 
 ### Spacebar
-**Price(USD):** 54.00    **Price(RMB):** 360.18    **Price(GH):** unknown    
+**Price(USD):** 54.00    **Price(RMB):** 360.18    **Price(ZF):** unknown    
 <img src="{{ 'assets/images/gmk-keycaps/metaverse/kits_pics/spacebar.png' | relative_url }}" alt="Spacebar" class="image featured">
 
 
