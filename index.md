@@ -109,7 +109,7 @@ permalink: /
 * [Chocolatier 巧克力](docs/gmk-keycaps/Chocolatier/)
 * [Tokyo Nights 东京之夜](docs/gmk-keycaps/Tokyo-Nights/)
 * [Monochrome 黑白](docs/gmk-keycaps/Monochrome/)
-
+* [Violet Tendencies ](docs/gmk-keycaps/Violet-Tendencies/)
 
 ---
 
