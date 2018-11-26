@@ -114,6 +114,8 @@ permalink: /
 * [MR Sleeves Addon ](docs/gmk-keycaps/MR-Sleeves-Addon/)
 * [Space Cadet 太空学员](docs/gmk-keycaps/Space-Cadet/)
 * [Metaverse](docs/gmk-keycaps/Metaverse/)
+* [Necro 死灵](docs/gmk-keycaps/Necro/)
+
 
 ### 2017
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
