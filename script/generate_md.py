@@ -115,8 +115,6 @@ for line in lines[9:]:
 	priceDict[sn] = [kitName, kitUSD, kitRMB, kitPlatformPrice]
     sn += 1
 
-print priceDict
-
 print "---\ntitle: %s %s\nlayout: default\nicon: fa-keyboard-o\nparent: %s Keycaps\nnav_order: %d\n---\n\n# %s %s\n\nref link: [%s %s GB Link](%s)\n\n* [Price](#price)\n* [Kits](#kits)\n* [Info](#info)\n* [Pictures](#pictures)\n\n\n## Price  " % (name, cname, keycapstype, navOrder, name, cname, name, platform, link)
 
 if rate:

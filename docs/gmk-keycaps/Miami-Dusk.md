@@ -1,4 +1,3 @@
-{1: ['All', 76.0, 672.6, 'unknown']}
 ---
 title: Miami Dusk 迈阿密黄昏
 layout: default
