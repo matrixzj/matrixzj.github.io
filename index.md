@@ -112,6 +112,7 @@ permalink: /
 * [Violet Tendencies ](docs/gmk-keycaps/Violet-Tendencies/)
 * [Modern Dolch ](docs/gmk-keycaps/Modern-Dolch/)
 * [MR Sleeves Addon ](docs/gmk-keycaps/MR-Sleeves-Addon/)
+* [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
 
 ---
 

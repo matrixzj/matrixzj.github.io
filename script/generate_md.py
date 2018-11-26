@@ -11,7 +11,7 @@ rateDict = {"2018-11": '6.95', "2018-10": '6.87', "2018-09": '6.95',
     "2018-08": '6.87',"2018-07": '6.67',"2018-06": '6.47',"2018-05": '6.42',
     "2018-04": '6.34',"2018-03": '6.28',"2018-02": '6.29',"2018-01": '6.29', 
     "2017-12": '',"2017-11": '',"2017-10": '',"2017-09": '',
-    "2017-08": '',"2017-07": '',"2017-06": '',"2017-05": '',
+    "2017-08": '',"2017-07": '',"2017-06": '8.85',"2017-05": '',
     "2017-04": '',"2017-03": '',"2017-02": '',"2017-01": '',
     "2016-12": '',"2016-11": '',"2016-10": '',"2016-09": '',
     "2016-08": '',"2016-07": '',"2016-06": '',"2016-05": '',
@@ -115,6 +115,8 @@ for line in lines[9:]:
 	priceDict[sn] = [kitName, kitUSD, kitRMB, kitPlatformPrice]
     sn += 1
 
+print priceDict
+
 print "---\ntitle: %s %s\nlayout: default\nicon: fa-keyboard-o\nparent: %s Keycaps\nnav_order: %d\n---\n\n# %s %s\n\nref link: [%s %s GB Link](%s)\n\n* [Price](#price)\n* [Kits](#kits)\n* [Info](#info)\n* [Pictures](#pictures)\n\n\n## Price  " % (name, cname, keycapstype, navOrder, name, cname, name, platform, link)
 
 if rate:
@@ -165,17 +167,10 @@ for i in priceDict:
             printPriceFormat = printPriceFormat + "%s|"
             printKitFormat = printKitFormat + "**Quantity:** %s  "
 
-    if keycapstype == 'SA':
-        if platform: 
-            print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], float(priceDict[i][3]), priceDict[i][4])
-        else:
-    	    print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2],  priceDict[i][4])
-    if keycapstype == 'GMK':
-        if platform: 
-            print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3], priceDict[i][4])
-        else:
-    	    print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3])
-
+    if hasQuantity:
+        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], float(priceDict[i][3]))
+    else:
+        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3])
 
 priceRelFilePath = 'assets/images/%s-keycaps/%s/price.jpg' % ( keycapstype, name.lower().replace(" ","") )
 priceAbsFilePath = os.path.join('/home/juzou', priceRelFilePath)
@@ -190,10 +185,9 @@ print '## Kits'
 for i in priceDict:
     print '### %s' % priceDict[i][0]
     if hasQuantity:
-        if platform:
-            print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3], priceDict[i][4])
-        else:
-	   print printKitFormat % (priceDict[i][1], priceDict[i][2], priceDict[i][4])
+        print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3], priceDict[i][4])
+    else:
+	print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3])
 
     imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s.jpg' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
     print imagePrintFormat % (keycapstype.lower(), name.lower().replace(" ",""), priceDict[i][0].lower().replace(" ","-"), priceDict[i][0])
