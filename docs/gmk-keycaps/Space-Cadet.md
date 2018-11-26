@@ -29,7 +29,7 @@ NOTE: USD to RMB exchange rate is 6.87
 |[Cherry Icons](#cherryicons)|37.99|260.99|unknown|94|
 |[Blue Alphas](#bluealphas)|89.99|618.23|unknown|139|
 |[Spacekeys](#spacekeys)|17.99|123.59|unknown|129|
-|[NorDeUI](#nordeui)|49.99|343.43|unknown|29|
+|[NorDeUK](#nordeuk)|49.99|343.43|unknown|29|
 |[Colevrak](#colevrak)|99.99|686.93|unknown|38|
 
 
@@ -66,9 +66,9 @@ NOTE: USD to RMB exchange rate is 6.87
 **Price(USD):** 17.99    **Price(RMB):** 123.59    **Price(ZF):** unknown    **Quantity:** 129  
 <img src="{{ 'assets/images/gmk-keycaps/spacecadet/kits_pics/spacekeys.jpg' | relative_url }}" alt="Spacekeys" class="image featured">
 
-### NorDeUI
+### NorDeUK
 **Price(USD):** 49.99    **Price(RMB):** 343.43    **Price(ZF):** unknown    **Quantity:** 29  
-<img src="{{ 'assets/images/gmk-keycaps/spacecadet/kits_pics/nordeui.jpg' | relative_url }}" alt="NorDeUI" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/spacecadet/kits_pics/nordeuk.jpg' | relative_url }}" alt="NorDeUK" class="image featured">
 
 ### Colevrak
 **Price(USD):** 99.99    **Price(RMB):** 686.93    **Price(ZF):** unknown    **Quantity:** 38  
