@@ -110,6 +110,7 @@ permalink: /
 * [Tokyo Nights 东京之夜](docs/gmk-keycaps/Tokyo-Nights/)
 * [Monochrome 黑白](docs/gmk-keycaps/Monochrome/)
 * [Violet Tendencies ](docs/gmk-keycaps/Violet-Tendencies/)
+* [Modern Dolch ](docs/gmk-keycaps/Modern-Dolch/)
 
 ---
 
