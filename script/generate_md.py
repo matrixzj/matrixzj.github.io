@@ -166,7 +166,7 @@ for i in priceDict:
             printKitFormat = printKitFormat + "**Quantity:** %s  "
 
     if hasQuantity:
-        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], float(priceDict[i][3]))
+        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3], priceDict[i][4])
     else:
         print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3])
 
