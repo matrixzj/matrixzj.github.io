@@ -81,7 +81,6 @@ for line in lines[9:]:
     kitName = line.split("|")[0]
 
     kitUSD = line.split("|")[1]
-    
     if len(kitUSD) < 1:
         kitUSD = 'unknown'
     else:

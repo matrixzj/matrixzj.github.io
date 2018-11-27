@@ -1,0 +1,14 @@
+name = 'Triumph Adler 90'
+cname = 'TA90'
+keycapstype = 'GMK'
+designer = 'Drclick'
+profile = '1-1-2-3-4-4'
+time = '2018-06'
+colorcodes = 'as shown in kits pictures'
+platform = 'ZF'
+link = 'https://www.zfrontier.com/m/3850'
+Base|||1019|
+Icon|||240|
+NORDE|||270|
+R0 Number|||212|
+Spacebars|||140|
