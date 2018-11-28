@@ -117,7 +117,7 @@ NOTE: USD to RMB exchange rate is 6.94
 
 ## Info
 * Designer: T0mb3ry
-* Profile: SA 0-1-2-3-4-5
+* Profile: GMK 0-1-2-3-4-5
 * GB Time: 2018-11
 * Color Codes: unknown
 
