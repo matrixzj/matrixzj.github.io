@@ -187,8 +187,12 @@ for i in priceDict:
     else:
     	print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3])
 
-    imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s.png' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
-    print imagePrintFormat % (keycapstype.lower(), name.lower().replace(" ",""), priceDict[i][0].lower().replace(" ","-"), priceDict[i][0])
+    kitPicPath = '/home/juzou/documents/matrixzj.github.io/assets/images/%s-keycaps/%s/kits_pics/' % (keycapstype.lower(), name.lower().replace(" ",""))
+    if os.path.isdir(kitPicPath):
+        pictures = [f for f in listdir(kitPicPath)]
+        kitPic = [p for p in pictures if not p.find(priceDict[i][0].lower().replace(" ","-"))]
+        imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
+        print imagePrintFormat % (keycapstype.lower(), name.lower().replace(" ",""), kitPic[0], priceDict[i][0])
     print ''
 
 print ''
