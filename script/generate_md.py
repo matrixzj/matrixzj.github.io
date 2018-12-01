@@ -7,7 +7,7 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-rateDict = {"2018-11": '6.95', "2018-10": '6.87', "2018-09": '6.95',
+rateDict = {"2018-12": '6.96', "2018-11": '6.95', "2018-10": '6.87', "2018-09": '6.95',
     "2018-08": '6.87',"2018-07": '6.67',"2018-06": '6.47',"2018-05": '6.42',
     "2018-04": '6.34',"2018-03": '6.28',"2018-02": '6.29',"2018-01": '6.29', 
     "2017-12": '',"2017-11": '',"2017-10": '',"2017-09": '',
@@ -92,7 +92,7 @@ for line in lines[9:]:
     elif len(kitRMB) > 1:
         kitRMB = float(kitRMB)
     else:
-	kitRMB = 'unknown'
+    	kitRMB = 'unknown'
 
     kitPlatformPrice = line.split("|")[3]
     if platform:
@@ -148,10 +148,11 @@ for i in priceDict:
 
     # check PlateformPrice
     if platform: 
-        if isinstance(priceDict[i][3], float):
+        try: 
+            priceDict[i][3] = float(priceDict[i][3])
             printPriceFormat = printPriceFormat + "%.2f|"
             printKitFormat = printKitFormat + "**Price(%s):** %.2f    "
-        else:
+        except:
             printPriceFormat = printPriceFormat + "%s|"
             printKitFormat = printKitFormat + "**Price(%s):** %s    "
 
@@ -184,7 +185,7 @@ for i in priceDict:
     if hasQuantity:
         print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3], priceDict[i][4])
     else:
-	print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3])
+    	print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3])
 
     imagePrintFormat = "<img src=\"{{ 'assets/images/%s-keycaps/%s/kits_pics/%s.png' | relative_url }}\" alt=\"%s\" class=\"image featured\">"
     print imagePrintFormat % (keycapstype.lower(), name.lower().replace(" ",""), priceDict[i][0].lower().replace(" ","-"), priceDict[i][0])
