@@ -59,7 +59,7 @@ NOTE: USD to RMB exchange rate is 6.42
 * Designer: briano1905
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-05
-* ColorCodes: as shown in kits pictures
+* ColorCodes: unknown
 
 
 ## Pictures
