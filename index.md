@@ -119,6 +119,7 @@ permalink: /
 * [Phantom](docs/gmk-keycaps/Phantom/)
 * [Olivia](docs/gmk-keycaps/Olivia/)
 * [Valentine 2018 Cherry KA 2018 Liebe](docs/gmk-keycaps/Valentine-2018/)
+* [Serika 芹夏](docs/gmk-keycaps/Serika/)
 
 ### 2017
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
