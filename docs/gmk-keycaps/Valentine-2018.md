@@ -8,7 +8,6 @@ nav_order: 10100
 
 # Valentine 2018 Cherry KA 2018 Liebe
 
-ref link: [Valentine 2018 ZF GB Link]()
 
 * [Price](#price)
 * [Kits](#kits)
