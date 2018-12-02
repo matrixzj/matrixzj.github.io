@@ -35,10 +35,10 @@ ref link: [Corsa Auto ZF GB Link](http://www.zfrontier.com/m/3386)
 
 
 ## Info
-* Designer: 
+* Designer: unknown
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-03
-* ColorCodes: as shown in kits pictures
+* ColorCodes: RGB #F8E7A1 / #343466 / #9C1A22
 
 
 ## Pictures
