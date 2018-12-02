@@ -118,6 +118,7 @@ permalink: /
 * [Triumph Adler 90 TA90](docs/gmk-keycaps/Triumph-Adler-90/)
 * [Phantom](docs/gmk-keycaps/Phantom/)
 * [Olivia](docs/gmk-keycaps/Olivia/)
+* [Valentine 2018 Cherry KA 2018 Liebe](docs/gmk-keycaps/Valentine-2018/)
 
 ### 2017
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
