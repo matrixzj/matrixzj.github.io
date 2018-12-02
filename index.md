@@ -121,6 +121,7 @@ permalink: /
 * [Valentine 2018 Cherry KA 2018 Liebe](docs/gmk-keycaps/Valentine-2018/)
 * [Serika 芹夏](docs/gmk-keycaps/Serika/)
 * [HyperFuse Origins](docs/gmk-keycaps/HyperFuse-Origins/)
+* [Red Samurai 红武士](docs/gmk-keycaps/Red-Samurai/)
 
 ### 2017
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
