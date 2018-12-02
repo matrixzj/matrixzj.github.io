@@ -1,0 +1,45 @@
+---
+title: Corsa Auto 赛道之星
+layout: default
+icon: fa-keyboard-o
+parent: GMK Keycaps
+nav_order: 11095
+---
+
+# Corsa Auto 赛道之星
+
+ref link: [Corsa Auto ZF GB Link](http://www.zfrontier.com/m/3386)
+
+* [Price](#price)
+* [Kits](#kits)
+* [Info](#info)
+* [Pictures](#pictures)
+
+
+## Price  
+
+| Name          | Price(USD)    |  Price(RMB) |  Price(ZF) |
+| ------------- | ------------- |  ---------- |  --------- |
+|[Base](#base)|unknown|unknown|858.00|
+|[Novelty](#novelty)|unknown|unknown|466.00|
+
+
+## Kits
+### Base
+**Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** 858.00    
+<img src="{{ 'assets/images/gmk-keycaps/corsaauto/kits_pics/base.jpeg' | relative_url }}" alt="Base" class="image featured">
+
+### Novelty
+**Price(USD):** unknown    **Price(RMB):** unknown    **Price(ZF):** 466.00    
+<img src="{{ 'assets/images/gmk-keycaps/corsaauto/kits_pics/novelty.jpeg' | relative_url }}" alt="Novelty" class="image featured">
+
+
+## Info
+* Designer: 
+* Profile: GMK 1-1-2-3-4-4
+* GB Time: 2017-03
+* ColorCodes: as shown in kits pictures
+
+
+## Pictures
+<img src="{{ 'assets/images/gmk-keycaps/corsaauto/rendering_pics/1.jpeg' | relative_url }}" alt="1.jpeg" class="image featured">
