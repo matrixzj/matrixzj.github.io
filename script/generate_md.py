@@ -114,7 +114,46 @@ for line in lines[9:]:
 	priceDict[sn] = [kitName, kitUSD, kitRMB, kitPlatformPrice]
     sn += 1
 
-print "---\ntitle: %s %s\nlayout: default\nicon: fa-keyboard-o\nparent: %s Keycaps\nnav_order: %d\n---\n\n# %s %s\n\nref link: [%s %s GB Link](%s)\n\n* [Price](#price)\n* [Kits](#kits)\n* [Info](#info)\n* [Pictures](#pictures)\n\n\n## Price  " % (name, cname, keycapstype, navOrder, name, cname, name, platform, link)
+if cname:
+    print "---"
+    print "title: %s %s" % (name, cname)
+    print "layout: default"
+    print "icon: fa-keyboard-o"
+    print "parent: %s Keycaps" % keycapstype
+    print "nav_order: %d" % navOrder
+    print "---"
+    print ""
+    print "# %s %s" % (name, cname)
+    print ""
+    print "ref link: [%s %s GB Link](%s)" % (name, platform, link)
+    print ""
+    print "* [Price](#price)"
+    print "* [Kits](#kits)"
+    print "* [Info](#info)"
+    print "* [Pictures](#pictures)"
+    print ""
+    print ""
+    print "## Price  "
+else:
+    print "---"
+    print "title: %s" % (name)
+    print "layout: default"
+    print "icon: fa-keyboard-o"
+    print "parent: %s Keycaps" % keycapstype
+    print "nav_order: %d" % navOrder
+    print "---"
+    print ""
+    print "# %s" % (name)
+    print ""
+    print "ref link: [%s %s GB Link](%s)" % (name, platform, link)
+    print ""
+    print "* [Price](#price)"
+    print "* [Kits](#kits)"
+    print "* [Info](#info)"
+    print "* [Pictures](#pictures)"
+    print ""
+    print ""
+    print "## Price  "
 
 if rate:
     print 'NOTE: USD to RMB exchange rate is %.2f' % rate
@@ -227,5 +266,8 @@ if os.path.isdir(picPath):
 
 
 # generate index
-print "* [%s %s](docs/%s-keycaps/%s/)" % (name, cname, keycapstype.lower(), name.replace(' ','-'))
+if cname:
+    print "* [%s %s](docs/%s-keycaps/%s/)" % (name, cname, keycapstype.lower(), name.replace(' ','-'))
+else:
+    print "* [%s](docs/%s-keycaps/%s/)" % (name, keycapstype.lower(), name.replace(' ','-'))
 
