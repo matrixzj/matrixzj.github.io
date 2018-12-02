@@ -19,7 +19,7 @@ ref link: [Serika MD GB Link](https://www.massdrop.com/buy/massdrop-x-zambumon-g
 ## Price  
 NOTE: USD to RMB exchange rate is 6.42
 
-| Name          | Price(USD)    |  Price(RMB) |  Price(MD) | Quantity |
+| Name          | Price(USD)    |  Price(RMB) |  Price(ZF) | Quantity |
 | ------------- | ------------- |  ---------- |  --------- | -------- |
 |[Core](#core)|139.99|898.74|unknown|446|
 |[40s](#40s)|59.99|385.14|unknown|65|
@@ -33,27 +33,26 @@ NOTE: USD to RMB exchange rate is 6.42
 
 ## Kits
 ### Core
-**Price(USD):** 139.99    **Price(RMB):** 898.74    **Price(MD):** unknown    **Quantity:** 446  
+**Price(USD):** 139.99    **Price(RMB):** 898.74    **Price(ZF):** unknown    **Quantity:** 446  
 <img src="{{ 'assets/images/gmk-keycaps/serika/kits_pics/core.jpg' | relative_url }}" alt="Core" class="image featured">
 
 ### 40s
-**Price(USD):** 59.99    **Price(RMB):** 385.14    **Price(MD):** unknown    **Quantity:** 65  
+**Price(USD):** 59.99    **Price(RMB):** 385.14    **Price(ZF):** unknown    **Quantity:** 65  
 <img src="{{ 'assets/images/gmk-keycaps/serika/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### Micons
-**Price(USD):** 74.99    **Price(RMB):** 481.44    **Price(MD):** unknown    **Quantity:** 150  
+**Price(USD):** 74.99    **Price(RMB):** 481.44    **Price(ZF):** unknown    **Quantity:** 150  
 <img src="{{ 'assets/images/gmk-keycaps/serika/kits_pics/micons.jpg' | relative_url }}" alt="Micons" class="image featured">
 
 ### Ergodox
-**Price(USD):** 99.99    **Price(RMB):** 641.94    **Price(MD):** unknown    **Quantity:** 29  
+**Price(USD):** 99.99    **Price(RMB):** 641.94    **Price(ZF):** unknown    **Quantity:** 29  
 <img src="{{ 'assets/images/gmk-keycaps/serika/kits_pics/ergodox.jpg' | relative_url }}" alt="Ergodox" class="image featured">
 
 ### Geometries
-**Price(USD):** 27.99    **Price(RMB):** 179.70    **Price(MD):** unknown    **Quantity:** 252  
+**Price(USD):** 27.99    **Price(RMB):** 179.70    **Price(ZF):** unknown    **Quantity:** 252  
 <img src="{{ 'assets/images/gmk-keycaps/serika/kits_pics/geometries.jpg' | relative_url }}" alt="Geometries" class="image featured">
 
-### Spacebars
-**Price(USD):** 24.99    **Price(RMB):** 160.44    **Price(MD):** unknown    **Quantity:** 142  
+**Price(USD):** 24.99    **Price(RMB):** 160.44    **Price(ZF):** unknown    **Quantity:** 142  
 <img src="{{ 'assets/images/gmk-keycaps/serika/kits_pics/spacebars.jpg' | relative_url }}" alt="Spacebars" class="image featured">
 
 

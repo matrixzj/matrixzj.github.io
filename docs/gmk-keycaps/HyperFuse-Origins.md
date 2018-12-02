@@ -19,14 +19,14 @@ ref link: [HyperFuse Origins OCO GB Link](https://www.originativeco.com/products
 ## Price  
 NOTE: USD to RMB exchange rate is 6.29
 
-| Name          | Price(USD)    |  Price(RMB) |  Price(OCO) |
-| ------------- | ------------- |  ---------- |  --------- |
-|[All](#all)|175.00|1100.75|unknown|
+| Name          | Price(USD)    |  Price(RMB) |  
+| ------------- | ------------- |  ---------- | 
+|[All](#all)|175.00|1100.75|
 
 
 ## Kits
 ### All
-**Price(USD):** 175.00    **Price(RMB):** 1100.75    **Price(OCO):** unknown    
+**Price(USD):** 175.00    **Price(RMB):** 1100.75    
 <img src="{{ 'assets/images/gmk-keycaps/hyperfuseorigins/kits_pics/all.png' | relative_url }}" alt="All" class="image featured">
 
 
