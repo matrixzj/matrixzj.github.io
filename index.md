@@ -48,7 +48,7 @@ permalink: /
 * [BloodShadow 黑红](docs/sa-keycaps/Blood-Shadow/)
 * [HyperFuse](docs/sa-keycaps/HyperFuse/)
 * [Carbon R2 大碳R2](docs/sa-keycaps/Carbon-R2/)
-* [Ocean Dolch](docs/sa-keycaps/Ocean Dolch/)
+* [Ocean Dolch](docs/sa-keycaps/Ocean-Dolch/)
 * [Toxic 毒药](docs/sa-keycaps/Toxic/)
 * [Senna 塞纳](docs/sa-keycaps/Senna/)
 * [Novelties Blue Addon](docs/sa-keycaps/Novelties-Blue-Addon/)
