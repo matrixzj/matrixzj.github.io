@@ -28,11 +28,11 @@ NOTE: USD to RMB exchange rate is 6.83
 ## Kits
 ### Base
 **Price(USD):** 169.99    **Price(RMB):** 1161.03    **Price(KP):** 1099    **Quantity:** 100
-<img src="{{ 'assets/images/sa-keycaps/oceandolch/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/oceandolch/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Dolch Cyan
 **Price(USD):** 49.99    **Price(RMB):** 341.43    **Price(KP):** 299    **Quantity:** 100
-<img src="{{ 'assets/images/sa-keycaps/oceandolch/kits_pics/dolchcyan.jpg' | relative_url }}" alt="Dolch Cyan" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/oceandolch/kits_pics/dolch-cyan.png' | relative_url }}" alt="Dolch Cyan" class="image featured">
 
 
 ## Info
