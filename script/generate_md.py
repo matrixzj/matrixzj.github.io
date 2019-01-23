@@ -7,7 +7,8 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-rateDict = {"2018-12": '6.96', "2018-11": '6.95', "2018-10": '6.87', "2018-09": '6.95',
+rateDict = { "2019-01": '6.80',
+    "2018-12": '6.96', "2018-11": '6.95', "2018-10": '6.87', "2018-09": '6.95',
     "2018-08": '6.87',"2018-07": '6.67',"2018-06": '6.47',"2018-05": '6.42',
     "2018-04": '6.34',"2018-03": '6.28',"2018-02": '6.29',"2018-01": '6.29', 
     "2017-12": '',"2017-11": '',"2017-10": '',"2017-09": '',
@@ -65,7 +66,7 @@ platform = lines[7].split("'")[1]
 link = lines[8].split("'")[1]
 
 # generate navOrder
-keycapPath = '/home/juzou/documents/matrixzj.github.io/docs/%s-keycaps/' % keycapstype.lower()
+keycapPath = '/home/jzou/keyboard/web/docs/%s-keycaps/' % keycapstype.lower()
 navOrder = ( len([eachfile for eachfile in os.listdir(keycapPath) if os.path.isfile(os.path.join(keycapPath, eachfile))]) - 1) * 5 + 10000
 
 # key: name, usd, rmb, proxyprice, quantity
@@ -95,6 +96,7 @@ for line in lines[9:]:
     	kitRMB = 'unknown'
 
     kitPlatformPrice = line.split("|")[3]
+    print kitPlatformPrice
     if platform:
         if len(kitPlatformPrice) < 1:
             kitPlatformPrice = 'unknown'
@@ -109,9 +111,9 @@ for line in lines[9:]:
 	    int(kitQuantity)
 
     if hasQuantity:
-	priceDict[sn] = [kitName, kitUSD, kitRMB, kitPlatformPrice, kitQuantity]
+	priceDict[sn] = [kitName, kitUSD, kitRMB, kitQuantity]
     else:
-	priceDict[sn] = [kitName, kitUSD, kitRMB, kitPlatformPrice]
+	priceDict[sn] = [kitName, kitUSD, kitRMB]
     sn += 1
 
 if cname:
@@ -161,12 +163,12 @@ if rate:
 # generate price table
 if hasQuantity: 	
     print """
-| Name          | Price(USD)    |  Price(RMB) |  Price(%s) | Quantity |
-| ------------- | ------------- |  ---------- |  --------- | -------- |""" % platform
+| Name          | Price(%s)    |  Price(RMB) | Quantity |
+| ------------- | ------------ |  ---------- | -------- |""" % platform
 else:
     print """
-| Name          | Price(USD)    |  Price(RMB) |  Price(%s) |
-| ------------- | ------------- |  ---------- |  --------- |""" % platform
+| Name          | Price(%s)    |  Price(RMB) |
+| ------------- | ------------ |  ---------- |""" % platform
 
 for i in priceDict:
     # check USD
@@ -207,7 +209,7 @@ for i in priceDict:
     if hasQuantity:
         print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3], priceDict[i][4])
     else:
-        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3])
+        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], 'unknown')
 
 priceRelFilePath = 'assets/images/%s-keycaps/%s/price.jpg' % ( keycapstype.lower(), name.lower().replace(" ","") )
 priceAbsFilePath = os.path.join('/home/juzou/documents/matrixzj.github.io', priceRelFilePath)
@@ -224,9 +226,9 @@ for i in priceDict:
     if hasQuantity:
         print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3], priceDict[i][4])
     else:
-    	print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3])
+    	print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, 'unknown')
 
-    kitPicPath = '/home/juzou/documents/matrixzj.github.io/assets/images/%s-keycaps/%s/kits_pics/' % (keycapstype.lower(), name.lower().replace(" ",""))
+    kitPicPath = '/home/jzou/keyboard/web/assets/images/%s-keycaps/%s/kits_pics/' % (keycapstype.lower(), name.lower().replace(" ",""))
     if os.path.isdir(kitPicPath):
         pictures = [f for f in listdir(kitPicPath)]
         try:
