@@ -28,7 +28,7 @@ NOTE: USD to RMB exchange rate is 6.28
 ## Kits
 ### All
 **Price(USD):** 260.00    **Price(RMB):** 1632.80    **Price(ZF):** 1813    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/solarizedpenumbra/kits_pics/all.jpg' | relative_url }}" alt="All" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/solarizedpenumbra/kits_pics/all.png' | relative_url }}" alt="All" class="image featured">
 
 
 ## Info
