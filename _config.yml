@@ -28,8 +28,8 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Enjoy Keycaps":
+    - "//github.com/matrixzj/matrixzj.github.io"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: dark
