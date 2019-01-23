@@ -96,7 +96,6 @@ for line in lines[9:]:
     	kitRMB = 'unknown'
 
     kitPlatformPrice = line.split("|")[3]
-    print kitPlatformPrice
     if platform:
         if len(kitPlatformPrice) < 1:
             kitPlatformPrice = 'unknown'
@@ -161,14 +160,9 @@ if rate:
     print 'NOTE: USD to RMB exchange rate is %.2f' % rate
 
 # generate price table
-if hasQuantity: 	
     print """
 | Name          | Price(%s)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |""" % platform
-else:
-    print """
-| Name          | Price(%s)    |  Price(RMB) |
-| ------------- | ------------ |  ---------- |""" % platform
 
 for i in priceDict:
     # check USD
@@ -263,7 +257,7 @@ print ''
 #
 # generate picture part
 #
-picPath = '/home/juzou/documents/matrixzj.github.io/assets/images/%s-keycaps/%s/rendering_pics/' % (keycapstype.lower(), name.lower().replace(" ",""))
+picPath = '/home/jzou/keyboard/web/assets/images/%s-keycaps/%s/rendering_pics/' % (keycapstype.lower(), name.lower().replace(" ",""))
 if os.path.isdir(picPath):
     print '## Pictures'
     pictures = [f for f in listdir(picPath)]

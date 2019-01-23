@@ -19,8 +19,8 @@ ref link: [Danger Zone R2 MD GB Link](https://www.massdrop.com/buy/danger-zone-s
 ## Price  
 NOTE: USD to RMB exchange rate is 6.80
 
-| Name          | Price(MD)    |  Price(RMB) |
-| ------------- | ------------ |  ---------- |
+| Name          | Price(MD)    |  Price(RMB) | Quantity |
+| ------------- | ------------ |  ---------- | -------- |
 |[Alphas](#alphas)|44.99|305.93|unknown|
 |[Modifiers](#modifiers)|84.99|577.93|unknown|
 |[Numpad](#numpad)|30.99|210.73|unknown|
@@ -34,7 +34,7 @@ NOTE: USD to RMB exchange rate is 6.80
 ## Kits
 ### Alphas
 **Price(USD):** 44.99    **Price(RMB):** 305.93    **Price(MD):** unknown    
-<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/alphas.png' | relative_url }}" alt="Alphas" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/alphas.jpg' | relative_url }}" alt="Alphas" class="image featured">
 
 ### Modifiers
 **Price(USD):** 84.99    **Price(RMB):** 577.93    **Price(MD):** unknown    
@@ -76,4 +76,6 @@ NOTE: USD to RMB exchange rate is 6.80
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAS.png' | relative_url }}" alt="colorRAS" height="150" width="340">
 
 
-* [Danger Zone R2 壮志凌云R2](docs/sa-keycaps/Danger-Zone-R2/)
+## Pictures
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/rendering_pics/2.jpg' | relative_url }}" alt="2" class="image featured">
