@@ -30,6 +30,7 @@ NOTE: USD to RMB exchange rate is 6.80
 |[Ortholinear](#ortholinear)|44.99|305.93|unknown|
 |[Wingman](#wingman)|74.99|509.93|unknown|
 
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/price.jpg' | relative_url }}" atl="price" class="image featured">
 
 ## Kits
 ### Alphas
