@@ -46,11 +46,11 @@ NOTE: USD to RMB exchange rate is 6.80
 
 ### Specialties
 **Price(USD):** 29.99    **Price(RMB):** 203.93    **Price(MD):** unknown    
-<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/specialties.png' | relative_url }}" alt="Specialties" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/specialties.jpg' | relative_url }}" alt="Specialties" class="image featured">
 
 ### UK ISO
 **Price(USD):** 19.99    **Price(RMB):** 135.93    **Price(MD):** unknown    
-<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/uk-iso.png' | relative_url }}" alt="UK ISO" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/uk-iso.jpg' | relative_url }}" alt="UK ISO" class="image featured">
 
 ### AeroDox
 **Price(USD):** 129.99    **Price(RMB):** 883.93    **Price(MD):** unknown    
