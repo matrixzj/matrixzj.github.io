@@ -30,10 +30,10 @@ NOTE: USD to RMB exchange rate is 6.80
 |[Ortholinear](#ortholinear)|44.99|305.93|unknown|
 |[Wingman](#wingman)|74.99|509.93|unknown|
 |[Arrows](#arrows)|8.99|61.13|unknown|
-|[Alternate Funtion](#alternatefuntion)|12.99|88.33|unknown|
-|[Space Force](#spaceforce)|12.99|88.33|unknown|
-|[BFU Spacebars](#bfuspacebars)|11.99|81.53|unknown|
-|[YY Spacebars](#yyspacebars)|11.99|81.53|unknown|
+|[Alternate Function](#alternate-function)|12.99|88.33|unknown|
+|[Space Force](#space-force)|12.99|88.33|unknown|
+|[BFU Spacebars](#bfu-spacebars)|11.99|81.53|unknown|
+|[YY Spacebars](#yy-spacebars)|11.99|81.53|unknown|
 
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/price.jpg' | relative_url }}" atl="price" class="image featured">
 
@@ -76,7 +76,7 @@ NOTE: USD to RMB exchange rate is 6.80
 
 ### Alternate Funtion
 **Price(USD):** 12.99    **Price(RMB):** 88.33    **Price(MD):** unknown
-<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/alternate-funtion.png' | relative_url }}" alt="Alternate Funtion" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/alternate-function.jpg' | relative_url }}" alt="Alternate Funtion" class="image featured">
 
 ### Space Force
 **Price(USD):** 12.99    **Price(RMB):** 88.33    **Price(MD):** unknown
