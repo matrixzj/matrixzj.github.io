@@ -21,49 +21,74 @@ NOTE: USD to RMB exchange rate is 6.80
 
 | Name          | Price(MD)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Alphas](#alphas)|44.99|305.93|unknown|
-|[Modifiers](#modifiers)|84.99|577.93|unknown|
-|[Numpad](#numpad)|30.99|210.73|unknown|
-|[Specialties](#specialties)|29.99|203.93|unknown|
+|[Alphas](#alphas)|39.99|271.93|unknown|
+|[Modifiers](#modifiers)|75.99|516.73|unknown|
+|[Numpad](#numpad)|27.99|190.33|unknown|
+|[Specialties](#specialties)|24.99|169.93|unknown|
 |[UK ISO](#ukiso)|19.99|135.93|unknown|
 |[AeroDox](#aerodox)|129.99|883.93|unknown|
 |[Ortholinear](#ortholinear)|44.99|305.93|unknown|
 |[Wingman](#wingman)|74.99|509.93|unknown|
+|[Arrows](#arrows)|8.99|61.13|unknown|
+|[Alternate Funtion](#alternatefuntion)|12.99|88.33|unknown|
+|[Space Force](#spaceforce)|12.99|88.33|unknown|
+|[BFU Spacebars](#bfuspacebars)|11.99|81.53|unknown|
+|[YY Spacebars](#yyspacebars)|11.99|81.53|unknown|
 
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/price.jpg' | relative_url }}" atl="price" class="image featured">
 
 ## Kits
 ### Alphas
-**Price(USD):** 44.99    **Price(RMB):** 305.93    **Price(MD):** unknown    
+**Price(USD):** 39.99    **Price(RMB):** 271.93    **Price(MD):** unknown
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/alphas.jpg' | relative_url }}" alt="Alphas" class="image featured">
 
 ### Modifiers
-**Price(USD):** 84.99    **Price(RMB):** 577.93    **Price(MD):** unknown    
+**Price(USD):** 75.99    **Price(RMB):** 516.73    **Price(MD):** unknown
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/modifiers.jpg' | relative_url }}" alt="Modifiers" class="image featured">
 
 ### Numpad
-**Price(USD):** 30.99    **Price(RMB):** 210.73    **Price(MD):** unknown    
+**Price(USD):** 27.99    **Price(RMB):** 190.33    **Price(MD):** unknown
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
 ### Specialties
-**Price(USD):** 29.99    **Price(RMB):** 203.93    **Price(MD):** unknown    
+**Price(USD):** 24.99    **Price(RMB):** 169.93    **Price(MD):** unknown
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/specialties.jpg' | relative_url }}" alt="Specialties" class="image featured">
 
 ### UK ISO
-**Price(USD):** 19.99    **Price(RMB):** 135.93    **Price(MD):** unknown    
+**Price(USD):** 19.99    **Price(RMB):** 135.93    **Price(MD):** unknown
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/uk-iso.jpg' | relative_url }}" alt="UK ISO" class="image featured">
 
 ### AeroDox
-**Price(USD):** 129.99    **Price(RMB):** 883.93    **Price(MD):** unknown    
+**Price(USD):** 129.99    **Price(RMB):** 883.93    **Price(MD):** unknown
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/aerodox.jpg' | relative_url }}" alt="AeroDox" class="image featured">
 
 ### Ortholinear
-**Price(USD):** 44.99    **Price(RMB):** 305.93    **Price(MD):** unknown    
+**Price(USD):** 44.99    **Price(RMB):** 305.93    **Price(MD):** unknown
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/ortholinear.jpg' | relative_url }}" alt="Ortholinear" class="image featured">
 
 ### Wingman
-**Price(USD):** 74.99    **Price(RMB):** 509.93    **Price(MD):** unknown    
+**Price(USD):** 74.99    **Price(RMB):** 509.93    **Price(MD):** unknown
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/wingman.jpg' | relative_url }}" alt="Wingman" class="image featured">
+
+### Arrows
+**Price(USD):** 8.99    **Price(RMB):** 61.13    **Price(MD):** unknown
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/arrows.jpg' | relative_url }}" alt="Arrows" class="image featured">
+
+### Alternate Funtion
+**Price(USD):** 12.99    **Price(RMB):** 88.33    **Price(MD):** unknown
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/alternate-funtion.png' | relative_url }}" alt="Alternate Funtion" class="image featured">
+
+### Space Force
+**Price(USD):** 12.99    **Price(RMB):** 88.33    **Price(MD):** unknown
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/space-force.jpg' | relative_url }}" alt="Space Force" class="image featured">
+
+### BFU Spacebars
+**Price(USD):** 11.99    **Price(RMB):** 81.53    **Price(MD):** unknown
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/bfu-spacebars.jpg' | relative_url }}" alt="BFU Spacebars" class="image featured">
+
+### YY Spacebars
+**Price(USD):** 11.99    **Price(RMB):** 81.53    **Price(MD):** unknown
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/kits_pics/yy-spacebars.jpg' | relative_url }}" alt="YY Spacebars" class="image featured">
 
 
 ## Info
