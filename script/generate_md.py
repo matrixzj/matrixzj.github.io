@@ -69,15 +69,15 @@ link = lines[8].split("'")[1]
 keycapPath = '/home/jzou/keyboard/web/docs/%s-keycaps/' % keycapstype.lower()
 navOrder = ( len([eachfile for eachfile in os.listdir(keycapPath) if os.path.isfile(os.path.join(keycapPath, eachfile))]) - 1) * 5 + 10000
 
-# key: name, usd, rmb, proxyprice, quantity
+# key: name, usd, rmb, quantity
 priceDict = {}
 sn = 1
 for line in lines[9:]:
     lengthLine = len(line.split("|"))
-    if lengthLine == 6:
+    if lengthLine == 5:
 	hasQuantity = True
     else:
-	hasQuantity = False
+	hasQuantity = False 
 
     kitName = line.split("|")[0]
 
@@ -95,19 +95,13 @@ for line in lines[9:]:
     else:
     	kitRMB = 'unknown'
 
-    kitPlatformPrice = line.split("|")[3]
-    if platform:
-        if len(kitPlatformPrice) < 1:
-            kitPlatformPrice = 'unknown'
-        else:
-            float(kitPlatformPrice)
-
     if hasQuantity:
-        kitQuantity = line.split("|")[4]
+        kitQuantity = line.split("|")[3]
+        
 	if len(kitQuantity) < 1:
 	    kitQuantity = 'unknown'
 	else:
-	    int(kitQuantity)
+	    kitQuantity = int(kitQuantity)
 
     if hasQuantity:
 	priceDict[sn] = [kitName, kitUSD, kitRMB, kitQuantity]
@@ -168,10 +162,10 @@ for i in priceDict:
     # check USD
     if isinstance(priceDict[i][1], float):
         printPriceFormat = "|[%s](#%s)|%.2f|"
-        printKitFormat = "**Price(USD):** %.2f    "
+        printKitFormat = "**Price(%s):** %.2f    "
     else:
         printPriceFormat = "|[%s](#%s)|%s|"
-        printKitFormat = "**Price(USD):** %s    "
+        printKitFormat = "**Price(%s):** %s    "
 
     # check RMB
     if isinstance(priceDict[i][2], float):
@@ -181,19 +175,9 @@ for i in priceDict:
         printPriceFormat = printPriceFormat + "%s|"
         printKitFormat = printKitFormat + "**Price(RMB):** %s    "
 
-    # check PlateformPrice
-    if platform: 
-        try: 
-            priceDict[i][3] = float(priceDict[i][3])
-            printPriceFormat = printPriceFormat + "%.2f|"
-            printKitFormat = printKitFormat + "**Price(%s):** %.2f    "
-        except:
-            printPriceFormat = printPriceFormat + "%s|"
-            printKitFormat = printKitFormat + "**Price(%s):** %s    "
-
     # check Quantity
     if hasQuantity:
-        if isinstance(priceDict[i][4], int):
+        if isinstance(priceDict[i][3], int):
             printPriceFormat = printPriceFormat + "%d|"
             printKitFormat = printKitFormat + "**Quantity:** %d  "
         else:
@@ -201,9 +185,9 @@ for i in priceDict:
             printKitFormat = printKitFormat + "**Quantity:** %s  "
 
     if hasQuantity:
-        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], priceDict[i][3], priceDict[i][4])
+        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ","-"), priceDict[i][1], priceDict[i][2], priceDict[i][3])
     else:
-        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ",""), priceDict[i][1], priceDict[i][2], 'unknown')
+        print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ","-"), priceDict[i][1], priceDict[i][2], 'unknown')
 
 priceRelFilePath = 'assets/images/%s-keycaps/%s/price.jpg' % ( keycapstype.lower(), name.lower().replace(" ","") )
 priceAbsFilePath = os.path.join('/home/juzou/documents/matrixzj.github.io', priceRelFilePath)
@@ -218,7 +202,7 @@ print '## Kits'
 for i in priceDict:
     print '### %s' % priceDict[i][0]
     if hasQuantity:
-        print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, priceDict[i][3], priceDict[i][4])
+        print printKitFormat % ( platform, priceDict[i][1], priceDict[i][2], priceDict[i][3])
     else:
     	print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, 'unknown')
 
