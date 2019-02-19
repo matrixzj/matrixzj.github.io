@@ -190,7 +190,7 @@ for i in priceDict:
         print printPriceFormat % (priceDict[i][0], priceDict[i][0].lower().replace(" ","-"), priceDict[i][1], priceDict[i][2], 'unknown')
 
 priceRelFilePath = 'assets/images/%s-keycaps/%s/price.jpg' % ( keycapstype.lower(), name.lower().replace(" ","") )
-priceAbsFilePath = os.path.join('/home/juzou/documents/matrixzj.github.io', priceRelFilePath)
+priceAbsFilePath = os.path.join('/home/jzou/keyboard/web', priceRelFilePath)
 if os.path.isfile(priceAbsFilePath):
     print ''
     print '<img src="{{ \'assets/images/%s-keycaps/%s/price.jpg\' | relative_url }}" alt="price" class="image featured">' % (keycapstype.lower(), name.lower().replace(" ",""))

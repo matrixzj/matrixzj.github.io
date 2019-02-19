@@ -24,11 +24,13 @@ NOTE: USD to RMB exchange rate is 6.79
 |[Core](#core)|114.99|780.78|unknown|
 |[Numpad](#numpad)|37.99|257.95|unknown|
 |[UK ISO](#uk-iso)|23.99|162.89|unknown|
-|[Forties & Split](#forties-&-split)|49.99|339.43|unknown|
+|[Forties & Split](#forties--split)|49.99|339.43|unknown|
 |[Spacebars](#spacebars)|19.99|135.73|unknown|
 |[Jamonelties](#jamonelties)|39.99|271.53|unknown|
 |[Pata Negra](#pata-negra)|22.99|156.10|unknown|
 |[Ene Survival](#ene-survival)|29.99|203.63|unknown|
+
+<img src="{{ 'assets/images/gmk-keycaps/jamon/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 
 ## Kits
