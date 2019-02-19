@@ -7,7 +7,7 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-rateDict = { "2019-01": '6.80',
+rateDict = { "2019-01": '6.80', "2019-02": '6.79',
     "2018-12": '6.96', "2018-11": '6.95', "2018-10": '6.87', "2018-09": '6.95',
     "2018-08": '6.87',"2018-07": '6.67',"2018-06": '6.47',"2018-05": '6.42',
     "2018-04": '6.34',"2018-03": '6.28',"2018-02": '6.29',"2018-01": '6.29', 
@@ -234,7 +234,7 @@ if keycapstype == "SA" and colorcodes != '' :
 elif keycapstype == "SA" and colorcodes == '' :
     print "* Color Codes: unknown  "
 elif keycapstype == "GMK" :
-    print "* ColorCodes: as shown in kits pictures"
+    print "* ColorCodes: %s " % (colorcodes)
 print ''
 print ''
 
