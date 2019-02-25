@@ -104,6 +104,7 @@ permalink: /
 ## GMK KeyCaps
 
 ### 2019
+* [Bento](docs/gmk-keycaps/Bento/)
 * [Jamon](docs/gmk-keycaps/Jamon/)
 
 ### 2018
