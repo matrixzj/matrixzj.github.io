@@ -28,8 +28,9 @@ ref link: Groupbuy was hosted in 'wolf' QQ Group
 * Designer: FF
 * Profile: SA 
 * GB Time: 2019-02
-* Color Codes: YBP/NN  
+* Color Codes: YBP/NN/WCK   
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
+<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="150" width="340">
 
 ## Pictures

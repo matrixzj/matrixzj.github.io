@@ -19,6 +19,7 @@ permalink: /
 ## SA KeyCaps
 
 ### 2019
+* [Novelties Banana R2 香蕉个性R2](docs/sa-keycaps/Novelties-Banana-R2/)
 * [Danger Zone R2 壮志凌云R2](docs/sa-keycaps/Danger-Zone-R2/)
 
 ### 2018
