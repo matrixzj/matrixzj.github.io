@@ -43,7 +43,7 @@ permalink: /
 * [Pulse R3 脉冲R3](docs/sa-keycaps/Pulse-R3/)
 * [Song 宋](docs/sa-keycaps/Song/)
 * [By the Sea](docs/sa-keycaps/By-the-Sea/)
-* [Novelties Banana 香蕉个性](docs/sa-keycaps/Novelties-Banana/)
+* [Novelties Banana R1 香蕉个性R1](docs/sa-keycaps/Novelties-Banana-R1/)
 
 ### 2017
 * [Abyss 深渊](docs/sa-keycaps/Abyss/)
