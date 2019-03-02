@@ -16,54 +16,51 @@ ref link: [Jamon MD GB Link](https://www.massdrop.com/buy/massdrop-x-zambumon-gm
 * [Pictures](#pictures)
 
 
-## Price  
-NOTE: USD to RMB exchange rate is 6.79
-
 | Name          | Price(MD)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Core](#core)|114.99|780.78|unknown|
-|[Numpad](#numpad)|37.99|257.95|unknown|
-|[UK ISO](#uk-iso)|23.99|162.89|unknown|
-|[Forties & Split](#forties--split)|49.99|339.43|unknown|
-|[Spacebars](#spacebars)|19.99|135.73|unknown|
-|[Jamonelties](#jamonelties)|39.99|271.53|unknown|
-|[Pata Negra](#pata-negra)|22.99|156.10|unknown|
-|[Ene Survival](#ene-survival)|29.99|203.63|unknown|
+|[Core](#core)|99.99|678.93|846|
+|[Numpad](#numpad)|29.99|203.63|250|
+|[UK ISO](#uk-iso)|23.99|162.89|37|
+|[Forties & Split](#forties-&-split)|42.99|291.90|196|
+|[Spacebars](#spacebars)|17.99|122.15|230|
+|[Jamonelties](#jamonelties)|34.99|237.58|570|
+|[Pata Negra](#pata-negra)|19.99|135.73|346|
+|[Ene Survival](#ene-survival)|29.99|203.63|137|
 
 <img src="{{ 'assets/images/gmk-keycaps/jamon/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 
 ## Kits
 ### Core
-**Price(MD):** 114.99    **Price(RMB):** 780.78    **Quantity:** unknown  
+**Price(MD):** 99.99    **Price(RMB):** 678.93    **Quantity:** 846
 <img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/core.jpg' | relative_url }}" alt="Core" class="image featured">
 
 ### Numpad
-**Price(MD):** 37.99    **Price(RMB):** 257.95    **Quantity:** unknown  
+**Price(MD):** 29.99    **Price(RMB):** 203.63    **Quantity:** 250
 <img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
 ### UK ISO
-**Price(MD):** 23.99    **Price(RMB):** 162.89    **Quantity:** unknown  
+**Price(MD):** 23.99    **Price(RMB):** 162.89    **Quantity:** 37
 <img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/uk-iso.jpg' | relative_url }}" alt="UK ISO" class="image featured">
 
 ### Forties & Split
-**Price(MD):** 49.99    **Price(RMB):** 339.43    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/forties-split.jpg' | relative_url }}" alt="Forties & Split" class="image featured">
+**Price(MD):** 42.99    **Price(RMB):** 291.90    **Quantity:** 196
+<img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/forties-&-split.png' | relative_url }}" alt="Forties & Split" class="image featured">
 
 ### Spacebars
-**Price(MD):** 19.99    **Price(RMB):** 135.73    **Quantity:** unknown  
+**Price(MD):** 17.99    **Price(RMB):** 122.15    **Quantity:** 230
 <img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/spacebars.jpg' | relative_url }}" alt="Spacebars" class="image featured">
 
 ### Jamonelties
-**Price(MD):** 39.99    **Price(RMB):** 271.53    **Quantity:** unknown  
+**Price(MD):** 34.99    **Price(RMB):** 237.58    **Quantity:** 570
 <img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/jamonelties.jpg' | relative_url }}" alt="Jamonelties" class="image featured">
 
 ### Pata Negra
-**Price(MD):** 22.99    **Price(RMB):** 156.10    **Quantity:** unknown  
+**Price(MD):** 19.99    **Price(RMB):** 135.73    **Quantity:** 346
 <img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/pata-negra.jpg' | relative_url }}" alt="Pata Negra" class="image featured">
 
 ### Ene Survival
-**Price(MD):** 29.99    **Price(RMB):** 203.63    **Quantity:** unknown  
+**Price(MD):** 29.99    **Price(RMB):** 203.63    **Quantity:** 137
 <img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/ene-survival.jpg' | relative_url }}" alt="Ene Survival" class="image featured">
 
 
