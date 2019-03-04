@@ -7,7 +7,7 @@ from os.path import isfile, join
 
 script, filepath = argv
 
-rateDict = { "2019-01": '6.80', "2019-02": '6.79',
+rateDict = { "2019-01": '6.80', "2019-02": '6.79', "2019-03": '6.73',
     "2018-12": '6.96', "2018-11": '6.95', "2018-10": '6.87', "2018-09": '6.95',
     "2018-08": '6.87',"2018-07": '6.67',"2018-06": '6.47',"2018-05": '6.42',
     "2018-04": '6.34',"2018-03": '6.28',"2018-02": '6.29',"2018-01": '6.29', 
@@ -82,12 +82,15 @@ for line in lines[9:]:
     kitName = line.split("|")[0]
 
     kitUSD = line.split("|")[1]
-    if len(kitUSD) < 1:
+    kitRMB = line.split("|")[2]
+    print len(kitRMB)
+    if len(kitUSD) < 1 and len(kitRMB) < 1:
         kitUSD = 'unknown'
+    elif len(kitRMB) > 1:
+        kitUSD = float(kitRMB) / rate
     else:
         kitUSD = float(kitUSD)
 
-    kitRMB = line.split("|")[2]
     if len(kitRMB) < 1 and isinstance(kitUSD, float):
         kitRMB = float(kitUSD) * rate
     elif len(kitRMB) > 1:

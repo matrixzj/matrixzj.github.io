@@ -15,100 +15,75 @@ ref link: [SA Mechanist Groupbuy Page](https://techbuys.us/mechkeys/groupbuy/sa_
 * [Info](#info)
 * [Pictures](#pictures)
 
+
 ## Price
+NOTE: USD to RMB exchange rate is 6.73
 
-NOTE: USD to RMB exchange rate is 6.85
+| Name          | Price(ZF)    |  Price(RMB) | Quantity |
+| ------------- | ------------ |  ---------- | -------- |
+|[Alphas](#alphas)|46.36|312.00|unknown|
+|[Frozen Alphas](#frozen-alphas)|57.21|385.00|unknown|
+|[TKL](#tkl)|62.41|420.00|unknown|
+|[Numpad](#numpad)|38.48|259.00|unknown|
+|[Mech Tools](#mech-tools)|33.58|226.00|unknown|
+|[Gears](#gears)|34.18|230.00|unknown|
+|[Non-Standard](#non-standard)|63.15|425.00|unknown|
+|[ISO](#iso)|41.16|277.00|unknown|
+|[40%](#40%)|87.52|589.00|unknown|
+|[Arrows](#arrows)|8.62|58.00|unknown|
+|[Spacebars](#spacebars)|9.06|61.00|unknown|
 
-| Name          | Price(USD)    |  Price(KP)  | Quantity |
-| ------------- | ------------- |  ---------- | -------- |
-|[Alphas](#alphas)|48.83|334.49|unknown|
-|[Froze Alpha](#frozealpha)|57.41|393.26|unknown|
-|[TKL Modifiers](#tklmodifiers)|68.28|467.72|unknown|
-|[Non-standard](#non-standard)|68.70|470.59|unknown|
-|[Numpad](#numpad)|39.38|269.75|unknown|
-|[Dvorak/Colemak](#dvorakcolemak)|31.34|214.68|unknown|
-|[Ortholinear](#ortholinear)|31.45|215.43|unknown|
-|[40%](#40%)|75.35|516.15|unknown|
-|[Ergonomics](#ergonomics)|70.83|485.19|unknown|
-|[UHK/Minila](#uhkminila)|53.68|367.71|unknown|
-|[ISO](#iso)|39.73|272.15|unknown|
-|[Mech Tools](#mechtools)|39.98|273.86|unknown|
-|[Gears](#gears)|34.26|234.68|unknown|
-|[Spacekeys](#spacekeys)|52.58|360.17|unknown|
-|[Spacebars](#spacebars)|9.18|62.88|unknown|
-|[Arrows](#arrows)|8.59|58.84|unknown|
-
-<img src="{{ 'assets/images/sa-keycaps/mechanist/price.png' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
 ### Alphas
-**Price(USD):** 48.83    **Price(RMB):** 334.49    **Quantity:** unknown
+**Price(ZF):** 46.36    **Price(RMB):** 312.00    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/alphas.png' | relative_url }}" alt="Alphas" class="image featured">
 
-### Froze Alpha
-**Price(USD):** 57.41    **Price(RMB):** 393.26    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/frozealpha.png' | relative_url }}" alt="FrozeAlpha" class="image featured">
+### Frozen Alphas
+**Price(ZF):** 57.21    **Price(RMB):** 385.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/frozen-alphas.png' | relative_url }}" alt="Frozen Alphas" class="image featured">
 
-### TKL Modifiers
-**Price(USD):** 68.28    **Price(RMB):** 467.72    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/tklmodifiers.png' | relative_url }}" alt="TKLModifiers" class="image featured">
-
-### Non-standard
-**Price(USD):** 68.70    **Price(RMB):** 470.59    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/non-standard.png' | relative_url }}" alt="Non-standard" class="image featured">
+### TKL
+**Price(ZF):** 62.41    **Price(RMB):** 420.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/tklmodifiers.png' | relative_url }}" alt="TKL" class="image featured">
 
 ### Numpad
-**Price(USD):** 39.38    **Price(RMB):** 269.75    **Quantity:** unknown
+**Price(ZF):** 38.48    **Price(RMB):** 259.00    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
 
-### Dvorak/Colemak
-**Price(USD):** 31.34    **Price(RMB):** 214.68    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/dvorakcolemak.png' | relative_url }}" alt="Dvorak/Colemak" class="image featured">
-
-### Ortholinear
-**Price(USD):** 31.45    **Price(RMB):** 215.43    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/ortholinear.png' | relative_url }}" alt="Ortholinear" class="image featured">
-
-### 40%
-**Price(USD):** 75.35    **Price(RMB):** 516.15    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/40.png' | relative_url }}" alt="40%" class="image featured">
-
-### Ergonomics
-**Price(USD):** 70.83    **Price(RMB):** 485.19    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/ergonomics.png' | relative_url }}" alt="Ergonomics" class="image featured">
-
-### UHK/Minila
-**Price(USD):** 53.68    **Price(RMB):** 367.71    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/uhkminila.png' | relative_url }}" alt="UHK/Minila" class="image featured">
-
-### ISO
-**Price(USD):** 39.73    **Price(RMB):** 272.15    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/iso.png' | relative_url }}" alt="ISO" class="image featured">
-
 ### Mech Tools
-**Price(USD):** 39.98    **Price(RMB):** 273.86    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/mechtools.png' | relative_url }}" alt="MechTools" class="image featured">
+**Price(ZF):** 33.58    **Price(RMB):** 226.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/mech-tools.png' | relative_url }}" alt="Mech Tools" class="image featured">
 
 ### Gears
-**Price(USD):** 34.26    **Price(RMB):** 234.68    **Quantity:** unknown
+**Price(ZF):** 34.18    **Price(RMB):** 230.00    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/gears.png' | relative_url }}" alt="Gears" class="image featured">
 
-### Spacekeys
-**Price(USD):** 52.58    **Price(RMB):** 360.17    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/spacekeys.png' | relative_url }}" alt="Spacekeys" class="image featured">
+### Non-Standard
+**Price(ZF):** 63.15    **Price(RMB):** 425.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/non-standard.png' | relative_url }}" alt="Non-Standard" class="image featured">
 
-### Spacebars
-**Price(USD):** 9.18    **Price(RMB):** 62.88    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
+### ISO
+**Price(ZF):** 41.16    **Price(RMB):** 277.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/iso.png' | relative_url }}" alt="ISO" class="image featured">
+
+### 40%
+**Price(ZF):** 87.52    **Price(RMB):** 589.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/40%.png' | relative_url }}" alt="40%" class="image featured">
 
 ### Arrows
-**Price(USD):** 8.59    **Price(RMB):** 58.84    **Quantity:** unknown
+**Price(ZF):** 8.62    **Price(RMB):** 58.00    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/arrows.png' | relative_url }}" alt="Arrows" class="image featured">
+
+### Spacebars
+**Price(ZF):** 9.06    **Price(RMB):** 61.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
+
 
 ## Info
 * Designer: HOQ
 * Profile: SA 1-1-2-3-4-3
-* GB Time: 2018-08
+* GB Time: 2019-03
 * Color Codes: BFR/BBJ/BFM/WFK  
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="colorBFR" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorBBJ" height="150" width="340">
