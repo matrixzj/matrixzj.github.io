@@ -69,7 +69,7 @@ NOTE: USD to RMB exchange rate is 6.73
 
 ### 40%
 **Price(ZF):** 87.52    **Price(RMB):** 589.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/40%.png' | relative_url }}" alt="40%" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/40.png' | relative_url }}" alt="40%" class="image featured">
 
 ### Arrows
 **Price(ZF):** 8.62    **Price(RMB):** 58.00    **Quantity:** unknown
@@ -85,11 +85,11 @@ NOTE: USD to RMB exchange rate is 6.73
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2019-03
 * Color Codes: BFR/BBJ/BFM/WFK  
+<img src="{{ 'assets/images/sa-keycaps/mechanist/mechanistcolor.png' | relative_url }}" alt="mechanist design color" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="colorBFR" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorBBJ" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFM.png' | relative_url }}" alt="colorBFM" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/mechanist/mechanistcolor.png' | relative_url }}" alt="mechanist design color" class="image featured">
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/mechanist/rendering_pics/mechanist.png' | relative_url }}" alt="mechanist" class="image featured">
