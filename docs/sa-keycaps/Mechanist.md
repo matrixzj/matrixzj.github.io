@@ -41,7 +41,7 @@ NOTE: USD to RMB exchange rate is 6.73
 
 ### Frozen Alphas
 **Price(ZF):** 57.21    **Price(RMB):** 385.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/frozen-alphas.png' | relative_url }}" alt="Frozen Alphas" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/alphas.png' | relative_url }}" alt="Frozen Alphas" class="image featured">
 
 ### TKL
 **Price(ZF):** 62.41    **Price(RMB):** 420.00    **Quantity:** unknown
