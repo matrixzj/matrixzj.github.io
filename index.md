@@ -19,6 +19,7 @@ permalink: /
 ## SA KeyCaps
 
 ### 2019
+* [Mechanist 机械师](docs/sa-keycaps/Mechanist/)
 * [Novelties Banana R2 香蕉个性R2](docs/sa-keycaps/Novelties-Banana-R2/)
 * [Danger Zone R2 壮志凌云R2](docs/sa-keycaps/Danger-Zone-R2/)
 
@@ -30,7 +31,6 @@ permalink: /
 * [Lime 青柠](docs/sa-keycaps/Lime/)
 * [Symbiosis R2 塞班/共生R2](docs/sa-keycaps/Symbiosis-R2/)
 * [Nautilus 鹦鹉螺](docs/sa-keycaps/Nautilus/)
-* [Mechanist 机械师](docs/sa-keycaps/Mechanist/)
 * [Composition 构成](docs/sa-keycaps/Composition/)
 * [Bubble 泡泡](docs/sa-keycaps/Bubble/)
 * [Green Screen 绿屏](docs/sa-keycaps/Green-Screen/)
