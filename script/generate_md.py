@@ -83,7 +83,6 @@ for line in lines[9:]:
 
     kitUSD = line.split("|")[1]
     kitRMB = line.split("|")[2]
-    print len(kitRMB)
     if len(kitUSD) < 1 and len(kitRMB) < 1:
         kitUSD = 'unknown'
     elif len(kitRMB) > 1:
