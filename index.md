@@ -19,6 +19,7 @@ permalink: /
 ## SA KeyCaps
 
 ### 2019
+* [128K](docs/sa-keycaps/128K/)
 * [Mechanist 机械师](docs/sa-keycaps/Mechanist/)
 * [Novelties Banana R2 香蕉个性R2](docs/sa-keycaps/Novelties-Banana-R2/)
 * [Danger Zone R2 壮志凌云R2](docs/sa-keycaps/Danger-Zone-R2/)
