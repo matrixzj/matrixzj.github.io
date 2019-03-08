@@ -34,7 +34,7 @@ NOTE: USD to RMB exchange rate is 6.90
 * Designer: Round 5
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2017-03
-* Color Codes: BFP/GD/WCK/ 
+* Color Codes: BFP/GD/WCK   
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFP.png' | relative_url }}" alt="colorBFP" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GD.png' | relative_url }}" alt="colorGD" height="150" width="340">
 <img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="150" width="340">
