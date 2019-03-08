@@ -4,12 +4,12 @@ keycapstype = 'SA'
 designer = 'HOQ'
 profile = '1-1-2-3-4-3'
 time = '2019-03'
-colorcodes = 'BDH/BFM/ON/OB/WFK/WCK/WBO'
+colorcodes = 'BDH/BFM/ON/OB/WCK/WBO'
 platform = 'Taobao'
 link = 'https://item.taobao.com/item.htm?id=588267821910'
-AI||1034|75|
-PS||1034|75|
-Numpad AI||177|75|
-Numpad PS||177|75|
-Spacebars||154|75|
-Mac||494|50|
+AI||1034||
+PS||1034||
+Numpad AI||177||
+Numpad PS||177||
+Spacebars||154||
+Mac||494||
