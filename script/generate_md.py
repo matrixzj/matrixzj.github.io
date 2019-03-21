@@ -85,7 +85,7 @@ for line in lines[9:]:
     kitRMB = line.split("|")[2]
     if len(kitUSD) < 1 and len(kitRMB) < 1:
         kitUSD = 'unknown'
-    elif len(kitRMB) > 1:
+    elif len(kitUSD) < 1 and len(kitRMB) > 1:
         kitUSD = float(kitRMB) / rate
     else:
         kitUSD = float(kitUSD)
