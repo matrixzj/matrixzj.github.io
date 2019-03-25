@@ -1,0 +1,13 @@
+name = 'Metropolis'
+cname = '大都会'
+keycapstype = 'GMK'
+designer = 'Nephlock'
+profile = '1-1-2-3-4-4'
+time = '2019-03'
+colorcodes = 'as shown in kits pictures'
+platform = 'Novelkeys'
+link = 'https://novelkeys.xyz/collections/group-buys/products/gmk-metropolis-gb'
+Base|135|932||
+Midnight|80|549||
+Signs|50|355||
+Blocks|30|204||
