@@ -52,6 +52,7 @@ NOTE: USD to RMB exchange rate is 6.42
 **Price(USD):** 27.99    **Price(RMB):** 179.70    **Price(ZF):** unknown    **Quantity:** 252  
 <img src="{{ 'assets/images/gmk-keycaps/serika/kits_pics/geometries.jpg' | relative_url }}" alt="Geometries" class="image featured">
 
+### Spacebars
 **Price(USD):** 24.99    **Price(RMB):** 160.44    **Price(ZF):** unknown    **Quantity:** 142  
 <img src="{{ 'assets/images/gmk-keycaps/serika/kits_pics/spacebars.jpg' | relative_url }}" alt="Spacebars" class="image featured">
 
