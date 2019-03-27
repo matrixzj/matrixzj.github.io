@@ -32,7 +32,7 @@ NOTE: USD to RMB exchange rate is 6.87
 |[NorDeUK](#nordeuk)|49.99|343.43|unknown|29|
 |[Colevrak](#colevrak)|99.99|686.93|unknown|38|
 
-<img src="{{ 'assets/images/GMK-keycaps/spacecadet/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/spacecadet/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 
 ## Kits
