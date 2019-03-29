@@ -63,7 +63,7 @@ NOTE: USD to RMB exchange rate is 6.39
 
 ### D/C
 **Price(USD):** 21.99    **Price(RMB):** 140.52    **Price(KP):** 139.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/carbonr1/kits_pics/d/c.jpg' | relative_url }}" alt="D/C" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/carbonr1/kits_pics/dc.jpg' | relative_url }}" alt="D/C" class="image featured">
 
 ### Mac
 **Price(USD):** 15.99    **Price(RMB):** 102.18    **Price(KP):** 101.00    **Quantity:** unknown
