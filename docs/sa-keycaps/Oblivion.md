@@ -52,6 +52,7 @@ NOTE: USD to RMB exchange rate is 6.80
 |[Monochrome OSX](#monochrome-osx)|32.99|224.33|22|
 |[Communities](#communities)|15.99|108.73|168|
 |[Oblivion LED](#led)|39.99|271.93|69|
+|[VIM](#vim)|39.50|268.60|unknown|
 
 <img src="{{ 'assets/images/sa-keycaps/oblivion/price.jpg' | relative_url }}" atl="price" class="image featured">
 
@@ -183,6 +184,10 @@ NOTE: USD to RMB exchange rate is 6.80
 ### LED
 **Price(USD):** 39.99    **Price(RMB):** 271.93    **Quantity:** 69
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/sa_oblivion_kit_30_oblivion_led_pad_printed.png' | relative_url }}" atl="oblivion_led_pad_printed" class="image featured">
+
+### VIM
+**Price(USD):** 39.50    **Price(RMB):** 271.93    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/ob_vimcaps_cropped.jpg' | relative_url }}" atl="oblivion_vim" class="image featured">
 
 ## Info
 * Designer: Oblotzky
