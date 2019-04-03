@@ -108,6 +108,7 @@ permalink: /
 ## GMK KeyCaps
 
 ### 2019
+* [Nines](docs/gmk-keycaps/Nines/)
 * [Wavez](docs/gmk-keycaps/Wavez/)
 * [Metropolis 大都会](docs/gmk-keycaps/Metropolis/)
 * [SkIIdata](docs/gmk-keycaps/SkIIdata/)
