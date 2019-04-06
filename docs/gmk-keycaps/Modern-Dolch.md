@@ -3,7 +3,7 @@ title: Modern Dolch
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32060
+nav_order: 32065
 ---
 
 # Modern Dolch 

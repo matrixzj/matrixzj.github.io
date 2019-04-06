@@ -3,7 +3,7 @@ title: Greek Olivetti 灰白蓝希腊语字根套装
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32075
+nav_order: 32060
 ---
 
 # Greek Olivetti 灰白蓝希腊语字根套装
