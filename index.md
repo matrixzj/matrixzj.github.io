@@ -124,6 +124,7 @@ permalink: /
 ### 2018
 * [Calm Depths 深海](docs/gmk-keycaps/Calm-Depths/)
 * [Q:01](docs/gmk-keycaps/Q:01/)
+* [HyperFuse Remix](docs/gmk-keycaps/HyperFuse-Remix/)
 * [Shoko 硝子](docs/gmk-keycaps/Shoko/)
 * [DMG](docs/gmk-keycaps/DMG/)
 * [Q01](docs/gmk-keycaps/Q01/)
