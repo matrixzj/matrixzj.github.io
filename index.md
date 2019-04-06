@@ -137,6 +137,7 @@ permalink: /
 * [Modern Dolch ](docs/gmk-keycaps/Modern-Dolch/)
 * [MR Sleeves Addon ](docs/gmk-keycaps/MR-Sleeves-Addon/)
 * [Space Cadet 太空学员](docs/gmk-keycaps/Space-Cadet/)
+* [Greek Olivetti 灰白蓝希腊语字根套装](docs/gmk-keycaps/Greek-Olivetti/)
 * [Metaverse](docs/gmk-keycaps/Metaverse/)
 * [Necro 死灵](docs/gmk-keycaps/Necro/)
 * [Triumph Adler 90 TA90](docs/gmk-keycaps/Triumph-Adler-90/)
