@@ -147,6 +147,7 @@ permalink: /
 * [HyperFuse Origins](docs/gmk-keycaps/HyperFuse-Origins/)
 * [Red Samurai 红武士](docs/gmk-keycaps/Red-Samurai/)
 * [Taro 香芋](docs/gmk-keycaps/Taro/)
+* [Camping 野营](docs/gmk-keycaps/Camping/)
 
 ### 2017
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
