@@ -19,7 +19,7 @@ permalink: /
 ## SA KeyCaps
 
 ### 2019
-* [Hunter](docs/sa-keycaps/Hunter/)
+* [Hunter Killua](docs/sa-keycaps/Hunter-Killua/)
 * [Olivia](docs/sa-keycaps/Olivia/)
 * [128K](docs/sa-keycaps/128K/)
 * [Mechanist 机械师](docs/sa-keycaps/Mechanist/)

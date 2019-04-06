@@ -1,14 +1,14 @@
 ---
-title: Hunter 全职猎人
+title: Hunter Killua 全职猎人
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 469
 ---
 
-# Hunter 全职猎人
+# Hunter Killua 全职猎人
 
-ref link: [Hunter MD GB Link](https://www.massdrop.com/buy/jack-studio-sa-hunter-keycap-set)   
+ref link: [Hunter MD GB Link](https://www.massdrop.com/buy/jack-studio-sa-hunterkillua-keycap-set)   
 ref link: [Hunter Taobao GB Link](https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debvcapIj&ft=t&id=589749944123)
 
 * [Price](#price)
@@ -28,7 +28,7 @@ NOTE: USD to RMB exchange rate is 6.73
 ## Kits
 ### Base
 **Price(MD):** 190.00    **Price(RMB):** 1298.00    **Quantity:** unknown  
-<img src="{{ 'assets/images/sa-keycaps/hunter/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/hunterkillua/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 
 ## Info
@@ -41,5 +41,5 @@ NOTE: USD to RMB exchange rate is 6.73
 
 
 ## Pictures
-<img src="{{ 'assets/images/sa-keycaps/hunter/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/hunter/rendering_pics/2.jpg' | relative_url }}" alt="2" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/hunterkillua/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/hunterkillua/rendering_pics/2.jpg' | relative_url }}" alt="2" class="image featured">
