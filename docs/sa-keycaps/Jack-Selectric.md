@@ -3,7 +3,7 @@ title: Jack Selectric 电子系列
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 564
+nav_order: 32070
 ---
 
 # Jack Selectric 电子系列

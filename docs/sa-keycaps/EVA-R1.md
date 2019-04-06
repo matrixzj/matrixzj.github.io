@@ -3,7 +3,7 @@ title: Trouble Minds EVA R1
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 859
+nav_order: 35005
 ---
 
 # Trouble Mind EVA R1

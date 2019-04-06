@@ -3,7 +3,7 @@ title: Camping 野营
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 835
+nav_order: 34045
 ---
 
 # Camping 野营

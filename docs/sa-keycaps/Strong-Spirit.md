@@ -3,7 +3,7 @@ title: Strong Spirit 陆军
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 789
+nav_order: 33070
 ---
 
 # Strong Spirit 陆军

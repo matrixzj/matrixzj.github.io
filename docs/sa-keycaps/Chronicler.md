@@ -3,7 +3,7 @@ title: Chronicler 瞎眼
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 836
+nav_order: 34050
 ---
 
 # Chronicler 瞎眼

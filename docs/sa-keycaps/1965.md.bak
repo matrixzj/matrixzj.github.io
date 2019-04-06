@@ -1,0 +1,74 @@
+---
+title: 1965
+layout: default
+icon: fa-keyboard-o
+parent: SA Keycaps
+nav_order: 809
+---
+
+# 1965
+
+ref link: [SA 1965 Link](https://geekhack.org/index.php?topic=86143.0)
+
+* [Price](#price)
+* [Kits](#kits)
+* [Info](#info)
+* [Pictures](#pictures)
+
+## Price
+
+NOTE: USD to RMB exchange rate is 6.16
+
+| Name          | Price(USD)    | Price(RMB)  | Quantity |
+| ------------- | ------------- | ----------- | -------- |
+|[Alphas](#alphas)|68.00|340.00|unknown|
+|[TKL](#tkl)|63.00|340.00|unknown|
+|[Non Standard](#non-standard)|58.00|370.00|unknown|
+|[Novelties](#novelties)|38.00|180.00|unknown|
+|[Numpad](#numpad)|41.00|240.00|unknown|
+|[40s](#40s)|73.00|450.00|unknown|
+|[Ergo](#ergoiso)|68.00|410.00|unknown|
+|[ISO](#ergoiso)|38.00|240.00|unknown|
+
+## Kits
+### Alphas
+**Price(USD):** 68.00    **Price(RMB):** 340.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/1965/kits_pics/alphas.jpg' | relative_url }}" alt="Alphas" class="image featured">
+
+### TKL
+**Price(USD):** 63.00    **Price(RMB):** 340.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/1965/kits_pics/tkl.jpg' | relative_url }}" alt="TKL" class="image featured">
+
+### Non Standard
+**Price(USD):** 58.00    **Price(RMB):** 370.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/1965/kits_pics/nonstandard.jpg' | relative_url }}" alt="Non Standard" class="image featured">
+
+### Novelties
+**Price(USD):** 38.00    **Price(RMB):** 180.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/1965/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
+
+### Numpad
+**Price(USD):** 41.00    **Price(RMB):** 240.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/1965/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
+
+### 40s
+**Price(USD):** 73.00    **Price(RMB):** 450.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/1965/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
+
+### Ergo/ISO
+**Price(USD):** 68.00    **Price(RMB):** 410.00    **Quantity:** unknown  
+**Price(USD):** 38.00    **Price(RMB):** 240.00    **Quantity:** unknown
+<img src="{{ 'assets/images/sa-keycaps/1965/kits_pics/ergoiso.jpg' | relative_url }}" alt="ErgoIso" class="image featured">
+
+## Info
+* Designer: Thesiscamper & Ratratran
+* Profile: SA 1-1-2-3-4-4
+* GB Time: 2016-12
+* Color Codes: All colors are custom to be matched with pantone, NOT in SP abs color codes  
+
+## Pictures
+<img src="{{ 'assets/images/sa-keycaps/1965/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/1965/rendering_pics/2.jpg' | relative_url }}" alt="2" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/1965/rendering_pics/3.jpg' | relative_url }}" alt="3" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/1965/rendering_pics/4.jpg' | relative_url }}" alt="4" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/1965/rendering_pics/5.jpg' | relative_url }}" alt="5" class="image featured">

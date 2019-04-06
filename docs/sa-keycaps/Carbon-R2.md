@@ -3,7 +3,7 @@ title: Carbon R2 大碳R2
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 709
+nav_order: 33025
 ---
 
 # SA Carbon R2

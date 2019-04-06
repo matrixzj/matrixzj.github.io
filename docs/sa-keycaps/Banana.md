@@ -3,7 +3,7 @@ title: Banana 香蕉
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 509
+nav_order: 32015
 ---
 
 # Banana 香蕉

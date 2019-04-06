@@ -3,7 +3,7 @@ title: HyperFuse
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 699
+nav_order: 33020
 ---
 
 # HyperFuse 

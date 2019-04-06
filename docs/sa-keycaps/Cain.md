@@ -3,7 +3,7 @@ title: Cain 灰蓝
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 759
+nav_order: 33055
 ---
 
 # Cain 灰蓝

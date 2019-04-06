@@ -3,7 +3,7 @@ title: Nuclear Data 核子
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 944
+nav_order: 36010
 ---
 
 # Nuclear Data 核子
