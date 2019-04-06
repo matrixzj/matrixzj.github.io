@@ -22,6 +22,6 @@ for year in $(seq 2013 2019); do
         fileName=$(echo "${line}" | awk -F'(' "{print \$2}" | awk -F')' "{print \$1}" | sed -e "s/\(.*\)\//\1.md/")
         fileOrder=$(echo "(50-${last2DigitYear})*1000+${order}" | bc)
         order=$(expr ${order} + 5)
-        sed -i.bak "/nav_order/s/.*/nav_order: ${fileOrder}/" ${fileName}
+        sed -i "/nav_order/s/.*/nav_order: ${fileOrder}/" ${fileName}
     done < ${tmpDir}/${profile}-${year}
 done
