@@ -117,6 +117,7 @@ permalink: /
 * [Vice Nights](docs/gmk-keycaps/Vice-Nights/)
 * [Paperwork](docs/gmk-keycaps/Paperwork/)
 * [Minimal](docs/gmk-keycaps/Minimal/)
+* [Deep Space](docs/gmk-keycaps/Deep-Space/)
 * [Bento](docs/gmk-keycaps/Bento/)
 * [Jamon](docs/gmk-keycaps/Jamon/)
 
