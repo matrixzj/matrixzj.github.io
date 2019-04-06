@@ -3,7 +3,7 @@ title: Phantom
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10085
+nav_order: 32095
 ---
 
 # Phantom 

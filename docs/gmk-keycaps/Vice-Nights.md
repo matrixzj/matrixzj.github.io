@@ -3,7 +3,7 @@ title: Vice Nights
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 9984
+nav_order: 31035
 ---
 
 # Vice Nights

@@ -3,7 +3,7 @@ title: HyperFuse Origins
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10110
+nav_order: 32115
 ---
 
 # HyperFuse Origins

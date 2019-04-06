@@ -3,7 +3,7 @@ title: Necro 死灵
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10075
+nav_order: 32085
 ---
 
 # Necro 死灵

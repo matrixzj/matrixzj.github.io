@@ -3,7 +3,7 @@ title: Monochrome 黑白
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10040
+nav_order: 32050
 ---
 
 # Monochrome 黑白

@@ -3,7 +3,7 @@ title: Nines
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 9960
+nav_order: 31010
 ---
 
 # Nines

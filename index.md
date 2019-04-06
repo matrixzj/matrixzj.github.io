@@ -127,7 +127,6 @@ permalink: /
 * [HyperFuse Remix](docs/gmk-keycaps/HyperFuse-Remix/)
 * [Shoko 硝子](docs/gmk-keycaps/Shoko/)
 * [DMG](docs/gmk-keycaps/DMG/)
-* [Q01](docs/gmk-keycaps/Q01/)
 * [Carbon R2 大碳R2](docs/gmk-keycaps/Carbon-R2/)
 * [Royal Navy 皇家海军](docs/gmk-keycaps/Royal-Navy/)
 * [Chocolatier 巧克力](docs/gmk-keycaps/Chocolatier/)
