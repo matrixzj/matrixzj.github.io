@@ -3,7 +3,7 @@ title: Red Honey Cyrillic 红俄文
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33025
+nav_order: 33030
 ---
 
 # Red Honey Cyrillic 红俄文

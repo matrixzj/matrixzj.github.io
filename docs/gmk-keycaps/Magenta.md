@@ -3,7 +3,7 @@ title: Magenta/Devotion
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10250
+nav_order: 34005
 ---
 
 # Magenta/Devotion
