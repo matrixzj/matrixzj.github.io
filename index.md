@@ -155,6 +155,7 @@ permalink: /
 * [Laser 激光](docs/gmk-keycaps/Laser/)
 * [Demonic](docs/gmk-keycaps/Demonic/)
 * [Originative Cyrillic 黑俄文](docs/gmk-keycaps/Originative-Cyrillic/)
+* [Classic Retro Cyrillic 灰白红俄文](docs/gmk-keycaps/Classic-Retro-Cyrillic/)
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
 * [Corsa Auto 赛道之星](docs/gmk-keycaps/Corsa-Auto/)
 
