@@ -160,6 +160,7 @@ permalink: /
 * [Originative Cyrillic 黑俄文](docs/gmk-keycaps/Originative-Cyrillic/)
 * [Classic Retro Cyrillic 灰白红俄文](docs/gmk-keycaps/Classic-Retro-Cyrillic/)
 * [LedZep 齐柏林飞艇](docs/gmk-keycaps/LedZep/)
+* [True Olivetti](docs/gmk-keycaps/True-Olivetti/)
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
 * [Corsa Auto 赛道之星](docs/gmk-keycaps/Corsa-Auto/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
