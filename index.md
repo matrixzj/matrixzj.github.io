@@ -108,6 +108,8 @@ permalink: /
 ## GMK KeyCaps
 
 ### 2019
+* [Darskel](docs/gmk-keycaps/Darskel/)
+* [Sky Modo](docs/gmk-keycaps/Sky-Modo/)
 * [Eclipse](docs/gmk-keycaps/Eclipse/)
 * [Nines](docs/gmk-keycaps/Nines/)
 * [Wavez](docs/gmk-keycaps/Wavez/)
