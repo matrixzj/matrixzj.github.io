@@ -3,7 +3,7 @@ title: Originative Cyrillic 黑俄文
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33020
+nav_order: 33030
 ---
 
 # Originative Cyrillic 黑俄文
