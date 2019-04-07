@@ -162,6 +162,9 @@ permalink: /
 * [Corsa Auto 赛道之星](docs/gmk-keycaps/Corsa-Auto/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
 
+### 2016
+* [Magenta/Devotion](docs/gmk-keycaps/Magenta/)
+
 
 ---
 
