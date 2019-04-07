@@ -160,6 +160,7 @@ permalink: /
 * [Classic Retro Cyrillic 灰白红俄文](docs/gmk-keycaps/Classic-Retro-Cyrillic/)
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
 * [Corsa Auto 赛道之星](docs/gmk-keycaps/Corsa-Auto/)
+* [Soware 瞎眼](docs/gmk-keycaps/Soware/)
 
 
 ---
