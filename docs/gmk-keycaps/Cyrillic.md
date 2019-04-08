@@ -1,5 +1,3 @@
-130.0
-6.1
 ---
 title: Cyrillic 白俄文
 layout: default
