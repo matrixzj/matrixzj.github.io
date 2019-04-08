@@ -3,7 +3,7 @@ title: Hyperfuse Redux
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10290
+nav_order: 33055
 ---
 
 # Hyperfuse Redux
