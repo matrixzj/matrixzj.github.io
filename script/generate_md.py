@@ -91,8 +91,6 @@ for line in lines[9:]:
     else:
         kitUSD = float(kitUSD)
 
-    print kitUSD
-    print rate
     if len(kitRMB) < 1 and isinstance(kitUSD, float):
         kitRMB = float(kitUSD) * rate
     elif len(kitRMB) > 1:
