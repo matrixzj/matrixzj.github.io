@@ -163,6 +163,7 @@ permalink: /
 * [Classic Retro Cyrillic 灰白红俄文](docs/gmk-keycaps/Classic-Retro-Cyrillic/)
 * [LedZep 齐柏林飞艇](docs/gmk-keycaps/LedZep/)
 * [True Olivetti](docs/gmk-keycaps/True-Olivetti/)
+* [Hyperfuse Redux](docs/gmk-keycaps/Hyperfuse-Redux/)
 * [Skidolcha](docs/gmk-keycaps/Skidolcha/)
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
 * [Aero](docs/gmk-keycaps/Aero/)
