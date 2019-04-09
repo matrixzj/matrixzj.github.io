@@ -37,10 +37,10 @@ NOTE: USD to RMB exchange rate is 6.73
 * ColorCodes: 
 
 
- |Base Color     | Legend Color
+| |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
-Alpha|CR|MG1
-Modifiers|CR|TU2
+|Alpha|CR|MG1
+|Modifiers|CR|TU2
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/vicenights/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
