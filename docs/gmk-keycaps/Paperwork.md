@@ -31,10 +31,11 @@ NOTE: USD to RMB exchange rate is 6.73
 
 
 ## Info
-* Designer: 
+* Designer: evangs 
 * Profile: GMK Designed for 40%
 * GB Time: 2019-03
-* ColorCodes: as shown in kits pictures 
+* ColorCodes: 13 custom colors from SP's library. GG, GKH, GTR, RDA, RCJ, YBP, YCE, RCR, RCS, BDG, BFQ, VBQ, and VAT  
+<img src="{{ 'assets/images/gmk-keycaps/paperwork/color.jpg' | relative_url }}" alt="color" class="image featured">
 
 
 ## Pictures
