@@ -106,6 +106,7 @@ permalink: /
 ---
 
 ## GMK KeyCaps
+* [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
 * [Darskel](docs/gmk-keycaps/Darskel/)

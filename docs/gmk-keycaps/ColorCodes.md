@@ -1,5 +1,5 @@
 ---
-title: Darskel
+title: Standard Color Codes
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
