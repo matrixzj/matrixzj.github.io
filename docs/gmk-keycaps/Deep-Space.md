@@ -31,10 +31,18 @@ NOTE: USD to RMB exchange rate is 6.79
 
 
 ## Info
-* Designer: 
+* Designer: Omniclecltie 
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2019-02
-* ColorCodes: unknown 
+* ColorCodes: 
+
+| | Base Color      | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|Grey|Purple
+|Modifiers|Purple|Blue
+|Various 1|Blue|Purple
+|Various 2|Yellow|Purple
+
 
 
 ## Pictures
