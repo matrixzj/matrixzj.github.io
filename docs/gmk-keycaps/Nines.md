@@ -36,9 +36,9 @@ NOTE: USD to RMB exchange rate is 6.73
 * GB Time: 2019-04
 * ColorCodes:  
 
-Base Color    | Legend Color  
-------------- | ------------  
-`N9`|`U9`
+Base Color      | Legend Color  
+:-------------: | :------------:  
+N9|U9
 
 
 ## Pictures
