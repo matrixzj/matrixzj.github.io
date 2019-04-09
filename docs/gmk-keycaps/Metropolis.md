@@ -50,7 +50,7 @@ NOTE: USD to RMB exchange rate is 6.73
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2019-03
 * ColorCodes:  
-<img src="{{ 'assets/images/gmk-keycaps/metropolis/colors.png' | relative_url }}" atl="color" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/metropolis/color.png' | relative_url }}" atl="color" class="image featured">
 
 
 ## Pictures
