@@ -34,7 +34,7 @@ NOTE: USD to RMB exchange rate is 6.73
 * Designer: Emir
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2019-04
-* ColorCodes: 
+* ColorCodes:   
 | Base Color    | Legend Color    |
 | ------------- | ------------ |
 |N9|U9|
