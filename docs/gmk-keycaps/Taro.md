@@ -44,7 +44,14 @@ NOTE: USD to RMB exchange rate is 6.29
 * Designer: pwade3
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-01
-* ColorCodes: as shown in kits pictures 
+* ColorCodes: 
+
+||Base Color      | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|#8E71A2|#170B19
+|Modifiers|#170B19|#8E71A2
+|various 1|TU2|#170B19
+|various 2|CV|#170B19
 
 
 ## Pictures
