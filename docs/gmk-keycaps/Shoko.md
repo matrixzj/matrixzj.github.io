@@ -37,15 +37,20 @@ NOTE: USD to RMB exchange rate is 6.95
 
 ### Spacebars
 **Price(USD):** 22.99    **Price(RMB):** 159.78    **Price(ZF):** 166.00    **Quantity:** unknown
-* [Shoko 硝子](docs/gmk-keycaps/Shoko/)
 <img src="{{ 'assets/images/gmk-keycaps/shoko/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 
 ## Info
-* Designer: 
+* Designer: RaySasQuach
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-11
-* ColorCodes: as shown in kits pictures
+* ColorCodes: 
+
+||Base Color      | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|656C|5425C
+|Modifiers|5425C|656C
+|various|2975C|656C
 
 
 ## Pictures
