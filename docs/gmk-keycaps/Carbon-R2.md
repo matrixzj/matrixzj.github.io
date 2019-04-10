@@ -119,7 +119,14 @@ NOTE: USD to RMB exchange rate is 6.94
 * Designer: T0mb3ry
 * Profile: GMK 0-1-2-3-4-5
 * GB Time: 2018-11
-* Color Codes: unknown
+* Color Codes: 
+
+||Base Color      | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|#e3d9c6|#575d5e
+|Modifiers/Novelty|#575d5e|#ed6b21
+|Orange/Novelty|#ed6b21|#575d5e
+
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/rendering_pics/TkWlQAvQsi4b3woSF0Mf_AI7B2353-copy.jpg' | relative_url }}" alt="TkWlQAvQsi4b3woSF0Mf_AI7B2353-copy" class="image featured">
