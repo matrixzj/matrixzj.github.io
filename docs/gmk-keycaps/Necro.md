@@ -34,7 +34,13 @@ NOTE: USD to RMB exchange rate is 6.47
 * Designer: jessica
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-06
-* ColorCodes: unknown
+* ColorCodes: 
+
+||Base Color      | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|#e6f4dc|#717d83
+|Modifiers|#717d83|#93d0d2
+|various|#93d0d2|#253348
 
 
 ## Pictures
