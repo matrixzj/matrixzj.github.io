@@ -41,7 +41,16 @@ NOTE: USD to RMB exchange rate is 6.94
 * Designer: TheKeyCompany
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-11
-* ColorCodes: as shown in kits pictures
+* ColorCodes: 
+
+||Base Color      | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|gray|violet
+|Modifiers|dark gray|violet
+|V Modifiers|dark gray|pink
+|various 1|pink|gray
+|various 2|N9|dark gray
+
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/dmg/rendering_pics/5.jpg' | relative_url }}" alt="5" class="image featured">
