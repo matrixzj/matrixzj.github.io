@@ -3,7 +3,7 @@ title: Camping 野营
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32130
+nav_order: 32125
 ---
 
 # Camping 野营

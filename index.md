@@ -130,7 +130,6 @@ permalink: /
 * [Q:01](docs/gmk-keycaps/Q:01/)
 * [Carbon R2 大碳R2](docs/gmk-keycaps/Carbon-R2/)
 * [DMG](docs/gmk-keycaps/DMG/)
-* [Royal Navy 皇家海军](docs/gmk-keycaps/Royal-Navy/)
 * [Shoko 硝子](docs/gmk-keycaps/Shoko/)
 * [Chocolatier 巧克力](docs/gmk-keycaps/Chocolatier/)
 * [Monochrome 黑白](docs/gmk-keycaps/Monochrome/)

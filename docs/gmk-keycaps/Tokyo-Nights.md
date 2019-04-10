@@ -3,7 +3,7 @@ title: Tokyo Nights 东京之夜
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32055
+nav_order: 32050
 ---
 
 # Tokyo Nights 东京之夜

@@ -3,7 +3,7 @@ title: Mint Dolch
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32090
+nav_order: 32085
 ---
 
 # Mint Dolch

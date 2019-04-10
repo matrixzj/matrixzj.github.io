@@ -3,7 +3,7 @@ title: Taro 香芋
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32135
+nav_order: 32130
 ---
 
 # Taro 香芋

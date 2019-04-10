@@ -3,7 +3,7 @@ title: MR Sleeves Addon
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32050
+nav_order: 32045
 ---
 
 # MR Sleeves Addon 
