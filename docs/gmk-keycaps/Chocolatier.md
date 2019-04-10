@@ -21,22 +21,22 @@ NOTE: USD to RMB exchange rate is 6.87
 
 | Name          | Price(USD)    |  Price(RMB) |  Price(ZF) | Quantity |
 | ------------- | ------------- |  ---------- |  --------- | -------- |
-|[Core](#core)|145.00|996.15|1048.00|
-|[Novelties](#novelties)|35.00|240.45|248.00|
-|[Spacebars](#spacebars)|30.00|206.10|210.00|
+|[Core](#core)|145.00|996.15|1048.00|318|
+|[Novelties](#novelties)|35.00|240.45|248.00|263|
+|[Spacebars](#spacebars)|30.00|206.10|210.00|119|
 
 
 ## Kits
 ### Core
-**Price(USD):** 145.00    **Price(RMB):** 996.15    **Price(ZF):** 1048.00    
+**Price(USD):** 145.00    **Price(RMB):** 996.15    **Price(ZF):** 1048.00  **Quantity:** 318 
 <img src="{{ 'assets/images/gmk-keycaps/chocolatier/kits_pics/core.png' | relative_url }}" alt="Core" class="image featured">
 
 ### Novelties
-**Price(USD):** 35.00    **Price(RMB):** 240.45    **Price(ZF):** 248.00    
+**Price(USD):** 35.00    **Price(RMB):** 240.45    **Price(ZF):** 248.00   **Quantity:** 263 
 <img src="{{ 'assets/images/gmk-keycaps/chocolatier/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
 
 ### Spacebars
-**Price(USD):** 30.00    **Price(RMB):** 206.10    **Price(ZF):** 210.00    
+**Price(USD):** 30.00    **Price(RMB):** 206.10    **Price(ZF):** 210.00    **Quantity:** 119
 <img src="{{ 'assets/images/gmk-keycaps/chocolatier/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 
