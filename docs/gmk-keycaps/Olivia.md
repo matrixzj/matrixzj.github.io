@@ -39,7 +39,13 @@ NOTE: USD to RMB exchange rate is 6.34
 * Designer: olivia
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-04
-* ColorCodes: as shown in kits pictures
+* ColorCodes: 
+
+||Base Color      | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|CP|179-15 C
+|Modifiers|179-15 C|55-9 C
+|various|55-9 C|179-15 C
 
 
 ## Pictures
