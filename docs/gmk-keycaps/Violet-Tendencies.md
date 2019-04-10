@@ -41,10 +41,16 @@ NOTE: USD to RMB exchange rate is 6.42
 
 
 ## Info
-* Designer: 
+* Designer: Voxicles
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-05
-* ColorCodes: as shown in kits pictures
+* ColorCodes: 
+
+||Base Color      | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|GR1|DY
+|Modifiers|N9|DY
+|various|DY|GR1
 
 
 ## Pictures
