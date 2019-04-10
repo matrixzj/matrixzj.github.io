@@ -36,10 +36,15 @@ NOTE: USD to RMB exchange rate is 6.95
 
 
 ## Info
-* Designer: 
+* Designer: JSaintS & duckboi
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-09
-* ColorCodes: as shown in kits pictures
+* ColorCodes: 
+
+||Base Color      | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|WS2|CR
+|Modifiers|CR|WS2
 
 
 ## Pictures
