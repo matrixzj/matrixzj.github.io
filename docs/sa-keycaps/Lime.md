@@ -87,6 +87,7 @@ NOTE: USD to RMB exchange rate is 6.87
   <tr>
     <th>GUK</th>
     <th>custom color match to Pantone 5455C</th>
+  </tr>
 </table>
 
 
