@@ -48,8 +48,25 @@ ref link: [Bubble ZF GB Link](http://www.zfrontier.com/m/3759)
 * Designer: 弥生ゃょぃ。
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2018-07
-* Color Codes: WCK and 2 other Pantone Colors (Blue - Pantone 15-3919 / Pink Pantone 13-1520)
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>WCK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>Blue</th>
+    <th>Pantone 15-3919</th>
+  </tr>
+  <tr>
+    <th>Pink</th>
+    <th>Pantone 13-1520</th>
+  </tr>
+</table>
 
 
 ## Pictures
