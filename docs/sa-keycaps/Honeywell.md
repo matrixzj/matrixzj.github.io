@@ -35,7 +35,29 @@ Note: 6u spacebar is not produced.
 * Designer: Round
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2018-03
-* Color Codes: unknown
+* Color Codes: 
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>GPA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GPA.png' | relative_url }}" alt="colorGPA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RAS</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAS.png' | relative_url }}" alt="colorRAS" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WFK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>NN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures

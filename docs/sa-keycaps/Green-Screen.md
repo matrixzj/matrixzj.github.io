@@ -149,12 +149,33 @@ NOTE: USD to RMB exchange rate is 6.67
 * Designer: Oblotzk/admgc/Harlw
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2018-07
-* Color Codes: GTT/GQM/TBN/VAT/YBP  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTT.png' | relative_url }}" alt="colorGTT" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GQM.png' | relative_url }}" alt="colorGQM" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBN.png' | relative_url }}" alt="colorTBN" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAT.png' | relative_url }}" alt="colorVAT" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="150" width="340">  
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>GTT</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTT.png' | relative_url }}" alt="colorGTT" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GQM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GQM.png' | relative_url }}" alt="colorGQM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>TBN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBN.png' | relative_url }}" alt="colorTBN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VAT</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAT.png' | relative_url }}" alt="colorVAT" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YBP</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="75" width="170"></th>
+  </tr>
+</table>
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/greenscreencolor.png' | relative_url }}" alt="green screen design color" class="image featured">
 
 ## Pictures

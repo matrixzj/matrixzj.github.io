@@ -42,12 +42,33 @@ NOTE: USD to RMB exchange rate is 6.47
 * Designer: Madeo
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2018-06
-* Color Codes: WCK/OAV/YBP/TGG/WA  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAV.png' | relative_url }}" alt="colorOAV" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TGG.png' | relative_url }}" alt="colorTGG" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WA.png' | relative_url }}" alt="colorWA" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>WCK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>OAV</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAV.png' | relative_url }}" alt="colorOAV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YBP</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>TGG</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TGG.png' | relative_url }}" alt="colorTGG" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WA.png' | relative_url }}" alt="colorWA" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/kobayashi/rendering_pics/sa_k_render1_1600x.jpg' | relative_url }}" alt="sa_k_render1_1600x" class="image featured">

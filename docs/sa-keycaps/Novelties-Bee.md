@@ -30,9 +30,21 @@ ref link: Join 'Jack Studio' QQ Group for Groupbuy info
 * Designer: Jack Studio / 0.01 Studio
 * Profile: SA 
 * GB Time: 2018-06
-* Color Codes: YCF/NN  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>YCF</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>NN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
 <font color="#f7b03c">Novelties Keycap: Bee</font>
