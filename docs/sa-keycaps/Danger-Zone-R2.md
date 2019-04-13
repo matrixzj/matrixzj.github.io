@@ -94,11 +94,29 @@ NOTE: USD to RMB exchange rate is 6.80
 * Designer: data
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2019-01
-* Color Codes: BFU/GSM/YY/RAS  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GSM.png' | relative_url }}" alt="colorGSM" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YY.png' | relative_url }}" alt="colorYY" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAS.png' | relative_url }}" alt="colorRAS" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BFU</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GSM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GSM.png' | relative_url }}" alt="colorGSM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YY</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YY.png' | relative_url }}" alt="colorYY" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RAS</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAS.png' | relative_url }}" alt="colorRAS" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures

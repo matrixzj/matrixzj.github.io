@@ -28,9 +28,24 @@ ref link: Groupbuy was hosted in 'wolf' QQ Group
 * Designer: FF
 * Profile: SA 
 * GB Time: 2019-02
-* Color Codes: YBP/NN/WCK   
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>YBP</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>NN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WCK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
