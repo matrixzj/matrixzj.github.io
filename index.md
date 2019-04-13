@@ -84,7 +84,7 @@ permalink: /
 
 ### 2015
 * [Trouble Minds EVA R1](docs/sa-keycaps/EVA-R1/)
-* [Danger Zone 壮志凌云](docs/sa-keycaps/Danger-Zone/)
+* [Danger Zone R1 壮志凌云R1](docs/sa-keycaps/Danger-Zone-R1/)
 * [Carbon R1 大碳R1](docs/sa-keycaps/Carbon-R1/)
 * [JukeBox R1 脆皮鸡R1](docs/sa-keycaps/JukeBox-R1/)
 * [Retro 复古](docs/sa-keycaps/Retro/)

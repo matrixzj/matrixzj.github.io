@@ -78,11 +78,29 @@ Since groupbuy was happened in May 2015 via Ctrlalt, price info was unable to ge
 * Designer: Matt3o
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2015-05
-* Color Codes: WA/VAV/RBC/TBN  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WA.png' | relative_url }}" alt="colorWA" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAV.png' | relative_url }}" alt="colorVAV" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RBC.png' | relative_url }}" alt="colorRBC" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBN.png' | relative_url }}" alt="colorTBN" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>WA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WA.png' | relative_url }}" alt="colorWA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VAV</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAV.png' | relative_url }}" alt="colorVAV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RBC</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RBC.png' | relative_url }}" alt="colorRBC" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>TBN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBN.png' | relative_url }}" alt="colorTBN" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/retro/rendering_pics/retro.jpg' | relative_url }}" alt="retro" class="image featured">

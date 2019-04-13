@@ -1,12 +1,12 @@
 ---
-title: Danger Zone 壮志凌云
+title: Danger Zone R1 壮志凌云R1
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 35010
 ---
 
-# Danger Zone 壮志凌云
+# Danger Zone R1 壮志凌云R1
 
 ref link: [SA Danger Zone Massdrop Link](https://www.massdrop.com/buy/danger-zone-sa-keycap-set)
 
@@ -94,11 +94,29 @@ NOTE: USD to RMB exchange rate is 6.55
 * Designer: Data(GH id)
 * Profile: SA Uniform R3
 * GB Time: 2015-09
-* Color Codes: BFU/GSM/YY/RAS  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GSM.png' | relative_url }}" alt="colorGSM" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YY.png' | relative_url }}" alt="colorYY" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAS.png' | relative_url }}" alt="colorRAS" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BFU</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GSM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GSM.png' | relative_url }}" alt="colorGSM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YY</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YY.png' | relative_url }}" alt="colorYY" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RAS</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAS.png' | relative_url }}" alt="colorRAS" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/dangerzone/rendering_pics/dangerzone.jpg' | relative_url }}" alt="dangerzone" class="image featured">

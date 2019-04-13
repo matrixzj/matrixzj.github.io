@@ -44,11 +44,29 @@ NOTE: USD to RMB exchange rate is 6.58
 * Designer: skullydazed
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2016-01
-* Color Codes: BBI/WV/RDD/YCF  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBI.png' | relative_url }}" alt="colorBBI" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WV.png' | relative_url }}" alt="colorWV" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDD.png' | relative_url }}" alt="colorRDD" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BBI</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBI.png' | relative_url }}" alt="colorBBI" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WV</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WV.png' | relative_url }}" alt="colorWV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RDD</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDD.png' | relative_url }}" alt="colorRDD" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YCF</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures

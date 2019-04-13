@@ -48,7 +48,45 @@ OCO Price was 260 USD.
 * Designer: Bunny
 * Profile: SA 1-2-3-3-3-4(ctrlalt.io) / SA 1-2-3-3-4-4(OCO)
 * GB Time: 2014-01(ctrlalt.io) / 2017-06(OCO)
-* Color Codes: unknown
+* Color Codes: 
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>RR</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RR.png' | relative_url }}" alt="colorRR" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GTL</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BFP</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFP.png' | relative_url }}" alt="colorBFP" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>OAS</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAS.png' | relative_url }}" alt="colorOAS" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VBQ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VBQ.png' | relative_url }}" alt="colorVBQ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BED</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BED.png' | relative_url }}" alt="colorBED" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GPA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GPA.png' | relative_url }}" alt="colorGPA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YCC</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCC.png' | relative_url }}" alt="colorYCC" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/penumbra/rendering_pics/3.jpg' | relative_url }}" alt="3" class="image featured">

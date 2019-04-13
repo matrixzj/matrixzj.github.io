@@ -114,14 +114,38 @@ NOTE: less than COQ(50)
 * Designer: Mito
 * Profile: SA 1-1-2-3-4-3 / 2-3-3-3-3-3 (cockpit)
 * GB Time: 2016-09
-* Color Codes: WBO/GTD/BFJ/YCE/VCO/RA
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>WBO</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GTD</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTD.png' | relative_url }}" alt="colorGTD" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BFJ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png' | relative_url }}" alt="colorBFJ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YCE</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCE.png' | relative_url }}" alt="colorYCE" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VCO</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png' | relative_url }}" alt="colorRA" height="75" width="170"></th>
+  </tr>
+</table>
 
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTD.png' | relative_url }}" alt="colorGTD" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png' | relative_url }}" alt="colorBFJ" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCE.png' | relative_url }}" alt="colorYCE" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png' | relative_url }}" alt="colorRA" height="150" width="340">
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/godspeed/rendering_pics/MD-25045_20160922122839_287a124a76ffe60b.jpg' | relative_url }}" alt="pictures1" class="image featured">

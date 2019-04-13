@@ -64,10 +64,25 @@ NOTE: USD to RMB exchange rate is 6.13
 * Designer: CalmB4tehPwn
 * Profile: SA 1-2-3-3-3-4
 * GB Time: 2013-09
-* Color Codes: BFR/BBQ/GTA  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="colorBFR" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBQ.png' | relative_url }}" alt="colorBBQ" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTA.png' | relative_url }}" alt="colorGTA" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BFR</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="colorBFR" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BBQ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBQ.png' | relative_url }}" alt="colorBBQ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GTA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTA.png' | relative_url }}" alt="colorGTA" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures

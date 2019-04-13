@@ -94,7 +94,22 @@ NOTE: USD to RMB exchange rate is 6.39
 * Designer: T0mb3ry
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2015-08
-* Color Codes: OBC/GQM/WBO  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OBC.png' | relative_url }}" alt="colorOBC" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GQM.png' | relative_url }}" alt="colorGQM" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>OBC</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OBC.png' | relative_url }}" alt="colorOBC" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GQM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GQM.png' | relative_url }}" alt="colorGQM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WBO</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="75" width="170"></th>
+  </tr>
+</table>

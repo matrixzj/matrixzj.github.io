@@ -65,11 +65,29 @@ NOTE: USD to RMB exchange rate is 6.14
 * Designer: jil_jil32
 * Profile: SA 1-2-3-3-3-4
 * GB Time: 2013-07 First SA ? 
-* Color Codes: TBN/GAW/VF/YG  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBN.png' | relative_url }}" alt="colorTBN" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GAW.png' | relative_url }}" alt="colorGAW" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VF.png' | relative_url }}" alt="colorVF" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YG.png' | relative_url }}" alt="colorYG" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>TBN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBN.png' | relative_url }}" alt="colorTBN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GAW</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GAW.png' | relative_url }}" alt="colorGAW" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VF</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VF.png' | relative_url }}" alt="colorVF" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YG</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YG.png' | relative_url }}" alt="colorYG" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures

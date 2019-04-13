@@ -40,10 +40,25 @@ NOTE: USD to RMB exchange rate is 6.68
 * Designer: Easonic
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2016-09
-* Color Codes: BBQ / GPA / WCK  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBQ.png' | relative_url }}" alt="colorBBQ" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GPA.png' | relative_url }}" alt="colorGPA" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BBQ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBQ.png' | relative_url }}" alt="colorBBQ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GPA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GPA.png' | relative_url }}" alt="colorGPA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WCK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures

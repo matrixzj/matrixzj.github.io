@@ -49,7 +49,22 @@ Since groupbuy was happened in June 2015 via Massdrop, price info was unable to 
 * Designer: LSB(livingspeedbump)
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2015-06
-* Color Codes: TM/VCO/RN  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TM.png' | relative_url }}" alt="colorTM" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RN.png' | relative_url }}" alt="colorRN" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>TM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TM.png' | relative_url }}" alt="colorTM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VCO</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RN.png' | relative_url }}" alt="colorRN" height="75" width="170"></th>
+  </tr>
+</table>
