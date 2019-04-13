@@ -43,11 +43,11 @@ NOTE: USD to RMB exchange rate is 6.73
   </tr>
   <tr>
     <th>BFU</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="150" width="340"></th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="75" width="170"></th>
   </tr>
   <tr>
     <th>RDE</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDE.png' | relative_url }}" alt="colorRDE" height="150" width="340"></th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDE.png' | relative_url }}" alt="colorRDE" height="75" width="170"></th>
   </tr>
 </table>
 

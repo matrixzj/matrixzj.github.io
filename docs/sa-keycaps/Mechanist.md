@@ -84,12 +84,30 @@ NOTE: USD to RMB exchange rate is 6.73
 * Designer: HOQ
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2019-03
-* Color Codes: BFR/BBJ/BFM/WFK  
+* Color Codes:  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/mechanistcolor.png' | relative_url }}" alt="mechanist design color" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="colorBFR" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorBBJ" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFM.png' | relative_url }}" alt="colorBFM" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="150" width="340">
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BFR</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="colorBFR" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BBJ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="colorBBJ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BFM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFM.png' | relative_url }}" alt="colorBFM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WFK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/mechanist/rendering_pics/mechanist.png' | relative_url }}" alt="mechanist" class="image featured">

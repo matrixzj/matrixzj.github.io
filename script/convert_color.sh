@@ -2,7 +2,7 @@
 
 grep SP_Color $1 | grep '^<img' > /tmp/test
 
-sed -i.bak '/* Color Codes/s/\(* Color Codes:\).*/\1  /' $1
+sed -i '/* Color Codes/s/\(* Color Codes:\).*/\1  /' $1
 sed -i '/^<img.*SP_Color.*/d' $1
 
 cat > /tmp/test_color << EOF
@@ -17,6 +17,10 @@ while read -r line; do color_codes=$(echo $line | awk '{print $7}' | sed -ne 's/
 
 echo "</table>" >> /tmp/test_color
 
+sed -i 's/150/75/' /tmp/test_color
+sed -i 's/340/170/' /tmp/test_color
+
 sed -i '/* Color Codes/r /tmp/test_color' $1
 
 rm -f /tmp/test
+rm -f /tmp/test_color
