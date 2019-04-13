@@ -35,9 +35,21 @@ NOTE: USD to RMB exchange rate is 6.73
 * Designer: Jack Studio
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2019-04
-* Color Codes: BFU/RDE  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDE.png' | relative_url }}" alt="colorRDE" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BFU</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFU.png' | relative_url }}" alt="colorBFU" height="150" width="340"></th>
+  </tr>
+  <tr>
+    <th>RDE</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDE.png' | relative_url }}" alt="colorRDE" height="150" width="340"></th>
+  </tr>
+</table>
 
 
 ## Pictures
