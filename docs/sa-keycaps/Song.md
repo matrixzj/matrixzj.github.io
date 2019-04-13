@@ -34,11 +34,29 @@ NOTE: USD to RMB exchange rate is 6.28
 * Designer: HOQ
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2018-03
-* Color Codes: BDG/VAG/YCC/RCU  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BDG.png' | relative_url }}" alt="colorBDG" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAG.png' | relative_url }}" alt="colorVAG" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCC.png' | relative_url }}" alt="colorYCC" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RCU.png' | relative_url }}" alt="colorRCU" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BDG</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BDG.png' | relative_url }}" alt="colorBDG" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VAG</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAG.png' | relative_url }}" alt="colorVAG" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YCC</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCC.png' | relative_url }}" alt="colorYCC" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RCU</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RCU.png' | relative_url }}" alt="colorRCU" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures

@@ -39,7 +39,29 @@ NOTE: USD to RMB exchange rate is 6.83
 * Designer: 
 * Profile: SA 1-2-3-3-4-4 (Round1) / 1-1-2-3-4-4 (Round2)
 * GB Time: 2017-05 (Round1) /  2018-03 (Round2)
-* Color Codes: unknown  
+* Color Codes: 
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>VBV</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VBV.png' | relative_url }}" alt="colorVBV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RDA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDA.png' | relative_url }}" alt="colorRDA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GTL</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTL.png' | relative_url }}" alt="colorGTL" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GD</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GD.png' | relative_url }}" alt="colorGD" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures
