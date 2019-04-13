@@ -35,7 +35,7 @@ NOTE: USD to RMB exchange rate is 6.28
 * Designer: Bunny
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2018-03
-* Color Codes: RR/GTL/BFP/OAS/VBQ/BED/GPA/WFK
+* Color Codes: 
 <table style="width:100%">
   <tr>
     <th>ColorCodes</th>
