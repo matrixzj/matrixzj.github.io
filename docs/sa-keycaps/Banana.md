@@ -34,10 +34,25 @@ NOTE: USD to RMB exchange rate is 6.87
 * Designer: FF
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2018-10
-* Color Codes: YBP/WCK/GX  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GX.png' | relative_url }}" alt="colorGX" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>YBP</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WCK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GX</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GX.png' | relative_url }}" alt="colorGX" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/banana/rendering_pics/banana.jpg' | relative_url }}" alt="banana" class="image featured">

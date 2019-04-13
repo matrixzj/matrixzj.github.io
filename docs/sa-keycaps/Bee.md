@@ -103,10 +103,25 @@ NOTE: USD to RMB exchange rate is 6.87
 * Designer: Jack Studio & 0.01
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2018-10
-* Color Codes: YCF/BFJ/NN  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png' | relative_url }}" alt="colorBFJ" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>YCF</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BFJ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFJ.png' | relative_url }}" alt="colorBFJ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>NN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/bee/rendering_pics/bee1.jpg' | relative_url }}" alt="bee1" class="image featured">

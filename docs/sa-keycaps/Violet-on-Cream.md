@@ -34,9 +34,21 @@ NOTE: USD to RMB exchange rate is 6.95
 * Designer: beamingrobot
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2018-09
-* Color Codes: WV/RDE  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WV.png' | relative_url }}" alt="colorWV" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDE.png' | relative_url }}" alt="colorRDE" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>WV</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WV.png' | relative_url }}" alt="colorWV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RDE</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RDE.png' | relative_url }}" alt="colorRDE" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures
