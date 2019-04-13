@@ -35,7 +35,45 @@ NOTE: USD to RMB exchange rate is 6.28
 * Designer: Bunny
 * Profile: SA 1-1-2-3-4-4
 * GB Time: 2018-03
-* Color Codes: unknown  
+* Color Codes: RR/GTL/BFP/OAS/VBQ/BED/GPA/WFK
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>RR</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RR.png' | relative_url }}" alt="colorRR" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GTL</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BFP</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFP.png' | relative_url }}" alt="colorBFP" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>OAS</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAS.png' | relative_url }}" alt="colorOAS" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VBQ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VBQ.png' | relative_url }}" alt="colorVBQ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BED</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BED.png' | relative_url }}" alt="colorBED" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GPA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GPA.png' | relative_url }}" alt="colorGPA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WFK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures
