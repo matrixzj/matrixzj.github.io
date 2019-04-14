@@ -27,7 +27,6 @@ NOTE: USD to RMB exchange rate is 6.74
 ## Kits
 ### All
 **Price(GH):** 79.00    **Price(RMB):** 532.46    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/gmk-keycaps/mondrian/kits_pics/
 <img src="{{ 'assets/images/gmk-keycaps/mondrian/kits_pics/all.jpg' | relative_url }}" alt="All" class="image featured">
 
 
