@@ -81,7 +81,7 @@ NOTE: USD to RMB exchange rate is 6.87
 * Designer: Oblotzky
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-08
-* ColorCodes: unknown
+* ColorCodes: matched SP's BFP/GD/NN, and white is a halfway point between GMK's CP and SP's WCK
 
 
 ## Pictures
