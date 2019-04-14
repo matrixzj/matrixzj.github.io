@@ -56,7 +56,7 @@ NOTE: USD to RMB exchange rate is 6.73
 
 ### Novelties
 **Price(MD):** 25.00    **Price(RMB):** 168.25    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
 ### SpaceBars
 **Price(MD):** 35.00    **Price(RMB):** 235.55    **Quantity:** unknown  
@@ -71,7 +71,15 @@ NOTE: USD to RMB exchange rate is 6.73
 * Designer: T0mb3ry
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2019-04
-* ColorCodes: unknown 
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|#3a3a3a|#abc6dc
+|Modifiers|#314f6f|#abc6dc
+|Purple Accent|#6c4299|#abc6dc
+|Orange Accent|#e86700|#314f6f
+|Pale Blue Accent||#abc6dc#314f6f
 
 
 ## Pictures
