@@ -31,10 +31,16 @@ NOTE: USD to RMB exchange rate is 6.80
 
 
 ## Info
-* Designer: 
+* Designer: BunnyLake
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-06
-* ColorCodes: as shown in kits pictures 
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|2M|DY
+|Modifiers|2B|TU2
+|various|TU2|DY
 
 
 ## Pictures
