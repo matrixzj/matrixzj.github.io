@@ -31,10 +31,15 @@ NOTE: GBP to RMB exchange rate is 8.85
 
 
 ## Info
-* Designer: 
+* Designer: UKKeycaps
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-06
-* ColorCodes: as shown in kits pictures
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|U9|MG1
+|Modifiers|L9|TU2
 
 
 ## Pictures
