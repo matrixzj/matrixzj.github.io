@@ -3,7 +3,7 @@ title: True Olivetti
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33055
+nav_order: 33060
 ---
 
 # True Olivetti
