@@ -36,6 +36,12 @@ NOTE: USD to RMB exchange rate is 6.74
 * GB Time: 2017-07
 * ColorCodes: as shown in kits pictures 
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|CC|V2
+|Modifiers|N9|V2
+|various|V2|N9
+
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/skidolcha/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
