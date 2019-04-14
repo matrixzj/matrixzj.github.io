@@ -34,7 +34,12 @@ NOTE: USD to RMB exchange rate is 6.90
 * Designer: Shower_king
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2016-11
-* ColorCodes: as shown in kits pictures 
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|MG1|WS1
+|Modifiers|WS1|MG1
 
 
 ## Pictures

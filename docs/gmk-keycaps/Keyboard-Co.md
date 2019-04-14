@@ -27,15 +27,19 @@ NOTE: USD to RMB exchange rate is 6.69
 ## Kits
 ### Base
 **Price(OCO):** 135.00    **Price(RMB):** 903.15    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/gmk-keycaps/keyboard&co./kits_pics/
 <img src="{{ 'assets/images/gmk-keycaps/keyboard-co/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 
 ## Info
-* Designer: 
+* Designer: Switchnollie 
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2016-09
-* ColorCodes: as shown in kits pictures 
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|7471U|Cool Grey 1 XGC
+|Modifiers|CR|7471U
 
 
 ## Pictures
