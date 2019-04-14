@@ -79,7 +79,7 @@ NOTE: USD to RMB exchange rate is 6.73
 |Modifiers|#314f6f|#abc6dc
 |Purple Accent|#6c4299|#abc6dc
 |Orange Accent|#e86700|#314f6f
-|Pale Blue Accent||#abc6dc#314f6f
+|Pale Blue Accent|#abc6dc|#314f6f
 
 
 ## Pictures
