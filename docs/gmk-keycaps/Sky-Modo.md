@@ -49,7 +49,12 @@ NOTE: USD to RMB exchange rate is 6.73
 * Designer: 
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2019-04
-* ColorCodes: CR/N9/TU2/Customerized Purple
+* ColorCodes:
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|TU2|CR
+|Modifiers|TU2|N9
 
 
 ## Pictures
