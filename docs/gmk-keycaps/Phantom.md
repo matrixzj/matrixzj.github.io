@@ -59,7 +59,11 @@ NOTE: USD to RMB exchange rate is 6.42
 * Designer: briano1905
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-05
-* ColorCodes: Pantone 2627C/2695C/7403C
+* ColorCodes: 
+
+|Base Color     | Legend Color
+| :-------------: | :------------:
+|2695C|7403C
 
 
 ## Pictures
