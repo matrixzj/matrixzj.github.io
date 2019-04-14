@@ -36,7 +36,7 @@ NOTE: USD to RMB exchange rate is 6.73
 ## Kits
 ### Core
 **Price(MD):** 120.00    **Price(RMB):** 807.60    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/core.png' | relative_url }}" alt="Core" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/core.jpg' | relative_url }}" alt="Core" class="image featured">
 
 ### Numpad
 **Price(MD):** 37.00    **Price(RMB):** 249.01    **Quantity:** unknown  
