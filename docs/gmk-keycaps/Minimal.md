@@ -44,7 +44,7 @@ NOTE: USD to RMB exchange rate is 6.73
 * Designer: janglad & quaddepo
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2019-03
-* ColorCodes: WS1/CR 
+* ColorCodes: 
 
 Base Color      | Legend Color
 :-------------: | :------------:
