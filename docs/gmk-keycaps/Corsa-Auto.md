@@ -35,10 +35,15 @@ ref link: [Corsa Auto ZF GB Link](http://www.zfrontier.com/m/3386)
 
 
 ## Info
-* Designer: unknown
+* Designer: CE9111[458]
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-03
-* ColorCodes: RGB #F8E7A1 / #343466 / #9C1A22
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|#343466|#F8E7A1
+|Modifiers|#9C1A22|#F8E7A1
 
 
 ## Pictures
