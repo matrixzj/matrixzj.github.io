@@ -34,7 +34,12 @@ NOTE: USD to RMB exchange rate is 6.65
 * Designer: fishpod
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-10
-* ColorCodes: as shown in kits pictures 
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|L|CR
+|Modifiers|L9|CR
 
 
 ## Pictures
