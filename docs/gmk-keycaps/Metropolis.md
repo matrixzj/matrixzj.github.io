@@ -9,7 +9,6 @@ nav_order: 31030
 # Metropolis 大都会
 
 ref link: [Metropolis Novelkeys GB Link](https://novelkeys.xyz/collections/group-buys/products/gmk-metropolis-gb)
-
 * [Price](#price)
 * [Kits](#kits)
 * [Info](#info)
@@ -51,6 +50,11 @@ NOTE: USD to RMB exchange rate is 6.73
 * GB Time: 2019-03
 * ColorCodes:  
 <img src="{{ 'assets/images/gmk-keycaps/metropolis/color.png' | relative_url }}" atl="color" class="image featured">
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|5395C|333C
+|Modifiers 1|5395C|142C
+|Modifiers 1|5395C|179C
 
 
 ## Pictures
