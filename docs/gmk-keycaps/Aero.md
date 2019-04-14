@@ -31,10 +31,16 @@ NOTE: USD to RMB exchange rate is 6.91
 
 
 ## Info
-* Designer: HOQ
+* Designer: Mama & HOQ
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-04
-* ColorCodes: as shown in kits pictures 
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|TU1|GE1
+|Modifiers|TU2|GE1
+|various|V2|GE1
 
 
 ## Pictures
