@@ -39,7 +39,13 @@ NOTE: WON(South Korean Won) to RMB exchange rate is 0.0063
 * Designer: cocobrais
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-12
-* ColorCodes: as shown in kits pictures 
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|CR|V4
+|Modifiers|CR|V4
+|various|V4|CR
 
 
 ## Pictures
