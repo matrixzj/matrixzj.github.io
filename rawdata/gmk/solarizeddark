@@ -1,0 +1,13 @@
+name = 'Solarized Dark'
+cname = ''
+keycapstype = 'GMK'
+designer = 'rainb1ood'
+profile = '1-1-2-3-4-4'
+time = '2017-06'
+colorcodes = 'as shown in kits pictures'
+platform = 'GH'
+link = 'https://geekhack.org/index.php?topic=90192.0'
+Base|135|||
+Color|60|||
+Spacebar|22|||
+Ergodox|50|||

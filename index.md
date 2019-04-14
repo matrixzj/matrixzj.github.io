@@ -168,6 +168,7 @@ permalink: /
 * [HyperFuse Redux](docs/gmk-keycaps/HyperFuse-Redux/)
 * [Skidolcha](docs/gmk-keycaps/Skidolcha/)
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
+* [Solarized Dark](docs/gmk-keycaps/Solarized-Dark/)
 * [Aero](docs/gmk-keycaps/Aero/)
 * [Corsa Auto 赛道之星](docs/gmk-keycaps/Corsa-Auto/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
