@@ -7,6 +7,7 @@ nav_order: 10000
 ---
 
 # SP ABS Standard Color Codes
+* [Red](#Red)
 
 ## Red
 <table style="width:100%">
