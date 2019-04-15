@@ -17,6 +17,7 @@ permalink: /
 ---
 
 ## SA KeyCaps
+* [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2019
 * [Hunter Killua](docs/sa-keycaps/Hunter-Killua/)
