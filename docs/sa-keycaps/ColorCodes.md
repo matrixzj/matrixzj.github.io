@@ -12,7 +12,7 @@ nav_order: 10000
 <table style="width:100%">
   <tr>
     <th>Color Sample</th>
-    <th>Color Code</th>
+    <th width="200">Color Code</th>
     <th>RGB Code</th>
     <th>HEX Code</th>
     <th>Color Chip</th>
