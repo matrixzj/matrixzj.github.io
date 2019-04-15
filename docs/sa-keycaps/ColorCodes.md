@@ -15,7 +15,7 @@ nav_order: 10000
   <tr>
     <th width="100">Color Sample</th>
     <th width="80">Color Code</th>
-    <th width="120">RGB Code</th>
+    <th width="150">RGB Code</th>
     <th width="80">HEX Code</th>
     <th width="170">Color Chip</th>
   </tr>
@@ -118,7 +118,7 @@ nav_order: 10000
   <tr>
     <th width="100">Color Sample</th>
     <th width="80">Color Code</th>
-    <th width="120">RGB Code</th>
+    <th width="150">RGB Code</th>
     <th width="80">HEX Code</th>
     <th width="170">Color Chip</th>
   </tr>
