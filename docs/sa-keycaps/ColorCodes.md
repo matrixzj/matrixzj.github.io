@@ -14,9 +14,9 @@ nav_order: 10000
 <table style="width:100%">
   <tr>
     <th width="100">Color Sample</th>
-    <th width="100">Color Code</th>
-    <th width="100">RGB Code</th>
-    <th width="100">HEX Code</th>
+    <th width="80">Color Code</th>
+    <th width="120">RGB Code</th>
+    <th width="80">HEX Code</th>
     <th width="170">Color Chip</th>
   </tr>
   <tr>
@@ -117,9 +117,9 @@ nav_order: 10000
 <table style="width:100%">
   <tr>
     <th width="100">Color Sample</th>
-    <th width="100">Color Code</th>
-    <th width="100">RGB Code</th>
-    <th width="100">HEX Code</th>
+    <th width="80">Color Code</th>
+    <th width="120">RGB Code</th>
+    <th width="80">HEX Code</th>
     <th width="170">Color Chip</th>
   </tr>
   <tr>
