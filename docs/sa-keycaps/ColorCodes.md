@@ -8,6 +8,7 @@ nav_order: 10000
 
 # SP ABS Standard Color Codes
 
+## Red
 <table style="width:100%">
   <tr>
     <th>Color Sample</th>
@@ -102,9 +103,9 @@ nav_order: 10000
   </tr>
   <tr>
     <th style="background-color: rgb(202, 26, 14)">&#160;</th>
-    <th><b> RR </b></th>
+    <th><b> RR (No longer active)</b></th>
     <th>RGB(202, 26, 14) &#173;</th>
-    <th>(#ca1a0e)   &#160; &#160;  (No longer active)</th>
+    <th>(#ca1a0e)</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RR.png' | relative_url }}" alt="colorRR" height="75" width="170"></th>
   </tr>
 </table>
