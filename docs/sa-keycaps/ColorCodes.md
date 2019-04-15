@@ -14,11 +14,13 @@ nav_order: 10000
     <th>Color Code</th>
     <th>RGB Code</th>
     <th>HEX Code</th>
+    <th>Color Chip</th>
   </tr>
   <tr>
-  <td style="background-color: rgb(10, 32, 64)">&#160;</td>
-  <td><b> BBI </b></td>
-  <td>RGB(10, 32, 64) &#173;</td>
-  <td>(#0a2040)</td>
+    <th style="background-color: rgb(10, 32, 64)">&#160;</th>
+    <th><b> BBI </b></th>
+    <th>RGB(10, 32, 64) &#173;</th>
+    <th>(#0a2040)</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBI.png' | relative_url }}" alt="colorBBI" height="    75" width="170"></th>
   </tr>
 </table>
