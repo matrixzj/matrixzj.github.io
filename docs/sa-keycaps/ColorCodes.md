@@ -11,11 +11,11 @@ nav_order: 10000
 ## Red
 <table style="width:100%">
   <tr>
-    <th>Color Sample</th>
-    <th width="200">Color Code</th>
-    <th>RGB Code</th>
-    <th>HEX Code</th>
-    <th>Color Chip</th>
+    <th width="15%">Color Sample</th>
+    <th width="10%">Color Code</th>
+    <th width="20%">RGB Code</th>
+    <th width="15%">HEX Code</th>
+    <th width="40%">Color Chip</th>
   </tr>
   <tr>
     <th style="background-color: rgb(164, 33, 27)">&#160;</th>
