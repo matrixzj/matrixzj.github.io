@@ -1,10 +1,10 @@
 #! /bin/bash
 
-for i in $(sed -ne 's/.*SP_Abs_ColorCodes_\(.*\).png/\1/p' /tmp/red_list); do 
+for i in $(sed -ne 's/.*SP_Abs_ColorCodes_\(.*\).png/\1/p' /tmp/blue_list); do 
     colorCode=$i; 
-    colorSample=$(egrep -B2 "$i\s" /tmp/sp.html | sed -ne '/td/{N;s/\n//;p}' | sed -e 's/td/th/g')
-    RGBCode=$(grep -A5 "$i\s" /tmp/sp.html | sed -ne '/td/{N;s/\n//;p}' | sed -ne '/RGB/p' | sed -e 's/td/th/g')
-    HEXCode=$(grep -A5 "$i\s" /tmp/sp.html | sed -ne '/td/{N;s/\n//;p}' | sed -ne '/tr/s/<\/tr>//p' | sed -e 's/td/th/g')
+    colorSample=$(egrep -B2 "\s$i\s" /tmp/sp.html | sed -ne '/td/{N;s/\n//;p}' | sed -e 's/td/th/g')
+    RGBCode=$(egrep -A5 "\s$i\s" /tmp/sp.html | sed -ne '/td/{N;s/\n//;p}' | sed -ne '/RGB/p' | sed -e 's/td/th/g')
+    HEXCode=$(egrep -A5 "\s$i\s" /tmp/sp.html | sed -ne '/td/{N;s/\n//;p}' | sed -ne '/tr/s/<\/tr>//p' | sed -e 's/td/th/g')
 
     printf "  <tr>\n"
     printf "    %s\n" "$colorSample"
