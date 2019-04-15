@@ -174,6 +174,7 @@ permalink: /
 * [Yuri](docs/gmk-keycaps/Yuri/)
 * [Aero](docs/gmk-keycaps/Aero/)
 * [Iris 鸢尾花](docs/gmk-keycaps/Iris/)
+* [Blue Alert](docs/gmk-keycaps/Blue-Alert/)
 * [Corsa Auto 赛道之星](docs/gmk-keycaps/Corsa-Auto/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
 
