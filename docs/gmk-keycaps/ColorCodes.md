@@ -1,5 +1,5 @@
 ---
-title: Standard Color Codes
+title: GMK Standard Color Codes
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
