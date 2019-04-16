@@ -9,6 +9,7 @@ nav_order: 10000
 # SP ABS Standard Color Codes
 * [Red](#red)
 * [Blue](#blue)
+* [Orange](#orange)
 
 ## Red
 <table style="width:100%">
@@ -275,5 +276,52 @@ nav_order: 10000
     <th>55, 135, 157 &#173;</th>
     <th>#37879d</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BX.png' | relative_url }}" alt="colorBX" height="75" width="170"></th>
+  </tr>
+</table>
+
+
+## Orange
+<table style="width:100%">
+  <tr>
+    <th width="100">Color Sample</th>
+    <th width="80">Color Code</th>
+    <th width="150">RGB Code</th>
+    <th width="80">HEX Code</th>
+    <th width="170">Color Chip</th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(255, 104, 0)">&#160;</th>
+    <th><b> OAS </b></th>
+    <th>255, 104, 0 &#173;</th>
+    <th>#ff6800</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAS.png' | relative_url }}" alt="colorOAS" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(234, 66, 33)">&#160;</th>
+    <th><b> OAV </b></th>
+    <th>234, 66, 33 &#173;</th>
+    <th>#ea4221</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAV.png' | relative_url }}" alt="colorOAV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(232, 103, 0)">&#160;</th>
+    <th><b> OBC </b></th>
+    <th>232, 103, 0 &#173;</th>
+    <th>#e86700</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OBC.png' | relative_url }}" alt="colorOBC" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(216, 55, 18)">&#160;</th>
+    <th><b> OB </b></th>
+    <th>216, 55, 18 &#173;</th>
+    <th>#d83712</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OB.png' | relative_url }}" alt="colorOB" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(229, 78, 0)">&#160;</th>
+    <th><b> ON </b></th>
+    <th>229, 78, 0 &#173;</th>
+    <th>#e54e00</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_ON.png' | relative_url }}" alt="colorON" height="75" width="170"></th>
   </tr>
 </table>
