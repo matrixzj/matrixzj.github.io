@@ -12,6 +12,8 @@ nav_order: 10000
 * [Orange](#orange)
 * [Brown/Black](#brownblack)
 * [Yellow](#yellow)
+* [Gray](#gray)
+* [Green](#green)
 
 ## Red
 <table style="width:100%">
@@ -942,5 +944,115 @@ nav_order: 10000
     <th>110, 109, 107 &#173;</th>
     <th>#6e6d6b</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GY.png' | relative_url }}" alt="colorGY" height="75" width="170"></th>
+  </tr>
+</table>
+
+
+## Green
+<table style="width:100%">
+  <tr>
+    <th width="100">Color Sample</th>
+    <th width="80">Color Code</th>
+    <th width="150">RGB Code</th>
+    <th width="80">HEX Code</th>
+    <th width="170">Color Chip</th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(98, 153, 144)">&#160;</th>
+    <th><b> VAF </b></th>
+    <th>98, 153, 144 &#173;</th>
+    <th>#629990</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAF.png' | relative_url }}" alt="colorVAF" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(36, 156, 120)">&#160;</th>
+    <th><b> VAG </b></th>
+    <th>36, 156, 120 &#173;</th>
+    <th>#249c78</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAG.png' | relative_url }}" alt="colorVAG" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(147, 194, 71)">&#160;</th>
+    <th><b> VAT </b></th>
+    <th>147, 194, 71 &#173;</th>
+    <th>#93c247</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAT.png' | relative_url }}" alt="colorVAT" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(123, 155, 72)">&#160;</th>
+    <th><b> VAV </b></th>
+    <th>123, 155, 72 &#173;</th>
+    <th>#7b9b48</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAV.png' | relative_url }}" alt="colorVAV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(97, 138, 64)">&#160;</th>
+    <th><b> VBQ </b></th>
+    <th>97, 138, 64 &#173;</th>
+    <th>#618a40</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VBQ.png' | relative_url }}" alt="colorVBQ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(93, 206, 186)">&#160;</th>
+    <th><b> VBV </b></th>
+    <th>93, 206, 186 &#173;</th>
+    <th>#5dceba</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VBV.png' | relative_url }}" alt="colorVBV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(0, 123, 69)">&#160;</th>
+    <th><b> VCJ </b></th>
+    <th>0, 123, 69 &#173;</th>
+    <th>#007b45</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCJ.png' | relative_url }}" alt="colorVCJ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(0, 141, 82)">&#160;</th>
+    <th><b> VCK </b></th>
+    <th>0, 141, 82 &#173;</th>
+    <th>#008d52</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCK.png' | relative_url }}" alt="colorVCK" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(0, 142, 67)">&#160;</th>
+    <th><b> VCM </b></th>
+    <th>0, 142, 67 &#173;</th>
+    <th>#008e43</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCM.png' | relative_url }}" alt="colorVCM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(105, 208, 165)">&#160;</th>
+    <th><b> VCO </b></th>
+    <th>105, 208, 165 &#173;</th>
+    <th>#69d0a5</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCO.png' | relative_url }}" alt="colorVCO" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(0, 121, 44)">&#160;</th>
+    <th><b> VCS </b></th>
+    <th>0, 121, 44 &#173;</th>
+    <th>#00792c</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCS.png' | relative_url }}" alt="colorVCS" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(91, 124, 91)">&#160;</th>
+    <th><b> VF </b></th>
+    <th>91, 124, 91 &#173;</th>
+    <th>#5b7c5b</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VF.png' | relative_url }}" alt="colorVF" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(124, 148, 125)">&#160;</th>
+    <th><b> VH </b></th>
+    <th>124, 148, 125 &#173;</th>
+    <th>#7c947d</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VH.png' | relative_url }}" alt="colorVH" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(0, 93, 53)">&#160;</th>
+    <th><b> VV </b></th>
+    <th>0, 93, 53 &#173;</th>
+    <th>#005d35</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VV.png' | relative_url }}" alt="colorVV" height="75" width="170"></th>
   </tr>
 </table>
