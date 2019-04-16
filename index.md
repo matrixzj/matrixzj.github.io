@@ -177,6 +177,7 @@ permalink: /
 * [Iris 鸢尾花](docs/gmk-keycaps/Iris/)
 * [Blue Alert](docs/gmk-keycaps/Blue-Alert/)
 * [Oblivion R1 码农R1](docs/gmk-keycaps/Oblivion-R1/)
+* [Penumbra PB](docs/gmk-keycaps/Penumbra/)
 * [Corsa Auto 赛道之星](docs/gmk-keycaps/Corsa-Auto/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
 
