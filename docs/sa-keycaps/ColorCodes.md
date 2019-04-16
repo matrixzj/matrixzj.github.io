@@ -10,6 +10,7 @@ nav_order: 10000
 * [Red](#red)
 * [Blue](#blue)
 * [Orange](#orange)
+* [Brown/Black](#orange)
 
 ## Red
 <table style="width:100%">
@@ -323,5 +324,87 @@ nav_order: 10000
     <th>229, 78, 0 &#173;</th>
     <th>#e54e00</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_ON.png' | relative_url }}" alt="colorON" height="75" width="170"></th>
+  </tr>
+</table>
+
+
+## Brown/Black
+<table style="width:100%">
+  <tr>
+    <th width="100">Color Sample</th>
+    <th width="80">Color Code</th>
+    <th width="150">RGB Code</th>
+    <th width="80">HEX Code</th>
+    <th width="170">Color Chip</th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(41, 33, 28)">&#160;</th>
+    <th><b> TAA </b></th>
+    <th>41, 33, 28 &#173;</th>
+    <th>#29211c</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TAA.png' | relative_url }}" alt="colorTAA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(72, 53, 39)">&#160;</th>
+    <th><b> TBN </b></th>
+    <th>72, 53, 39 &#173;</th>
+    <th>#483527</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBN.png' | relative_url }}" alt="colorTBN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(190, 176, 152)">&#160;</th>
+    <th><b> TBT </b></th>
+    <th>190, 176, 152 &#173;</th>
+    <th>#beb098</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBT.png' | relative_url }}" alt="colorTBT" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(204, 177, 140)">&#160;</th>
+    <th><b> TEA </b></th>
+    <th>204, 177, 140 &#173;</th>
+    <th>#ccb18c</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TEA.png' | relative_url }}" alt="colorTEA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(149, 134, 111)">&#160;</th>
+    <th><b> TGG </b></th>
+    <th>149, 134, 111 &#173;</th>
+    <th>#95866f</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TGG.png' | relative_url }}" alt="colorTGG" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(91, 51, 20)">&#160;</th>
+    <th><b> TGH </b></th>
+    <th>91, 51, 20 &#173;</th>
+    <th>#5b3314</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TGH.png' | relative_url }}" alt="colorTGH" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(217, 201, 168)">&#160;</th>
+    <th><b> TM </b></th>
+    <th>217, 201, 168 &#173;</th>
+    <th>#d9c9a8</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TM.png' | relative_url }}" alt="colorTM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(202, 182, 152)">&#160;</th>
+    <th><b> TN </b></th>
+    <th>202, 182, 152 &#173;</th>
+    <th>#cab698</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TN.png' | relative_url }}" alt="colorTN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(200, 178, 144)">&#160;</th>
+    <th><b> TU </b></th>
+    <th>200, 178, 144 &#173;</th>
+    <th>#c8b290</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TU.png' | relative_url }}" alt="colorTU" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(33, 34, 36)">&#160;</th>
+    <th><b> NN </b></th>
+    <th>33, 34, 36 &#173;</th>
+    <th>#212224</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
   </tr>
 </table>
