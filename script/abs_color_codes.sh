@@ -1,6 +1,8 @@
 #! /bin/bash
 
-printf '## Red\n'
+echo ''
+echo ''
+printf '## Yellow\n'
 echo '<table style="width:100%">'
 printf '  <tr>\n'
 printf '    <th width="100">Color Sample</th>\n'
@@ -10,7 +12,7 @@ printf '    <th width="80">HEX Code</th>\n'
 printf '    <th width="170">Color Chip</th>\n'
 printf '  </tr>\n'
 
-for i in $(sed -ne 's/.*SP_Abs_ColorCodes_\(.*\).png/\1/p' /tmp/brown_list); do 
+for i in $(sed -ne 's/.*SP_Abs_ColorCodes_\(.*\).png/\1/p' /tmp/yellow_list); do 
     colorCode=$i; 
     colorSample=$(egrep -B2 "\s$i\s" /tmp/sp.html | sed -ne '/td/{N;s/\n//;p}' | sed -e 's/td/th/g')
     RGBCode=$(egrep -A5 "\s$i\s" /tmp/sp.html | sed -ne '/td/{N;s/\n//;p}' | sed -ne '/RGB/p' | sed -e 's/td/th/g' | sed -e 's/<th>RGB(\(.*\))/<th>\1/')
@@ -26,3 +28,5 @@ for i in $(sed -ne 's/.*SP_Abs_ColorCodes_\(.*\).png/\1/p' /tmp/brown_list); do
 #    echo $RGBCode
 #    echo $HEXCode
 done
+
+echo '</table>'

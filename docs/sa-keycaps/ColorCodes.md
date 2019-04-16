@@ -10,7 +10,8 @@ nav_order: 10000
 * [Red](#red)
 * [Blue](#blue)
 * [Orange](#orange)
-* [Brown/Black](#orange)
+* [Brown/Black](#brownblack)
+* [Yellow](#yellow)
 
 ## Red
 <table style="width:100%">
@@ -406,5 +407,94 @@ nav_order: 10000
     <th>33, 34, 36 &#173;</th>
     <th>#212224</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
+  </tr>
+</table>
+
+
+## Yellow
+<table style="width:100%">
+  <tr>
+    <th width="100">Color Sample</th>
+    <th width="80">Color Code</th>
+    <th width="150">RGB Code</th>
+    <th width="80">HEX Code</th>
+    <th width="170">Color Chip</th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(255, 172, 0)">&#160;</th>
+    <th><b> YBP </b></th>
+    <th>255, 172, 0 &#173;</th>
+    <th>#ffac00</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(194, 192, 169)">&#160;</th>
+    <th><b> YCA </b></th>
+    <th>194, 192, 169 &#160; &#160; &#160; &#173;</th>
+    <th>#c2c0a9</th></tbody></table>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCA.png' | relative_url }}" alt="colorYCA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(225, 186, 68)">&#160;</th>
+    <th><b> YCB </b></th>
+    <th>225, 186, 68 &#173;</th>
+    <th>#e1ba44</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCB.png' | relative_url }}" alt="colorYCB" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(245, 215, 147)">&#160;</th>
+    <th><b> YCC </b></th>
+    <th>245, 215, 147 &#173;</th>
+    <th>#f5d793</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCC.png' | relative_url }}" alt="colorYCC" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(255, 219, 88)">&#160;</th>
+    <th><b> YCE </b></th>
+    <th>255, 219, 88 &#173;</th>
+    <th>#ffdb58</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCE.png' | relative_url }}" alt="colorYCE" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(247, 176, 60)">&#160;</th>
+    <th><b> YCF </b></th>
+    <th>247, 176, 60 &#173;</th>
+    <th>#f7b03c</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(242, 199, 0)">&#160;</th>
+    <th><b> YCH </b></th>
+    <th>242, 199, 0 &#173;</th>
+    <th>#f2c700</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCH.png' | relative_url }}" alt="colorYCH" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(192, 149, 65)">&#160;</th>
+    <th><b> YG </b></th>
+    <th>192, 149, 65 &#173;</th>
+    <th>#c09541</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YG.png' | relative_url }}" alt="colorYG" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(212, 134, 0)">&#160;</th>
+    <th><b> YL </b></th>
+    <th>212, 134, 0 &#173;</th>
+    <th>#d48600</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YL.png' | relative_url }}" alt="colorYL" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(196, 133, 44)">&#160;</th>
+    <th><b> YW </b></th>
+    <th>196, 133, 44 &#173;</th>
+    <th>#c4852c</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YW.png' | relative_url }}" alt="colorYW" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(248, 204, 42)">&#160;</th>
+    <th><b> YY </b></th>
+    <th>248, 204, 42 &#173;</th>
+    <th>#f8cc2a</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YY.png' | relative_url }}" alt="colorYY" height="75" width="170"></th>
   </tr>
 </table>
