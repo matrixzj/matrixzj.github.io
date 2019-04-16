@@ -615,13 +615,6 @@ nav_order: 10000
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GEA.png' | relative_url }}" alt="colorGEA" height="75" width="170"></th>
   </tr>
   <tr>
-    
-    <th><b> GEE </b></th>
-    
-    
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GEE.png' | relative_url }}" alt="colorGEE" height="75" width="170"></th>
-  </tr>
-  <tr>
     <th style="background-color: rgb(95, 92, 82)">&#160;</th>
     <th><b> GE </b></th>
     <th>95, 92, 82 &#173;</th>
@@ -655,6 +648,13 @@ nav_order: 10000
     <th>60, 64, 65 &#173;</th>
     <th>#3c4041</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GEW.png' | relative_url }}" alt="colorGEW" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(161, 157, 147)">&#160;</th>
+    <th><b> GEZ </b></th>
+    <th>161, 157, 147 &#173;</th>
+    <th>#a19d93</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GEZ.png' | relative_url }}" alt="colorGEZ" height="75" width="170"></th>
   </tr>
   <tr>
     <th style="background-color: rgb(204, 196, 179)">&#160;</th>
