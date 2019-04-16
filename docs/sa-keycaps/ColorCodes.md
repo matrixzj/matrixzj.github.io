@@ -14,6 +14,8 @@ nav_order: 10000
 * [Yellow](#yellow)
 * [Gray](#gray)
 * [Green](#green)
+* [White](#white)
+
 
 ## Red
 <table style="width:100%">
@@ -1054,5 +1056,94 @@ nav_order: 10000
     <th>0, 93, 53 &#173;</th>
     <th>#005d35</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VV.png' | relative_url }}" alt="colorVV" height="75" width="170"></th>
+  </tr>
+</table>
+
+
+## White
+<table style="width:100%">
+  <tr>
+    <th width="100">Color Sample</th>
+    <th width="80">Color Code</th>
+    <th width="150">RGB Code</th>
+    <th width="80">HEX Code</th>
+    <th width="170">Color Chip</th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(228, 222, 221)">&#160;</th>
+    <th><b> WA </b></th>
+    <th>228, 222, 221 &#173;</th>
+    <th>#e4dedd</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WA.png' | relative_url }}" alt="colorWA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(171, 161, 139)">&#160;</th>
+    <th><b> WAR </b></th>
+    <th>171, 161, 139 &#173;</th>
+    <th>#aba18b</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WAR.png' | relative_url }}" alt="colorWAR" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(227, 213, 185)">&#160;</th>
+    <th><b> WBO </b></th>
+    <th>227, 213, 185 &#173;</th>
+    <th>#e3d5b9</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(238, 226, 208)">&#160;</th>
+    <th><b> WCK </b></th>
+    <th>238, 226, 208 &#173;</th>
+    <th>#eee2d0</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(221, 211, 192)">&#160;</th>
+    <th><b> WEA </b></th>
+    <th>221, 211, 192 &#173;</th>
+    <th>#ddd3c0</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WEA.png' | relative_url }}" alt="colorWEA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(229, 228, 223)">&#160;</th>
+    <th><b> WFK </b></th>
+    <th>229, 228, 223 &#173;</th>
+    <th>#e5e4df</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(225, 216, 205)">&#160;</th>
+    <th><b> WFM </b></th>
+    <th>225, 216, 205 &#173;</th>
+    <th>#e1d8cd</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFM.png' | relative_url }}" alt="colorWFM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(228, 219, 204)">&#160;</th>
+    <th><b> WFO </b></th>
+    <th>228, 219, 204 &#173;</th>
+    <th>#e4dbcc</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFO.png' | relative_url }}" alt="colorWFO" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(220, 216, 204)">&#160;</th>
+    <th><b> WQ </b></th>
+    <th>220, 216, 204 &#173;</th>
+    <th>#dcd8cc</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WQ.png' | relative_url }}" alt="colorWQ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(218, 212, 196)">&#160;</th>
+    <th><b> WV </b></th>
+    <th>218, 212, 196 &#173;</th>
+    <th>#dad4c4</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WV.png' | relative_url }}" alt="colorWV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th style="background-color: rgb(224, 214, 198)">&#160;</th>
+    <th><b> WW </b></th>
+    <th>224, 214, 198 &#173;</th>
+    <th>#e0d6c6</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WW.png' | relative_url }}" alt="colorWW" height="75" width="170"></th>
   </tr>
 </table>
