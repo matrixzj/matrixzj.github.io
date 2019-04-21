@@ -142,6 +142,7 @@ permalink: /
 * [Metaverse](docs/gmk-keycaps/Metaverse/)
 * [Necro 死灵](docs/gmk-keycaps/Necro/)
 * [Triumph Adler 90 TA90](docs/gmk-keycaps/Triumph-Adler-90/)
+* [Burgundy R2](docs/gmk-keycaps/Burgundy-R2/)
 * [Mint Dolch](docs/gmk-keycaps/Mint-Dolch/)
 * [Phantom](docs/gmk-keycaps/Phantom/)
 * [Serika 芹夏](docs/gmk-keycaps/Serika/)
