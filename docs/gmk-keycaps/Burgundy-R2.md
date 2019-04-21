@@ -46,6 +46,11 @@ NOTE: USD to RMB exchange rate is 6.42
 * GB Time: 2018-05
 * ColorCodes: 
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|RO1|WS1
+|Modifiers|N9|WS1
+
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/burgundyr2/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
