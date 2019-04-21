@@ -33,7 +33,7 @@ NOTE: USD to RMB exchange rate is 6.42
 
 ### Icon Modifilers
 **Price(GH):** 81.00    **Price(RMB):** 488.00    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/burgundyr2/kits_pics/icon-modifilers.png' | relative_url }}" alt="Icon Modifilers" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/burgundyr2/kits_pics/icon-modifiers.png' | relative_url }}" alt="Icon Modifilers" class="image featured">
 
 ### KR
 **Price(GH):** 53.00    **Price(RMB):** 298.00    **Quantity:** unknown  
