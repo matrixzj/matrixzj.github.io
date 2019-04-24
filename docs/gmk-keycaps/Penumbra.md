@@ -3,7 +3,7 @@ title: Penumbra PB
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33120
+nav_order: 33125
 ---
 
 # Penumbra PB

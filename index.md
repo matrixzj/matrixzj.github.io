@@ -20,6 +20,7 @@ permalink: /
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2019
+* [Arcane](docs/sa-keycaps/Arcane/)
 * [Hunter Killua](docs/sa-keycaps/Hunter-Killua/)
 * [Olivia](docs/sa-keycaps/Olivia/)
 * [128K](docs/sa-keycaps/128K/)
