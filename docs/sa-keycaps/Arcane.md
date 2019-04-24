@@ -33,37 +33,30 @@ NOTE: USD to RMB exchange rate is 6.73
 ## Kits
 ### Base
 **Price(KBDFANS):** 133.58    **Price(RMB):** 899.00    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/sa-keycaps/arcane/kits_pics/
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Numpad
 **Price(KBDFANS):** 38.48    **Price(RMB):** 259.00    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/sa-keycaps/arcane/kits_pics/
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
 ### Specialties
 **Price(KBDFANS):** 57.06    **Price(RMB):** 384.00    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/sa-keycaps/arcane/kits_pics/
-<img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/specialties.png' | relative_url }}" alt="Specialties" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/specialties.jpg' | relative_url }}" alt="Specialties" class="image featured">
 
 ### Novelties
 **Price(KBDFANS):** 67.16    **Price(RMB):** 452.00    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/sa-keycaps/arcane/kits_pics/
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
 ### Alternate Color
 **Price(KBDFANS):** 36.85    **Price(RMB):** 248.00    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/sa-keycaps/arcane/kits_pics/
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/alternate-color.jpg' | relative_url }}" alt="Alternate Color" class="image featured">
 
 ### Spacebars
 **Price(KBDFANS):** 40.12    **Price(RMB):** 270.00    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/sa-keycaps/arcane/kits_pics/
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/spacebars.jpg' | relative_url }}" alt="Spacebars" class="image featured">
 
 ### ISO UK
 **Price(KBDFANS):** 25.71    **Price(RMB):** 173.00    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/sa-keycaps/arcane/kits_pics/
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/iso-uk.jpg' | relative_url }}" alt="ISO UK" class="image featured">
 
 
