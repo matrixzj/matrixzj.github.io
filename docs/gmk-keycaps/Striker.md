@@ -1,12 +1,12 @@
 ---
-title: Striker
+title: Striker 前锋
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31005
 ---
 
-# Striker
+# Striker 前锋
 
 ref link: [Striker GH GB Link](https://geekhack.org/index.php?topic=96427.0)
 
