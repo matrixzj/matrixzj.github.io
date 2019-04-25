@@ -3,7 +3,7 @@ title: Sky Modo
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31010
+nav_order: 31015
 ---
 
 # Sky Modo
