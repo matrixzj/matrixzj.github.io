@@ -187,6 +187,7 @@ permalink: /
 * [Coniferous 松柏](docs/gmk-keycaps/Coniferous/)
 * [Griseann GP](docs/gmk-keycaps/Griseann/)
 * [Ocean Dolch 海豆](docs/gmk-keycaps/Ocean-Dolch/)
+* [Plum 李子](docs/gmk-keycaps/Plum/)
 * [Rainbow 彩虹](docs/gmk-keycaps/Rainbow/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
 
