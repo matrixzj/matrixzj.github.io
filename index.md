@@ -196,6 +196,7 @@ permalink: /
 
 ### 2016
 * [Magenta/Devotion](docs/gmk-keycaps/Magenta/)
+* [Hydro 水箭龟](docs/gmk-keycaps/Hydro/)
 * [Keyboard & Co.](docs/gmk-keycaps/Keyboard-Co/)
 
 ### 2013
