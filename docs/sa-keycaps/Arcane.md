@@ -19,44 +19,44 @@ ref link: [Arcane KBDFANS GB Link](https://item.taobao.com/item.htm?spm=a230r.1.
 ## Price  
 NOTE: USD to RMB exchange rate is 6.73
 
-| Name          | Price(KBDFANS)    |  Price(RMB) | Quantity |
-| ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|133.58|899.00|unknown|
-|[Numpad](#numpad)|38.48|259.00|unknown|
-|[Specialties](#specialties)|57.06|384.00|unknown|
-|[Novelties](#novelties)|67.16|452.00|unknown|
-|[Alternate Color](#alternate-color)|36.85|248.00|unknown|
-|[Spacebars](#spacebars)|40.12|270.00|unknown|
-|[ISO UK](#iso-uk)|25.71|173.00|unknown|
+| Name          | Price(USD)   | Price(RMB)   |  Price(KBDFANS) | Quantity |
+| ------------- | ------------ | ------------ |  ---------- | -------- |
+|[Base](#base)|99.99|672.93|899.00|unknown|
+|[Numpad](#numpad)|35.99|242.21|259.00|unknown|
+|[Specialties](#specialties)|49.99|336.43|384.00|unknown|
+|[Novelties](#novelties)|59.99|403.73|452.00|unknown|
+|[Alternate Color](#alternate-color)|32.99|222.02|248.00|unknown|
+|[Spacebars](#spacebars)|29.99|201.83|270.00|unknown|
+|[ISO UK](#iso-uk)|23.99|161.45|173.00|unknown|
 
 
 ## Kits
 ### Base
-**Price(KBDFANS):** 133.58    **Price(RMB):** 899.00    **Quantity:** unknown  
+**Price(USD):** 99.99   **Price(RMB):** 672.93   **Price(KBDFANS):** 899.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Numpad
-**Price(KBDFANS):** 38.48    **Price(RMB):** 259.00    **Quantity:** unknown  
+**Price(USD):** 35.99   **Price(RMB):** 242.21    **Price(KBDFANS):** 259.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
 ### Specialties
-**Price(KBDFANS):** 57.06    **Price(RMB):** 384.00    **Quantity:** unknown  
+**Price(USD):** 49.99   **Price(RMB):** 336.43    **Price(KBDFANS):** 384.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/specialties.jpg' | relative_url }}" alt="Specialties" class="image featured">
 
 ### Novelties
-**Price(KBDFANS):** 67.16    **Price(RMB):** 452.00    **Quantity:** unknown  
+**Price(USD):** 59.99   **Price(RMB):** 403.73   **Price(KBDFANS):** 452.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
 ### Alternate Color
-**Price(KBDFANS):** 36.85    **Price(RMB):** 248.00    **Quantity:** unknown  
+**Price(USD):** 32.99   **Price(RMB):** 222.02   **Price(KBDFANS):** 248.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/alternate-color.jpg' | relative_url }}" alt="Alternate Color" class="image featured">
 
 ### Spacebars
-**Price(KBDFANS):** 40.12    **Price(RMB):** 270.00    **Quantity:** unknown  
+**Price(USD):** 29.99   **Price(RMB):** 201.83    **Price(KBDFANS):** 270.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/spacebars.jpg' | relative_url }}" alt="Spacebars" class="image featured">
 
 ### ISO UK
-**Price(KBDFANS):** 25.71    **Price(RMB):** 173.00    **Quantity:** unknown  
+**Price(USD):** 23.99   **Price(RMB):** 161.45    **Price(KBDFANS):** 173.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/arcane/kits_pics/iso-uk.jpg' | relative_url }}" alt="ISO UK" class="image featured">
 
 
