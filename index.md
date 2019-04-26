@@ -178,11 +178,12 @@ permalink: /
 * [Yuri](docs/gmk-keycaps/Yuri/)
 * [Aero](docs/gmk-keycaps/Aero/)
 * [Iris 鸢尾花](docs/gmk-keycaps/Iris/)
+* [Oblivion R1 码农R1](docs/gmk-keycaps/Oblivion-R1/)
 * [Blue Alert](docs/gmk-keycaps/Blue-Alert/)
 * [Burgundy R1](docs/gmk-keycaps/Burgundy-R1/)
-* [Oblivion R1 码农R1](docs/gmk-keycaps/Oblivion-R1/)
-* [Penumbra PB](docs/gmk-keycaps/Penumbra/)
 * [Corsa Auto 赛道之星](docs/gmk-keycaps/Corsa-Auto/)
+* [Muted 缄默](docs/gmk-keycaps/Muted/)
+* [Penumbra PB](docs/gmk-keycaps/Penumbra/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
 
 ### 2016
