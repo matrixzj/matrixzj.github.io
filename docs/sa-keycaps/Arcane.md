@@ -8,7 +8,8 @@ nav_order: 31005
 
 # Arcane
 
-ref link: [Arcane KBDFANS GB Link](https://item.taobao.com/item.htm?spm=a230r.1.14.1.6d127bfcIp4HGy&id=592719002109&ns=1&abbucket=20#detail)
+ref link: [Arcane KBDFANS GB Link](https://item.taobao.com/item.htm?spm=a230r.1.14.1.6d127bfcIp4HGy&id=592719002109&ns=1&abbucket=20#detail)  
+ref link: [Arcane KONO GP Link](https://kono.store/products/sa-arcane)
 
 * [Price](#price)
 * [Kits](#kits)
