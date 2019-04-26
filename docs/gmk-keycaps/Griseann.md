@@ -1,12 +1,12 @@
 ---
-title: Griseann
+title: Griseann GP
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 10375
 ---
 
-# Griseann
+# Griseann GP
 
 ref link: [Griseann ZF GB Link](https://en.zfrontier.com/products/gmk-griseann)
 
@@ -27,7 +27,6 @@ NOTE: USD to RMB exchange rate is 6.88
 ## Kits
 ### Base
 **Price(ZF):** 129.07    **Price(RMB):** 888.00    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/gmk-keycaps/griseann/kits_pics/
 <img src="{{ 'assets/images/gmk-keycaps/griseann/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 
