@@ -3,7 +3,7 @@ title: Cyrillic 白俄文
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 34015
+nav_order: 34020
 ---
 
 # Cyrillic 白俄文

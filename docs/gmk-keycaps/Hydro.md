@@ -3,7 +3,7 @@ title: Hydro 水箭龟
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10415
+nav_order: 34010
 ---
 
 # Hydro 水箭龟
