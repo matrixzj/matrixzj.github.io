@@ -32,7 +32,7 @@ NOTE: USD to RMB exchange rate is 6.91
 
 ### Spacebar
 **Price(The Key Company):** unknown    **Price(RMB):** unknown    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/terminalr1/kits_pics/spacebar.png' | relative_url }}" alt="Spacebar" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/terminalr1/kits_pics/spacebar.jpg' | relative_url }}" alt="Spacebar" class="image featured">
 
 
 ## Info
