@@ -143,6 +143,7 @@ permalink: /
 * [Space Cadet 太空学员](docs/gmk-keycaps/Space-Cadet/)
 * [Metaverse](docs/gmk-keycaps/Metaverse/)
 * [Necro 死灵](docs/gmk-keycaps/Necro/)
+* [Terminal R2 终端机R2](docs/gmk-keycaps/Terminal-R2/)
 * [Triumph Adler 90 TA90](docs/gmk-keycaps/Triumph-Adler-90/)
 * [Burgundy R2](docs/gmk-keycaps/Burgundy-R2/)
 * [Mint Dolch](docs/gmk-keycaps/Mint-Dolch/)
@@ -191,6 +192,7 @@ permalink: /
 * [Rainbow 彩虹](docs/gmk-keycaps/Rainbow/)
 * [Mint Chocolate 薄荷巧克力](docs/gmk-keycaps/Mint-Chocolate/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
+* [Terminal R1 终端机R1](docs/gmk-keycaps/Terminal-R1/)
 
 ### 2016
 * [Magenta/Devotion](docs/gmk-keycaps/Magenta/)
