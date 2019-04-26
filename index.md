@@ -184,8 +184,9 @@ permalink: /
 * [Corsa Auto 赛道之星](docs/gmk-keycaps/Corsa-Auto/)
 * [Muted 缄默](docs/gmk-keycaps/Muted/)
 * [Penumbra PB](docs/gmk-keycaps/Penumbra/)
-* [Griseann GP](docs/gmk-keycaps/Griseann/)
 * [Coniferous 松柏](docs/gmk-keycaps/Coniferous/)
+* [Griseann GP](docs/gmk-keycaps/Griseann/)
+* [Ocean Dolch 海豆](docs/gmk-keycaps/Ocean-Dolch/)
 * [Rainbow 彩虹](docs/gmk-keycaps/Rainbow/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
 
