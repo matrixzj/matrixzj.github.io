@@ -202,6 +202,7 @@ permalink: /
 * [Hydro 水箭龟](docs/gmk-keycaps/Hydro/)
 * [Keyboard & Co.](docs/gmk-keycaps/Keyboard-Co/)
 * [Uniqey Blue](docs/gmk-keycaps/Uniqey-Blue/)
+* [Carbon R1 大碳 R1](docs/gmk-keycaps/Carbon-R1/)
 * [Skeletor 骷髅王](docs/gmk-keycaps/Skeletor/)
 * [White Blue](docs/gmk-keycaps/White-Blue/)
 
