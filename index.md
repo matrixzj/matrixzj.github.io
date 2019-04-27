@@ -215,7 +215,7 @@ permalink: /
 
 ## Need Your help
 
-There is still a lot of wrong/missing info in this page. Any suggestions/advice/corrections are appriciated, shot me 
+There is still a lot of wrong/missing info in this page. Any suggestions/advice/corrections are appriciated, shot me   
 错漏难免，欢迎指正/补充，随时密我
 
 ### Maintainer
@@ -224,7 +224,7 @@ There is still a lot of wrong/missing info in this page. Any suggestions/advice/
 
 ### Contributors
 
-* *GodFire 野火
+* GodFire 野火
 * [Stepstone](https://old.reddit.com/user/stepstone82)
 
 ## About the project
