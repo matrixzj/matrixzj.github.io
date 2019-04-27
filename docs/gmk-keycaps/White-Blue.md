@@ -48,4 +48,4 @@ NOTE: USD to RMB exchange rate is 6.60
 
 
 ## Pictures
-<img src="{{ 'assets/images/gmk-keycaps/whiteblue/rendering_pics/blue-mods.png' | relative_url }}" alt="blue-mods.png" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/whiteblue/rendering_pics/1.JPG' | relative_url }}" alt="1" class="image featured">
