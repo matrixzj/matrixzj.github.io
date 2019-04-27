@@ -219,6 +219,7 @@ permalink: /
 * [SKIDATA+ 黑橙](docs/gmk-keycaps/SKIDATA+/)
 * [Triumph Adler TA](docs/gmk-keycaps/Triumph-Adler/)
 * [HyperFuse](docs/gmk-keycaps/HyperFuse/)
+* [Red Alert](docs/gmk-keycaps/Red-Alert/)
 
 ### 2014
 * [Cyan](docs/gmk-keycaps/Cyan/)
