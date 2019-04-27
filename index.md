@@ -206,6 +206,7 @@ permalink: /
 * [Skeletor 骷髅王](docs/gmk-keycaps/Skeletor/)
 * [Barebones Stormtrooper 风暴兵](docs/gmk-keycaps/Barebones-Stormtrooper/)
 * [White Blue](docs/gmk-keycaps/White-Blue/)
+* [Classic Retro with GeekHack Pack](docs/gmk-keycaps/Classic-Retro-GeekHack-Pack/)
 
 ### 2013
 * [Cyrillic 白俄文](docs/gmk-keycaps/Cyrillic/)
