@@ -204,6 +204,7 @@ permalink: /
 * [Uniqey Blue](docs/gmk-keycaps/Uniqey-Blue/)
 * [Carbon R1 大碳 R1](docs/gmk-keycaps/Carbon-R1/)
 * [Skeletor 骷髅王](docs/gmk-keycaps/Skeletor/)
+* [Barebones Stormtrooper 风暴兵](docs/gmk-keycaps/Barebones-Stormtrooper/)
 * [White Blue](docs/gmk-keycaps/White-Blue/)
 
 ### 2013
