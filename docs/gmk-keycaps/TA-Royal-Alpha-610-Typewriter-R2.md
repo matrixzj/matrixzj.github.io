@@ -24,8 +24,7 @@ NOTE: USD to RMB exchange rate is 6.65
 
 
 ## Kits
-### Base
-### Spacebars
+### Base + Spacebars
 **Price(ZF):** 137.29    **Price(RMB):** 913.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/gmk-keycaps/taroyalalpha610typewriterr2/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/taroyalalpha610typewriterr2/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
