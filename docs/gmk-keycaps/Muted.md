@@ -3,7 +3,7 @@ title: Muted 缄默
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33135
+nav_order: 33140
 ---
 
 # Muted 缄默

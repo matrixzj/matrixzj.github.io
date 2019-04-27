@@ -3,7 +3,7 @@ title: Classic Retro 经典复古
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 34060
+nav_order: 34065
 ---
 
 # Classic Retro 经典复古

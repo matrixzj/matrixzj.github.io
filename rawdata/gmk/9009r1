@@ -1,0 +1,13 @@
+name = '9009 R1'
+cname = ''
+keycapstype = 'GMK'
+designer = 'justnits'
+profile = '1-1-2-3-4-4'
+time = '2016-03'
+colorcodes = ''
+platform = 'GH'
+link = 'https://geekhack.org/index.php?topic=80434.0'
+Base|140|||
+LED|9|||
+ESC|6|||
+Spacebar|6|||
