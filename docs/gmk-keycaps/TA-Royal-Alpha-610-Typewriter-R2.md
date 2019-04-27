@@ -20,7 +20,7 @@ NOTE: USD to RMB exchange rate is 6.65
 
 | Name          | Price(ZF)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base+Spacebars](#base)|137.29|913.00|unknown|
+|[Base+Spacebars](#base--spacebars)|137.29|913.00|unknown|
 
 
 ## Kits
