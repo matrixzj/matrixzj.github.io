@@ -3,7 +3,7 @@ title: Blue Alert
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33115
+nav_order: 33120
 ---
 
 # Blue Alert

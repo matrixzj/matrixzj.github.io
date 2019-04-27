@@ -3,7 +3,7 @@ title: Solarized Dark
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33080
+nav_order: 33085
 ---
 
 # Solarized Dark
