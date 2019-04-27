@@ -37,7 +37,6 @@ NOTE: USD to RMB exchange rate is 6.26
 
 ### Space
 **Price(GH):** unknown    **Price(RMB):** unknown    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/dolch/kits_pics/space.png' | relative_url }}" alt="Space" class="image featured">
 
 
 ## Info
