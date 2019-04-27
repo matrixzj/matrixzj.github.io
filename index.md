@@ -216,6 +216,10 @@ permalink: /
 
 ### 2015
 * [SKIDATA+ 黑橙](docs/gmk-keycaps/SKIDATA+/)
+* [HyperFuse](docs/gmk-keycaps/HyperFuse/)
+
+### 2014
+* [Cyan](docs/gmk-keycaps/Cyan-R1/)
 
 ### 2013
 * [Cyrillic 白俄文](docs/gmk-keycaps/Cyrillic/)
