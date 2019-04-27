@@ -1,14 +1,14 @@
 ---
-title: Cyan R1
+title: Cyan
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 36005
 ---
 
-# Cyan R1
+# Cyan
 
-ref link: [Cyan R1 GH GB Link](https://geekhack.org/index.php?topic=63953.0)
+ref link: [Cyan GH GB Link](https://geekhack.org/index.php?topic=63953.0)
 
 * [Price](#price)
 * [Kits](#kits)
