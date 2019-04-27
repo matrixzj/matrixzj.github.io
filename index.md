@@ -121,6 +121,7 @@ permalink: /
 * [SkIIdata](docs/gmk-keycaps/SkIIdata/)
 * [Lime 青柠](docs/gmk-keycaps/Lime/)
 * [Vice Nights](docs/gmk-keycaps/Vice-Nights/)
+* [Cyan 2D](docs/gmk-keycaps/Cyan-2D/)
 * [Paperwork](docs/gmk-keycaps/Paperwork/)
 * [Minimal](docs/gmk-keycaps/Minimal/)
 * [Deep Space](docs/gmk-keycaps/Deep-Space/)
