@@ -217,12 +217,14 @@ permalink: /
 
 ### 2015
 * [SKIDATA+ 黑橙](docs/gmk-keycaps/SKIDATA+/)
+* [Triumph Adler TA](docs/gmk-keycaps/Triumph-Adler/)
 * [HyperFuse](docs/gmk-keycaps/HyperFuse/)
 
 ### 2014
 * [Cyan](docs/gmk-keycaps/Cyan/)
 
 ### 2013
+* [Charred Orange](docs/gmk-keycaps/Charred-Orange/)
 * [Cyrillic 白俄文](docs/gmk-keycaps/Cyrillic/)
 
 
