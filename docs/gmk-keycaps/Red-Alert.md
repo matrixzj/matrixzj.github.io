@@ -3,7 +3,7 @@ title: Red Alert
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10525
+nav_order: 35025
 ---
 
 # Red Alert

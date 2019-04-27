@@ -139,7 +139,6 @@ permalink: /
 * [Monochrome 黑白](docs/gmk-keycaps/Monochrome/)
 * [MR Sleeves Addon ](docs/gmk-keycaps/MR-Sleeves-Addon/)
 * [Tokyo Nights 东京之夜](docs/gmk-keycaps/Tokyo-Nights/)
-* [Greek Olivetti 灰白蓝希腊语字根套装](docs/gmk-keycaps/Greek-Olivetti/)
 * [Modern Dolch ](docs/gmk-keycaps/Modern-Dolch/)
 * [Space Cadet 太空学员](docs/gmk-keycaps/Space-Cadet/)
 * [Metaverse](docs/gmk-keycaps/Metaverse/)
