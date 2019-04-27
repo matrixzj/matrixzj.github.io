@@ -3,7 +3,7 @@ title: Charred Orange
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10520
+nav_order: 37005
 ---
 
 # Charred Orange
