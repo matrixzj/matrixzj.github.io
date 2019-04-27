@@ -196,8 +196,10 @@ permalink: /
 
 ### 2016
 * [Magenta/Devotion](docs/gmk-keycaps/Magenta/)
+* [3Run](docs/gmk-keycaps/3Run/)
 * [Hydro 水箭龟](docs/gmk-keycaps/Hydro/)
 * [Keyboard & Co.](docs/gmk-keycaps/Keyboard-Co/)
+* [Uniqey Blue](docs/gmk-keycaps/Uniqey-Blue/)
 
 ### 2013
 * [Cyrillic 白俄文](docs/gmk-keycaps/Cyrillic/)

@@ -3,7 +3,7 @@ title: Keyboard & Co.
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 34015
+nav_order: 34020
 ---
 
 # Keyboard & Co.
