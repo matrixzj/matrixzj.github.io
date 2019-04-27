@@ -216,6 +216,7 @@ permalink: /
 
 ### 2015
 * [SKIDATA+ 黑橙](docs/gmk-keycaps/SKIDATA+/)
+* [Sky Dolch](docs/gmk-keycaps/Sky-Dolch/)
 * [Triumph Adler TA](docs/gmk-keycaps/Triumph-Adler/)
 * [HyperFuse](docs/gmk-keycaps/HyperFuse/)
 * [Olivetti](docs/gmk-keycaps/Olivetti/)
@@ -223,6 +224,7 @@ permalink: /
 
 ### 2014
 * [Cyan](docs/gmk-keycaps/Cyan/)
+* [Dolch](docs/gmk-keycaps/Dolch/)
 
 ### 2013
 * [Charred Orange](docs/gmk-keycaps/Charred-Orange/)
