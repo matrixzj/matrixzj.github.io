@@ -197,6 +197,7 @@ permalink: /
 ### 2016
 * [Magenta/Devotion](docs/gmk-keycaps/Magenta/)
 * [3Run](docs/gmk-keycaps/3Run/)
+* [Dolch Reborn](docs/gmk-keycaps/Dolch-Reborn/)
 * [Honeywell](docs/gmk-keycaps/Honeywell/)
 * [Hydro 水箭龟](docs/gmk-keycaps/Hydro/)
 * [Keyboard & Co.](docs/gmk-keycaps/Keyboard-Co/)
