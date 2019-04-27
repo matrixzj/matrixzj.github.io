@@ -206,7 +206,9 @@ permalink: /
 * [Skeletor 骷髅王](docs/gmk-keycaps/Skeletor/)
 * [Barebones Stormtrooper 风暴兵](docs/gmk-keycaps/Barebones-Stormtrooper/)
 * [White Blue](docs/gmk-keycaps/White-Blue/)
+* [Classic Retro 经典复古](docs/gmk-keycaps/Classic-Retro/)
 * [Classic Retro with GeekHack Pack](docs/gmk-keycaps/Classic-Retro-GeekHack-Pack/)
+* [TA Royal Alpha 610 Typewriter R1 皇家打字机 R1](docs/gmk-keycaps/TA-Royal-Alpha-610-Typewriter-R1/)
 
 ### 2013
 * [Cyrillic 白俄文](docs/gmk-keycaps/Cyrillic/)
