@@ -38,7 +38,7 @@ NOTE: USD to RMB exchange rate is 6.57
 
 ### Outcasts
 **Price(MD):** 27.99    **Price(RMB):** 183.89    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/taroyalalpha610typewriterr1/kits_pics/outcasts.png' | relative_url }}" alt="Outcasts" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/taroyalalpha610typewriterr1/kits_pics/outcast.png' | relative_url }}" alt="Outcasts" class="image featured">
 
 ### Spacebars
 **Price(MD):** 8.99    **Price(RMB):** 59.06    **Quantity:** unknown  
