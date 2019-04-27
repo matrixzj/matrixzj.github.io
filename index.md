@@ -213,15 +213,19 @@ permalink: /
 
 ---
 
-### Need Your help
+## Need Your help
 
-There is still a lot of wrong/missing info in this page. Any suggestions/advice/corrections are appriciated, feel free to Email <a href="mailto:matrix.zj@gmail.com">Matrix Zou</a> or Contact QQ: 42194766  
-错漏难免，欢迎指正/补充，邮件<a href="mailto:matrix.zj@gmail.com">Matrix Zou</a> 或QQ：42194766.
+There is still a lot of wrong/missing info in this page. Any suggestions/advice/corrections are appriciated, shot me 
+错漏难免，欢迎指正/补充，随时密我
 
-### Contributing
+### Maintainer
 
-This page is maintained by Matrix Zou and Specially Thanks GodFire/Stepstone contributions.  
-感谢 野火/Mr. Lee, Matrix负责搬砖
+* <a href="mailto:matrix.zj@gmail.com">Matrix Zou</a>
+
+### Contributors
+
+* *GodFire 野火
+* [Stepstone](https://old.reddit.com/user/stepstone82)
 
 ## About the project
 
