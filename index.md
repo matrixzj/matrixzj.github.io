@@ -192,6 +192,7 @@ permalink: /
 * [Ocean Dolch 海豆](docs/gmk-keycaps/Ocean-Dolch/)
 * [Plum 李子](docs/gmk-keycaps/Plum/)
 * [Rainbow 彩虹](docs/gmk-keycaps/Rainbow/)
+* [Exent](docs/gmk-keycaps/Exent/)
 * [Mint Chocolate 薄荷巧克力](docs/gmk-keycaps/Mint-Chocolate/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
 * [Terminal R1 终端机R1](docs/gmk-keycaps/Terminal-R1/)
