@@ -205,6 +205,7 @@ permalink: /
 * [Honeywell](docs/gmk-keycaps/Honeywell/)
 * [Hydro 水箭龟](docs/gmk-keycaps/Hydro/)
 * [Keyboard & Co.](docs/gmk-keycaps/Keyboard-Co/)
+* [Magenta Mods](docs/gmk-keycaps/Magenta-Mods/)
 * [Originative](docs/gmk-keycaps/Originative/)
 * [Uniqey Blue](docs/gmk-keycaps/Uniqey-Blue/)
 * [Carbon R1 大碳 R1](docs/gmk-keycaps/Carbon-R1/)

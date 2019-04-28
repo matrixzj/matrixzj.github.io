@@ -3,7 +3,7 @@ title: Uniqey Blue
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 34040
+nav_order: 34045
 ---
 
 # Uniqey Blue
