@@ -27,6 +27,7 @@ NOTE: USD to RMB exchange rate is 6.69
 ## Kits
 ### Base
 **Price(OCO):** 45.00    **Price(RMB):** 301.05    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/magentamods/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 
 ## Info

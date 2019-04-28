@@ -131,6 +131,7 @@ permalink: /
 ### 2018
 * [Calm Depths 深海](docs/gmk-keycaps/Calm-Depths/)
 * [HyperFuse Remix](docs/gmk-keycaps/HyperFuse-Remix/)
+* [Originative Japanese](docs/gmk-keycaps/Originative-Japanese/)
 * [Q:01](docs/gmk-keycaps/Q:01/)
 * [Carbon R2 大碳R2](docs/gmk-keycaps/Carbon-R2/)
 * [DMG](docs/gmk-keycaps/DMG/)
