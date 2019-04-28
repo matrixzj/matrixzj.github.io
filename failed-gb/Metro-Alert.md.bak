@@ -1,0 +1,47 @@
+---
+title: Metro Alert
+layout: default
+icon: fa-keyboard-o
+nav_order: 10555
+---
+
+# Metro Alert
+
+ref link: [Metro Alert ZF GB Link](https://en.zfrontier.com/products/gmk-metro-alert)
+
+* [Price](#price)
+* [Kits](#kits)
+* [Info](#info)
+* [Pictures](#pictures)
+
+
+## Price  
+NOTE: USD to RMB exchange rate is 6.83
+
+| Name          | Price(ZF)    |  Price(RMB) | Quantity |
+| ------------- | ------------ |  ---------- | -------- |
+|[Base](#base)|unknown|unknown|unknown|
+
+
+## Kits
+### Base
+**Price(ZF):** unknown    **Price(RMB):** unknown    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/metroalert/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
+
+
+## Info
+* Designer: Shower_king
+* Profile: GMK 1-1-2-3-4-4
+* GB Time: 2017-05
+* ColorCodes:  
+
+||Base Color      | Legend Color
+|:-------------: |:-------------: | :------------:
+|Alpha|CR|CV
+|Modifiers|CV|CR
+|Various|CR/CV|CV/CR
+
+
+## Pictures
+<img src="{{ 'assets/images/gmk-keycaps/metroalert/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
+* [Metro Alert](docs/gmk-keycaps/Metro-Alert/)
