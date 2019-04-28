@@ -236,6 +236,7 @@ permalink: /
 * [Charred Orange](docs/gmk-keycaps/Charred-Orange/)
 * [Cyrillic 白俄文](docs/gmk-keycaps/Cyrillic/)
 * [White on Black](docs/gmk-keycaps/White-on-Black/)
+* [White Dark-Grey](docs/gmk-keycaps/White-Dark-Grey/)
 
 
 ---
