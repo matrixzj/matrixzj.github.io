@@ -142,6 +142,7 @@ permalink: /
 * [Modern Dolch ](docs/gmk-keycaps/Modern-Dolch/)
 * [Space Cadet 太空学员](docs/gmk-keycaps/Space-Cadet/)
 * [Metaverse](docs/gmk-keycaps/Metaverse/)
+* [N6TU1-CR](docs/gmk-keycaps/N6TU1-CR/)
 * [Necro 死灵](docs/gmk-keycaps/Necro/)
 * [Terminal R2 终端机R2](docs/gmk-keycaps/Terminal-R2/)
 * [Triumph Adler 90 TA90](docs/gmk-keycaps/Triumph-Adler-90/)
