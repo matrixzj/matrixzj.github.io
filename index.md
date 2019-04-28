@@ -218,6 +218,7 @@ permalink: /
 * [Classic Retro with GeekHack Pack](docs/gmk-keycaps/Classic-Retro-GeekHack-Pack/)
 * [TA Royal Alpha 610 Typewriter R1 皇家打字机 R1](docs/gmk-keycaps/TA-Royal-Alpha-610-Typewriter-R1/)
 * [Monkey 猴年](docs/gmk-keycaps/Monkey/)
+* [Valentine 情人节](docs/gmk-keycaps/Valentine/)
 
 ### 2015
 * [SKIDATA+ 黑橙](docs/gmk-keycaps/SKIDATA+/)
