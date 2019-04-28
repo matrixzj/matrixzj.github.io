@@ -43,7 +43,13 @@ NOTE: USD to RMB exchange rate is 6.26
 * Designer: IvanIvanovich
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2014-05
-* ColorCodes: unknown
+* ColorCodes: 
+
+||Base Color      | Legend Color
+|:-------------: |:-------------: | :------------:
+|Alpha|CC|CP
+|Modifiers|N9|CP
+|Color||
 
 
 ## Pictures
