@@ -127,7 +127,6 @@ permalink: /
 * [Deep Space](docs/gmk-keycaps/Deep-Space/)
 * [Bento](docs/gmk-keycaps/Bento/)
 * [Jamon](docs/gmk-keycaps/Jamon/)
-* [Lucky + Charm](docs/gmk-keycaps/Lucky-+-Charm/)
 
 ### 2018
 * [Calm Depths 深海](docs/gmk-keycaps/Calm-Depths/)
