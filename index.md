@@ -216,6 +216,7 @@ permalink: /
 * [Carbon R1 大碳 R1](docs/gmk-keycaps/Carbon-R1/)
 * [Skeletor 骷髅王](docs/gmk-keycaps/Skeletor/)
 * [Barebones Stormtrooper 风暴兵](docs/gmk-keycaps/Barebones-Stormtrooper/)
+* [Sky Dolch Accent](docs/gmk-keycaps/Sky-Dolch-Accent/)
 * [White Blue](docs/gmk-keycaps/White-Blue/)
 * [9009 R1](docs/gmk-keycaps/9009-R1/)
 * [Classic Retro 经典复古](docs/gmk-keycaps/Classic-Retro/)
