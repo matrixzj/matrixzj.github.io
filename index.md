@@ -217,6 +217,7 @@ permalink: /
 * [Originative](docs/gmk-keycaps/Originative/)
 * [Uniqey Blue](docs/gmk-keycaps/Uniqey-Blue/)
 * [Carbon R1 大碳 R1](docs/gmk-keycaps/Carbon-R1/)
+* [Ceresia](docs/gmk-keycaps/Ceresia/)
 * [Skeletor 骷髅王](docs/gmk-keycaps/Skeletor/)
 * [Custom Modifiers UniqueOrn](docs/gmk-keycaps/Custom-Modifiers-UniqueOrn/)
 * [Barebones Stormtrooper 风暴兵](docs/gmk-keycaps/Barebones-Stormtrooper/)
