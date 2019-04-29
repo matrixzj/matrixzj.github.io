@@ -3,7 +3,7 @@ title: Black Modi
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10610
+nav_order: 34025
 ---
 
 # Black Modi
