@@ -170,6 +170,7 @@ permalink: /
 * [Red Honey Cyrillic 红俄文](docs/gmk-keycaps/Red-Honey-Cyrillic/)
 * [Red Honey](docs/gmk-keycaps/Red-Honey/)
 * [TA Royal Alpha 610 Typewriter R2 皇家打字机 R2](docs/gmk-keycaps/TA-Royal-Alpha-610-Typewriter-R2/)
+* [Accent Keys One](docs/gmk-keycaps/Accent-Keys-One/)
 * [Accent Keys Two](docs/gmk-keycaps/Accent-Keys-Two/)
 * [Classic Retro Cyrillic 灰白红俄文](docs/gmk-keycaps/Classic-Retro-Cyrillic/)
 * [LedZep 齐柏林飞艇](docs/gmk-keycaps/LedZep/)

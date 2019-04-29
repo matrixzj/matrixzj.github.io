@@ -3,7 +3,7 @@ title: Accent Keys Two
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33050
+nav_order: 33055
 ---
 
 # Accent Keys Two
@@ -42,7 +42,7 @@ NOTE: USD to RMB exchange rate is 6.67
 
 ## Info
 * Designer: 
-* Profile: GMK 1-1-2-3-4-4
+* Profile: GMK 
 * GB Time: 2017-09
 * ColorCodes:  
 

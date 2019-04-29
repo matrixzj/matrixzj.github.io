@@ -3,7 +3,7 @@ title: Nautilus 鹦鹉螺
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33070
+nav_order: 33075
 ---
 
 # Nautilus 鹦鹉螺
