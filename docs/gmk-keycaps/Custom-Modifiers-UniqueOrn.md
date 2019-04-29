@@ -41,7 +41,3 @@ NOTE: USD to RMB exchange rate is 6.66
 |UN6037|UN33656
 |UN5046|UN6037
 |UN33656|UN5046
-
-
-## Pictures
-* [Custom Modifiers UniqueOrn](docs/gmk-keycaps/Custom-Modifiers-UniqueOrn/)
