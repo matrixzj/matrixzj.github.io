@@ -3,7 +3,7 @@ title: Classic Retro Cyrillic 灰白红俄文
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33050
+nav_order: 33055
 ---
 
 # Classic Retro Cyrillic 灰白红俄文

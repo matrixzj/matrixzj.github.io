@@ -2,7 +2,7 @@ title: TA Royal Alpha 610 Typewriter R2 皇家打字机 R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33035
+nav_order: 33045
 ---
 
 # TA Royal Alpha 610 Typewriter R2 皇家打字机 R2
