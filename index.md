@@ -215,6 +215,7 @@ permalink: /
 * [Keyboard & Co.](docs/gmk-keycaps/Keyboard-Co/)
 * [Magenta Mods](docs/gmk-keycaps/Magenta-Mods/)
 * [Originative](docs/gmk-keycaps/Originative/)
+* [Neon RGBY Modifiers](docs/gmk-keycaps/Neon-RGBY-Modifiers/)
 * [Uniqey Blue](docs/gmk-keycaps/Uniqey-Blue/)
 * [Carbon R1 大碳 R1](docs/gmk-keycaps/Carbon-R1/)
 * [Ceresia](docs/gmk-keycaps/Ceresia/)
@@ -232,6 +233,7 @@ permalink: /
 
 ### 2015
 * [SKIDATA+ 黑橙](docs/gmk-keycaps/SKIDATA+/)
+* [Escape Pack](docs/gmk-keycaps/Escape-Pack/)
 * [Sky Dolch](docs/gmk-keycaps/Sky-Dolch/)
 * [Triumph Adler TA](docs/gmk-keycaps/Triumph-Adler/)
 * [HyperFuse](docs/gmk-keycaps/HyperFuse/)

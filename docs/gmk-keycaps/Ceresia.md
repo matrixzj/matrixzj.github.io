@@ -3,7 +3,7 @@ title: Ceresia
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 34070
+nav_order: 34075
 ---
 
 # Ceresia

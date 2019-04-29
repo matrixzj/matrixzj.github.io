@@ -3,7 +3,7 @@ title: Barebones Stormtrooper 风暴兵
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 34085
+nav_order: 34090
 ---
 
 # Barebones Stormtrooper 风暴兵
