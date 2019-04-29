@@ -28,6 +28,7 @@ NOTE: USD to RMB exchange rate is 6.79
 ### Base
 **Price(GH):** 193.52    **Price(RMB):** 1314.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/gmk-keycaps/ka2019valentine/kits_pics/base1.JPG' | relative_url }}" alt="Base" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/ka2019valentine/kits_pics/base2.JPG' | relative_url }}" alt="Base" class="image featured">
 
 
 ## Info
