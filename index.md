@@ -250,6 +250,7 @@ permalink: /
 * [Cyrillic 白俄文](docs/gmk-keycaps/Cyrillic/)
 * [White on Black](docs/gmk-keycaps/White-on-Black/)
 * [White Dark-Grey](docs/gmk-keycaps/White-Dark-Grey/)
+* [CMYW](docs/gmk-keycaps/CMYW/)
 * [Purple Mod](docs/gmk-keycaps/Purple-Mod/)
 
 

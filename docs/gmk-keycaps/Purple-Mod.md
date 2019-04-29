@@ -3,7 +3,7 @@ title: Purple Mod
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10645
+nav_order: 37030
 ---
 
 # Purple Mod
