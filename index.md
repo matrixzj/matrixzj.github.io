@@ -208,6 +208,8 @@ permalink: /
 * [3Run](docs/gmk-keycaps/3Run/)
 * [Dolch Reborn](docs/gmk-keycaps/Dolch-Reborn/)
 * [Honeywell](docs/gmk-keycaps/Honeywell/)
+* [Magenta Dolch Accent](docs/gmk-keycaps/Magenta-Dolch-Accent/)
+* [RGBYOD Modifiers](docs/gmk-keycaps/RGBYOD-Modifiers/)
 * [Black Modi](docs/gmk-keycaps/Black-Modi/)
 * [Hydro 水箭龟](docs/gmk-keycaps/Hydro/)
 * [Keyboard & Co.](docs/gmk-keycaps/Keyboard-Co/)
