@@ -242,6 +242,7 @@ permalink: /
 
 ### 2014
 * [Cyan](docs/gmk-keycaps/Cyan/)
+* [LED](docs/gmk-keycaps/LED/)
 * [Dolch](docs/gmk-keycaps/Dolch/)
 
 ### 2013
@@ -249,6 +250,7 @@ permalink: /
 * [Cyrillic 白俄文](docs/gmk-keycaps/Cyrillic/)
 * [White on Black](docs/gmk-keycaps/White-on-Black/)
 * [White Dark-Grey](docs/gmk-keycaps/White-Dark-Grey/)
+* [Purple Mod](docs/gmk-keycaps/Purple-Mod/)
 
 
 ---
