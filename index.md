@@ -180,6 +180,7 @@ permalink: /
 * [True Olivetti](docs/gmk-keycaps/True-Olivetti/)
 * [HyperFuse Redux](docs/gmk-keycaps/HyperFuse-Redux/)
 * [Miami Dusk 迈阿密黄昏](docs/gmk-keycaps/Miami-Dusk/)
+* [HyperFuse Accent](docs/gmk-keycaps/HyperFuse-Accent/)
 * [Solarized Dark](docs/gmk-keycaps/Solarized-Dark/)
 * [Miami](docs/gmk-keycaps/Miami/)
 * [Miami Nights](docs/gmk-keycaps/Miami-Nights/)

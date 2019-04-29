@@ -3,7 +3,7 @@ title: Griseann GP
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33165
+nav_order: 33170
 ---
 
 # Griseann GP
