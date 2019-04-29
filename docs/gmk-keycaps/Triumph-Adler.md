@@ -3,7 +3,7 @@ title: Triumph Adler TA
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 35020
+nav_order: 35025
 ---
 
 # Triumph Adler TA

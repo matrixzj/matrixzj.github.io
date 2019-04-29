@@ -229,11 +229,13 @@ permalink: /
 * [Classic Retro with GeekHack Pack](docs/gmk-keycaps/Classic-Retro-GeekHack-Pack/)
 * [TA Royal Alpha 610 Typewriter R1 皇家打字机 R1](docs/gmk-keycaps/TA-Royal-Alpha-610-Typewriter-R1/)
 * [Monkey 猴年](docs/gmk-keycaps/Monkey/)
+* [Cherry Logo](docs/gmk-keycaps/Cherry-Logo/)
 * [Valentine 情人节](docs/gmk-keycaps/Valentine/)
 
 ### 2015
 * [SKIDATA+ 黑橙](docs/gmk-keycaps/SKIDATA+/)
 * [Escape Pack](docs/gmk-keycaps/Escape-Pack/)
+* [RGBYK](docs/gmk-keycaps/RGBYK/)
 * [Sky Dolch](docs/gmk-keycaps/Sky-Dolch/)
 * [Triumph Adler TA](docs/gmk-keycaps/Triumph-Adler/)
 * [HyperFuse](docs/gmk-keycaps/HyperFuse/)
