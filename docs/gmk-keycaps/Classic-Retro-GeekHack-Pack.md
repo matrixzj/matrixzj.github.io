@@ -1,14 +1,14 @@
 ---
-title: Classic Retro with GeekHack Pack
+title: Classic Retro with GeekHack Pack KA 1953
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 34115
 ---
 
-# Classic Retro with GeekHack Pack
+# Classic Retro with GeekHack Pack KA 1953
 
-ref link: [Classic Retro with GeekHack Pack GH GB Link](https://geekhack.org/index.php?topic=80942.0)
+ref link: [Classic Retro with GeekHack Pack KA 1953 GH GB Link](https://geekhack.org/index.php?topic=80942.0)
 
 * [Price](#price)
 * [Kits](#kits)

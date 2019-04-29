@@ -226,7 +226,7 @@ permalink: /
 * [White Blue](docs/gmk-keycaps/White-Blue/)
 * [9009 R1](docs/gmk-keycaps/9009-R1/)
 * [Classic Retro 经典复古](docs/gmk-keycaps/Classic-Retro/)
-* [Classic Retro with GeekHack Pack](docs/gmk-keycaps/Classic-Retro-GeekHack-Pack/)
+* [Classic Retro with GeekHack Pack KA 1953](docs/gmk-keycaps/Classic-Retro-GeekHack-Pack/)
 * [TA Royal Alpha 610 Typewriter R1 皇家打字机 R1](docs/gmk-keycaps/TA-Royal-Alpha-610-Typewriter-R1/)
 * [Monkey 猴年](docs/gmk-keycaps/Monkey/)
 * [Cherry Logo](docs/gmk-keycaps/Cherry-Logo/)
