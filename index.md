@@ -111,6 +111,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Mizu](docs/gmk-keycaps/Mizu/)
 * [Striker](docs/gmk-keycaps/Striker/)
 * [Darskel](docs/gmk-keycaps/Darskel/)
 * [Sky Modo](docs/gmk-keycaps/Sky-Modo/)

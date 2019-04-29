@@ -3,7 +3,7 @@ title: Bento
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31075
+nav_order: 31080
 ---
 
 # Bento
