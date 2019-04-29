@@ -3,7 +3,7 @@ title: RGBY
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10665
+nav_order: 36020
 ---
 
 # RGBY
