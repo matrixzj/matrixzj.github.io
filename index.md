@@ -246,6 +246,7 @@ permalink: /
 * [Cyan](docs/gmk-keycaps/Cyan/)
 * [LED](docs/gmk-keycaps/LED/)
 * [Dolch](docs/gmk-keycaps/Dolch/)
+* [RGBY](docs/gmk-keycaps/RGBY/)
 
 ### 2013
 * [Charred Orange](docs/gmk-keycaps/Charred-Orange/)
