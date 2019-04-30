@@ -21,12 +21,12 @@ NOTE: USD to RMB exchange rate is 6.73
 
 | Name          | Price(Novelkeys)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|175.00|1177.75|unknown|
+|[Base](#base)|175.00|1177.75|75|
 
 
 ## Kits
 ### Base
-**Price(Novelkeys):** 175.00    **Price(RMB):** 1177.75    **Quantity:** unknown  
+**Price(Novelkeys):** 175.00    **Price(RMB):** 1177.75    **Quantity:** 75  
 <img src="{{ 'assets/images/sa-keycaps/olivia/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 
