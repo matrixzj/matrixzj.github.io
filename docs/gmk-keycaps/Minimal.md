@@ -21,14 +21,14 @@ NOTE: USD to RMB exchange rate is 6.73
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|116.94|787.00|unknown|
+|[Base](#base)|99.99|672.93|unknown|
 |[Numpad](#numpad)|40.71|274.00|unknown|
 |[Addon](#addon)|20.21|136.00|unknown|
 
 
 ## Kits
 ### Base
-**Price(GH):** 116.94    **Price(RMB):** 787.00    **Quantity:** unknown  
+**Price(GH):** 99.99    **Price(RMB):** 672.93    **Quantity:** unknown  
 <img src="{{ 'assets/images/gmk-keycaps/minimal/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Numpad
