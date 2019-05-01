@@ -56,6 +56,7 @@ NOTE: USD to RMB exchange rate is 6.80
 
 <img src="{{ 'assets/images/sa-keycaps/oblivion/price.jpg' | relative_url }}" atl="price" class="image featured">
 
+
 ## Kits
 ### Alphas
 ### Oblivion Alphas
@@ -189,12 +190,64 @@ NOTE: USD to RMB exchange rate is 6.80
 **Price(USD):** 39.50    **Price(RMB):** 271.93    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/oblivion/kits_pics/ob_vimcaps_cropped.jpg' | relative_url }}" atl="oblivion_vim" class="image featured">
 
+
 ## Info
 * Designer: Oblotzky
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2017-08
 * Color Codes
 <img src="{{ 'assets/images/sa-keycaps/oblivion/color_codes.png' | relative_url }}" atl="color_codes" class="image featured">
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>GQM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GQM.png' | relative_url }}" alt="colorGQM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GD</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GD.png' | relative_url }}" alt="colorGD" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>GAL</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GAL.png' | relative_url }}" alt="colorGAL" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>OAV</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAV.png' | relative_url }}" alt="colorOAV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RCJ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RCJ.png' | relative_url }}" alt="colorRCJ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RAS</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAS.png' | relative_url }}" alt="colorRAS" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VAT</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAT.png' | relative_url }}" alt="colorVAT" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YBP</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BFN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFN.png' | relative_url }}" alt="colorBFN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BFP</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFP.png' | relative_url }}" alt="colorBFP" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WFK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="colorWFK" height="75" width="170"></th>
+  </tr>
+</table>
+
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/oblivion/rendering_pics/1800_20170828235648.jpg' | relative_url }}" atl="1800_20170828235648" class="image featured">
