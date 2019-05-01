@@ -1,12 +1,12 @@
 ---
-title: SkIIdata
+title: SkIIdata 黑橙R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31045
 ---
 
-# SkIIdata
+# SkIIdata 黑橙R2
 
 ref link: [SkIIdata TheKeyCompany GB Link](https://thekey.company/products/gmk-skiidata)
 

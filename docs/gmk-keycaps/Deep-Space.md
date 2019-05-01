@@ -1,12 +1,12 @@
 ---
-title: Deep Space
+title: Deep Space 深空
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31075
 ---
 
-# Deep Space
+# Deep Space 深空
 
 ref link: [Deep Space OCO GB Link](https://originative.co/deepspace)
 

@@ -1,12 +1,12 @@
 ---
-title: Bento
+title: Bento 便当
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31080
 ---
 
-# Bento
+# Bento 便当
 
 ref link: [Bento Novelkeys GB Link](https://novelkeys.xyz/collections/frontpage/products/gmk-bento-gb)
 

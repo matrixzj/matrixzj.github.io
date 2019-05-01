@@ -1,12 +1,12 @@
 ---
-title: Wavez
+title: Wavez 声波
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31035
 ---
 
-# Wavez
+# Wavez 声波
 
 ref link: [Wavez GH GB Link](https://geekhack.org/index.php?topic=100063.0)
 

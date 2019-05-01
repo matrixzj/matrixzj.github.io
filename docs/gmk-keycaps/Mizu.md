@@ -1,12 +1,12 @@
 ---
-title: Mizu
+title: Mizu 水
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31005
 ---
 
-# Mizu
+# Mizu 水
 
 ref link: [Mizu GH GB Link](https://geekhack.org/index.php?topic=99235.0)
 

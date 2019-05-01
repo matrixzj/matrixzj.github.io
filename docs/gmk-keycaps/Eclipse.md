@@ -1,12 +1,12 @@
 ---
-title: Eclipse
+title: Eclipse 日蚀
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31025
 ---
 
-# Eclipse
+# Eclipse 日蚀
 
 ref link: [Eclipse MD GB Link](https://www.massdrop.com/buy/massdrop-x-t0mb3ry-gmk-eclipse-custom-keycap-set)
 

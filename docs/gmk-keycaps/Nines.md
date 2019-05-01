@@ -1,12 +1,12 @@
 ---
-title: Nines
+title: Nines 九
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31030
 ---
 
-# Nines
+# Nines 九
 
 ref link: [Nines GH GB Link](https://geekhack.org/index.php?topic=100074.0)
 

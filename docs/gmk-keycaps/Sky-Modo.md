@@ -1,12 +1,12 @@
 ---
-title: Sky Modo
+title: Sky Modo 摩登天空豆
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31020
 ---
 
-# Sky Modo
+# Sky Modo 摩登天空豆
 
 ref link: [Sky Modo OCO GB Link](https://www.originativeco.com/products/sky-modo)
 

@@ -1,12 +1,12 @@
 ---
-title: Darskel
+title: Darskel 暗黑骷髅
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31015
 ---
 
-# Darskel
+# Darskel 暗黑骷髅
 
 ref link: [Darskel OCO GB Link](https://www.originativeco.com/products/darskel)
 

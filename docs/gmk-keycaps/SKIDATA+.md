@@ -1,12 +1,12 @@
 ---
-title: SKIDATA+ 黑橙
+title: SKIDATA+ 黑橙R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 35005
 ---
 
-# SKIDATA+ 黑橙
+# SKIDATA+ 黑橙R1
 
 ref link: [SKIDATA+ GH GB Link](https://geekhack.org/index.php?topic=76521.msg1913011#msg1913011)
 

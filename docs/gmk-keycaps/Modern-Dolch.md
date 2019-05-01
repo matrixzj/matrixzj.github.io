@@ -1,12 +1,12 @@
 ---
-title: Modern Dolch 
+title: Modern Dolch 摩登豆
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 32060
 ---
 
-# Modern Dolch 
+# Modern Dolch 摩登豆
 
 ref link: [Modern Dolch ZF GB Link](https://www.zfrontier.com/m/4366)
 

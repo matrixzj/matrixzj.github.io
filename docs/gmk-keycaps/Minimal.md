@@ -1,12 +1,12 @@
 ---
-title: Minimal
+title: Minimal 极简
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31070
 ---
 
-# Minimal
+# Minimal 极简
 
 ref link: [Minimal GH GB Link](https://geekhack.org/index.php?topic=99624.0)
 
