@@ -1,12 +1,12 @@
 ---
-title: Phantom 
+title: Phantom 幻影
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 32105
 ---
 
-# Phantom 
+# Phantom 幻影
 
 ref link: [Phantom ZF GB Link](http://www.zfrontier.com/m/3634)
 

@@ -1,12 +1,12 @@
 ---
-title: Mint Dolch
+title: Mint Dolch 薄荷豆
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 32100
 ---
 
-# Mint Dolch
+# Mint Dolch 薄荷豆
 
 ref link: [Mint Dolch MD GB Link](https://www.massdrop.com/buy/massdrop-x-livingspeedbump-gmk-mint-dolch)
 
