@@ -21,8 +21,8 @@ NOTE: USD to RMB exchange rate is 6.22
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[CMYK Set V1](#set-v1)|36.00|223.92|unknown|
-|[CYYW Set V2](#set-v2)|35.00|217.70|unknown|
+|[CMYK Set V1](#cmyk-set-v1)|36.00|223.92|unknown|
+|[CYYW Set V2](#cmyw-set-v2)|35.00|217.70|unknown|
 
 
 ## Kits
