@@ -38,7 +38,7 @@ NOTE: USD to RMB exchange rate is 6.22
 ## Info
 * Designer: 
 * Profile: GMK 
-* GB Time: CMYK 2013-03 (V1 Round1) / 2016-03 (V1 Round2)
+* GB Time: CMYK 2013-03 (V1 Round1) / 2016-03 (V1 Round2)  
            CMYW 2014-01 (V2 Round2)
 * ColorCodes: 
 
