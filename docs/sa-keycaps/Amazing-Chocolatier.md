@@ -15,6 +15,7 @@ ref link: [SA Amazing Chocolatier Massdrop link](https://www.massdrop.com/buy/th
 * [Info](#info)
 * [Pictures](#pictures)
 
+
 ## Price
 
 NOTE: USD to RMB exchange rate is 6.71
@@ -80,12 +81,56 @@ NOTE: USD to RMB exchange rate is 6.71
 ### Raffle M
 <img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/kits_pics/rafflem.png' | relative_url }}" atl="RaffleM" class="image featured">
 
+
 ## Info
 * Designer: Zambumon
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2016-08
 * Color Codes
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>TGH</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TGH.png' | relative_url }}" alt="colorTGH" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>TBN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TBN.png' | relative_url }}" alt="colorTBN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>TM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_TM.png' | relative_url }}" alt="colorTM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YCF</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCF.png' | relative_url }}" alt="colorYCF" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>RA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png' | relative_url }}" alt="colorRA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BDH</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BDH.png' | relative_url }}" alt="colorBDH" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WCK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WBO</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>NN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
+  </tr>
+</table>
 <img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/colorcodes.jpg' | relative_url }}" atl="color_codes" class="image featured">
+
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/rendering_pics/MD-24022_20160801102302_ecd9f22166e49dcb.png' | relative_url }}" atl="MD-24022_20160801102302_ecd9f22166e49dcb.png" class="image featured">
