@@ -87,6 +87,7 @@ NOTE: USD to RMB exchange rate is 6.71
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2016-08
 * Color Codes
+<img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/colorcodes.jpg' | relative_url }}" atl="color_codes" class="image featured">
 <table style="width:100%">
   <tr>
     <th>ColorCodes</th>
@@ -129,7 +130,6 @@ NOTE: USD to RMB exchange rate is 6.71
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
   </tr>
 </table>
-<img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/colorcodes.jpg' | relative_url }}" atl="color_codes" class="image featured">
 
 
 ## Pictures
