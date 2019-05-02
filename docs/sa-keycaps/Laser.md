@@ -37,7 +37,7 @@ NOTE: USD to RMB exchange rate is 6.75
 |[7 Sparcbars](#7-sparcbars)|9.00|60.75|unknown|
 |[40s](#40s)|70.00|472.50|unknown|
 |[Ortho Text](#ortho-text)|37.00|249.75|unknown|
-|[Orhto Micons](#orhto-micons)|37.00|249.75|unknown|
+|[Ortho Micons](#ortho-micons)|37.00|249.75|unknown|
 |[Ergo](#ergo)|54.00|364.50|unknown|
 |[Ergo Pro](#ergo-pro)|90.00|607.50|unknown|
 |[UK](#uk)|42.00|283.50|unknown|
@@ -72,7 +72,7 @@ NOTE: USD to RMB exchange rate is 6.75
 
 ### Obnet
 **Price(MD):** 75.00    **Price(RMB):** 506.25    **Quantity:** unknown  
-<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/obnet.png' | relative_url }}" alt="Obnet" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/obnet.jpg' | relative_url }}" alt="Obnet" class="image featured">
 
 ### Numpad
 **Price(MD):** 34.00    **Price(RMB):** 229.50    **Quantity:** unknown  
@@ -114,7 +114,7 @@ NOTE: USD to RMB exchange rate is 6.75
 **Price(MD):** 37.00    **Price(RMB):** 249.75    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/ortho-text.jpg' | relative_url }}" alt="Ortho Text" class="image featured">
 
-### Orhto Micons
+### Ortho Micons
 **Price(MD):** 37.00    **Price(RMB):** 249.75    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/orhto-micons.png' | relative_url }}" alt="Orhto Micons" class="image featured">
 
