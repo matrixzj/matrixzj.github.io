@@ -20,6 +20,7 @@ permalink: /
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2019
+* [Laser 激光](docs/sa-keycaps/Laser/)
 * [Arcane](docs/sa-keycaps/Arcane/)
 * [Hunter Killua](docs/sa-keycaps/Hunter-Killua/)
 * [Olivia](docs/sa-keycaps/Olivia/)
@@ -121,7 +122,7 @@ permalink: /
 * [Metropolis 大都会](docs/gmk-keycaps/Metropolis/)
 * [SkIIdata 黑橙R2](docs/gmk-keycaps/SkIIdata/)
 * [Lime 青柠](docs/gmk-keycaps/Lime/)
-* [Vice Nights 反夜(副夜)](docs/gmk-keycaps/Vice-Nights/)
+* [Vice Nights 反夜/副夜](docs/gmk-keycaps/Vice-Nights/)
 * [Cyan 2D](docs/gmk-keycaps/Cyan-2D/)
 * [Paperwork](docs/gmk-keycaps/Paperwork/)
 * [Minimal 极简](docs/gmk-keycaps/Minimal/)
