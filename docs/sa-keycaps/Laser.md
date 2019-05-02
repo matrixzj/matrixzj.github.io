@@ -116,7 +116,7 @@ NOTE: USD to RMB exchange rate is 6.75
 
 ### Ortho Micons
 **Price(MD):** 37.00    **Price(RMB):** 249.75    **Quantity:** unknown  
-<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/orhto-micons.png' | relative_url }}" alt="Orhto Micons" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/ortho-micons.jpg' | relative_url }}" alt="Orhto Micons" class="image featured">
 
 ### Ergo
 **Price(MD):** 54.00    **Price(RMB):** 364.50    **Quantity:** unknown  
