@@ -34,7 +34,7 @@ NOTE: USD to RMB exchange rate is 6.75
 |[Mitowaves](#mitowaves)|70.00|472.50|unknown|
 |[Minibars](#minibars)|20.00|135.00|unknown|
 |[625 Spacebars](#625-spacebars)|9.00|60.75|unknown|
-|[7 Sparcbars](#7-sparcbars)|9.00|60.75|unknown|
+|[7 Spacebars](#7-spacebars)|9.00|60.75|unknown|
 |[40s](#40s)|70.00|472.50|unknown|
 |[Ortho Text](#ortho-text)|37.00|249.75|unknown|
 |[Ortho Micons](#ortho-micons)|37.00|249.75|unknown|
@@ -102,9 +102,9 @@ NOTE: USD to RMB exchange rate is 6.75
 **Price(MD):** 9.00    **Price(RMB):** 60.75    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/625-spacebars.jpg' | relative_url }}" alt="625 Spacebars" class="image featured">
 
-### 7 Sparcbars
+### 7 Spacebars
 **Price(MD):** 9.00    **Price(RMB):** 60.75    **Quantity:** unknown  
-<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/700-sparcbars.jpg' | relative_url }}" alt="7 Sparcbars" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/700-spacebars.jpg' | relative_url }}" alt="7 Sparcbars" class="image featured">
 
 ### 40s
 **Price(MD):** 70.00    **Price(RMB):** 472.50    **Quantity:** unknown  
