@@ -168,7 +168,7 @@ permalink: /
 * [9009 R2](docs/gmk-keycaps/9009-R2/)
 * [Demonic](docs/gmk-keycaps/Demonic/)
 * [Originative Cyrillic 黑俄文](docs/gmk-keycaps/Originative-Cyrillic/)
-* [Pristine](docs/gmk-keycaps/Pristine/)
+* [Pristine 云石](docs/gmk-keycaps/Pristine/)
 * [Red Honey Cyrillic 红俄文](docs/gmk-keycaps/Red-Honey-Cyrillic/)
 * [Red Honey](docs/gmk-keycaps/Red-Honey/)
 * [TA Royal Alpha 610 Typewriter R2 皇家打字机 R2](docs/gmk-keycaps/TA-Royal-Alpha-610-Typewriter-R2/)

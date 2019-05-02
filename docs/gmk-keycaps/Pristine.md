@@ -1,12 +1,12 @@
 ---
-title: Pristine
+title: Pristine 云石
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 33030
 ---
 
-# Pristine
+# Pristine 云石 
 
 ref link: [Pristine GH GB Link]()
 
