@@ -66,7 +66,13 @@ NOTE: USD to RMB exchange rate is 6.74
 * Designer: Zambumon
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-07
-* ColorCodes: unknown
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|Pantone 534 C|TU2
+|Modifiers|Pantone 533 C|N6
+|Alternate Modifiers|N6|Pantone 533 C
 
 
 ## Pictures
