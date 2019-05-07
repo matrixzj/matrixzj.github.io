@@ -20,27 +20,28 @@ NOTE: USD to RMB exchange rate is 6.73
 
 | Name          | Price(Novelkeys)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|932.00|1188|
-|[Midnight](#midnight)|80.00|549.00|252|
-|[Signs](#signs)|50.00|355.00|787|
-|[Blocks](#blocks)|30.00|204.00|550|
+|[Base](#base)|135.00|932.00|1504|
+|[Midnight](#midnight)|80.00|549.00|280|
+|[Signs](#signs)|50.00|355.00|846|
+|[Blocks](#blocks)|30.00|204.00|600|
 
 
 ## Kits
 ### Base
-**Price(Novelkeys):** 135.00    **Price(RMB):** 932.00    **Quantity:** 1188  
+**Price(Novelkeys):** 135.00    **Price(RMB):** 932.00    **Quantity:** 1504  
 <img src="{{ 'assets/images/gmk-keycaps/metropolis/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/metropolis/kits_pics/extra.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Midnight
-**Price(Novelkeys):** 80.00    **Price(RMB):** 549.00    **Quantity:** 252  
+**Price(Novelkeys):** 80.00    **Price(RMB):** 549.00    **Quantity:** 280  
 <img src="{{ 'assets/images/gmk-keycaps/metropolis/kits_pics/midnight.png' | relative_url }}" alt="Midnight" class="image featured">
 
 ### Signs
-**Price(Novelkeys):** 50.00    **Price(RMB):** 355.00    **Quantity:** 787  
+**Price(Novelkeys):** 50.00    **Price(RMB):** 355.00    **Quantity:** 846  
 <img src="{{ 'assets/images/gmk-keycaps/metropolis/kits_pics/signs.png' | relative_url }}" alt="Signs" class="image featured">
 
 ### Blocks
-**Price(Novelkeys):** 30.00    **Price(RMB):** 204.00    **Quantity:** 550  
+**Price(Novelkeys):** 30.00    **Price(RMB):** 204.00    **Quantity:** 600  
 <img src="{{ 'assets/images/gmk-keycaps/metropolis/kits_pics/blocks.png' | relative_url }}" alt="Blocks" class="image featured">
 
 
