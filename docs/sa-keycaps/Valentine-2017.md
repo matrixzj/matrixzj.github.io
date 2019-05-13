@@ -132,7 +132,7 @@ NOTE: Donation Needed !
 
 ### Deeper Love
 **Price(USD):** unknown    **Price(RMB):** unknown    **Price(KP):** 1676.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/deeper-love.jpg' | relative_url }}" alt="Deeper Love" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/valentine/kits_pics/deeper-love.png' | relative_url }}" alt="Deeper Love" class="image featured">
 
 
 ## Info
