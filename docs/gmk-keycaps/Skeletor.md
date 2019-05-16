@@ -22,11 +22,14 @@ NOTE: USD to RMB exchange rate is 6.65
 | Name          | Price(OCO)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|125.00|831.25|unknown|
+|[Purple Spacebar](#purple-spacebar)|8.00|53.20|unknown|
 
 
 ## Kits
 ### Base
 **Price(OCO):** 125.00    **Price(RMB):** 831.25    **Quantity:** unknown  
+### Purple Spacebar
+**Price(OCO):** 8.00    **Price(RMB):** 53.20    **Quantity:** unknown  
 <img src="{{ 'assets/images/gmk-keycaps/skeletor/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 
