@@ -40,7 +40,7 @@ NOTE: USD to RMB exchange rate is 6.73
 
 ### Forties & Split
 **Price(GH):** 42.00    **Price(RMB):** 282.66    **Quantity:** 197
-<img src="{{ 'assets/images/gmk-keycaps/striker/kits_pics/forties-&-split.png' | relative_url }}" alt="Forties & Split" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/striker/kits_pics/forties-split.png' | relative_url }}" alt="Forties & Split" class="image featured">
 
 ### Spacebars
 **Price(GH):** 22.00    **Price(RMB):** 148.06    **Quantity:** 271
