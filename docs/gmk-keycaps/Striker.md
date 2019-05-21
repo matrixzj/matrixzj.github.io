@@ -21,29 +21,29 @@ NOTE: USD to RMB exchange rate is 6.73
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Core](#core)|100.00|673.00|unknown|
-|[Numpad](#numpad)|36.00|242.28|unknown|
-|[Forties & Split](#forties-&-split)|42.00|282.66|unknown|
-|[Spacebars](#spacebars)|22.00|148.06|unknown|
+|[Core](#core)|100.00|673.00|728|
+|[Numpad](#numpad)|36.00|242.28|200|
+|[Forties & Split](#forties-&-split)|42.00|282.66|197|
+|[Spacebars](#spacebars)|22.00|148.06|271|
 
 <img src="{{ 'assets/images/gmk-keycaps/striker/price.png' | relative_url }}" atl="price" class="image featured">
 
 
 ## Kits
 ### Core
-**Price(GH):** 100.00    **Price(RMB):** 673.00    **Quantity:** unknown  
+**Price(GH):** 100.00    **Price(RMB):** 673.00    **Quantity:** 728
 <img src="{{ 'assets/images/gmk-keycaps/striker/kits_pics/core.png' | relative_url }}" alt="Core" class="image featured">
 
 ### Numpad
-**Price(GH):** 36.00    **Price(RMB):** 242.28    **Quantity:** unknown  
+**Price(GH):** 36.00    **Price(RMB):** 242.28    **Quantity:** 200
 <img src="{{ 'assets/images/gmk-keycaps/striker/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
 
 ### Forties & Split
-**Price(GH):** 42.00    **Price(RMB):** 282.66    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/striker/kits_pics/forties-split.png' | relative_url }}" alt="Forties & Split" class="image featured">
+**Price(GH):** 42.00    **Price(RMB):** 282.66    **Quantity:** 197
+<img src="{{ 'assets/images/gmk-keycaps/striker/kits_pics/forties-&-split.png' | relative_url }}" alt="Forties & Split" class="image featured">
 
 ### Spacebars
-**Price(GH):** 22.00    **Price(RMB):** 148.06    **Quantity:** unknown  
+**Price(GH):** 22.00    **Price(RMB):** 148.06    **Quantity:** 271
 <img src="{{ 'assets/images/gmk-keycaps/striker/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 
