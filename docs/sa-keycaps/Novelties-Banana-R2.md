@@ -3,7 +3,7 @@ title: Novelties Banana R2 香蕉个性R2
 
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 31035
+nav_order: 31040
 ---
 
 # Novelties Banana R2 香蕉个性R2
