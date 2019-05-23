@@ -113,6 +113,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Red Samurai R2 红武士R2](docs/gmk-keycaps/Red-Samurai-R2/)
 * [Mizu 水](docs/gmk-keycaps/Mizu/)
 * [Striker 前锋](docs/gmk-keycaps/Striker/)
 * [Darskel 暗黑骷髅](docs/gmk-keycaps/Darskel/)
@@ -158,7 +159,7 @@ permalink: /
 * [Violet Tendencies ](docs/gmk-keycaps/Violet-Tendencies/)
 * [Olivia](docs/gmk-keycaps/Olivia/)
 * [HyperFuse Origins](docs/gmk-keycaps/HyperFuse-Origins/)
-* [Red Samurai 红武士](docs/gmk-keycaps/Red-Samurai/)
+* [Red Samurai R1 红武士R1](docs/gmk-keycaps/Red-Samurai-R1/)
 * [Valentine 2018 Cherry KA 2018 Liebe](docs/gmk-keycaps/Valentine-2018/)
 * [Camping 野营](docs/gmk-keycaps/Camping/)
 * [Taro 香芋](docs/gmk-keycaps/Taro/)

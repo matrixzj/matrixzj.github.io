@@ -3,7 +3,7 @@ title: Sky Modo 摩登天空豆
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31020
+nav_order: 31025
 ---
 
 # Sky Modo 摩登天空豆
