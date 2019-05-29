@@ -16,24 +16,27 @@ ref link: [Modern Dolch ZF GB Link](https://www.zfrontier.com/m/4366)
 * [Pictures](#pictures)
 
 
-## Price  
+## Price
 NOTE: USD to RMB exchange rate is 6.87
 
-| Name          | Price(USD)    |  Price(RMB) |  Price(ZF) |
-| ------------- | ------------- |  ---------- |  --------- |
-|[Base](#base)|165.00|1133.55|unknown|
-|[Icon](#icon)|42.00|288.54|unknown|
-|[Spacebar](#spacebar)|37.00|254.19|unknown|
+| Name          | Price(ZF)    |  Price(RMB) | Quantity |
+| ------------- | ------------ |  ---------- | -------- |
+|[Base](#base)|140.00|961.80|unknown|
+|[Icon](#icon)|39.00|267.93|unknown|
+|[Spacebar](#spacebar)|35.00|240.45|unknown|
 
 
 ## Kits
 ### Base
+**Price(ZF):** 140.00    **Price(RMB):** 961.80    **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/moderndolch/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Icon
+**Price(ZF):** 39.00    **Price(RMB):** 267.93    **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/moderndolch/kits_pics/icon.jpg' | relative_url }}" alt="Icon" class="image featured">
 
 ### Spacebar
+**Price(ZF):** 35.00    **Price(RMB):** 240.45    **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/moderndolch/kits_pics/spacebar.jpg' | relative_url }}" alt="Spacebar" class="image featured">
 
 
