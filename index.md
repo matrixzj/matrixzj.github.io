@@ -20,6 +20,7 @@ permalink: /
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2019
+* [Fluffy Clouds](docs/sa-keycaps/Fluffy-Clouds/)
 * [Magic City](docs/sa-keycaps/Magic-City/)
 * [Laser 激光](docs/sa-keycaps/Laser/)
 * [Arcane](docs/sa-keycaps/Arcane/)

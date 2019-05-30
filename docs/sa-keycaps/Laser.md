@@ -3,7 +3,7 @@ title: Laser 激光
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 31010
+nav_order: 31015
 ---
 
 # Laser 激光
