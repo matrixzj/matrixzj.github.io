@@ -22,7 +22,8 @@ NOTE: USD to RMB exchange rate is 6.65
 | Name          | Price(MD)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|99.00|658.35|unknown|
-|[Novelties](#novelties)|unknown|unknown|unknown|
+|[Novelties](#novelties)|40.00|269.00|unknown|
+|[Ergo](#ergo)|40.00|269.00|unknown|
 
 
 ## Kits
@@ -31,8 +32,12 @@ NOTE: USD to RMB exchange rate is 6.65
 <img src="{{ 'assets/images/gmk-keycaps/carbonr1/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Novelties
-**Price(MD):** unknown    **Price(RMB):** unknown    **Quantity:** unknown  
+**Price(MD):** 40.00    **Price(RMB):** 269.00    **Quantity:** unknown  
 <img src="{{ 'assets/images/gmk-keycaps/carbonr1/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
+
+### Ergo
+**Price(MD):** 40.00    **Price(RMB):** 269.00    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/carbonr1/kits_pics/ergodox.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
 
 ## Info
