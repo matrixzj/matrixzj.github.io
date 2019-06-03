@@ -1,0 +1,12 @@
+name = 'Olive'
+cname = '橄榄'
+keycapstype = 'GMK'
+designer = 'olivia'
+profile = '1-1-2-3-4-4'
+time = '2019-06'
+colorcodes = 'as shown in kits pictures'
+platform = 'Novelkeys'
+link = 'https://novelkeys.xyz/products/gmk-olive-gb'
+Base|125|||
+40s|45|||
+Spacebars|25|||

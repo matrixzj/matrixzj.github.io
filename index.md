@@ -115,6 +115,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Olive 橄榄](docs/gmk-keycaps/Olive/)
 * [Red Samurai R2 红武士R2](docs/gmk-keycaps/Red-Samurai-R2/)
 * [Mizu 水](docs/gmk-keycaps/Mizu/)
 * [Striker 前锋](docs/gmk-keycaps/Striker/)
