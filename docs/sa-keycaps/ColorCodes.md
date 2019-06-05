@@ -433,7 +433,7 @@ nav_order: 10000
   </tr>
   <tr>
     <th style="background-color: rgb(194, 192, 169)">&#160;</th>
-    <th><b> YCA </b></th>
+    <th><b> YCA (glow) </b></th>
     <th>194, 192, 169 &#160; &#160; &#160; &#173;</th>
     <th>#c2c0a9</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YCA.png' | relative_url }}" alt="colorYCA" height="75" width="170"></th>
