@@ -1,0 +1,68 @@
+---
+title: Hammerhead 锤头鲨
+layout: default
+icon: fa-keyboard-o
+parent: GMK Keycaps
+nav_order: 31005
+---
+
+# Hammerhead 锤头鲨
+
+ref link: [Hammerhead KeylabsKeycaps GB Link](https://keylabskeycaps.com/gmk-hammerhead/)
+
+* [Price](#price)
+* [Kits](#kits)
+* [Info](#info)
+* [Pictures](#pictures)
+
+
+## Price  
+NOTE: USD to RMB exchange rate is 6.92
+
+| Name          | Price(KeylabsKeycaps)    |  Price(RMB) | Quantity |
+| ------------- | ------------ |  ---------- | -------- |
+|[Core](#core)|140.00|968.80|unknown|
+|[Deep Water](#deep-water)|140.00|968.80|unknown|
+|[Novelties](#novelties)|62.00|429.04|unknown|
+|[Space](#space)|33.00|228.36|unknown|
+|[Euro](#euro)|43.00|297.56|unknown|
+
+
+## Kits
+### Core
+**Price(KeylabsKeycaps):** 140.00    **Price(RMB):** 968.80    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/hammerhead/kits_pics/core.jpg' | relative_url }}" alt="Core" class="image featured">
+
+### Deep Water
+**Price(KeylabsKeycaps):** 140.00    **Price(RMB):** 968.80    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/hammerhead/kits_pics/deep-water.jpg' | relative_url }}" alt="Deep Water" class="image featured">
+
+### Novelties
+**Price(KeylabsKeycaps):** 62.00    **Price(RMB):** 429.04    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/hammerhead/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
+
+### Space
+**Price(KeylabsKeycaps):** 33.00    **Price(RMB):** 228.36    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/hammerhead/kits_pics/space.png' | relative_url }}" alt="Space" class="image featured">
+
+### Euro
+**Price(KeylabsKeycaps):** 43.00    **Price(RMB):** 297.56    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/hammerhead/kits_pics/euro.png' | relative_url }}" alt="Euro" class="image featured">
+
+
+## Info
+* Designer: Chad
+* Profile: GMK 1-1-2-3-4-4
+* GB Time: 2019-06
+* ColorCodes:  
+
+| Color
+| :------------:
+| PANTONE 533 C
+| PANTONE 3258 C
+| PANTONE 536 C
+| PANTONE 2378 C
+
+
+## Pictures
+<img src="{{ 'assets/images/gmk-keycaps/hammerhead/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
