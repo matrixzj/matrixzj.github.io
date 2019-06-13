@@ -116,7 +116,6 @@ permalink: /
 
 ### 2019
 * [Denim 牛仔裤](docs/gmk-keycaps/Denim/)
-* [Hammerhead 锤头鲨](docs/gmk-keycaps/Hammerhead/)
 * [Oblivion R2 码农R2](docs/gmk-keycaps/Oblivion-R2/)
 * [Olive 橄榄](docs/gmk-keycaps/Olive/)
 * [Red Samurai R2 红武士R2](docs/gmk-keycaps/Red-Samurai-R2/)
