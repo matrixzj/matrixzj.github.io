@@ -43,7 +43,7 @@ NOTE: USD to RMB exchange rate is 6.92
 
 ### Specialities
 **Price(GM):** 51.88    **Price(RMB):** 359.00    **Quantity:** unknown  
-<img src="{{ 'assets/images/sa-keycaps/sushi/kits_pics/specialities.png' | relative_url }}" alt="Specialities" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/sushi/kits_pics/specialties.png' | relative_url }}" alt="Specialities" class="image featured">
 
 ### Alternate Color
 **Price(GM):** 25.00    **Price(RMB):** 173.00    **Quantity:** unknown  
