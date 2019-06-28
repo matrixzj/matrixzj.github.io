@@ -49,7 +49,20 @@ NOTE: USD to RMB exchange rate is 6.91
 * Designer: Oblotzky
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-04
-* ColorCodes: unknown
+* ColorCodes: 
+
+<img src="{{ 'assets/images/gmk-keycaps/oblivionr2/color.jpeg' | relative_url }}" alt="color.jpeg" class="image featured">
+
+||Base|Legend
+| :-------------: | :-------------: | :------------:
+Oblivion Alpha|SP Abs GD|L9
+Hagoromo Alpha|CP|SP Abs GD
+Modifiers 1|SP Abs GQM|SP Abs GAL
+Modifiers 2|SP Abs GQM|SP Abs OAV
+Modifiers 3|SP Abs GQM|SP Abs RCJ
+Modifiers 4|SP Abs GQM|SP Abs VAT
+Modifiers 5|SP Abs GQM|SP Abs YBP
+Modifiers 6|SP Abs GQM|SP Abs BFN
 
 
 ## Pictures
