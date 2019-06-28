@@ -197,6 +197,8 @@ NOTE: USD to RMB exchange rate is 6.80
 * GB Time: 2017-08
 * Color Codes
 <img src="{{ 'assets/images/sa-keycaps/oblivion/color_codes.png' | relative_url }}" atl="color_codes" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/oblivionr2/color.jpeg' | relative_url }}" alt="color.jpeg" class="image featured">
+
 <table style="width:100%">
   <tr>
     <th>ColorCodes</th>
