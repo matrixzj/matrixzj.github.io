@@ -3,7 +3,7 @@ title: Korean Beige Add-on 白色韩文字根
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10695
+nav_order: 31005
 ---
 
 # Korean Beige Add-on 白色韩文字根
@@ -13,7 +13,6 @@ ref link: [Korean Beige Add-on GH GB Link](https://geekhack.org/index.php?topic=
 * [Price](#price)
 * [Kits](#kits)
 * [Info](#info)
-* [Pictures](#pictures)
 
 
 ## Price  
@@ -36,8 +35,5 @@ NOTE: USD to RMB exchange rate is 6.92
 * GB Time: 2019-06
 * ColorCodes:  
 
-|Base|Legend
-Alpha|L9|CR
-
-
-## Pictures
+||Base|Legend
+|Alpha|L9|CR
