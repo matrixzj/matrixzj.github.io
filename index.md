@@ -116,6 +116,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Pulse 脉冲](docs/gmk-keycaps/Pulse/)
 * [Korean Beige Add-on 白色韩文字根](docs/gmk-keycaps/Korean-Beige-Add-on/)
 * [Denim 牛仔裤](docs/gmk-keycaps/Denim/)
 * [Oblivion R2 码农R2](docs/gmk-keycaps/Oblivion-R2/)
