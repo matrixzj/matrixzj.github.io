@@ -117,6 +117,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Dots 点点点](docs/gmk-keycaps/Dots/)
 * [Vaporwave 节气波](docs/gmk-keycaps/Vaporwave/)
 * [Pulse 脉冲](docs/gmk-keycaps/Pulse/)
 * [Korean Beige Add-on 白色韩文字根](docs/gmk-keycaps/Korean-Beige-Add-on/)

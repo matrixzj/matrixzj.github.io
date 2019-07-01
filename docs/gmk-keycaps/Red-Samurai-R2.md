@@ -3,7 +3,7 @@ title: Red Samurai R2 红武士R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31035
+nav_order: 31045
 ---
 
 # Red Samurai R2 红武士R2

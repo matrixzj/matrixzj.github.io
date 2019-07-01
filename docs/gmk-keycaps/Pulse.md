@@ -3,7 +3,7 @@ title: Pulse 脉冲
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31005
+nav_order: 31015
 ---
 
 # Pulse 脉冲

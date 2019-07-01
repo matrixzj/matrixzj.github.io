@@ -3,7 +3,7 @@ title: Hunter Killua 全职猎人
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 31035
+nav_order: 31040
 ---
 
 # Hunter Killua 全职猎人

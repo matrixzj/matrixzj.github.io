@@ -3,7 +3,7 @@ title: Bento 便当
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31115
+nav_order: 31125
 ---
 
 # Bento 便当
