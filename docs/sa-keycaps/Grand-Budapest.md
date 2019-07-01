@@ -19,7 +19,7 @@ ref link: [SA Grand Budapest Groupbuy Link](https://geekhack.org/index.php?topic
 
 NOTE: USD to RMB exchange rate is 6.75
 
-| Name          | Price(USD)*   | Price(RMB)  | Quantity |
+| Name          | Price(USD)   | Price(RMB)  | Quantity |
 | ------------- | ------------- | ----------- | -------- |
 |[Alphas](#alphas)|65.00|439.00|unknown|
 |[Modifiers](#modifiers)|120.00|805.00|unknown|
@@ -38,7 +38,7 @@ Note: Novelties of Grand Budapest finally changed as second piture.
 
 ### Modifiers
 **Price(USD):** 120.00    **Price(RMB):** 805.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/grandbudapest/kits_pics/modifiers.jpg' | relative_url }}" alt="Modifiers" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/grandbudapest/kits_pics/modifiers.png' | relative_url }}" alt="Modifiers" class="image featured">
 
 ### 40s
 **Price(USD):** 53.00    **Price(RMB):** 353.00+341.00    **Quantity:** unknown
