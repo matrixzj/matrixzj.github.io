@@ -3,7 +3,7 @@ title: Bliss
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 31005
+nav_order: 31010
 ---
 
 # Bliss
