@@ -20,6 +20,7 @@ permalink: /
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2019
+* [Bliss](docs/sa-keycaps/Bliss/)
 * [Sushi 寿司](docs/sa-keycaps/Sushi/)
 * [Commando 2020 突击2020](docs/sa-keycaps/Commando-2020/)
 * [Fluffy Clouds](docs/sa-keycaps/Fluffy-Clouds/)
