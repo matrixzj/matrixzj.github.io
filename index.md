@@ -117,6 +117,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Peach n Cream](docs/gmk-keycaps/Peach-n-Cream/)
 * [Dots 点点点](docs/gmk-keycaps/Dots/)
 * [Vaporwave 节气波](docs/gmk-keycaps/Vaporwave/)
 * [Pulse 脉冲](docs/gmk-keycaps/Pulse/)
