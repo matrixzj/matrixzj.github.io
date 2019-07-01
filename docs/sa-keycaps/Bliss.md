@@ -54,9 +54,21 @@ NOTE: USD to RMB exchange rate is 6.88
 * Designer: Minterly
 * Profile: SA Uniform R3
 * GB Time: 2019-07
-* Color Codes: GC/Pantone 13-1406  
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GC.png' | relative_url }}" alt="colorGC" height="150" width="340">
-<img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_Pantone 13-1406.png' | relative_url }}" alt="colorPantone 13-1406" height="150" width="340">
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>GC</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GC.png' | relative_url }}" alt="colorGC" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>Pantone 13-1406</th>
+    <th></th>
+  </tr>
+</table>
 
 
 ## Pictures
