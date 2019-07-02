@@ -46,6 +46,10 @@ NOTE: USD to RMB exchange rate is 6.88
 * GB Time: 2019-07
 * ColorCodes:  
 
+||Base|Alpha
+|:------|:------|:------
+||Custom RAL Color|CP
+
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/peachncream/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
