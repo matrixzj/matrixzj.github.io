@@ -21,22 +21,22 @@ NOTE: USD to RMB exchange rate is 6.92
 
 | Name          | Price(Novelkeys)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|125.00|865.00|unknown|
-|[40s](#40s)|45.00|311.40|unknown|
-|[Spacebars](#spacebars)|25.00|173.00|unknown|
+|[Base](#base)|125.00|865.00|1000|
+|[40s](#40s)|45.00|311.40|165|
+|[Spacebars](#spacebars)|25.00|173.00|516|
 
 
 ## Kits
 ### Base
-**Price(Novelkeys):** 125.00    **Price(RMB):** 865.00    **Quantity:** unknown  
+**Price(Novelkeys):** 125.00    **Price(RMB):** 865.00    **Quantity:** 1000  
 <img src="{{ 'assets/images/gmk-keycaps/olive/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### 40s
-**Price(Novelkeys):** 45.00    **Price(RMB):** 311.40    **Quantity:** unknown  
+**Price(Novelkeys):** 45.00    **Price(RMB):** 311.40    **Quantity:** 165  
 <img src="{{ 'assets/images/gmk-keycaps/olive/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Spacebars
-**Price(Novelkeys):** 25.00    **Price(RMB):** 173.00    **Quantity:** unknown  
+**Price(Novelkeys):** 25.00    **Price(RMB):** 173.00    **Quantity:** 516  
 <img src="{{ 'assets/images/gmk-keycaps/olive/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 
