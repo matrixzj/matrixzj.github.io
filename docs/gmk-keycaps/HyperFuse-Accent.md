@@ -31,7 +31,7 @@ NOTE: USD to RMB exchange rate is 6.83
 
 
 ## Info
-* Designer: 
+* Designer: Bunny
 * Profile: GMK 
 * GB Time: 2017-05
 * ColorCodes: like HyperFuse 

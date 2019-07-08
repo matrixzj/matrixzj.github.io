@@ -44,7 +44,12 @@ NOTE: USD to RMB exchange rate is 6.79
 * Designer: biip
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2019-02
-* ColorCodes: unknown
+* ColorCodes: 
+
+||Base|Legend
+|:------:|:------:|:------:
+|Alpha|WS4|(RAL 240 50 25)19-02162
+|Modifiers|(RAL 240 50 25)19-02162|19-03272
 
 
 ## Pictures
