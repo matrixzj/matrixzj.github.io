@@ -31,10 +31,15 @@ NOTE: USD to RMB exchange rate is 6.95
 
 
 ## Info
-* Designer: Nathn Kim
+* Designer: Nathan Kim
 * Profile: GMK 
 * GB Time: 2018-09
-* ColorCodes: as shown in kits pictures
+* ColorCodes: 
+
+||Base|Legend
+|:------:|:------:|:------:
+|Various Key 1|Pantone 489C|CR
+|Various Key 2|Pantone 277C|CR
 
 
 ## Pictures
