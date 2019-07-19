@@ -2,7 +2,6 @@
 title: Sushi 寿司
 layout: default
 icon: fa-keyboard-o
-parent: SA Keycaps
 nav_order: 31015
 ---
 

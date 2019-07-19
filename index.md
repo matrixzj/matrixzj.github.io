@@ -22,7 +22,6 @@ permalink: /
 ### 2019
 * [128K AE](docs/sa-keycaps/128K-AE/)
 * [Bliss](docs/sa-keycaps/Bliss/)
-* [Sushi 寿司](docs/sa-keycaps/Sushi/)
 * [Commando 2020 突击2020](docs/sa-keycaps/Commando-2020/)
 * [Fluffy Clouds](docs/sa-keycaps/Fluffy-Clouds/)
 * [Magic City](docs/sa-keycaps/Magic-City/)
