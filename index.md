@@ -23,6 +23,7 @@ permalink: /
 * [128K AE](docs/sa-keycaps/128K-AE/)
 * [Bliss](docs/sa-keycaps/Bliss/)
 * [Commando 2020 突击2020](docs/sa-keycaps/Commando-2020/)
+* [Novelties Halloween 万圣节个性](docs/sa-keycaps/Novelties-Halloween/)
 * [Fluffy Clouds](docs/sa-keycaps/Fluffy-Clouds/)
 * [Magic City](docs/sa-keycaps/Magic-City/)
 * [Laser 激光](docs/sa-keycaps/Laser/)
