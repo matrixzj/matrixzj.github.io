@@ -60,7 +60,7 @@ OCO Price was 260 USD.
   </tr>
   <tr>
     <th>GTL</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="colorNN" height="75" width="170"></th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GTL.png' | relative_url }}" alt="colorGTL" height="75" width="170"></th>
   </tr>
   <tr>
     <th>BFP</th>
