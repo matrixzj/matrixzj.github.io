@@ -35,6 +35,8 @@ NOTE: USD to RMB exchange rate is 6.80
 |[BFU Spacebars](#bfu-spacebars)|11.99|81.53|17|
 |[YY Spacebars](#yy-spacebars)|8.99|61.13|139|
 
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/price.jpg' | relative_url }}" alt="price" class="image featured">
+
 
 ## Kits
 ### Alphas
