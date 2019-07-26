@@ -21,20 +21,20 @@ NOTE: USD to RMB exchange rate is 6.68
 
 | Name          | Price(USD)    |  Price(RMB) |  Price(KP) | Quantity |
 | ------------- | ------------- |  ---------- |  --------- | -------- |
-|[Combat Soldier](#combatsoldier)|95.00|634.60|639|unknown|
-|[Upgrade 01](#upgrade01)|45.00|300.60|339|unknown|
-|[Upgrade 02](#upgrade02)|25.00|167.00|169|unknown|
+|[Combat Soldier](#combat-soldier)|95.00|634.60|639|unknown|
+|[Upgrade 01](#upgrade-01)|45.00|300.60|339|unknown|
+|[Upgrade 02](#upgrade-02)|25.00|167.00|169|unknown|
 |[Numpad](#numpad)|30.00|200.40|203|unknown|
 |[Gamer](#gamer)|15.00|100.20|103|unknown|
 |[S:76](#s76)|10.00|66.80|69|unknown|
 |[CS](#cs)|50.00|334.00|339|unknown|
-|[Forest Commando](#forestcommando)|70.00|467.60|475|unknown|
+|[Forest Commando](#forest-commando)|70.00|467.60|475|unknown|
 |[ErgoDox](#ergodox)|30.00|200.40|203|unknown|
-|[Vietnamese Lotus](#vietnameselotus)|15.00|100.20|103|unknown|
+|[Vietnamese Lotus](#vietnamese-lotus)|15.00|100.20|103|unknown|
 |[WASD](#wasd)|10.00|66.80|69|unknown|
 |[Blank](#blank)|20.00|133.60|136|unknown|
 |[Enter](#enter)|15.00|100.20|unknown|unknown|
-|[Ghost Commander](#ghostcommander)|250.00|1670.00|1679|unknown|
+|[Ghost Commander](#ghost-commander)|250.00|1670.00|1679|unknown|
 
 
 ## Kits
