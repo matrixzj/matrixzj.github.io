@@ -104,7 +104,7 @@ NOTE: USD to RMB exchange rate is 6.92
 
 ### 7 Sparcbars
 **Price(MD):** 7.00    **Price(RMB):** 48.44    **Quantity:** 353
-<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/700-sparcbars.png' | relative_url }}" alt="7 Sparcbars" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/700-sparcbars.jpg' | relative_url }}" alt="7 Sparcbars" class="image featured">
 
 ### 40s
 **Price(MD):** 70.00    **Price(RMB):** 484.40    **Quantity:** 92
