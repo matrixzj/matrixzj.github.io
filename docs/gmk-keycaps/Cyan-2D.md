@@ -3,7 +3,7 @@ title: Cyan 2D
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31110
+nav_order: 31120
 ---
 
 # Cyan 2D

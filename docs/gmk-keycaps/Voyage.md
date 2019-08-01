@@ -3,7 +3,7 @@ title: Voyage 旅行
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10730
+nav_order: 31010
 ---
 
 # Voyage 旅行
