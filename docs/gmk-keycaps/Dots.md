@@ -3,7 +3,7 @@ title: Dots 点点点
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31020
+nav_order: 31025
 ---
 
 # Dots 点点点
