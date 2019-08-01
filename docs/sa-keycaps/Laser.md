@@ -104,7 +104,7 @@ NOTE: USD to RMB exchange rate is 6.92
 
 ### 7 Sparcbars
 **Price(MD):** 7.00    **Price(RMB):** 48.44    **Quantity:** 353
-<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/7-sparcbars.png' | relative_url }}" alt="7 Sparcbars" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/700-sparcbars.png' | relative_url }}" alt="7 Sparcbars" class="image featured">
 
 ### 40s
 **Price(MD):** 70.00    **Price(RMB):** 484.40    **Quantity:** 92
@@ -114,9 +114,9 @@ NOTE: USD to RMB exchange rate is 6.92
 **Price(MD):** 35.00    **Price(RMB):** 242.20    **Quantity:** 115
 <img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/ortho-text.jpg' | relative_url }}" alt="Ortho Text" class="image featured">
 
-### Orhto Micons
+### Ortho Micons
 **Price(MD):** 35.00    **Price(RMB):** 242.20    **Quantity:** 166
-<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/orhto-micons.png' | relative_url }}" alt="Orhto Micons" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/laser/kits_pics/ortho-micons.jpg' | relative_url }}" alt="Ortho Micons" class="image featured">
 
 ### Ergo
 **Price(MD):** 54.00    **Price(RMB):** 373.68    **Quantity:** 67
