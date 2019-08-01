@@ -82,7 +82,7 @@ NOTE: USD to RMB exchange rate is 6.60
 
 ### Colevrak
 **Price(USD):** 26.99   **Price(RMB):** 178.13  **Price(KP):** 165.00   **Quantity:** unknown  
-NOTE: It is the same as round3
+<img src="{{ 'assets/images/sa-keycaps/pulser3/kits_pics/r3colevrak.jpg' | relative_url }}" atl=    "Colevrak" class="image featured">
 
 ## Info
 * Designer: Mito

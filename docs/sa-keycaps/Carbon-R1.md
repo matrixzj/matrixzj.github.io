@@ -79,15 +79,14 @@ NOTE: USD to RMB exchange rate is 6.39
 
 ### Novelty
 **Price(USD):** 14.99    **Price(RMB):** 95.79    **Price(KP):** 95.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/carbonr1/kits_pics/novelty.jpg' | relative_url }}" alt="Novelty" class="image featured">
 
 ### Warning Signs
 **Price(USD):** 14.99    **Price(RMB):** 95.79    **Price(KP):** 97.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/carbonr1/kits_pics/warning-signs.jpg' | relative_url }}" alt="Warning Signs" class="image featured">
 
 ### Forums
 **Price(USD):** 3.59    **Price(RMB):** 22.94    **Price(KP):** 25.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/carbonr1/kits_pics/forums.jpg' | relative_url }}" alt="Forums" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/carbonr1/kits_pics/novelty.jpg' | relative_url }}" alt="Novelty" class="image featured">
+
 
 
 ## Info
