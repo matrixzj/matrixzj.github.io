@@ -46,6 +46,14 @@ NOTE: USD to RMB exchange rate is 6.92
 * GB Time: 2019-08
 * ColorCodes: unknown 
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|2728 C|0821 C
+|Modifers 1|2965 C|0821 C
+|Modifers 2|0821 C|2965 C
+
+<img src="{{ 'assets/images/gmk-keycaps/voyage/colors.jpg' | relative_url }}" alt="color" class="image featured">
+
 
 ## Pictures
 <img src="{{ 'assets/images/gmk-keycaps/voyage/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
