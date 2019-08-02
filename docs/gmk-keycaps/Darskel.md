@@ -3,7 +3,7 @@ title: Darskel 暗黑骷髅
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31080
+nav_order: 31085
 ---
 
 # Darskel 暗黑骷髅
