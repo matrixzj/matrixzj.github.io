@@ -38,7 +38,7 @@ NOTE: USD to RMB exchange rate is 6.92
 
 ### Ortho
 **Price(ThekeyCompany):** 55.00    **Price(RMB):** 380.60    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/nightrunner/kits_pics/ortho.png' | relative_url }}" alt="Ortho" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/nightrunner/kits_pics/ortho.jpg' | relative_url }}" alt="Ortho" class="image featured">
 
 ### Novelties
 **Price(ThekeyCompany):** 55.00    **Price(RMB):** 380.60    **Quantity:** unknown  
