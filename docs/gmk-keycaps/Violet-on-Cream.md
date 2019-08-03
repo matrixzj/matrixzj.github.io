@@ -3,7 +3,7 @@ title: Violet on Cream 奶紫
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31005
+nav_order: 31010
 ---
 
 # Violet on Cream 奶紫
