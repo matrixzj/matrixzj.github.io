@@ -8,7 +8,9 @@ nav_order: 33010
 
 # Laser 激光
 
-ref link: [Laser MD GB Link](https://www.massdrop.com/buy/massdrop-x-mito-gmk-laser-custom-keycap-set)
+ref link: [Laser MD GB Link](https://www.massdrop.com/buy/massdrop-x-mito-gmk-laser-custom-keycap-set)   
+ref link: [Laser Translucent MD GB Link](https://drop.com/buy/massdrop-x-mito-laserwave-gmk-translucent-keycaps)
+
 
 * [Price](#price)
 * [Kits](#kits)
@@ -30,8 +32,12 @@ NOTE: USD to RMB exchange rate is 6.63
 |[Euro](#euro)|42.99|285.02|100|
 |[Spacebars](#spacebars)|17.99|119.27|908|
 |[Colevrak](#colevrak)|42.99|285.02|63|
+|[Dawn](#Dawn)|18.99|125.90|317|
+|[Dust](#Dust)|16.99|112.64|494|
+
 
 <img src="{{ 'assets/images/gmk-keycaps/laser/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/laser/price1.jpg' | relative_url }}" alt="price" class="image featured">
 
 
 ## Kits
@@ -71,6 +77,13 @@ NOTE: USD to RMB exchange rate is 6.63
 **Price(MD):** 42.99    **Price(RMB):** 285.02    **Quantity:** 63  
 <img src="{{ 'assets/images/gmk-keycaps/laser/kits_pics/colevrak.jpg' | relative_url }}" alt="Colevrak" class="image featured">
 
+### Dawn
+**Price(MD):** 18.99    **Price(RMB):** 125.90    **Quantity:** 317  
+<img src="{{ 'assets/images/gmk-keycaps/laser/kits_pics/dawn.jpg' | relative_url }}" alt="Dawn" class="image featured">
+
+### Dawn
+**Price(MD):** 16.99    **Price(RMB):** 112.64    **Quantity:** 494   
+<img src="{{ 'assets/images/gmk-keycaps/laser/kits_pics/dust.jpg' | relative_url }}" alt="Dust" class="image featured">
 
 ## Info
 * Designer: Mito

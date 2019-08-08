@@ -3,7 +3,7 @@ title: Violet on Cream 奶紫
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31010
+nav_order: 31015
 ---
 
 # Violet on Cream 奶紫
@@ -49,7 +49,13 @@ NOTE: USD to RMB exchange rate is 6.92
 * Designer: hineybush
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2019-08
-* ColorCodes: same as SA verion 
+* ColorCodes: 
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|WS4|2622 C
+|Modifiers|2622 C|WS4
+|Purple Alpha|2622 C|WS4
 
 
 ## Pictures

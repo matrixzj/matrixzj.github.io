@@ -118,6 +118,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Merlin](docs/gmk-keycaps/Merlin/)
 * [Night Runner 夜跑](docs/gmk-keycaps/Night-Runner/)
 * [Violet on Cream 奶紫](docs/gmk-keycaps/Violet-on-Cream/)
 * [Missing Keys](docs/gmk-keycaps/Missing-Keys/)
