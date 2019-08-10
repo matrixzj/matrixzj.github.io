@@ -126,7 +126,7 @@ permalink: /
 * [Voyage 旅行](docs/gmk-keycaps/Voyage/)
 * [Peach n Cream](docs/gmk-keycaps/Peach-n-Cream/)
 * [Dots 点点点](docs/gmk-keycaps/Dots/)
-* [Vaporwave 节气波](docs/gmk-keycaps/Vaporwave/)
+* [Vaporwave 蒸汽波](docs/gmk-keycaps/Vaporwave/)
 * [Pulse 脉冲](docs/gmk-keycaps/Pulse/)
 * [Korean Beige Add-on 白色韩文字根](docs/gmk-keycaps/Korean-Beige-Add-on/)
 * [Handarbeit](docs/gmk-keycaps/Handarbeit/)

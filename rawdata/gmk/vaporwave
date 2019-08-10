@@ -1,5 +1,5 @@
 name = 'Vaporwave'
-cname = '节气波'
+cname = '蒸气波'
 keycapstype = 'GMK'
 designer = 'NaturalPack'
 profile = '1-1-2-3-4-4'
@@ -7,8 +7,8 @@ time = '2019-07'
 colorcodes = ''
 platform = 'Novelkeys'
 link = 'https://novelkeys.xyz/collections/frontpage/products/gmk-vaporwave-gb'
-Base|125|||
-Hiragana|62|||
-40s|45|||
-Novelties|50|||
-Spacebars|20|||
+Base|125||780|
+Hiragana|62||255|
+40s|45||122|
+Novelties|50||390|
+Spacebars|20||275|
