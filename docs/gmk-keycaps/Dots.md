@@ -21,22 +21,22 @@ NOTE: USD to RMB exchange rate is 6.88
 
 | Name          | Price(Novelkeys)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|928.80|unknown|
-|[Nomad](#nomad)|35.00|240.80|unknown|
-|[Ergo](#ergo)|110.00|756.80|unknown|
+|[Base](#base)|135.00|928.80|1150|
+|[Nomad](#nomad)|35.00|240.80|280|
+|[Ergo](#ergo)|110.00|756.80|255|
 
 
 ## Kits
 ### Base
-**Price(Novelkeys):** 135.00    **Price(RMB):** 928.80    **Quantity:** unknown  
+**Price(Novelkeys):** 135.00    **Price(RMB):** 928.80    **Quantity:** 1150  
 <img src="{{ 'assets/images/gmk-keycaps/dots/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Nomad
-**Price(Novelkeys):** 35.00    **Price(RMB):** 240.80    **Quantity:** unknown  
+**Price(Novelkeys):** 35.00    **Price(RMB):** 240.80    **Quantity:** 280  
 <img src="{{ 'assets/images/gmk-keycaps/dots/kits_pics/nomad.jpg' | relative_url }}" alt="Nomad" class="image featured">
 
 ### Ergo
-**Price(Novelkeys):** 110.00    **Price(RMB):** 756.80    **Quantity:** unknown  
+**Price(Novelkeys):** 110.00    **Price(RMB):** 756.80    **Quantity:** 255  
 <img src="{{ 'assets/images/gmk-keycaps/dots/kits_pics/ergo.png' | relative_url }}" alt="Ergo" class="image featured">
 
 
