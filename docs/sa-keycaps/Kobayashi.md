@@ -36,7 +36,7 @@ NOTE: USD to RMB exchange rate is 6.47
 
 ### 40Bit
 **Price(USD):** 75.00    **Price(RMB):** 485.25    **Price(ZF):** 499.00    **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/kobayashi/kits_pics/40bit.png' | relative_url }}" alt="40Bit" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/kobayashi/kits_pics/40bit.jpg' | relative_url }}" alt="40Bit" class="image featured">
 
 ## Info
 * Designer: Madeo
