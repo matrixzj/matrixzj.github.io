@@ -21,22 +21,22 @@ NOTE: USD to RMB exchange rate is 6.88
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|149.99|1031.93|unknown|
-|[Spacebars](#spacebars)|23.99|165.05|unknown|
-|[40s](#40s)|41.99|288.89|unknown|
+|[Base](#base)|149.99|1031.93|478|
+|[Spacebars](#spacebars)|23.99|165.05|206|
+|[40s](#40s)|41.99|288.89|59|
 
 
 ## Kits
 ### Base
-**Price(GH):** 149.99    **Price(RMB):** 1031.93    **Quantity:** unknown  
+**Price(GH):** 149.99    **Price(RMB):** 1031.93    **Quantity:** 478  
 <img src="{{ 'assets/images/gmk-keycaps/peachncream/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Spacebars
-**Price(GH):** 23.99    **Price(RMB):** 165.05    **Quantity:** unknown  
+**Price(GH):** 23.99    **Price(RMB):** 165.05    **Quantity:** 206  
 <img src="{{ 'assets/images/gmk-keycaps/peachncream/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 ### 40s
-**Price(GH):** 41.99    **Price(RMB):** 288.89    **Quantity:** unknown  
+**Price(GH):** 41.99    **Price(RMB):** 288.89    **Quantity:** 59  
 <img src="{{ 'assets/images/gmk-keycaps/peachncream/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 
