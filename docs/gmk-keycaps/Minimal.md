@@ -3,7 +3,7 @@ title: Minimal 极简
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31155
+nav_order: 31160
 ---
 
 # Minimal 极简
