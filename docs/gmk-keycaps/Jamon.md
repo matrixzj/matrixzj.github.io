@@ -45,7 +45,7 @@ ref link: [Jamon MD GB Link](https://www.massdrop.com/buy/massdrop-x-zambumon-gm
 
 ### Forties & Split
 **Price(MD):** 42.99    **Price(RMB):** 291.90    **Quantity:** 196
-<img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/forties-split.png' | relative_url }}" alt="Forties & Split" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/jamon/kits_pics/forties-split.jpg' | relative_url }}" alt="Forties & Split" class="image featured">
 
 ### Spacebars
 **Price(MD):** 17.99    **Price(RMB):** 122.15    **Quantity:** 230
