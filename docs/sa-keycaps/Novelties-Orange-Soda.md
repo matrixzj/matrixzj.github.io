@@ -27,7 +27,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Kits
 ### All
 **Price(Taobao):** 43.65    **Price(RMB):** 312.00    **Quantity:** unknown  
-<img src="{{ 'assets/images/sa-keycaps/noveltiesorangesoda/kits_pics/all.jpeg' | relative_url }}" alt="All" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/noveltiesorangesoda/kits_pics/all.png' | relative_url }}" alt="All" class="image featured">
 
 
 ## Info
