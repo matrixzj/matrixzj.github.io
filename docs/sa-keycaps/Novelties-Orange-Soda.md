@@ -1,0 +1,65 @@
+---
+title: Novelties Orange Soda 橘子苏打个性
+layout: default
+icon: fa-keyboard-o
+parent: SA Keycaps
+nav_order: 31005
+---
+
+# Novelties Orange Soda 橘子苏打个性
+
+ref link: [Novelties Orange Soda Taobao GB Link](https://item.taobao.com/item.htm?ut_sk=1.W68UHWiuBnADAIfif0V87%2Bpi_21380790_1567082259029.TaoPassword-QQ.1&id=601517805644&sourceType=item&price=10&suid=D1962CFA-A013-4CBC-AC75-6557AEFA3590&un=62c028e3b6ea1d091d47af8e7279b96e&share_crt_v=1&sp_tk=4oK0dk9XbllQMEVVUm/igrQ=&cpp=1&shareurl=true&spm=a313p.22.110.1059796219392&short_name=h.eka68yd&sm=ad6e09&app=chrome)
+
+* [Price](#price)
+* [Kits](#kits)
+* [Info](#info)
+* [Pictures](#pictures)
+
+
+## Price  
+NOTE: USD to RMB exchange rate is 6.92
+
+| Name          | Price(Taobao)    |  Price(RMB) | Quantity |
+| ------------- | ------------ |  ---------- | -------- |
+|[All](#all)|43.65|312.00|unknown|
+
+
+## Kits
+### All
+**Price(Taobao):** 43.65    **Price(RMB):** 312.00    **Quantity:** unknown  
+<img src="{{ 'assets/images/sa-keycaps/noveltiesorangesoda/kits_pics/all.jpeg' | relative_url }}" alt="All" class="image featured">
+
+
+## Info
+* Designer: YueYue
+* Profile: SA 
+* GB Time: 2019-08
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>OAS</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAS.png' | relative_url }}" alt="colorOAS" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>VCK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCK.png' | relative_url }}" alt="colorVCK" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BDH</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BDH.png' | relative_url }}" alt="colorBDH" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YY</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YY.png' | relative_url }}" alt="colorYY" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>YBP</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YBP.png' | relative_url }}" alt="colorYBP" height="75" width="170"></th>
+  </tr>
+</table>
+
+
