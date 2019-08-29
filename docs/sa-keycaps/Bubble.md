@@ -3,7 +3,7 @@ title: Bubble 泡泡
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 32045
+nav_order: 32050
 ---
 
 # Bubble 泡泡

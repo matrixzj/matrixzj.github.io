@@ -37,6 +37,7 @@ permalink: /
 
 ### 2018
 * [Forgive 原谅](docs/sa-keycaps/Forgive/)
+* [Novelties WenJie 文杰个性](docs/sa-keycaps/Novelties-WenJie/)
 * [Violet on Cream 奶紫ZF](docs/sa-keycaps/Violet-on-Cream/)
 * [Banana 香蕉](docs/sa-keycaps/Banana/)
 * [Bee 蜜蜂](docs/sa-keycaps/Bee/)
