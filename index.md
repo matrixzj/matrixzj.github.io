@@ -120,6 +120,8 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [9009 R3](docs/gmk-keycaps/9009-R3/)
+* [WoB/BoW Icon Extension](docs/gmk-keycaps/WoBBoW-Icon-Extension/)
 * [WoB Hiragana 黑白日文](docs/gmk-keycaps/WoB-Hiragana/)
 * [Fro.Yo](docs/gmk-keycaps/Fro.Yo/)
 * [Merlin](docs/gmk-keycaps/Merlin/)

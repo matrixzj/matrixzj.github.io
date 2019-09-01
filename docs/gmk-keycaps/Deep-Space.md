@@ -3,7 +3,7 @@ title: Deep Space 深空
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31165
+nav_order: 31175
 ---
 
 # Deep Space 深空
