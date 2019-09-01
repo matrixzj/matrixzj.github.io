@@ -3,7 +3,7 @@ title: WoBBoW Icon Extension
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31010
+nav_order: 31020
 ---
 
 # WoBBoW Icon Extension
@@ -38,6 +38,6 @@ NOTE: USD to RMB exchange rate is 6.92
 * ColorCodes:  
 
 Base | Legend
-:======:|:======:
+:------:|:------:
 CR|WS1
 WS1|CR
