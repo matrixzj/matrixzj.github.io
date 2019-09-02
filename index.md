@@ -120,6 +120,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [SandStorm 沙暴](docs/gmk-keycaps/SandStorm/)
 * [First Love 初恋](docs/gmk-keycaps/First-Love/)
 * [Rocket 火箭雪糕](docs/gmk-keycaps/Rocket/)
 * [9009 R3](docs/gmk-keycaps/9009-R3/)
