@@ -21,32 +21,32 @@ NOTE: USD to RMB exchange rate is 6.88
 
 | Name          | Price(Dixie)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|928.80|516|
-|[Numpad](#numpad)|30.00|206.40|144|
-|[Spacebars](#spacebars)|30.00|206.40|90|
-|[Novelties](#novelties)|50.00|344.00|352|
-|[ISO](#iso)|25.00|172.00|27|
+|[Base](#base)|135.00|928.80|903|
+|[Numpad](#numpad)|30.00|206.40|265|
+|[Spacebars](#spacebars)|30.00|206.40|156|
+|[Novelties](#novelties)|50.00|344.00|564|
+|[ISO](#iso)|25.00|172.00|54|
 
 
 ## Kits
 ### Base
-**Price(Dixie):** 135.00    **Price(RMB):** 928.80    **Quantity:** 516
+**Price(Dixie):** 135.00    **Price(RMB):** 928.80    **Quantity:** 903
 <img src="{{ 'assets/images/sa-keycaps/bliss/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Numpad
-**Price(Dixie):** 30.00    **Price(RMB):** 206.40    **Quantity:** 144
+**Price(Dixie):** 30.00    **Price(RMB):** 206.40    **Quantity:** 265
 <img src="{{ 'assets/images/sa-keycaps/bliss/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
 ### Spacebars
-**Price(Dixie):** 30.00    **Price(RMB):** 206.40    **Quantity:** 90
+**Price(Dixie):** 30.00    **Price(RMB):** 206.40    **Quantity:** 156
 <img src="{{ 'assets/images/sa-keycaps/bliss/kits_pics/spacebars.jpg' | relative_url }}" alt="Spacebars" class="image featured">
 
 ### Novelties
-**Price(Dixie):** 50.00    **Price(RMB):** 344.00    **Quantity:** 352
+**Price(Dixie):** 50.00    **Price(RMB):** 344.00    **Quantity:** 564
 <img src="{{ 'assets/images/sa-keycaps/bliss/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
 ### ISO
-**Price(Dixie):** 25.00    **Price(RMB):** 172.00    **Quantity:** 27
+**Price(Dixie):** 25.00    **Price(RMB):** 172.00    **Quantity:** 54
 <img src="{{ 'assets/images/sa-keycaps/bliss/kits_pics/iso.jpg' | relative_url }}" alt="ISO" class="image featured">
 
 
