@@ -21,27 +21,27 @@ NOTE: USD to RMB exchange rate is 6.92
 
 | Name          | Price(Novelkeys)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|115.00|795.80|unknown|
-|[Purple Alphas](#purple-alphas)|70.00|484.40|unknown|
-|[40s](#40s)|35.00|242.20|unknown|
-|[Spacebars](#spacebars)|35.00|242.20|unknown|
+|[Base](#base)|115.00|795.80|411|
+|[Purple Alphas](#purple-alphas)|70.00|484.40|158|
+|[40s](#40s)|35.00|242.20|65|
+|[Spacebars](#spacebars)|35.00|242.20|99|
 
 
 ## Kits
 ### Base
-**Price(Novelkeys):** 115.00    **Price(RMB):** 795.80    **Quantity:** unknown  
+**Price(Novelkeys):** 115.00    **Price(RMB):** 795.80    **Quantity:** 411
 <img src="{{ 'assets/images/gmk-keycaps/violetoncream/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Purple Alphas
-**Price(Novelkeys):** 70.00    **Price(RMB):** 484.40    **Quantity:** unknown  
+**Price(Novelkeys):** 70.00    **Price(RMB):** 484.40    **Quantity:** 158
 <img src="{{ 'assets/images/gmk-keycaps/violetoncream/kits_pics/purple-alphas.png' | relative_url }}" alt="Purple Alphas" class="image featured">
 
 ### 40s
-**Price(Novelkeys):** 35.00    **Price(RMB):** 242.20    **Quantity:** unknown  
+**Price(Novelkeys):** 35.00    **Price(RMB):** 242.20    **Quantity:** 65
 <img src="{{ 'assets/images/gmk-keycaps/violetoncream/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Spacebars
-**Price(Novelkeys):** 35.00    **Price(RMB):** 242.20    **Quantity:** unknown  
+**Price(Novelkeys):** 35.00    **Price(RMB):** 242.20    **Quantity:** 99
 <img src="{{ 'assets/images/gmk-keycaps/violetoncream/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 
