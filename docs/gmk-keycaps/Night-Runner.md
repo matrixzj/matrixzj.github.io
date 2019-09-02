@@ -21,27 +21,27 @@ NOTE: USD to RMB exchange rate is 6.92
 
 | Name          | Price(ThekeyCompany)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|139.00|961.88|unknown|
-|[Spacebar](#spacebar)|22.00|152.24|unknown|
-|[Ortho](#ortho)|55.00|380.60|unknown|
-|[Novelties](#novelties)|55.00|380.60|unknown|
+|[Base](#base)|139.00|961.88|352|
+|[Spacebar](#spacebar)|22.00|152.24|176|
+|[Ortho](#ortho)|55.00|380.60|197|
+|[Novelties](#novelties)|55.00|380.60|57|
 
 
 ## Kits
 ### Base
-**Price(ThekeyCompany):** 139.00    **Price(RMB):** 961.88    **Quantity:** unknown  
+**Price(ThekeyCompany):** 139.00    **Price(RMB):** 961.88    **Quantity:** 352
 <img src="{{ 'assets/images/gmk-keycaps/nightrunner/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Spacebar
-**Price(ThekeyCompany):** 22.00    **Price(RMB):** 152.24    **Quantity:** unknown  
+**Price(ThekeyCompany):** 22.00    **Price(RMB):** 152.24    **Quantity:** 176
 <img src="{{ 'assets/images/gmk-keycaps/nightrunner/kits_pics/spacebar.jpg' | relative_url }}" alt="Spacebar" class="image featured">
 
 ### Ortho
-**Price(ThekeyCompany):** 55.00    **Price(RMB):** 380.60    **Quantity:** unknown  
+**Price(ThekeyCompany):** 55.00    **Price(RMB):** 380.60    **Quantity:** 197
 <img src="{{ 'assets/images/gmk-keycaps/nightrunner/kits_pics/ortho.jpg' | relative_url }}" alt="Ortho" class="image featured">
 
 ### Novelties
-**Price(ThekeyCompany):** 55.00    **Price(RMB):** 380.60    **Quantity:** unknown  
+**Price(ThekeyCompany):** 55.00    **Price(RMB):** 380.60    **Quantity:** 57
 <img src="{{ 'assets/images/gmk-keycaps/nightrunner/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
 
