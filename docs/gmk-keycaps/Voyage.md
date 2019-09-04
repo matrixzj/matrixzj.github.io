@@ -21,22 +21,22 @@ NOTE: USD to RMB exchange rate is 6.92
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|123.99|858.01|unknown|
-|[Novelties](#novelties)|42.99|297.49|unknown|
-|[Extension](#extension)|36.99|255.97|unknown|
+|[Base](#base)|123.99|858.01|328|
+|[Novelties](#novelties)|42.99|297.49|201|
+|[Extension](#extension)|36.99|255.97|83|
 
 
 ## Kits
 ### Base
-**Price(GH):** 123.99    **Price(RMB):** 858.01    **Quantity:** unknown  
+**Price(GH):** 123.99    **Price(RMB):** 858.01    **Quantity:** 328
 <img src="{{ 'assets/images/gmk-keycaps/voyage/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Novelties
-**Price(GH):** 42.99    **Price(RMB):** 297.49    **Quantity:** unknown  
+**Price(GH):** 42.99    **Price(RMB):** 297.49    **Quantity:** 201
 <img src="{{ 'assets/images/gmk-keycaps/voyage/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
 
 ### Extension
-**Price(GH):** 36.99    **Price(RMB):** 255.97    **Quantity:** unknown  
+**Price(GH):** 36.99    **Price(RMB):** 255.97    **Quantity:** 83
 <img src="{{ 'assets/images/gmk-keycaps/voyage/kits_pics/extension.png' | relative_url }}" alt="Extension" class="image featured">
 
 
