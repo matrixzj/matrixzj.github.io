@@ -19,29 +19,30 @@ ref link: [Violet on Cream Novelkeys GB Link](https://geekhack.org/index.php?top
 ## Price  
 NOTE: USD to RMB exchange rate is 6.92
 
+
 | Name          | Price(Novelkeys)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|115.00|795.80|411|
-|[Purple Alphas](#purple-alphas)|70.00|484.40|158|
-|[40s](#40s)|35.00|242.20|65|
-|[Spacebars](#spacebars)|35.00|242.20|99|
+|[Base](#base)|115.00|795.80|561|
+|[Purple Alphas](#purple-alphas)|70.00|484.40|206|
+|[40s](#40s)|35.00|242.20|100|
+|[Spacebars](#spacebars)|35.00|242.20|129|
 
 
 ## Kits
 ### Base
-**Price(Novelkeys):** 115.00    **Price(RMB):** 795.80    **Quantity:** 411
+**Price(Novelkeys):** 115.00    **Price(RMB):** 795.80    **Quantity:** 561
 <img src="{{ 'assets/images/gmk-keycaps/violetoncream/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Purple Alphas
-**Price(Novelkeys):** 70.00    **Price(RMB):** 484.40    **Quantity:** 158
+**Price(Novelkeys):** 70.00    **Price(RMB):** 484.40    **Quantity:** 206
 <img src="{{ 'assets/images/gmk-keycaps/violetoncream/kits_pics/purple-alphas.png' | relative_url }}" alt="Purple Alphas" class="image featured">
 
 ### 40s
-**Price(Novelkeys):** 35.00    **Price(RMB):** 242.20    **Quantity:** 65
+**Price(Novelkeys):** 35.00    **Price(RMB):** 242.20    **Quantity:** 100
 <img src="{{ 'assets/images/gmk-keycaps/violetoncream/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Spacebars
-**Price(Novelkeys):** 35.00    **Price(RMB):** 242.20    **Quantity:** 99
+**Price(Novelkeys):** 35.00    **Price(RMB):** 242.20    **Quantity:** 129
 <img src="{{ 'assets/images/gmk-keycaps/violetoncream/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 
