@@ -20,7 +20,7 @@ permalink: /
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2019
-* [Novelties Orange Soda 橘子苏打个性](docs/sa-keycaps/Novelties-Orange-Soda/)
+* [Royal Navy 皇家海军](docs/sa-keycaps/Royal-Navy/)
 * [128K AE](docs/sa-keycaps/128K-AE/)
 * [Bliss](docs/sa-keycaps/Bliss/)
 * [Commando 2020 突击2020](docs/sa-keycaps/Commando-2020/)
