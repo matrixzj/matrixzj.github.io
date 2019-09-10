@@ -122,7 +122,6 @@ permalink: /
 ### 2019
 * [SandStorm 沙暴](docs/gmk-keycaps/SandStorm/)
 * [First Love 初恋](docs/gmk-keycaps/First-Love/)
-* [Rocket 火箭雪糕](docs/gmk-keycaps/Rocket/)
 * [9009 R3](docs/gmk-keycaps/9009-R3/)
 * [WoB/BoW Icon Extension](docs/gmk-keycaps/WoBBoW-Icon-Extension/)
 * [WoB Hiragana 黑白日文](docs/gmk-keycaps/WoB-Hiragana/)
