@@ -3,7 +3,7 @@ title: Wavez 声波
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31145
+nav_order: 31150
 ---
 
 # Wavez 声波

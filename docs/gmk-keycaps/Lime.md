@@ -3,7 +3,7 @@ title: Lime 青柠
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31160
+nav_order: 31165
 ---
 
 # Lime 青柠
