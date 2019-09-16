@@ -230,6 +230,7 @@ permalink: /
 * [Ocean Dolch 海豆](docs/gmk-keycaps/Ocean-Dolch/)
 * [Plum 李子](docs/gmk-keycaps/Plum/)
 * [Rainbow 彩虹](docs/gmk-keycaps/Rainbow/)
+* [Valentine 2017 情人节2017](docs/gmk-keycaps/Valentine-2017/)
 * [Exent](docs/gmk-keycaps/Exent/)
 * [Mint Chocolate 薄荷巧克力](docs/gmk-keycaps/Mint-Chocolate/)
 * [Soware 瞎眼](docs/gmk-keycaps/Soware/)
