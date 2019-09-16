@@ -120,6 +120,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Crimson Cadet 猩红学员](docs/gmk-keycaps/Crimson-Cadet/)
 * [SandStorm 沙暴](docs/gmk-keycaps/SandStorm/)
 * [First Love 初恋](docs/gmk-keycaps/First-Love/)
 * [9009 R3](docs/gmk-keycaps/9009-R3/)

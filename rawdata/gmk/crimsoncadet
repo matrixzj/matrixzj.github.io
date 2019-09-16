@@ -1,12 +1,12 @@
 name = 'Crimson Cadet'
-cname = ''
+cname = '猩红学员'
 keycapstype = 'GMK'
 designer = 'Oblotzky'
 profile = '1-1-2-3-4-4'
 time = '2019-09'
 colorcodes = ''
 platform = 'Novelkeys'
-link = ''
-Base||||
-Symbols||||
-Spacebars||||
+link = 'https://novelkeys.xyz/collections/group-buys/products/gmk-crimson-cadet-gb'
+Base|115|||
+Symbols|38|||
+Spacebars|18|||
