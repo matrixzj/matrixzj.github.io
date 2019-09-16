@@ -1,0 +1,11 @@
+name = 'WoBBoW Hangul Add-On'
+cname = '黑白韩文增补'
+keycapstype = 'GMK'
+designer = 'AbrotherThatIsUnderecover'
+profile = '1-2-3-4'
+time = '2019-08'
+colorcodes = ''
+platform = 'GH'
+link = 'https://geekhack.org/index.php?topic=102183'
+White|45|||
+Black|45|||

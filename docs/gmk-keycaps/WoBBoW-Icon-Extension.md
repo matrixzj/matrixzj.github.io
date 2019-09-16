@@ -1,14 +1,14 @@
 ---
-title: WoBBoW Icon Extension
+title: WoB/BoW Icon Extension
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 31020
 ---
 
-# WoBBoW Icon Extension
+# WoB/BoW Icon Extension
 
-ref link: [WoBBoW Icon Extension GH GB Link](https://geekhack.org/index.php?topic=101664.0)
+ref link: [WoB/BoW Icon Extension GH GB Link](https://geekhack.org/index.php?topic=101664.0)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -27,7 +27,6 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Kits
 ### All
 **Price(GH):** 54.99    **Price(RMB):** 380.53    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/gmk-keycaps/wobbowiconextension/kits_pics/
 <img src="{{ 'assets/images/gmk-keycaps/wobbowiconextension/kits_pics/all.jpg' | relative_url }}" alt="All" class="image featured">
 
 

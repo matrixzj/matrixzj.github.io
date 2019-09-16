@@ -3,7 +3,7 @@ title: Pink Valentine Cherry KA 2017 情人节2017
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10790
+nav_order: 33190
 ---
 
 # Pink Valentine Cherry KA 2017 情人节2017
@@ -32,11 +32,10 @@ NOTE: USD to RMB exchange rate is 6.88
 
 
 ## Info
-* Designer: xiaodian
+* Designer: xiaodian317
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2017-02
 * ColorCodes:  
 
 
 ## Pictures
-* [Valentine 2017 情人节2017](docs/gmk-keycaps/Valentine-2017/)
