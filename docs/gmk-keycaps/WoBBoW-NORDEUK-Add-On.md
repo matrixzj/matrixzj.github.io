@@ -29,12 +29,10 @@ NOTE: USD to RMB exchange rate is 8.88
 ## Kits
 ### Black
 **Price(GH):** 57.00    **Price(RMB):** 506.16    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/gmk-keycaps/wobbownordeukadd-on/kits_pics/
 <img src="{{ 'assets/images/gmk-keycaps/wobbownordeukadd-on/kits_pics/black.jpg' | relative_url }}" alt="Black" class="image featured">
 
 ### White
 **Price(GH):** 57.00    **Price(RMB):** 506.16    **Quantity:** unknown  
-/home/jzou/keyboard/web/assets/images/gmk-keycaps/wobbownordeukadd-on/kits_pics/
 <img src="{{ 'assets/images/gmk-keycaps/wobbownordeukadd-on/kits_pics/white.jpg' | relative_url }}" alt="White" class="image featured">
 
 
