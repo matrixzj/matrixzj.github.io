@@ -3,7 +3,7 @@ title: Peach n Cream
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31070
+nav_order: 31080
 ---
 
 # Peach n Cream

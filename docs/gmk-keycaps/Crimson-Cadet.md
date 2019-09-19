@@ -3,7 +3,7 @@ title: Crimson Cadet 猩红学员
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 10800
+nav_order: 31005
 ---
 
 # Crimson Cadet 猩红学员
