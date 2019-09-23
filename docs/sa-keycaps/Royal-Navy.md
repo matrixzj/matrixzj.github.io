@@ -69,7 +69,25 @@ NOTE: GBP to RMB exchange rate is 8.88
 * Designer: UKKeycaps
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2019-09
-* Color Codes: unknown  
+* Color Codes:  
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>RA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png' | relative_url }}" alt="colorRA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BBI</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBI.png' | relative_url }}" alt="colorBBI" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WCK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="75" width="170"></th>
+  </tr>
+</table>
 
 
 ## Pictures

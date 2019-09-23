@@ -211,7 +211,7 @@ for i in priceDict:
     	print printKitFormat % (priceDict[i][1], priceDict[i][2], platform, 'unknown')
 
     kitPicPath = '/home/jzou/keyboard/web/assets/images/%s-keycaps/%s/kits_pics/' % (keycapstype.lower(), name.lower().replace(" ",""))
-    print kitPicPath
+    # print kitPicPath
     if os.path.isdir(kitPicPath):
         pictures = [f for f in listdir(kitPicPath)]
         try:
