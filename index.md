@@ -120,6 +120,7 @@ permalink: /
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Wasabi 芥末](docs/gmk-keycaps/Wasabi/)
 * [Crimson Cadet 猩红学员](docs/gmk-keycaps/Crimson-Cadet/)
 * [WoBBoW NORDEUK Add-On](docs/gmk-keycaps/WoBBoW-NORDEUK-Add-On/)
 * [SandStorm 沙暴](docs/gmk-keycaps/SandStorm/)
