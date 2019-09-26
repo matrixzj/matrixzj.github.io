@@ -17,22 +17,22 @@ ref link: [WoBBoW NORDEUK Add-On GH GB Link](https://geekhack.org/index.php?topi
 * [Pictures](#pictures)
 
 
-## Price  
-NOTE: USD to RMB exchange rate is 8.88
+## Price
+NOTE: USD to RMB exchange rate is 7.17
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Black](#black)|57.00|506.16|unknown|
-|[White](#white)|57.00|506.16|unknown|
+|[Black](#black)|57.00|408.69|unknown|
+|[White](#white)|57.00|408.69|unknown|
 
 
 ## Kits
 ### Black
-**Price(GH):** 57.00    **Price(RMB):** 506.16    **Quantity:** unknown  
+**Price(GH):** 57.00    **Price(RMB):** 408.69    **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/wobbownordeukadd-on/kits_pics/black.jpg' | relative_url }}" alt="Black" class="image featured">
 
 ### White
-**Price(GH):** 57.00    **Price(RMB):** 506.16    **Quantity:** unknown  
+**Price(GH):** 57.00    **Price(RMB):** 408.69    **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/wobbownordeukadd-on/kits_pics/white.jpg' | relative_url }}" alt="White" class="image featured">
 
 

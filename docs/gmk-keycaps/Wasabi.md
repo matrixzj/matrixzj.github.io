@@ -16,17 +16,17 @@ ref link: [Wasabi OCO GB Link](https://www.originativeco.com/products/wasabi)
 * [Pictures](#pictures)
 
 
-## Price  
-NOTE: USD to RMB exchange rate is 8.88
+## Price
+NOTE: USD to RMB exchange rate is 7.17
 
 | Name          | Price(OCO)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|160.00|1420.80|unknown|
+|[Base](#base)|160.00|1147.20|unknown|
 
 
 ## Kits
 ### Base
-**Price(OCO):** 160.00    **Price(RMB):** 1420.80    **Quantity:** unknown  
+**Price(OCO):** 160.00    **Price(RMB):** 1147.20    **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/wasabi/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 

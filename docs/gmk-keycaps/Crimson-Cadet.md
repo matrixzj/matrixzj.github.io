@@ -17,26 +17,26 @@ ref link: [Crimson Cadet Novelkeys GB Link](https://novelkeys.xyz/collections/gr
 
 
 ## Price  
-NOTE: USD to RMB exchange rate is 8.88
+NOTE: USD to RMB exchange rate is 7.17
 
 | Name          | Price(Novelkeys)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|115.00|1021.20|unknown|
-|[Symbols](#symbols)|38.00|337.44|unknown|
-|[Spacebars](#spacebars)|18.00|159.84|unknown|
+|[Base](#base)|115.00|824.55|unknown|
+|[Symbols](#symbols)|38.00|272.46|unknown|
+|[Spacebars](#spacebars)|18.00|129.06|unknown|
 
 
 ## Kits
 ### Base
-**Price(Novelkeys):** 115.00    **Price(RMB):** 1021.20    **Quantity:** unknown  
+**Price(Novelkeys):** 115.00    **Price(RMB):** 824.55    **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/crimsoncadet/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Symbols
-**Price(Novelkeys):** 38.00    **Price(RMB):** 337.44    **Quantity:** unknown  
+**Price(Novelkeys):** 38.00    **Price(RMB):** 272.46    **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/crimsoncadet/kits_pics/symbols.png' | relative_url }}" alt="Symbols" class="image featured">
 
 ### Spacebars
-**Price(Novelkeys):** 18.00    **Price(RMB):** 159.84    **Quantity:** unknown  
+**Price(Novelkeys):** 18.00    **Price(RMB):** 129.06    **Quantity:** unknown
 <img src="{{ 'assets/images/gmk-keycaps/crimsoncadet/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 
