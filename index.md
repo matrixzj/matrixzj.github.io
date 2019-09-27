@@ -9,29 +9,9 @@ permalink: /
 # Enjoy Beautiful KeyCaps 
 {: .fs-9 }
 
-.images
-{
-display: inline;
-margin: 0px;
-padding: 0px;
-}
-
-#content
-{
-display: block;
-margin: 0px;
-padding: 0px;
-position: relative;
-top: 90px;
-height: auto;
-max-width: auto;
-overflow-y: hidden;
-overflow-x:auto;
-}
-
 <div id="content">
-    <img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="48" width="48" class="images"/>  
-	<img src="{{ 'assets/images/astro.jpg' | relative_url }}" alt="Astro" height="48" width="48" class="images"/>  
+    <img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="67" width="48" class="images"/>  
+	<img src="{{ 'assets/images/astro.jpg' | relative_url }}" alt="Astro" height="67" width="48" class="images"/>  
 </div>
 Just buy it :) 
 {: .fs-6 .fw-300 }
