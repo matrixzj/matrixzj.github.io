@@ -9,7 +9,9 @@ permalink: /
 # Enjoy Beautiful KeyCaps 
 {: .fs-9 }
 
-<img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="48" width="48"> Just buy it :) 
+<img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="48" width="48">  
+<img src="{{ 'assets/images/astro.jpg' | relative_url }}" alt="Astro" height="48" width="48">  
+Just buy it :) 
 {: .fs-6 .fw-300 }
 
 [SA KeyCaps](#sa-keycaps){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GMK KeyCaps](#gmk-keycaps){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/matrixzj/matrixzj.github.io){: .btn .fs-5 }
