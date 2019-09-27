@@ -21,18 +21,18 @@ NOTE: USD to RMB exchange rate is 6.87
 
 | Name          | Price(USD)    |  Price(RMB)  | Quantity |
 | ------------- | ------------- |  ---------- | -------- |
-|[Full Set](#fullset)|188.00|1290.00|unknown|
-|[YBP Alpha](#ybpalpha)|54.36|366.00|unknown|
+|[Full Set](#fullset)|200.29|1376.00|unknown|
+|[YBP Alpha](#ybpalpha)|59.10|406.00|unknown|
 
 <img src="{{ 'assets/images/sa-keycaps/banana/price.png' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
 ### Full Set
-**Price(USD):** 188.00     **Price(RMB):** 1290.00        **Quantity:** unknown
+**Price(USD):** 200.29     **Price(RMB):** 1376.00        **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/banana/kits_pics/fullset.jpg' | relative_url }}" alt="FullSet" class="image featured">
 
 ### YBP Alpha
-**Price(USD):** 54.36     **Price(RMB):** 366.00        **Quantity:** unknown
+**Price(USD):** 59.10     **Price(RMB):** 406.00        **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/banana/kits_pics/ybpalpha.jpg' | relative_url }}" alt="ybpalpha" class="image featured">
 
 ## Info
