@@ -20,6 +20,7 @@ permalink: /
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2019
+* [Yuri 尤里](docs/sa-keycaps/Yuri/)
 * [Royal Navy 皇家海军](docs/sa-keycaps/Royal-Navy/)
 * [128K AE](docs/sa-keycaps/128K-AE/)
 * [Bliss](docs/sa-keycaps/Bliss/)
