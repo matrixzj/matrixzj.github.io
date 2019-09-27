@@ -9,8 +9,14 @@ permalink: /
 # Enjoy Beautiful KeyCaps 
 {: .fs-9 }
 
-<img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="48" width="48">  
-<img src="{{ 'assets/images/astro.jpg' | relative_url }}" alt="Astro" height="48" width="48">  
+<div id="mainDiv">
+    <div id="Matrix" class="boxes">
+        <img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="48" width="48">  
+    </div>
+    <div id="Astro" class="boxes">
+		<img src="{{ 'assets/images/astro.jpg' | relative_url }}" alt="Astro" height="48" width="48">  
+    </div>
+</div>
 Just buy it :) 
 {: .fs-6 .fw-300 }
 
