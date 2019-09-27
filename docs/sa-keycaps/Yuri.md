@@ -17,20 +17,20 @@ ref link: [Yuri MD GB Link]()
 
 
 ## Price  
-|[Alphas](#alphas)|unknown|unknown|unknown|
-|[Cyrillics](#cyrillics)|unknown|unknown|unknown|
-|[Cosmos](#cosmos)|unknown|unknown|unknown|
-|[Dual Cosmos](#dual-cosmos)|unknown|unknown|unknown|
-|[Modifiers](#modifiers)|unknown|unknown|unknown|
-|[Cyrillic Modifiers](#cyrillic-modifiers)|unknown|unknown|unknown|
-|[Dual Modifiers](#dual-modifiers)|unknown|unknown|unknown|
-|[Numpad](#numpad)|unknown|unknown|unknown|
-|[Ergodox](#ergodox)|unknown|unknown|unknown|
-|[40%](#40%)|unknown|unknown|unknown|
-|[Novelties](#novelties)|unknown|unknown|unknown|
-|[ISO UK](#iso-uk)|unknown|unknown|unknown|
-|[Spacebars](#spacebars)|unknown|unknown|unknown|
-|[Spacekeys](#spacekeys)|unknown|unknown|unknown|
+|[Alphas](#alphas)|unknown|unknown|unknown|  
+|[Cyrillics](#cyrillics)|unknown|unknown|unknown|  
+|[Cosmos](#cosmos)|unknown|unknown|unknown|  
+|[Dual Cosmos](#dual-cosmos)|unknown|unknown|unknown|  
+|[Modifiers](#modifiers)|unknown|unknown|unknown|  
+|[Cyrillic Modifiers](#cyrillic-modifiers)|unknown|unknown|unknown|  
+|[Dual Modifiers](#dual-modifiers)|unknown|unknown|unknown|  
+|[Numpad](#numpad)|unknown|unknown|unknown|  
+|[Ergodox](#ergodox)|unknown|unknown|unknown|  
+|[40%](#40%)|unknown|unknown|unknown|  
+|[Novelties](#novelties)|unknown|unknown|unknown|  
+|[ISO UK](#iso-uk)|unknown|unknown|unknown|  
+|[Spacebars](#spacebars)|unknown|unknown|unknown|  
+|[Spacekeys](#spacekeys)|unknown|unknown|unknown|  
 
 
 ## Kits
