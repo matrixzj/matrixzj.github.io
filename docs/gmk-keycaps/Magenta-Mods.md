@@ -3,7 +3,7 @@ title: Magenta Mods
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 340050
+nav_order: 340910
 ---
 
 # Magenta Mods

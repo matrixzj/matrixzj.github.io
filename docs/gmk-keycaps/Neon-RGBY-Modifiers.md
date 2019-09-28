@@ -3,7 +3,7 @@ title: Neon RGBY Modifiers
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 340060
+nav_order: 340920
 ---
 
 # Neon RGBY Modifiers

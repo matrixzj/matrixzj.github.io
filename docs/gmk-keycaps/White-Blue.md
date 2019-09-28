@@ -3,7 +3,7 @@ title: White Blue
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 340100
+nav_order: 340960
 ---
 
 # White Blue

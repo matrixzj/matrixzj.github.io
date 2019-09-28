@@ -3,7 +3,7 @@ title: Honeywell
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 340020
+nav_order: 340880
 ---
 
 # Honeywell

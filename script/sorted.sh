@@ -18,11 +18,13 @@ function sort_profile() {
         
         sed -ne "/### ${year}/{:a;N;/${previousYear}/!ba;p}" ${tmpDir}/${profile} | grep '^\*' > ${tmpDir}/${profile}-${year}
         
+        echo ${profile}-${year}
+        count=$(cat ${tmpDir}/${profile}-${year} | wc -l)
         order=5
         while read -r line; do 
             fileName=$(echo "${line}" | awk -F'(' "{print \$2}" | awk -F')' "{print \$1}" | sed -e "s/\(.*\)\//\1.md/")
-            fileOrder=$(echo "(50-${last2DigitYear})*10000+${order}" | bc)
-            order=$(expr ${order} + 5)
+            fileOrder=$(echo "(50-${last2DigitYear})*10000+1000-${order}*${count}" | bc)
+            count=$(expr ${count} - 1)
             sed -i "/nav_order/s/.*/nav_order: ${fileOrder}/" ${fileName}
         done < ${tmpDir}/${profile}-${year}
     done

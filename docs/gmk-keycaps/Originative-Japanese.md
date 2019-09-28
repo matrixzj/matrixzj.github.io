@@ -3,7 +3,7 @@ title: Originative Japanese
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 320015
+nav_order: 320865
 ---
 
 # Originative Japanese

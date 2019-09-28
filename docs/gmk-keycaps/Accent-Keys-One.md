@@ -3,7 +3,7 @@ title: Accent Keys One
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 330050
+nav_order: 330835
 ---
 
 # Accent Keys One

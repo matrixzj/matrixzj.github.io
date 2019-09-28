@@ -3,7 +3,7 @@ title: Burgundy R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 330145
+nav_order: 330930
 ---
 
 # Burgundy R1

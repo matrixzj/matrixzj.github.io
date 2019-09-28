@@ -3,7 +3,7 @@ title: JukeBox R2 脆皮鸡R2
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 340060
+nav_order: 340985
 ---
 
 # Jukebox R2

@@ -3,7 +3,7 @@ title: Pulse R1 脉冲R1
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 360005
+nav_order: 360985
 ---
 
 # Pulse R1 脉冲R1

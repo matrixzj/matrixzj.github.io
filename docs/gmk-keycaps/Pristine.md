@@ -3,7 +3,7 @@ title: Pristine 云石
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 330030
+nav_order: 330815
 ---
 
 # Pristine 云石 

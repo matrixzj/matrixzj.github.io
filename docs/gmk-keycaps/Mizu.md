@@ -3,7 +3,7 @@ title: Mizu 水
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310135
+nav_order: 310910
 ---
 
 # Mizu 水

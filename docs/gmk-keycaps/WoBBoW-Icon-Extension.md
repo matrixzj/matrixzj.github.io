@@ -3,7 +3,7 @@ title: WoB/BoW Icon Extension
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310040
+nav_order: 310815
 ---
 
 # WoB/BoW Icon Extension

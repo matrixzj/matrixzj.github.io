@@ -3,7 +3,7 @@ title: Terminal R2 终端机R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 320085
+nav_order: 320935
 ---
 
 # Terminal R2 终端机R2

@@ -3,7 +3,7 @@ title: Carbon R2 大碳R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 320025
+nav_order: 320875
 ---
 
 # Carbon R2

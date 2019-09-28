@@ -3,7 +3,7 @@ title: Wasabi 芥末
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310005
+nav_order: 310780
 ---
 
 # Wasabi 芥末

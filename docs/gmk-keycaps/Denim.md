@@ -3,7 +3,7 @@ title: Denim 牛仔裤
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310115
+nav_order: 310890
 ---
 
 # Denim 牛仔裤

@@ -3,7 +3,7 @@ title: Dolch Reborn
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 340015
+nav_order: 340875
 ---
 
 # Dolch Reborn

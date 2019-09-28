@@ -3,7 +3,7 @@ title: Korean Beige Add-on 白色韩文字根
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310105
+nav_order: 310880
 ---
 
 # Korean Beige Add-on 白色韩文字根

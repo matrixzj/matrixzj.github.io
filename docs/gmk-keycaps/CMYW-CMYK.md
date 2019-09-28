@@ -3,7 +3,7 @@ title: CMYK/CMYW
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 370025
+nav_order: 370990
 ---
 
 # CMYK/CMYW

@@ -3,7 +3,7 @@ title: White Dark-Grey
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 370020
+nav_order: 370985
 ---
 
 # White Dark-Grey

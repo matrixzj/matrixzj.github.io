@@ -3,7 +3,7 @@ title: Solarized Penumbra 白PB
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 320090
+nav_order: 320975
 ---
 
 # Solarized Penumbra 白PB

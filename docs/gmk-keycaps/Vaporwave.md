@@ -3,7 +3,7 @@ title: Vaporwave 蒸汽波
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310095
+nav_order: 310870
 ---
 
 # Vaporwave 蒸汽波

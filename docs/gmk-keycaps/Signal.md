@@ -3,7 +3,7 @@ title: Signal
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 330005
+nav_order: 330790
 ---
 
 # Signal

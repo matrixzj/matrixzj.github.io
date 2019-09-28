@@ -3,7 +3,7 @@ title: WoB/BoW Hangul Add-On 黑白韩文增补
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310035
+nav_order: 310810
 ---
 
 # WoB/BoW Hangul Add-On 黑白韩文增补

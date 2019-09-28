@@ -3,7 +3,7 @@ title: Skeletor 骷髅王
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 340080
+nav_order: 340940
 ---
 
 # Skeletor 骷髅王

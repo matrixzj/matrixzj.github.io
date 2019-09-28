@@ -3,7 +3,7 @@ title: Violet Tendencies
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 320115
+nav_order: 320965
 ---
 
 # Violet Tendencies 

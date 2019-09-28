@@ -3,7 +3,7 @@ title: Yuri 尤里
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 310005
+nav_order: 310920
 ---
 
 # Yuri 尤里

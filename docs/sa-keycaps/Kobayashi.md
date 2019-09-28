@@ -3,7 +3,7 @@ title: Kobayashi 犬岛
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 320060
+nav_order: 320945
 ---
 
 # Kobayashi 犬岛

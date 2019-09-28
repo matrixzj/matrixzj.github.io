@@ -3,7 +3,7 @@ title: First Love 初恋
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310025
+nav_order: 310800
 ---
 
 # First Love 初恋

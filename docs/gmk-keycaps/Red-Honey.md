@@ -3,7 +3,7 @@ title: Red Honey
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 330040
+nav_order: 330825
 ---
 
 # Red Honey

@@ -3,7 +3,7 @@ title: HyperFuse Accent
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 330100
+nav_order: 330885
 ---
 
 # HyperFuse Accent

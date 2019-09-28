@@ -3,7 +3,7 @@ title: Laser 激光
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 330010
+nav_order: 330795
 ---
 
 # Laser 激光

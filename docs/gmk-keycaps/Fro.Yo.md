@@ -3,7 +3,7 @@ title: Fro.Yo
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310050
+nav_order: 310825
 ---
 
 # Fro.Yo

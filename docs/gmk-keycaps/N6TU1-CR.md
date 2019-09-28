@@ -3,7 +3,7 @@ title: N6TU1-CR
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 320075
+nav_order: 320925
 ---
 
 # N6TU1-CR

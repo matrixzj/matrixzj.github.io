@@ -3,7 +3,7 @@ title: Soware 瞎眼
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 330205
+nav_order: 330990
 ---
 
 # Soware 瞎眼

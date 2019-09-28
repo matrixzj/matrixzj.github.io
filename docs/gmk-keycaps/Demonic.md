@@ -3,7 +3,7 @@ title: Demonic
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 330020
+nav_order: 330805
 ---
 
 # Demonic

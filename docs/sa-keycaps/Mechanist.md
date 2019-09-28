@@ -3,7 +3,7 @@ title: Mechanist 机械师
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 310070
+nav_order: 310985
 ---
 
 # Mechanist 机械师
