@@ -3,7 +3,7 @@ title: SKIDATA+ 黑橙R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 35005
+nav_order: 350005
 ---
 
 # SKIDATA+ 黑橙R1

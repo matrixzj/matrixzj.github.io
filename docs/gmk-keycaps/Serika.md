@@ -3,7 +3,7 @@ title: Serika 芹夏
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32110
+nav_order: 320110
 ---
 
 # Serika 芹夏

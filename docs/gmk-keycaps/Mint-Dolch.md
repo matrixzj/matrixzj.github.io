@@ -3,7 +3,7 @@ title: Mint Dolch 薄荷豆
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32100
+nav_order: 320100
 ---
 
 # Mint Dolch 薄荷豆

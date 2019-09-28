@@ -21,7 +21,7 @@ function sort_profile() {
         order=5
         while read -r line; do 
             fileName=$(echo "${line}" | awk -F'(' "{print \$2}" | awk -F')' "{print \$1}" | sed -e "s/\(.*\)\//\1.md/")
-            fileOrder=$(echo "(50-${last2DigitYear})*1000+${order}" | bc)
+            fileOrder=$(echo "(50-${last2DigitYear})*10000+${order}" | bc)
             order=$(expr ${order} + 5)
             sed -i "/nav_order/s/.*/nav_order: ${fileOrder}/" ${fileName}
         done < ${tmpDir}/${profile}-${year}

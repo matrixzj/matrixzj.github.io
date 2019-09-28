@@ -3,7 +3,7 @@ title: Symbiosis R2 塞班/共生 R2
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 32035
+nav_order: 320035
 ---
 
 # Symbiosis R2 塞班/共生 R2

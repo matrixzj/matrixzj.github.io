@@ -3,7 +3,7 @@ title: Sky Dolch
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 35020
+nav_order: 350020
 ---
 
 # Sky Dolch

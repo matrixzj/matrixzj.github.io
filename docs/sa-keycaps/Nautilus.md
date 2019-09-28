@@ -3,7 +3,7 @@ title: Nautilus 鹦鹉螺
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 32040
+nav_order: 320040
 ---
 
 # Nautilus 鹦鹉螺

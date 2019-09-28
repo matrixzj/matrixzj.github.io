@@ -3,7 +3,7 @@ title: Doom 奶紫
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 33065
+nav_order: 330065
 ---
 
 # Doom 奶紫

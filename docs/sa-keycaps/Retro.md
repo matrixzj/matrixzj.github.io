@@ -3,7 +3,7 @@ title: Retro 复古
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 35025
+nav_order: 350025
 ---
 
 # Retro 复古

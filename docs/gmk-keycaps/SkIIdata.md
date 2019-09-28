@@ -3,7 +3,7 @@ title: SkIIdata 黑橙R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 31175
+nav_order: 310175
 ---
 
 # SkIIdata 黑橙R2

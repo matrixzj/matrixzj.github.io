@@ -3,7 +3,7 @@ title: Song 宋
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 32100
+nav_order: 320100
 ---
 
 # Song 宋

@@ -3,7 +3,7 @@ title: Symbiosis R1 塞班/共生 R1
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 35035
+nav_order: 350035
 ---
 
 # Symbiosis R1 塞班/共生 R1

@@ -3,7 +3,7 @@ title: Nantucket Selectric 大航海
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 34070
+nav_order: 340070
 ---
 
 # Nantucket Selectric 大航海

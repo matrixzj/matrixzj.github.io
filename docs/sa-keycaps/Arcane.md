@@ -3,7 +3,7 @@ title: Arcane
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 31050
+nav_order: 310050
 ---
 
 # Arcane

@@ -3,7 +3,7 @@ title: Lime 青柠
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 32030
+nav_order: 320030
 ---
 
 # Lime 青柠

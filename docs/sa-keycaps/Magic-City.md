@@ -3,7 +3,7 @@ title: Magic City
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 31040
+nav_order: 310040
 ---
 
 # Magic City

@@ -3,7 +3,7 @@ title: HyperFuse Remix
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32010
+nav_order: 320010
 ---
 
 # HyperFuse Remix

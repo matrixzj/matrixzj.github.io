@@ -3,7 +3,7 @@ title: Cherry Logo
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 34130
+nav_order: 340130
 ---
 
 # Cherry Logo

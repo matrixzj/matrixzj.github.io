@@ -3,7 +3,7 @@ title: Exent
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33195
+nav_order: 330195
 ---
 
 # Exent

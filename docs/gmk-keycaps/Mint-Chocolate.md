@@ -3,7 +3,7 @@ title: Mint Chocolate 薄荷巧克力
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 33200
+nav_order: 330200
 ---
 
 # Mint Chocolate 薄荷巧克力

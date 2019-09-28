@@ -3,7 +3,7 @@ title: Space Cadet 太空学员
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 32065
+nav_order: 320065
 ---
 
 # Space Cadet 太空学员
