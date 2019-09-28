@@ -48,7 +48,6 @@ NOTE: USD to RMB exchange rate is 6.92
 
 <img src="{{ 'assets/images/sa-keycaps/laser/price.jpg' | relative_url }}" alt="price" class="image featured">
 
-
 ## Kits
 ### Alpha
 **Price(MD):** 49.00    **Price(RMB):** 339.08    **Quantity:** 955

@@ -7,6 +7,7 @@ time:'2019-09'
 colorcodes:'RA/BBI/WCK'
 platform:'UKKeycaps'
 link:'http://www.mechsupply.co.uk/product/sa-royal-navy'
+currencyunit:'GBP'
 Base:85||
 Numpad:21||
 Specialties:30||
@@ -14,4 +15,4 @@ Novelties:27||
 Spacebars:15||
 Ergodox:63||
 Ortholinear:53||
-NorDe:|215||
+NorDe:215||
