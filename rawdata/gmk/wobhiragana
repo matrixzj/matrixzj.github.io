@@ -1,12 +1,13 @@
-name = 'WoB Hiragana'
-cname = '黑白日文'
-keycapstype = 'GMK'
-designer = 'briano1905'
-profile = '1-1-2-3-4-4'
-time = '2019-08'
-colorcodes = ''
-platform = 'Novelkeys'
-link = 'https://novelkeys.xyz/products/gmk-wob-hiragana'
-Base|95|||
-40s|30|||
-Micons|68|||
+name:'WoB Hiragana'
+cname:'黑白日文'
+keycapstype:'GMK'
+designer:'briano1905'
+profile:'1-1-2-3-4-4'
+time:'2019-08'
+colorcodes:''
+platform:'Novelkeys'
+link:'https://novelkeys.xyz/products/gmk-wob-hiragana'
+currencyunit:'USD'
+Base:95||
+40s:30||
+Micons:68||

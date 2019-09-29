@@ -1,17 +1,18 @@
-name = 'Dracula'
-cname = '德古拉'
-keycapstype = 'GMK'
-designer = 'pikku-allu'
-profile = '1-1-2-3-4-4'
-time = '2019-10'
-colorcodes = ''
-platform = 'GH'
-link = ''
-Core||||
-Highlight||||
-Nightmode||||
-Whitespace||||
-Minify||||
-Localization||||
-Command||||
-ERR||||
+name:'Dracula'
+cname:'德古拉'
+keycapstype:'GMK'
+designer:'pikku-allu'
+profile:'1-1-2-3-4-4'
+time:'2019-10'
+colorcodes:''
+platform:'GH'
+link:''
+currencyunit:'USD'
+Core:||
+Highlight:||
+Nightmode:||
+Whitespace:||
+Minify:||
+Localization:||
+Command:||
+ERR:||

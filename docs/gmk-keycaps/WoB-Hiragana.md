@@ -25,6 +25,8 @@ NOTE: USD to RMB exchange rate is 6.92
 |[40s](#40s)|30.00|207.60|unknown|
 |[Micons](#micons)|68.00|470.56|unknown|
 
+<img src="{{ 'assets/images/gmk-keycaps/wobhiragana/progress.png' | relative_url }}" alt="progress" class="image featured">
+
 
 ## Kits
 ### Base
