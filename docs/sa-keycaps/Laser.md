@@ -47,6 +47,8 @@ NOTE: USD to RMB exchange rate is 6.92
 |[Mac](#mac)|28.00|193.76|66|
 
 <img src="{{ 'assets/images/sa-keycaps/laser/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/laser/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/laser/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
 ## Kits
 ### Alpha

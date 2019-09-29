@@ -23,9 +23,8 @@ NOTE: USD to CNY exchange rate is 6.71
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|135.00|939.00|873|
 |[Spacebar](#spacebar)|30.00|201.00|347|
-|[Novelties](#novelties)|50.00|338.00|563|
-|[40s](#40s)|37.00|248.27|82|
-
+|[Novelties](#novelties)|50.00|338.00|563|  
+|[40s](#40s)|37.00|248.27|82|  
 <img src="{{ 'assets/images/gmk-keycaps/mizu/progress2.png' | relative_url }}" alt="progress" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/mizu/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
