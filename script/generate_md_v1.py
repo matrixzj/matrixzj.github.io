@@ -18,8 +18,8 @@ class GenerateKeyCapPage(object):
         self.kits_list_index = []
 
         self.parse_keycap_raw_info(keycap_raw_info_file)
-#        self.retrieve_exchange_rate()
-        self.info_dict['rate'] = 7.16
+        self.retrieve_exchange_rate()
+#        self.info_dict['rate'] = 7.16
 
         self.profile_path = "%s-keycaps" % self.info_dict['keycapstype'].lower()     
         self.keycap_filename = "%s.md" % self.info_dict['name'].replace(" ","-")
