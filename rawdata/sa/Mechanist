@@ -1,20 +1,21 @@
-name = 'Mechanist'
-cname = '机械师'
-keycapstype = 'SA'
-designer = 'HOQ'
-profile = '1-1-2-3-4-3'
-time = '2019-03'
-colorcodes = 'BFR/BBJ/BFM/WFK'
-platform = 'ZF'
-link = 'http://www.zfrontier.com/m/4290'
-Alphas||312||
-Frozen Alphas||385||
-40%||589||
-Numpad||259||
-Mech Tools||226||
-Gears||230||
-ISO||277||
-Non-Standard||425||
-Arrows||58||
-Spacebars||61||
-TKL||420||
+name:'Mechanist'
+cname:'机械师'
+keycapstype:'SA'
+designer:'HOQ'
+profile:'1-1-2-3-4-3'
+time:'2019-03'
+colorcodes:'BFR/BBJ/BFM/WFK'
+platform:'ZF'
+link:'http://www.zfrontier.com/m/4290'
+currencyunit:'USD'
+Alphas:|312|
+Frozen Alphas:|385|
+TKL:|420|
+Numpad:|259|
+Mech Tools:|226|
+Gears:|230|
+Non-Standard:|425|
+ISO:|277|
+40%:|589|
+Arrows:|58|
+Spacebars:|61|

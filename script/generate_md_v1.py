@@ -18,8 +18,10 @@ class GenerateKeyCapPage(object):
         self.kits_list_index = []
 
         self.parse_keycap_raw_info(keycap_raw_info_file)
-#        self.retrieve_exchange_rate()
-        self.info_dict['rate'] = 7.16
+        self.retrieve_exchange_rate()
+#        self.info_dict['rate'] = 7.16
+
+        print self.info_dict
         self.profile_path = "%s-keycaps" % self.info_dict['keycapstype'].lower()     
         self.keycap_filename = "%s.md" % self.info_dict['name'].replace(" ","-")
         self.keycap_filename_with_path = os.path.join("docs", self.profile_path, self.keycap_filename)
@@ -50,6 +52,15 @@ class GenerateKeyCapPage(object):
         self.keycap_page_picture = "## Pictures  \n"
         self.generate_keycap_page_picture()
         print self.keycap_page_picture
+
+        print self.keycap_filename_with_path
+        fd_keycap_filename_with_path = open(self.keycap_filename_with_path, "w+")
+        fd_keycap_filename_with_path.write(self.keycap_page_header)
+        fd_keycap_filename_with_path.write(self.keycap_page_price)
+        fd_keycap_filename_with_path.write(self.keycap_page_kit)
+        fd_keycap_filename_with_path.write(self.keycap_page_info)
+        fd_keycap_filename_with_path.write(self.keycap_page_picture)
+        fd_keycap_filename_with_path.close()
 	
     def parse_keycap_raw_info(self, keycap_info_file):
         lines = open(keycap_info_file, 'r').readlines()
@@ -81,7 +92,7 @@ class GenerateKeyCapPage(object):
         exchange_rate_result = requests.get(api_url)
         currency_key = "%sCNY" % self.info_dict['currencyunit']
         exchange_rate = exchange_rate_result.json()['quotes'][currency_key]
-        self.info_dict['rate'] = "%.2f" % exchange_rate
+        self.info_dict['rate'] = "%.2f" % float(exchange_rate)
 
     def parse_price_info(self):
         for kit in self.info_dict['price']:
@@ -196,8 +207,8 @@ class GenerateKeyCapPage(object):
     	self.keycap_page_header += "\n"
 
     def generate_keycap_page_price(self):
-        self.keycap_page_price += "NOTE: %s to CNY exchange rate is %.2f\n\n" % (self.info_dict['currencyunit'], self.info_dict['rate'])
-        self.keycap_page_price += "| Name          | Price(%s)    |  Price(RMB) | Quantity |\n| ------------- | ------------ |  ---------- | -------- |\n" % (self.info_dict['platform'])
+        self.keycap_page_price += "NOTE: %s to CNY exchange rate is %.2f\n\n" % (self.info_dict['currencyunit'], float(self.info_dict['rate']))
+        self.keycap_page_price += "| Name          | Price(%s)    |  Price(CNY) | Quantity |\n| ------------- | ------------ |  ---------- | -------- |\n" % (self.info_dict['platform'])
         for kit in self.kits_list_index:
             self.keycap_page_price += self.info_dict['price'][kit][3] % (kit, kit.lower().replace(" ", "-"), self.info_dict['price'][kit][0], self.info_dict['price'][kit][1], self.info_dict['price'][kit][2])
             self.keycap_page_price += "\n"
@@ -231,6 +242,11 @@ class GenerateKeyCapPage(object):
             self.keycap_page_info += "* Color Codes: %s  \n" % self.info_dict['colorcodes']
         else:
             self.keycap_page_info += "* Color Codes:  \n"
+            self.keycap_page_info += "\n"
+            color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
+            for color_file in color_files:
+                color_file_path = os.path.join(self.keycap_asset_path, color_file)
+                self.keycap_page_info += '<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
             self.keycap_page_info += "<table style=\"width:100%\">\n\t<tr>\n\t\t<th>ColorCodes</th>\n\t\t<th>Sample</th>\n\t</tr>\n"
             for color in self.info_dict['colorcodes'].split('/'):
                 color_file_png = "assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_%s.png" % color
