@@ -25,7 +25,8 @@ NOTE: USD to RMB exchange rate is 6.88
 |[Spacebars](#spacebars)|23.99|165.05|206|
 |[40s](#40s)|41.99|288.89|59|
 
-<img src="{{ 'assets/images/gmk-keycaps/peachncream/progress.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/peachncream/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/peachncream/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
 ## Kits
 ### Base
