@@ -1,12 +1,13 @@
-name = 'Voyage'
-cname = '旅行'
-keycapstype = 'GMK'
-designer = 'nasp'
-profile = '1-1-2-3-4-4'
-time = '2019-08'
-colorcodes = 'unknown'
-platform = 'GH'
-link = 'https://geekhack.org/index.php?topic=101808.0'
-Base|123.99||328|
-Novelties|42.99||201|
-Extension|36.99||83|
+name:'Voyage'
+cname:'旅行'
+keycapstype:'GMK'
+designer:'nasp'
+profile:'1-1-2-3-4-4'
+time:'2019-08'
+colorcodes:'unknown'
+platform:'GH'
+link:'https://geekhack.org/index.php?topic=101808.0'
+currencyunit:'USD'
+Base:123.99||328
+Novelties:42.99||201
+Extension:36.99||83

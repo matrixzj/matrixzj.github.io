@@ -25,6 +25,7 @@ NOTE: USD to RMB exchange rate is 6.92
 |[Novelties](#novelties)|42.99|297.49|201|
 |[Extension](#extension)|36.99|255.97|83|
 
+<img src="{{ 'assets/images/gmk-keycaps/voyage/progress.png' | relative_url }}" alt="progress" class="image featured">
 
 ## Kits
 ### Base
