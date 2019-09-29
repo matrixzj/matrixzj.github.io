@@ -26,6 +26,7 @@ NOTE: USD to RMB exchange rate is 6.92
 |[Ortho](#ortho)|55.00|380.60|64|
 |[Novelties](#novelties)|55.00|380.60|233|
 
+<img src="{{ 'assets/images/gmk-keycaps/nightrunner/progress.png' | relative_url }}" alt="progress" class="image featured">
 
 ## Kits
 ### Base
