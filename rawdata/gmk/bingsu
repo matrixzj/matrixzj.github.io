@@ -1,7 +1,7 @@
-name:'Coral'
-cname:'珊瑚'
+name:'Bingsu'
+cname:''
 keycapstype:'GMK'
-designer:'HoodrowThrillson'
+designer:'Rise'
 profile:'1-1-2-3-4-4'
 time:'2019-10'
 colorcodes:''
@@ -9,7 +9,6 @@ platform:'GH'
 link:''
 currencyunit:'USD'
 Base:||
-Coral Relief:||
-40s:||
-Spacebar:||
-Novelties:||
+Hangul:||
+Txt:||
+Spacebars:||

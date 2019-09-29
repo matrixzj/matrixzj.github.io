@@ -1,7 +1,7 @@
-name:'Coral'
-cname:'珊瑚'
+name:'Firefly'
+cname:'萤火虫'
 keycapstype:'GMK'
-designer:'HoodrowThrillson'
+designer:'Emir'
 profile:'1-1-2-3-4-4'
 time:'2019-10'
 colorcodes:''
@@ -9,7 +9,8 @@ platform:'GH'
 link:''
 currencyunit:'USD'
 Base:||
-Coral Relief:||
+Numpad:||
+DeAccent:||
 40s:||
-Spacebar:||
-Novelties:||
+Icon:||
+NORDEUK:||

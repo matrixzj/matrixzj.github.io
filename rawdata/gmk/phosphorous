@@ -1,14 +1,15 @@
-name = 'Phosphorous'
-cname = '磷光'
-keycapstype = 'GMK'
-designer = 'Moridin'
-profile = '1-1-2-3-4-4'
-time = '2019-10'
-colorcodes = ''
-platform = 'GH'
-link = ''
-Core|129|||
-Numpad|34|||
-40s|47|||
-Spacebars|24|||
-NorDEUK|53|||
+name:'Phosphorous'
+cname:'磷光'
+keycapstype:'GMK'
+designer:'Moridin'
+profile:'1-1-2-3-4-4'
+time:'2019-10'
+colorcodes:''
+platform:'GH'
+link:''
+currencyunit:'USD'
+Core:129||
+Numpad:34||
+40s:47||
+Spacebars:24||
+NorDEUK:53||

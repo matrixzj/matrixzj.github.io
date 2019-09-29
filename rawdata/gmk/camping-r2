@@ -1,14 +1,15 @@
-name = 'Camping R2'
-cname = '野营R2'
-keycapstype = 'GMK'
-designer = 'kingnestea'
-profile = '1-1-2-3-4-4'
-time = '2019-10'
-colorcodes = 'Unknown'
-platform = 'NovelKeys'
-link = ''
-Base||||
-Latin Alphas||||
-Novelties||||
-Communities||||
-Spacebars||||
+name:'Camping R2'
+cname:'野营R2'
+keycapstype:'GMK'
+designer:'kingnestea'
+profile:'1-1-2-3-4-4'
+time:'2019-10'
+colorcodes:'Unknown'
+platform:'NovelKeys'
+link:''
+currencyunit:'USD'
+Base:||
+Latin Alphas:||
+Novelties:||
+Communities:||
+Spacebars:||
