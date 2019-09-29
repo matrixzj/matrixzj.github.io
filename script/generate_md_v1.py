@@ -3,8 +3,6 @@
 
 import sys
 import os
-# from os import listdir
-# from os.path import isfile, join
 import json
 import requests
 
@@ -61,6 +59,7 @@ class GenerateKeyCapPage(object):
             fd_keycap_filename_with_path.write(self.keycap_page_info)
             fd_keycap_filename_with_path.write(self.keycap_page_picture)
             fd_keycap_filename_with_path.close()
+            print "%s was generated!" % self.keycap_filename_with_path
         else:
             sys.exit(0)
 	
@@ -211,7 +210,7 @@ class GenerateKeyCapPage(object):
     	self.keycap_page_header += "* [Kits](#kits)  \n"
     	self.keycap_page_header += "* [Info](#info)  \n"
     	self.keycap_page_header += "* [Pictures](#pictures)  \n"
-    	self.keycap_page_header += "\n"
+    	self.keycap_page_header += "\n\n"
 
     def generate_keycap_page_price(self):
         self.keycap_page_price += "NOTE: %s to CNY exchange rate is %.2f\n\n" % (self.info_dict['currencyunit'], float(self.info_dict['rate']))
@@ -220,7 +219,6 @@ class GenerateKeyCapPage(object):
             self.keycap_page_price += self.info_dict['price'][kit][3] % (kit, kit.lower().replace(" ", "-"), self.info_dict['price'][kit][0], self.info_dict['price'][kit][1], self.info_dict['price'][kit][2])
             self.keycap_page_price += "\n"
 
-        self.keycap_page_price += "\n"
         price_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'price' in f]
         for price_file in price_files:
             price_file_path = os.path.join(self.keycap_asset_path, price_file)
@@ -232,6 +230,8 @@ class GenerateKeyCapPage(object):
             progress_file_path = os.path.join(self.keycap_asset_path, progress_file)
             self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="progress" class="image featured">' % os.path.relpath(progress_file_path, os.getcwd())
             self.keycap_page_price += "\n"
+
+        self.keycap_page_price += "\n\n"
 
     def generate_keycap_page_kit(self):
         for kit in self.kits_list_index:
@@ -248,6 +248,8 @@ class GenerateKeyCapPage(object):
                 self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_png), os.getcwd()), kit.lower().replace(" ", "-"))
                 self.keycap_page_kit += "\n\n"
 
+        self.keycap_page_kit += "\n"
+
     def generate_keycap_page_info(self):
         self.keycap_page_info += "* Designer: %s  \n* Profile: %s %s  \n" % (self.info_dict['designer'], self.info_dict['keycapstype'], self.info_dict['profile'])
         self.keycap_page_info += "* GB Time: %s  \n" % self.info_dict['time']
@@ -256,7 +258,6 @@ class GenerateKeyCapPage(object):
                 self.keycap_page_info += "* Color Codes: %s  \n" % self.info_dict['colorcodes']
             else:
                 self.keycap_page_info += "* Color Codes:  \n"
-                self.keycap_page_info += "\n"
                 color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
                 for color_file in color_files:
                     color_file_path = os.path.join(self.keycap_asset_path, color_file)
@@ -267,8 +268,13 @@ class GenerateKeyCapPage(object):
                     self.keycap_page_info += "\t<tr>\n\t\t<th>%s</th>\n\t\t<th><img src=\"{{ '%s' | relative_url }}\" alt=\"Color_%s\" height=\"75\" width=\"170\"></th>\n\t</tr>\n" % (color, color_file_png, color)
                 self.keycap_page_info += "</table>\n\n"
         elif "GMK" in self.info_dict['keycapstype']: 
-            self.keycap_page_info += "* Color Codes:  \n\n"
+            self.keycap_page_info += "* Color Codes:  \n"
+            color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
+            for color_file in color_files:
+                color_file_path = os.path.join(self.keycap_asset_path, color_file)
+                self.keycap_page_info += '<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
             self.keycap_page_info += "| |Base Color     | Legend Color\n| :-------------: | :-------------: | :------------:\n|Alpha||\n"
+        self.keycap_page_info += "\n\n"
 
     def generate_keycap_page_picture(self):
         picture_files = [f for f in os.listdir(self.keycap_asset_render_path) if os.path.isfile(os.path.join(self.keycap_asset_render_path, f))]

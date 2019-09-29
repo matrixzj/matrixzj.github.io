@@ -36,6 +36,8 @@ NOTE: USD to RMB exchange rate is 6.88
 |[International](#international)|75.00|516.00|113|
 
 <img src="{{ 'assets/images/gmk-keycaps/oblivionr2/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/oblivionr2/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/oblivionr2/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
 
 ## Kits

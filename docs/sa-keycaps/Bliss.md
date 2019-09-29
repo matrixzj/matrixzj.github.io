@@ -27,6 +27,9 @@ NOTE: USD to RMB exchange rate is 6.88
 |[Novelties](#novelties)|50.00|344.00|564|
 |[ISO](#iso)|25.00|172.00|54|
 
+<img src="{{ 'assets/images/sa-keycaps/bliss/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/bliss/progress1.png' | relative_url }}" alt="progress" class="image featured">
+
 
 ## Kits
 ### Base
