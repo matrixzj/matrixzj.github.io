@@ -3,7 +3,7 @@ title: Olive 橄榄
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310900
+nav_order: 310895
 ---
 
 # Olive 橄榄

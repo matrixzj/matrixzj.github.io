@@ -3,7 +3,7 @@ title: WoB Hiragana 黑白日文
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310820
+nav_order: 310815
 ---
 
 # WoB Hiragana 黑白日文

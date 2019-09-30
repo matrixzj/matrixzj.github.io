@@ -3,7 +3,7 @@ title: Oblivion R2 码农R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310895
+nav_order: 310890
 ---
 
 # Oblivion R2 码农R2
