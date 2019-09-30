@@ -62,12 +62,12 @@ NOTE: USD to CNY exchange rate is 7.14
 * Color Codes:  
 <img src="{{ 'assets/images/gmk-keycaps/firefly/color.png' | relative_url }}" alt="color" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/firefly/color1.png' | relative_url }}" alt="color" class="image featured">
+
 | |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
 |Alpha|RAL 5011-P|RAL 040 70 30
 |Modifiers|RAL 5011-P|RAL 5014-P
 |Accents|RAL 5011-P|RAL 300 60 15
-
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/firefly/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
