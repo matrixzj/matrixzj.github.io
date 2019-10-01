@@ -60,6 +60,11 @@ class GenerateKeyCapPage(object):
             fd_keycap_filename_with_path.write(self.keycap_page_picture)
             fd_keycap_filename_with_path.close()
             print "%s was generated!" % self.keycap_filename_with_path
+            if self.info_dict['cname']:
+                print "index entry: * [%s %s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['cname'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-'))
+            else:
+                print "index entry: * [%s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-'))
+
         else:
             sys.exit(0)
 	
@@ -255,9 +260,9 @@ class GenerateKeyCapPage(object):
         self.keycap_page_info += "* GB Time: %s  \n" % self.info_dict['time']
         if "SA" in self.info_dict['keycapstype']:
             if "/" not in self.info_dict['colorcodes']:
-                self.keycap_page_info += "* Color Codes: %s  \n" % self.info_dict['colorcodes']
+                self.keycap_page_info += "* Color Codes: %s  \n\n" % self.info_dict['colorcodes']
             else:
-                self.keycap_page_info += "* Color Codes:  \n"
+                self.keycap_page_info += "* Color Codes:  \n\n"
                 color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
                 for color_file in color_files:
                     color_file_path = os.path.join(self.keycap_asset_path, color_file)
@@ -268,7 +273,7 @@ class GenerateKeyCapPage(object):
                     self.keycap_page_info += "\t<tr>\n\t\t<th>%s</th>\n\t\t<th><img src=\"{{ '%s' | relative_url }}\" alt=\"Color_%s\" height=\"75\" width=\"170\"></th>\n\t</tr>\n" % (color, color_file_png, color)
                 self.keycap_page_info += "</table>\n\n"
         elif "GMK" in self.info_dict['keycapstype']: 
-            self.keycap_page_info += "* Color Codes:  \n"
+            self.keycap_page_info += "* Color Codes:  \n\n"
             color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
             for color_file in color_files:
                 color_file_path = os.path.join(self.keycap_asset_path, color_file)

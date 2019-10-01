@@ -122,6 +122,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Camping R2 野营R2](docs/gmk-keycaps/Camping-R2/)
 * [Cafe 咖啡](docs/gmk-keycaps/Cafe)
 * [Firefly 萤火虫](docs/gmk-keycaps/Firefly)
 * [Wasabi 芥末](docs/gmk-keycaps/Wasabi/)
