@@ -45,7 +45,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: olivia
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-06
+* GB Time: 2019-06-01 ~ 2019-07-01
 * ColorCodes:  
 <img src="{{ 'assets/images/gmk-keycaps/olive/color.png' | relative_url }}" atl="color" class="image featured">
 

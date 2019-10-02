@@ -36,6 +36,8 @@ NOTE: USD to RMB exchange rate is 6.80
 |[YY Spacebars](#yy-spacebars)|8.99|61.13|139|
 
 <img src="{{ 'assets/images/sa-keycaps/dangerzoner2/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/dangerzoner2/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
 
 ## Kits
@@ -95,7 +97,7 @@ NOTE: USD to RMB exchange rate is 6.80
 ## Info
 * Designer: data
 * Profile: SA 1-1-2-3-4-3
-* GB Time: 2019-01
+* GB Time: 2019-01-18 ~ 2019-01-30
 * Color Codes:  
 <table style="width:100%">
   <tr>

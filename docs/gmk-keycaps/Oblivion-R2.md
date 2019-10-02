@@ -97,7 +97,7 @@ NOTE: USD to RMB exchange rate is 6.88
 ## Info
 * Designer: Oblotzky
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-06
+* GB Time: 2019-06-04 ~ 2019-06-27
 * ColorCodes: 
 
 <img src="{{ 'assets/images/gmk-keycaps/oblivionr2/color.jpeg' | relative_url }}" alt="color.jpeg" class="image featured">

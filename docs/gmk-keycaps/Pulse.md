@@ -87,7 +87,7 @@ NOTE: USD to RMB exchange rate is 6.88
 ## Info
 * Designer: MiTo
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-07
+* GB Time: 2019-07-02 ~ 2019-07-30
 * ColorCodes: unknown 
 
 

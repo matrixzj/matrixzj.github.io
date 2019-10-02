@@ -41,6 +41,8 @@ NOTE: USD to RMB exchange rate is 6.94
 |[Salty](#salty)|34.99|242.83|245.00|193|
 
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/carbonr2/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/carbonr2/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
 ## Kits
 ### Carbon Base
@@ -118,7 +120,7 @@ NOTE: USD to RMB exchange rate is 6.94
 ## Info
 * Designer: T0mb3ry
 * Profile: GMK 0-1-2-3-4-5
-* GB Time: 2018-11
+* GB Time: 2018-11-01 ~ 2018-11-30
 * Color Codes: 
 
 ||Base Color      | Legend Color

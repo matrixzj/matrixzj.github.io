@@ -56,7 +56,7 @@ NOTE: USD to RMB exchange rate is 6.88
 ## Info
 * Designer: Minterly
 * Profile: SA Uniform R3
-* GB Time: 2019-07
+* GB Time: 2019-07-01 ~ 2019-07-28
 * Color Codes:  
 <table style="width:100%">
   <tr>

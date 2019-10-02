@@ -28,6 +28,8 @@ ref link: [Jamon MD GB Link](https://www.massdrop.com/buy/massdrop-x-zambumon-gm
 |[Ene Survival](#ene-survival)|29.99|203.63|137|
 
 <img src="{{ 'assets/images/gmk-keycaps/jamon/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/jamon/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/jamon/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
 
 ## Kits
@@ -67,7 +69,7 @@ ref link: [Jamon MD GB Link](https://www.massdrop.com/buy/massdrop-x-zambumon-gm
 ## Info
 * Designer: Zambumon
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-02
+* GB Time: 2019-02-04 ~ 2019-02-28
 * ColorCodes: unknown 
 
 

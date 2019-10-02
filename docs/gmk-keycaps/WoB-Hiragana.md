@@ -43,7 +43,7 @@ NOTE: USD to CNY exchange rate is 6.90
 ## Info  
 * Designer: briano1905  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-08  
+* GB Time: 2019-08-12 ~ 2019-09-06  
 * Color Codes:  
 
 Base | Legend

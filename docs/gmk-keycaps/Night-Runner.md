@@ -50,7 +50,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: BlindAssassin111
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-08
+* GB Time: 2019-08-02 ~ 2019-08-30
 * ColorCodes:  
 
 

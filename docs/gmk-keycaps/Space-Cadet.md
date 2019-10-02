@@ -33,6 +33,8 @@ NOTE: USD to RMB exchange rate is 6.87
 |[Colevrak](#colevrak)|99.99|686.93|unknown|38|
 
 <img src="{{ 'assets/images/gmk-keycaps/spacecadet/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/spacecadet/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/spacecadet/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
 
 ## Kits
@@ -80,7 +82,7 @@ NOTE: USD to RMB exchange rate is 6.87
 ## Info
 * Designer: Oblotzky
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2018-08
+* GB Time: 2018-08-03 ~ 2018-08-31
 * ColorCodes: matched SP's BFP/GD/NN, and white is a halfway point between GMK's CP and SP's WCK
 
 

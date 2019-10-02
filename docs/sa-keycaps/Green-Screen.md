@@ -47,6 +47,8 @@ NOTE: USD to RMB exchange rate is 6.67
 |[VIM](#vim)|16.99|115.02|195|
 
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/greenscreen/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/greenscreen/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
 ## Kits
 ### GreenScreenAlphas
@@ -148,7 +150,7 @@ NOTE: USD to RMB exchange rate is 6.67
 ## Info
 * Designer: Oblotzk/admgc/Harlw
 * Profile: SA 1-1-2-3-4-3
-* GB Time: 2018-07
+* GB Time: 2018-07-05 ~ 2018-07-31
 * Color Codes:  
 <table style="width:100%">
   <tr>

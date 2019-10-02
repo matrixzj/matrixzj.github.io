@@ -51,7 +51,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: hineybush
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-08
+* GB Time: 2019-08-03 ~ 2019-08-31
 * ColorCodes: 
 
 | |Base Color     | Legend Color

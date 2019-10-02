@@ -28,6 +28,8 @@ NOTE: USD to RMB exchange rate is 6.42
 |[Euro](#euro)|52.00|333.84|unknown|
 |[Colevrak](#colevrak)|45.00|288.90|unknown|
 
+<img src="{{ 'assets/images/gmk-keycaps/phantom/progress2.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/phantom/progress1.png' | relative_url }}" alt="progress" class="image featured">
 
 ## Kits
 ### Base
@@ -58,7 +60,7 @@ NOTE: USD to RMB exchange rate is 6.42
 ## Info
 * Designer: briano1905
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2018-05
+* GB Time: 2018-05-07 ~ 2018-06-10
 * ColorCodes: 
 
 |Base Color     | Legend Color

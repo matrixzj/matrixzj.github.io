@@ -51,7 +51,7 @@ NOTE: USD to CNY exchange rate is 6.71
 ## Info  
 * Designer: Rensuya  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-04  
+* GB Time: 2019-04-29 ~ 2019-06-04   
 * Color Codes:  
 <img src="{{ 'assets/images/gmk-keycaps/mizu/color.jpg' | relative_url }}" alt="color" class="image featured">
 

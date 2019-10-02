@@ -151,7 +151,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: Mito
 * Profile: SA 1-1-2-3-4-3
-* GB Time: 2019-05
+* GB Time: 2019-05-02 ~ 2019-05-31
 * Color Codes: unknown  
 
 

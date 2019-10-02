@@ -45,7 +45,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: nasp
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-08
+* GB Time: 2019-08-01 ~ 2019-09-01
 * ColorCodes: unknown 
 
 | |Base Color     | Legend Color
