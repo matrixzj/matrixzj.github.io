@@ -53,7 +53,7 @@ NOTE: USD to CNY exchange rate is 7.15
 ## Info  
 * Designer: kingnestea  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-10  
+* GB Time: 2019-10-01  
 * Color Codes: Unknown 
 
 
