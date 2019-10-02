@@ -1,12 +1,12 @@
 ---
-title: Trouble Minds EVA R2
+title: Troubled Minds EVA R2
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 320965
 ---
 
-# Trouble Minds EVA R2
+# Troubled Minds EVA R2
 
 ref link: [SA Troubled Minds EVA R2 Groupbuy Link](https://kono.store/products/sa-troubled-minds-keycap-set)
 

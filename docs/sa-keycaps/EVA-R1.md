@@ -1,12 +1,12 @@
 ---
-title: Trouble Minds EVA R1
+title: Troubled Minds EVA R1
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 350955
 ---
 
-# Trouble Mind EVA R1
+# Troubled Mind EVA R1
 
 ref link: [SA Troubled Minds Eva R1 Massdrop Link](https://www.massdrop.com/buy/troubled-minds-sa-keycap-set)
 
