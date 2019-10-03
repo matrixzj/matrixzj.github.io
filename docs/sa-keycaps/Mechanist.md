@@ -87,26 +87,26 @@ NOTE: USD to CNY exchange rate is 6.71
 
 <img src="{{ 'assets/images/sa-keycaps/mechanist/mechanistcolor.png' | relative_url }}" alt="color" class="image featured">
 <table style="width:100%">
-	<tr>
-		<th>ColorCodes</th>
-		<th>Sample</th>
-	</tr>
-	<tr>
-		<th>BFR</th>
-		<th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="Color_BFR" height="75" width="170"></th>
-	</tr>
-	<tr>
-		<th>BBJ</th>
-		<th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="Color_BBJ" height="75" width="170"></th>
-	</tr>
-	<tr>
-		<th>BFM</th>
-		<th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFM.png' | relative_url }}" alt="Color_BFM" height="75" width="170"></th>
-	</tr>
-	<tr>
-		<th>WFK</th>
-		<th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="Color_WFK" height="75" width="170"></th>
-	</tr>
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BFR</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="Color_BFR" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BBJ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBJ.png' | relative_url }}" alt="Color_BBJ" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BFM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFM.png' | relative_url }}" alt="Color_BFM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WFK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="Color_WFK" height="75" width="170"></th>
+  </tr>
 </table>
 
 
