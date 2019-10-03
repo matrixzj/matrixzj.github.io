@@ -91,7 +91,7 @@ class GenerateKeyCapPage(object):
         
         currency_checked = "currencies=%s,CNY" % self.info_dict['currencyunit']
         
-        date = "date=%s-01" % self.info_dict['time']
+        date = "date=%s" % self.info_dict['time']
         
         api_url = "%s&%s&%s&%s" % (api_base_url, exchange_rate_api_key, currency_checked, date)
 
