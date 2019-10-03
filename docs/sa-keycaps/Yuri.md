@@ -41,61 +41,61 @@ NOTE: USD to CNY exchange rate is 7.15
 
 ## Kits  
 ### Alphas  
-**Price(MD):** 60.00  **Price(CNY):** 429.00  **Quantity:** Unkonwn  
+**Price(MD):** 60.00    **Price(CNY):** 429.00    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/alphas.png' | relative_url }}" alt="alphas" class="image featured">
 
 ### Cyrillics  
-**Price(MD):** 60.00  **Price(CNY):** 429.00  **Quantity:** Unkonwn  
+**Price(MD):** 60.00    **Price(CNY):** 429.00    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/cyrillics.png' | relative_url }}" alt="cyrillics" class="image featured">
 
 ### Cosmos  
-**Price(MD):** 60.00  **Price(CNY):** 429.00  **Quantity:** Unkonwn  
+**Price(MD):** 60.00    **Price(CNY):** 429.00    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/cosmos.png' | relative_url }}" alt="cosmos" class="image featured">
 
 ### Dual Cosmos  
-**Price(MD):** 60.00  **Price(CNY):** 429.00  **Quantity:** Unkonwn  
+**Price(MD):** 60.00    **Price(CNY):** 429.00    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/dual-cosmos.png' | relative_url }}" alt="dual-cosmos" class="image featured">
 
 ### Modifiers  
-**Price(MD):** 95.00  **Price(CNY):** 679.25  **Quantity:** Unkonwn  
+**Price(MD):** 95.00    **Price(CNY):** 679.25    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/modifiers.png' | relative_url }}" alt="modifiers" class="image featured">
 
 ### Cyrillic Modifiers  
-**Price(MD):** 110.00  **Price(CNY):** 786.50  **Quantity:** Unkonwn  
+**Price(MD):** 110.00    **Price(CNY):** 786.50    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/cyrillic-modifiers.png' | relative_url }}" alt="cyrillic-modifiers" class="image featured">
 
 ### Dual Modifiers  
-**Price(MD):** 110.00  **Price(CNY):** 786.50  **Quantity:** Unkonwn  
+**Price(MD):** 110.00    **Price(CNY):** 786.50    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/dual-modifiers.png' | relative_url }}" alt="dual-modifiers" class="image featured">
 
 ### Numpad  
-**Price(MD):** 45.00  **Price(CNY):** 321.75  **Quantity:** Unkonwn  
+**Price(MD):** 45.00    **Price(CNY):** 321.75    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ### Ergodox  
-**Price(MD):** 110.00  **Price(CNY):** 786.50  **Quantity:** Unkonwn  
+**Price(MD):** 110.00    **Price(CNY):** 786.50    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/ergodox.png' | relative_url }}" alt="ergodox" class="image featured">
 
 ### 40%  
-**Price(MD):** 55.00  **Price(CNY):** 393.25  **Quantity:** Unkonwn  
+**Price(MD):** 55.00    **Price(CNY):** 393.25    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/40%.png' | relative_url }}" alt="40%" class="image featured">
 
 ### Novelties  
-**Price(MD):** 75.00  **Price(CNY):** 536.25  **Quantity:** Unkonwn  
+**Price(MD):** 75.00    **Price(CNY):** 536.25    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### ISO UK  
-**Price(MD):** 25.00  **Price(CNY):** 178.75  **Quantity:** Unkonwn  
+**Price(MD):** 25.00    **Price(CNY):** 178.75    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/iso-uk.png' | relative_url }}" alt="iso-uk" class="image featured">
 
 ### 6.25u Spacebars  
-**Price(MD):** 13.00  **Price(CNY):** 92.95  **Quantity:** Unkonwn  
+**Price(MD):** 13.00    **Price(CNY):** 92.95    **Quantity:** Unkonwn  
 ### 7u Spacebars  
-**Price(MD):** 13.00  **Price(CNY):** 92.95  **Quantity:** Unkonwn  
+**Price(MD):** 13.00    **Price(CNY):** 92.95    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/spacebars.png' | relative_url }}" alt="7u-spacebars" class="image featured">
 
 ### Spacekeys  
-**Price(MD):** 40.00  **Price(CNY):** 286.00  **Quantity:** Unkonwn  
+**Price(MD):** 40.00    **Price(CNY):** 286.00    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/spacekeys.png' | relative_url }}" alt="spacekeys" class="image featured">
 
 
@@ -106,22 +106,22 @@ NOTE: USD to CNY exchange rate is 7.15
 * Color Codes:  
 
 <table style="width:100%">
-	<tr>
-		<th>ColorCodes</th>
-		<th>Sample</th>
-	</tr>
-	<tr>
-		<th>BFR</th>
-		<th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="Color_BFR" height="75" width="170"></th>
-	</tr>
-	<tr>
-		<th>BFM</th>
-		<th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFM.png' | relative_url }}" alt="Color_BFM" height="75" width="170"></th>
-	</tr>
-	<tr>
-		<th>OAV</th>
-		<th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAV.png' | relative_url }}" alt="Color_OAV" height="75" width="170"></th>
-	</tr>
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>BFR</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFR.png' | relative_url }}" alt="Color_BFR" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>BFM</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFM.png' | relative_url }}" alt="Color_BFM" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>OAV</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAV.png' | relative_url }}" alt="Color_OAV" height="75" width="170"></th>
+  </tr>
 </table>
 
 
