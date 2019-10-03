@@ -26,20 +26,19 @@ NOTE: USD to CNY exchange rate is 7.15
 
 ## Kits  
 ### Base  
-**Price(GH):** 45.00	**Price(CNY):** 321.75	**Quantity:** Unkonwn  
+**Price(GH):** 45.00    **Price(CNY):** 321.75    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/gmk-keycaps/prettyinpink/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 
 ## Info  
 * Designer: upas  
 * Profile: GMK as shown in kits picture  
-* GB Time: 2019-10-01 ~ 2019-10-31  
+* GB Time: 2019-10-01  
 * Color Codes:  
 
 | Base Color     | Legend Color
 | :-------------: | :------------:
 |RAL 350 70 35|WS1
-
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/prettyinpink/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">

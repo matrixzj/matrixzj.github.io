@@ -139,9 +139,9 @@ class GenerateKeyCapPage(object):
                 price_table_format = price_table_format + item_table_format + "|"
 
                 if i == 0:
-                    price_kit_format = "%s**Price(%s):** %s  " % (price_kit_format, self.info_dict['platform'], item_table_format)
+                    price_kit_format = "%s**Price(%s):** %s    " % (price_kit_format, self.info_dict['platform'], item_table_format)
                 if i == 1:
-                    price_kit_format = "%s**Price(CNY):** %s  " % (price_kit_format, item_table_format)
+                    price_kit_format = "%s**Price(CNY):** %s    " % (price_kit_format, item_table_format)
                 if i == 2:
                     price_kit_format = "%s**Quantity:** %s  " % (price_kit_format, item_table_format)
 
