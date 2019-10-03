@@ -90,11 +90,9 @@ NOTE: USD to CNY exchange rate is 7.15
 
 ### 6.25u Spacebars  
 **Price(MD):** 13.00	**Price(CNY):** 92.95	**Quantity:** Unkonwn  
-<img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/625u-spacebars.jpg' | relative_url }}" alt="625u-spacebars" class="image featured">
-
 ### 7u Spacebars  
 **Price(MD):** 13.00	**Price(CNY):** 92.95	**Quantity:** Unkonwn  
-<img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/7u-spacebars.jpg' | relative_url }}" alt="7u-spacebars" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Spacekeys  
 **Price(MD):** 40.00	**Price(CNY):** 286.00	**Quantity:** Unkonwn  
