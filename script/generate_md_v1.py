@@ -279,7 +279,7 @@ class GenerateKeyCapPage(object):
                 color_file_path = os.path.join(self.keycap_asset_path, color_file)
                 self.keycap_page_info += '<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
             self.keycap_page_info += "| |Base Color     | Legend Color\n| :-------------: | :-------------: | :------------:\n|Alpha||\n"
-        self.keycap_page_info += "\n\n"
+        self.keycap_page_info += "\n"
 
     def generate_keycap_page_picture(self):
         picture_files = [f for f in os.listdir(self.keycap_asset_render_path) if os.path.isfile(os.path.join(self.keycap_asset_render_path, f))]
