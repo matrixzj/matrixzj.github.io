@@ -223,6 +223,7 @@ class GenerateKeyCapPage(object):
         for kit in self.kits_list_index:
             self.keycap_page_price += self.info_dict['price'][kit][3] % (kit, kit.lower().replace(" ", "-"), self.info_dict['price'][kit][0], self.info_dict['price'][kit][1], self.info_dict['price'][kit][2])
             self.keycap_page_price += "\n"
+        self.keycap_page_price += "\n"
 
         price_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'price' in f]
         for price_file in price_files:
@@ -236,7 +237,7 @@ class GenerateKeyCapPage(object):
             self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="progress" class="image featured">' % os.path.relpath(progress_file_path, os.getcwd())
             self.keycap_page_price += "\n"
 
-        self.keycap_page_price += "\n\n"
+        self.keycap_page_price += "\n"
 
     def generate_keycap_page_kit(self):
         for kit in self.kits_list_index:

@@ -36,8 +36,8 @@ NOTE: USD to CNY exchange rate is 7.15
 |[6.25u Spacebars](#6.25u-spacebars)|13.00|92.95|Unkonwn|
 |[7u Spacebars](#7u-spacebars)|13.00|92.95|Unkonwn|
 |[Spacekeys](#spacekeys)|40.00|286.00|Unkonwn|
-<img src="{{ 'assets/images/sa-keycaps/yuri/price.jpg' | relative_url }}" alt="price" class="image featured">
 
+<img src="{{ 'assets/images/sa-keycaps/yuri/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 ## Kits  
 ### Alphas  
@@ -125,7 +125,6 @@ NOTE: USD to CNY exchange rate is 7.15
 		<th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAV.png' | relative_url }}" alt="Color_OAV" height="75" width="170"></th>
 	</tr>
 </table>
-
 
 ## Pictures  
 <img src="{{ 'assets/images/sa-keycaps/yuri/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
