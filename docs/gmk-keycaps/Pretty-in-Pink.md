@@ -33,7 +33,7 @@ NOTE: USD to CNY exchange rate is 7.15
 ## Info  
 * Designer: upas  
 * Profile: GMK as shown in kits picture  
-* GB Time: 2019-10-01  
+* GB Time: 2019-10-01 ~ 2019-10-31  
 * Color Codes:  
 
 | Base Color     | Legend Color

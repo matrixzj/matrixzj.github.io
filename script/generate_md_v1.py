@@ -221,7 +221,7 @@ class GenerateKeyCapPage(object):
         self.keycap_page_price += "NOTE: %s to CNY exchange rate is %.2f\n\n" % (self.info_dict['currencyunit'], float(self.info_dict['rate']))
         self.keycap_page_price += "| Name          | Price(%s)    |  Price(CNY) | Quantity |\n| ------------- | ------------ |  ---------- | -------- |\n" % (self.info_dict['platform'])
         for kit in self.kits_list_index:
-            self.keycap_page_price += self.info_dict['price'][kit][3] % (kit, kit.lower().replace(" ", "-"), self.info_dict['price'][kit][0], self.info_dict['price'][kit][1], self.info_dict['price'][kit][2])
+            self.keycap_page_price += self.info_dict['price'][kit][3] % (kit, kit.lower().replace(" ", "-").replace(".", ""), self.info_dict['price'][kit][0], self.info_dict['price'][kit][1], self.info_dict['price'][kit][2])
             self.keycap_page_price += "\n"
         self.keycap_page_price += "\n"
 
