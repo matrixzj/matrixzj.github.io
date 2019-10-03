@@ -29,15 +29,15 @@ NOTE: USD to CNY exchange rate is 6.90
 
 ## Kits  
 ### Base  
-**Price(Novelkeys):** 95.00	**Price(CNY):** 655.50	**Quantity:** 348  
+**Price(Novelkeys):** 95.00    **Price(CNY):** 655.50    **Quantity:** 348  
 <img src="{{ 'assets/images/gmk-keycaps/wobhiragana/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### 40s  
-**Price(Novelkeys):** 30.00	**Price(CNY):** 207.00	**Quantity:** 122  
+**Price(Novelkeys):** 30.00    **Price(CNY):** 207.00    **Quantity:** 122  
 <img src="{{ 'assets/images/gmk-keycaps/wobhiragana/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Micons  
-**Price(Novelkeys):** 68.00	**Price(CNY):** 469.20	**Quantity:** 184  
+**Price(Novelkeys):** 68.00    **Price(CNY):** 469.20    **Quantity:** 184  
 <img src="{{ 'assets/images/gmk-keycaps/wobhiragana/kits_pics/micons.png' | relative_url }}" alt="micons" class="image featured">
 
 ## Info  
