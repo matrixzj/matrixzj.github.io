@@ -43,8 +43,8 @@ NOTE: USD to RMB exchange rate is 7.17
 ## Info
 * Designer: Zambumon
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-09
-* ColorCodes:  
+* GB Time: 2019-09-09 ~ 2019-10-04
+* ColorCodes: Unknown 
 
 
 ## Pictures
