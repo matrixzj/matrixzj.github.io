@@ -31,6 +31,8 @@ NOTE: USD to CNY exchange rate is 7.15
 ## Kits  
 ### Core  
 **Price(GH):** 129.00    **Price(CNY):** 922.35    **Quantity:** Unkonwn  
+<img src="{{ 'assets/images/gmk-keycaps/phosphorous/kits_pics/core.png' | relative_url }}" alt="core" class="image featured">
+
 ### Numpad  
 **Price(GH):** 34.00    **Price(CNY):** 243.10    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
