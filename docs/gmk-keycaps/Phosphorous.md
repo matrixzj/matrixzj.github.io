@@ -53,7 +53,7 @@ NOTE: USD to CNY exchange rate is 7.15
 ## Info  
 * Designer: Moridin  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-10-04  
+* GB Time: 2019-10-04 ~ 2019-10-31
 * Color Codes:  
 
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/color.png' | relative_url }}" alt="color" class="image featured">
