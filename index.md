@@ -122,6 +122,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Honeywell & Co.](docs/gmk-keycaps/Honeywell-&-Co./)
 * [Dracula 德古拉](docs/gmk-keycaps/Dracula/)
 * [Phosphorous 磷光](docs/gmk-keycaps/Phosphorous/)
 * [Pretty in Pink 粉红佳人公益增补](docs/gmk-keycaps/Pretty-in-Pink/)

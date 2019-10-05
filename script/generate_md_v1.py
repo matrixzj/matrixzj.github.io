@@ -24,6 +24,7 @@ class GenerateKeyCapPage(object):
         self.keycap_filename_with_path = os.path.join("docs", self.profile_path, self.keycap_filename)
 
         self.keycap_asset_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""))
+        print self.keycap_asset_path
         self.keycap_asset_kits_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "kits_pics")
         self.keycap_asset_render_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "rendering_pics")
 
