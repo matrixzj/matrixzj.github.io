@@ -8,7 +8,7 @@ nav_order: 310745
 
 # Dracula 德古拉
 
-ref link: [Dracula GH GB Link]()  
+ref link: [Dracula GH GB Link](https://geekhack.org/index.php?topic=102772.0)  
 
 * [Price](#price)  
 * [Kits](#kits)  
