@@ -8,7 +8,7 @@ nav_order: 310750
 
 # Phosphorous 磷光
 
-ref link: [Phosphorous GH GB Link](https://thekey.company/collections/upcoming-releases/products/gmk-phosphorus)  
+ref link: [Phosphorous GH GB Link](https://geekhack.org/index.php?topic=102762.0)
 
 * [Price](#price)  
 * [Kits](#kits)  

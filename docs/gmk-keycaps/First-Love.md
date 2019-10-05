@@ -41,7 +41,7 @@ NOTE: USD to RMB exchange rate is 7.17
 
 
 ## Info
-* Designer: otanishock/biip
+* Designer: otanishock
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2019-09
 * ColorCodes:  
