@@ -21,6 +21,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2019
+* [Vilebloom R2](docs/sa-keycaps/Vilebloom-R2/)
 * [Yuri 尤里](docs/sa-keycaps/Yuri/)
 * [Royal Navy 皇家海军](docs/sa-keycaps/Royal-Navy/)
 * [128K AE](docs/sa-keycaps/128K-AE/)

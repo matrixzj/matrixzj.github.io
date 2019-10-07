@@ -47,9 +47,10 @@ class GenerateKeyCapPage(object):
         self.generate_keycap_page_info()
         print self.keycap_page_info
 
-        self.keycap_page_picture = "## Pictures  \n"
-        self.generate_keycap_page_picture()
-        print self.keycap_page_picture
+        if os.path.isdir(self.keycap_asset_render_path):
+            self.keycap_page_picture = "## Pictures  \n"
+            self.generate_keycap_page_picture()
+            print self.keycap_page_picture
 
         keycap_write_to_file = raw_input("Generate Page File? ")
         if keycap_write_to_file.lower().strip() == "y":
@@ -58,7 +59,8 @@ class GenerateKeyCapPage(object):
             fd_keycap_filename_with_path.write(self.keycap_page_price)
             fd_keycap_filename_with_path.write(self.keycap_page_kit)
             fd_keycap_filename_with_path.write(self.keycap_page_info)
-            fd_keycap_filename_with_path.write(self.keycap_page_picture)
+            if os.path.isdir(self.keycap_asset_render_path):
+                fd_keycap_filename_with_path.write(self.keycap_page_picture)
             fd_keycap_filename_with_path.close()
             print "%s was generated!" % self.keycap_filename_with_path
             if self.info_dict['cname']:
@@ -90,15 +92,22 @@ class GenerateKeyCapPage(object):
         exchange_rate_api_key = "access_key=" + f_api_file.read().strip()
         f_api_file.close()
         
-        currency_checked = "currencies=%s,CNY" % self.info_dict['currencyunit']
-        
         date = "date=%s" % self.info_dict['time']
-        
-        api_url = "%s&%s&%s&%s" % (api_base_url, exchange_rate_api_key, currency_checked, date)
 
-        exchange_rate_result = requests.get(api_url)
-        currency_key = "%sCNY" % self.info_dict['currencyunit']
-        exchange_rate = exchange_rate_result.json()['quotes'][currency_key]
+        if self.info_dict['currencyunit'] == 'USD':
+            currency_checked = "currencies=%s,CNY" % self.info_dict['currencyunit']
+            api_url = "%s&%s&%s&%s" % (api_base_url, exchange_rate_api_key, currency_checked, date)
+            exchange_rate_result = requests.get(api_url)
+            currency_key = "%sCNY" % self.info_dict['currencyunit']
+            exchange_rate = exchange_rate_result.json()['quotes'][currency_key]
+        else:
+            currency_checked = "currencies=%s,CNY,%s" % ("USD", self.info_dict['currencyunit'])
+            api_url = "%s&%s&%s&%s" % (api_base_url, exchange_rate_api_key, currency_checked, date)
+            exchange_rate_result = requests.get(api_url)
+            currency_key_USDtoCNY = "USDCNY"
+            currency_key_USDtoDest = "USD%s" % self.info_dict['currencyunit']
+            exchange_rate = float(exchange_rate_result.json()['quotes'][currency_key_USDtoCNY]) / float(exchange_rate_result.json()['quotes'][currency_key_USDtoDest])
+
         self.info_dict['rate'] = "%.2f" % float(exchange_rate)
 
     def parse_price_info(self):
@@ -226,17 +235,18 @@ class GenerateKeyCapPage(object):
             self.keycap_page_price += "\n"
         self.keycap_page_price += "\n"
 
-        price_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'price' in f]
-        for price_file in price_files:
-            price_file_path = os.path.join(self.keycap_asset_path, price_file)
-            self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="price" class="image featured">' % os.path.relpath(price_file_path, os.getcwd())
-            self.keycap_page_price += "\n"
-
-        progress_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'progress' in f]
-        for progress_file in progress_files:
-            progress_file_path = os.path.join(self.keycap_asset_path, progress_file)
-            self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="progress" class="image featured">' % os.path.relpath(progress_file_path, os.getcwd())
-            self.keycap_page_price += "\n"
+        if os.path.isdir(self.keycap_asset_path):
+            price_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'price' in f]
+            for price_file in price_files:
+                price_file_path = os.path.join(self.keycap_asset_path, price_file)
+                self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="price" class="image featured">' % os.path.relpath(price_file_path, os.getcwd())
+                self.keycap_page_price += "\n"
+    
+            progress_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'progress' in f]
+            for progress_file in progress_files:
+                progress_file_path = os.path.join(self.keycap_asset_path, progress_file)
+                self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="progress" class="image featured">' % os.path.relpath(progress_file_path, os.getcwd())
+                self.keycap_page_price += "\n"
 
         self.keycap_page_price += "\n"
 

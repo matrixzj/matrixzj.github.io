@@ -48,7 +48,7 @@ NOTE: USD to CNY exchange rate is 7.15
 ## Info  
 * Designer:   
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-10-04  
+* GB Time: 2019-10-04 ~ 2019-11-08
 * Color Codes:  
 
 | |Base Color     | Legend Color
