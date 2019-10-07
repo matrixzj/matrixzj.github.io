@@ -3,7 +3,7 @@ title: Phosphorous 磷光
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310750
+nav_order: 310745
 ---
 
 # Phosphorous 磷光

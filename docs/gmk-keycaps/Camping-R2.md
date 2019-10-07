@@ -3,7 +3,7 @@ title: Camping R2 野营R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310760
+nav_order: 310755
 ---
 
 # Camping R2 野营R2
@@ -53,7 +53,7 @@ NOTE: USD to CNY exchange rate is 7.15
 ## Info  
 * Designer: kingnestea  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-10-01  
+* GB Time: 2019-10-01 ~ 2019-10-25 
 * Color Codes: Unknown
 
 
