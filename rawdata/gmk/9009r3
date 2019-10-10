@@ -1,15 +1,17 @@
-name = '9009 R3'
-cname = ''
-keycapstype = 'GMK'
-designer = ''
-profile = '1-1-2-3-4-5'
-time = '2019-09'
-colorcodes = ''
-platform = 'Dixie'
-link = 'https://dixiemech.store/collections/gmk-9009-round-3/products/gmk-9009-round-3'
-Standard|99.99|||
-Numbers|35.99|||
-Addition|29.99|||
-Aesthetic|29.99|||
-Modern|39.99|||
-Obscure|39.99|||
+name:'9009 R3'
+cname:''
+keycapstype:'GMK'
+designer:''
+profile:'1-1-2-3-4-5'
+time:'2019-09-01'
+colorcodes:''
+platform:'Dixie'
+link:'https://dixiemech.store/collections/gmk-9009-round-3/products/gmk-9009-round-3'
+currencyunit:'USD'
+Standard:99.99||1520
+Numbers:35.99||294
+Addition:29.99||227
+Aesthetic:29.99||608
+Modern:39.99||250
+Obscure:39.99||190
+Norde:45.99||50
