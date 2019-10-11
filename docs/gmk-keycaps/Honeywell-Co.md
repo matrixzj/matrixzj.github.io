@@ -44,6 +44,10 @@ NOTE: USD to CNY exchange rate is 7.15
 **Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/gmk-keycaps/honeywell&co./kits_pics/turf-green-accent.png' | relative_url }}" alt="turf-green-accent" class="image featured">
 
+### OG Red Accent  
+**Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unkonwn  
+<img src="{{ 'assets/images/gmk-keycaps/honeywell&co./kits_pics/og-red-accent.png' | relative_url }}" alt="og-red-accent" class="image featured">
+
 
 ## Info  
 * Designer:   
@@ -58,6 +62,7 @@ NOTE: USD to CNY exchange rate is 7.15
 |Honey & Co Accent|TU3|CP
 |Mild Pink Accent|3C|CP
 |Turf Green Accent|P 142-6 C|CP
+|OG Red Accent|V1|CP
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/honeywell/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
