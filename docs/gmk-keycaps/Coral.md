@@ -59,11 +59,12 @@ NOTE: USD to CNY exchange rate is 7.10
 <img src="{{ 'assets/images/gmk-keycaps/coral/color2.png' | relative_url }}" alt="color" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/coral/color.png' | relative_url }}" alt="color" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/coral/color1.png' | relative_url }}" alt="color" class="image featured">
+
 | |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
 |Alpha|CP|Pantone 16-1546
 |Modifiers|Pantone 16-1546|CP
-|Modifiers|Pantone 13-4810|Pantone 16-1546
+|Various|Pantone 13-4810|Pantone 16-1546
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/coral/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
