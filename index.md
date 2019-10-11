@@ -123,6 +123,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Coral 珊瑚](docs/gmk-keycaps/Coral/)
 * [Honeywell & Co.](docs/gmk-keycaps/Honeywell-Co/)
 * [Dracula 德古拉](docs/gmk-keycaps/Dracula/)
 * [Phosphorous 磷光](docs/gmk-keycaps/Phosphorous/)
