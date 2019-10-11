@@ -88,7 +88,25 @@ Round2 **Price(USD):** 10.00    **Price(RMB):** 62.80    **Quantity:** unknown
 * Profile: SA Uniform R3
 * GB Time: 2014-07 (Round1) / 2018-03(Round2)
 * Color Codes: unknown  
- 
+
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>VV</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VV.png' | relative_url }}" alt="Color_VV" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WA</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WA.png' | relative_url }}" alt="Color_WA" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>OAS</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_OAS.png' | relative_url }}" alt="Color_OAS" height="75" width="170"></th>
+  </tr>
+</table>
 
 ## Pictures
 <img src="{{ 'assets/images/sa-keycaps/nucleardata/rendering_pics/2.jpg' | relative_url }}" alt="2" class="image featured">
