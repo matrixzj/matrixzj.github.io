@@ -25,6 +25,7 @@ NOTE: USD to CNY exchange rate is 7.15
 |[Honey & Co Accent](#honey-&-co-accent)|22.00|157.30|Unkonwn|
 |[Mild Pink Accent](#mild-pink-accent)|22.00|157.30|Unkonwn|
 |[Turf Green Accent](#turf-green-accent)|22.00|157.30|Unkonwn|
+|[OG Red Accent](#og-red-accent)|22.00|157.30|Unkonwn|
 
 
 ## Kits  
