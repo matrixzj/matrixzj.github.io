@@ -8,7 +8,7 @@ nav_order: 310730
 
 # Coral 珊瑚
 
-ref link: [Coral GH GB Link]()  
+ref link: [Coral GH GB Link](https://geekhack.org/index.php?topic=102849.0)  
 
 * [Price](#price)  
 * [Kits](#kits)  
