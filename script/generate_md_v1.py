@@ -92,7 +92,13 @@ class GenerateKeyCapPage(object):
         exchange_rate_api_key = "access_key=" + f_api_file.read().strip()
         f_api_file.close()
         
-        date = "date=%s" % self.info_dict['time']
+        if len(self.info_dict['time'].split('-')) == 3:
+            date = "date=%s" % self.info_dict['time']
+        elif len(self.info_dict['time'].split('-')) == 2:
+            date = "date=%s-01" % self.info_dict['time']
+        else:
+            print "Something wrong with GB Time!"
+            sys.exit(1)
 
         if self.info_dict['currencyunit'] == 'USD':
             currency_checked = "currencies=%s,CNY" % self.info_dict['currencyunit']

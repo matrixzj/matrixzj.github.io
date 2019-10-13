@@ -8,37 +8,38 @@ nav_order: 310770
 
 # Wasabi 芥末
 
-ref link: [Wasabi OCO GB Link](https://www.originativeco.com/products/wasabi)
+ref link: [Wasabi OCO GB Link](https://www.originativeco.com/products/wasabi)  
 
-* [Price](#price)
-* [Kits](#kits)
-* [Info](#info)
-* [Pictures](#pictures)
+* [Price](#price)  
+* [Kits](#kits)  
+* [Info](#info)  
+* [Pictures](#pictures)  
 
 
-## Price
-NOTE: USD to RMB exchange rate is 7.17
+## Price  
+NOTE: USD to CNY exchange rate is 7.16
 
-| Name          | Price(OCO)    |  Price(RMB) | Quantity |
+| Name          | Price(OCO)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|160.00|1147.20|unknown|
+|[Base](#base)|109.00|780.44|Unkonwn|
 
 
-## Kits
-### Base
-**Price(OCO):** 160.00    **Price(RMB):** 1147.20    **Quantity:** unknown
-<img src="{{ 'assets/images/gmk-keycaps/wasabi/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
+## Kits  
+### Base  
+**Price(OCO):** 109.00    **Price(CNY):** 780.44    **Quantity:** Unkonwn  
+<img src="{{ 'assets/images/gmk-keycaps/wasabi/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 
-## Info
-* Designer: 
-* Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-09
-* ColorCodes: 
+## Info  
+* Designer:   
+* Profile: GMK 1-1-2-3-4-4  
+* GB Time: 2019-09  
+* Color Codes:  
 
-| Base Color     | Legend Color
-| :-------------: | :------------:
-|CR|3A
+| | Base Color    | Legend Color
+| :-------------: | :-------------: | :------------:
+|Base|CR|3A
+|Accent|3A|CR
 
-## Pictures
-<img src="{{ 'assets/images/gmk-keycaps/wasabi/rendering_pics/1.jpg' | relative_url }}" alt="1" class="image featured">
+## Pictures  
+<img src="{{ 'assets/images/gmk-keycaps/wasabi/rendering_pics/1.jpg' | relative_url }}" alt="1.jpg" class="image featured">
