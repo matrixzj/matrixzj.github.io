@@ -35,12 +35,7 @@ NOTE: USD to RMB exchange rate is 6.90
 * Profile: SA 1-1-2-3-4-3
 * GB Time: 2017-03
 * Color Codes:  
-<table style="width:100%">
-  <tr>
-    <th>ColorCodes</th>
-    <th>Sample</th>
-  </tr>
-</table>
+
 <table style="width:100%">
   <tr>
     <th>ColorCodes</th>
