@@ -1,14 +1,15 @@
 name:'Bingsu'
-cname:''
+cname:'红豆刨冰'
 keycapstype:'GMK'
 designer:'Rise'
 profile:'1-1-2-3-4-4'
-time:'2019-10'
+time:'2019-10-15'
 colorcodes:''
 platform:'GH'
-link:''
+link:''https://geekhack.org/index.php?topic=102936.0
 currencyunit:'USD'
-Base:||
-Hangul:||
-Txt:||
-Spacebars:||
+Base:130||
+Hangul:48||
+Spacebar:25||
+Text Mod:35||
+40s:25||
