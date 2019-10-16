@@ -21,13 +21,13 @@ NOTE: USD to RMB exchange rate is 6.90
 
 | Name          | Price(USD)    |  Price(RMB) |  Price(TaoBao) | Quantity |
 | ------------- | ------------- |  ---------- |  --------- | -------- |
-|[ALL](#all)|161.00|1110.90|1111|unknown|
+|[ALL](#all)|212.46|1465.97|1466|unknown|
 |[Novelties](#novelties)|14.23|98.21|99|unknown|
 
 
 ## Kits
 ### ALL
-**Price(USD):** 161.00    **Price(RMB):** 1110.90    **Price(TaoBao):** 1111    **Quantity:** unknown
+**Price(USD):** 212.46    **Price(RMB):** 1465.97    **Price(TaoBao):** 1466    **Quantity:** unknown
 <img src="{{ 'assets/images/sa-keycaps/forgive/kits_pics/all.jpg' | relative_url }}" alt="ALL" class="image featured">
 
 ### Novelties
