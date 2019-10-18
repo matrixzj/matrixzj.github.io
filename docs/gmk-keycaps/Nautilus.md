@@ -30,7 +30,8 @@ NOTE: USD to RMB exchange rate is 6.74
 |[Dvorak Colemak](#dvorak-colemak)|42.99|289.75|56|
 
 <img src="{{ 'assets/images/gmk-keycaps/nautilus/price.jpg' | relative_url }}" alt="price" class="image featured">
-
+<img src="{{ 'assets/images/gmk-keycaps/nautilus/progress2.png' | relative_url }}" alt="progress2" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/nautilus/progress1.png' | relative_url }}" alt="progress1" class="image featured">
 
 ## Kits
 ### Base
