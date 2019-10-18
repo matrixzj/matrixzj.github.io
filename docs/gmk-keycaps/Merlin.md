@@ -41,7 +41,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: MechMerlin
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-08
+* GB Time: 2019-08-09 ~ 2019-09-08
 * ColorCodes:  
 
 | |Base Color     | Legend Color
