@@ -33,7 +33,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: cocobrais
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-06
+* GB Time: 2019-06-20 ~ 2019-07-31
 * ColorCodes:  
 
 ||Base|Legend
