@@ -74,11 +74,29 @@ NOTE: USD to RMB exchange rate is 6.29
 <table style="width:100%">
   <tr>
     <th> </th>
-    <th>Base ColorCodes</th>
+    <th>Base</th>
+    <th>Sample</th>
+    <th>Legend</th>
     <th>Sample</th>
   </tr>
   <tr>
     <th>Alpha</th>
+    <th style="background-color: #651C32;">&#160;</th>
+    <th><b> Pantone 7421 C </b></th>
+    <th style="background-color: #b9975b;">&#160;</th>
+    <th><b> Pantone 465 C </b></th>
+  </tr>
+  <tr>
+    <th>Modifiers</th>
+    <th style="background-color: #25282a;">&#160;</th>
+    <th><b> Pantone 7421 C </b></th>
+    <th style="background-color: #b9975b;">&#160;</th>
+    <th><b> Pantone 465 C </b></th>
+  </tr>
+  <tr>
+    <th>Accents</th>
+    <th style="background-color: #b9975b;">&#160;</th>
+    <th><b> Pantone 465 C </b></th>
     <th style="background-color: #651C32;">&#160;</th>
     <th><b> Pantone 7421 C </b></th>
   </tr>
