@@ -69,7 +69,20 @@ NOTE: USD to RMB exchange rate is 6.29
 * Designer: RedSuns
 * Profile: GMK 1-1-2-3-4-4
 * GB Time: 2018-02
-* ColorCodes: unknown
+* ColorCodes: 
+
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th>Base ColorCodes</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>Alpha</th>
+    <th style="background-color: #651C32;">&#160;</th>
+    <th><b> Pantone 7421 C </b></th>
+  </tr>
+</table.
 
 
 ## Pictures
