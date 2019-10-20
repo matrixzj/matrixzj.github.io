@@ -73,7 +73,7 @@ NOTE: USD to RMB exchange rate is 6.29
 
 <table style="width:100%">
   <tr>
-    <th></th>
+    <th> </th>
     <th>Base ColorCodes</th>
     <th>Sample</th>
   </tr>
@@ -82,7 +82,7 @@ NOTE: USD to RMB exchange rate is 6.29
     <th style="background-color: #651C32;">&#160;</th>
     <th><b> Pantone 7421 C </b></th>
   </tr>
-</table.
+</table>
 
 
 ## Pictures
