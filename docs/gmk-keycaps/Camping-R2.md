@@ -54,7 +54,38 @@ NOTE: USD to CNY exchange rate is 7.15
 * Designer: kingnestea  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2019-10-01 ~ 2019-10-25 
-* Color Codes: Unknown
+* ColorCodes: Custom colors per SA Camping (SP colors: VF/WCK/RBC)
+
+<table style="width:100%">
+  <tr>
+    <th> </th>
+    <th>Base</th>
+    <th>Sample</th>
+    <th>Legend</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>Alpha</th>
+    <th style="background-color: #eee2d0;">&#160;</th>
+    <th><b> RGB(238, 226, 208) </b></th>
+    <th style="background-color: #5b7c5b;">&#160;</th>
+    <th><b> RGB(91, 124, 91) </b></th>
+  </tr>
+  <tr>
+    <th>Modifiers</th>
+    <th style="background-color: #5b7c5b;">&#160;</th>
+    <th><b> RGB(91, 124, 91) </b></th>
+    <th style="background-color: #eee2d0;">&#160;</th>
+    <th><b> RGB(238, 226, 208) </b></th>
+  </tr>
+  <tr>
+    <th>Accents</th>
+    <th style="background-color: #eee2d0;">&#160;</th>
+    <th><b> RGB(238, 226, 208) </b></th>
+    <th style="background-color: #733636;">&#160;</th>
+    <th><b> RGB(115, 54, 54) </b></th>
+  </tr>
+</table>
 
 
 ## Pictures  
