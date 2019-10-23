@@ -21,22 +21,24 @@ NOTE: USD to RMB exchange rate is 7.17
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Core](#core)|127.00|910.59|unknown|
-|[Extension](#extension)|44.00|315.48|unknown|
-|[Spacebars](#spacebars)|28.00|200.76|unknown|
+|[Core](#core)|127.00|910.59|347|
+|[Extension](#extension)|44.00|315.48|80|
+|[Spacebars](#spacebars)|28.00|200.76|135|
 
+<img src="{{ 'assets/images/gmk-keycaps/sandstorm/progress2.png' | relative_url }}" alt="2" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/sandstorm/progress1.png' | relative_url }}" alt="1" class="image featured">
 
 ## Kits
 ### Core
-**Price(GH):** 127.00    **Price(RMB):** 910.59    **Quantity:** unknown  
+**Price(GH):** 127.00    **Price(RMB):** 910.59    **Quantity:** 347  
 <img src="{{ 'assets/images/gmk-keycaps/sandstorm/kits_pics/core.jpg' | relative_url }}" alt="Core" class="image featured">
 
 ### Extension
-**Price(GH):** 44.00    **Price(RMB):** 315.48    **Quantity:** unknown  
+**Price(GH):** 44.00    **Price(RMB):** 315.48    **Quantity:** 80  
 <img src="{{ 'assets/images/gmk-keycaps/sandstorm/kits_pics/extension.png' | relative_url }}" alt="Extension" class="image featured">
 
 ### Spacebars
-**Price(GH):** 28.00    **Price(RMB):** 200.76    **Quantity:** unknown  
+**Price(GH):** 28.00    **Price(RMB):** 200.76    **Quantity:** 135  
 <img src="{{ 'assets/images/gmk-keycaps/sandstorm/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 
