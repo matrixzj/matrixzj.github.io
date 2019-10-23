@@ -21,17 +21,18 @@ NOTE: USD to RMB exchange rate is 6.92
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[White](#white)|45.00|311.40|unknown|
-|[Black](#black)|45.00|311.40|unknown|
+|[White](#white)|45.00|311.40|150|
+|[Black](#black)|45.00|311.40|150|
 
+<img src="{{ 'assets/images/gmk-keycaps/wobbowhanguladd-on/progress.png' | relative_url }}" alt="White" class="image featured">
 
 ## Kits
 ### White
-**Price(GH):** 45.00    **Price(RMB):** 311.40    **Quantity:** unknown  
+**Price(GH):** 45.00    **Price(RMB):** 311.40    **Quantity:** 150  
 <img src="{{ 'assets/images/gmk-keycaps/wobbowhanguladd-on/kits_pics/white.jpg' | relative_url }}" alt="White" class="image featured">
 
 ### Black
-**Price(GH):** 45.00    **Price(RMB):** 311.40    **Quantity:** unknown  
+**Price(GH):** 45.00    **Price(RMB):** 311.40    **Quantity:** 150  
 <img src="{{ 'assets/images/gmk-keycaps/wobbowhanguladd-on/kits_pics/black.jpg' | relative_url }}" alt="Black" class="image featured">
 
 

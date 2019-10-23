@@ -21,20 +21,22 @@ NOTE: USD to RMB exchange rate is 6.92
 
 | Name          | Price(kono)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|139.99|968.73|unknown|
-|[Wizardry](#wizardry)|49.99|345.93|unknown|
-|[40s](#40s)|39.99|276.73|unknown|
+|[Base](#base)|139.99|968.73|203|
+|[Wizardry](#wizardry)|49.99|345.93|137|
+|[40s](#40s)|39.99|276.73|33|
 
+<img src="{{ 'assets/images/gmk-keycaps/merlin/progress1.png' | relative_url }}" alt="1" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/merlin/progress2.png' | relative_url }}" alt="2" class="image featured">
 
 ## Kits
 ### Base
-**Price(kono):** 139.99    **Price(RMB):** 968.73    **Quantity:** unknown
+**Price(kono):** 139.99    **Price(RMB):** 968.73    **Quantity:** 203
 
 ### Wizardry
-**Price(kono):** 49.99    **Price(RMB):** 345.93    **Quantity:** unknown
+**Price(kono):** 49.99    **Price(RMB):** 345.93    **Quantity:** 137
 
 ### 40s
-**Price(kono):** 39.99    **Price(RMB):** 276.73    **Quantity:** unknown
+**Price(kono):** 39.99    **Price(RMB):** 276.73    **Quantity:** 33
 <img src="{{ 'assets/images/gmk-keycaps/merlin/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 
