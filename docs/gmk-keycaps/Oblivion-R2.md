@@ -105,7 +105,7 @@ NOTE: USD to RMB exchange rate is 6.88
 ||Base|Legend
 | :-------------: | :-------------: | :------------:
 Oblivion Alpha|SP Abs GD|SP Abs GAL
-Hagoromo Alpha|SP Abs GD|CP
+Hagoromo Alpha|CP|SP Abs GD
 Modifiers 1|SP Abs GQM|SP Abs GAL
 Modifiers 2|SP Abs GQM|SP Abs OAV
 Modifiers 3|SP Abs GQM|SP Abs RCJ
