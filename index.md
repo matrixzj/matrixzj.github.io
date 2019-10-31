@@ -123,6 +123,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Alter](docs/gmk-keycaps/Alter/)
 * [Bingsu 红豆刨冰](docs/gmk-keycaps/Bingsu/)
 * [Greek Beige Add-on 米色希腊文增补](docs/gmk-keycaps/Greek-Beige-Add-on/)
 * [Coral 珊瑚](docs/gmk-keycaps/Coral/)
