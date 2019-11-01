@@ -39,6 +39,8 @@ NOTE: USD to CNY exchange rate is 7.15
 |[DCS Yuri](#dcs-yuri)|130.00|929.50|99|
 
 <img src="{{ 'assets/images/sa-keycaps/yuri/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/yuri/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/yuri/progress2.png' | relative_url }}" alt="progress2" class="image featured">
 
 ## Kits  
 ### Alphas  
