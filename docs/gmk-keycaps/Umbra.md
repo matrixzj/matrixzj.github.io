@@ -24,6 +24,7 @@ NOTE: USD to CNY exchange rate is 7.04
 |[Base](#base)|145.00|1020.80|Unkonwn|
 |[Hiragana](#hiragana)|70.00|492.80|Unkonwn|
 |[Spacebar](#spacebar)|30.00|211.20|Unkonwn|
+|[Rama](#rama)|45.00|316.80|Unkonwn|
 
 
 ## Kits  
@@ -38,6 +39,10 @@ NOTE: USD to CNY exchange rate is 7.04
 ### Spacebar  
 **Price(GH):** 30.00    **Price(CNY):** 211.20    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/gmk-keycaps/umbra/kits_pics/spacebar.png' | relative_url }}" alt="spacebar" class="image featured">
+
+### Rama
+**Price(GH):** 45.00    **Price(CNY):** 316.80    **Quantity:** Unkonwn
+<img src="{{ 'assets/images/gmk-keycaps/umbra/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 
 ## Info  
