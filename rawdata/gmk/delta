@@ -1,12 +1,12 @@
 name:'Delta'
 cname:''
 keycapstype:'GMK'
-designer:'Ashento'
+designer:'Emil'
 profile:'1-1-2-3-4-4'
 time:'2019-11-01'
-colorcodes:'#5dceba/WS2'
+colorcodes:''
 platform:'GH'
 link:''
 currencyunit:'USD'
-Base:||
-Spacebars:||
+Base:134.99||
+Space:27.99||

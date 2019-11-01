@@ -123,6 +123,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Delta](docs/gmk-keycaps/Delta/)
 * [DMG R2](docs/gmk-keycaps/DMG-R2/)
 * [Alter](docs/gmk-keycaps/Alter/)
 * [Bingsu 红豆刨冰](docs/gmk-keycaps/Bingsu/)
