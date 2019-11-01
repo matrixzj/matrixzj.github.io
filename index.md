@@ -123,6 +123,8 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Umbra](docs/gmk-keycaps/Umbra/)
+* [Nines R2 九R2](docs/gmk-keycaps/Nines-R2/)
 * [Delta](docs/gmk-keycaps/Delta/)
 * [DMG R2](docs/gmk-keycaps/DMG-R2/)
 * [Alter](docs/gmk-keycaps/Alter/)
