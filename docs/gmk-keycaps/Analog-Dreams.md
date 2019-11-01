@@ -1,14 +1,14 @@
 ---
-title: Analogdreams 
+title: Analog Dreams 
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 310690
 ---
 
-# Analogdreams 
+# Analog Dreams 
 
-ref link: [Analogdreams GH GB Link]()  
+ref link: [Analog Dreams GH GB Link](https://geekhack.org/index.php?topic=103200.0)  
 
 * [Price](#price)  
 * [Kits](#kits)  
@@ -54,7 +54,19 @@ NOTE: USD to CNY exchange rate is 7.04
 * Designer: pwade3  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2019-11-01  
-* Color Codes: Unknown  
+* Color Codes: 
+
+<img src="{{ 'assets/images/gmk-keycaps/analogdreams/color1.jpg' | relative_url }}" alt="color1" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/analogdreams/color2.jpg' | relative_url }}" alt="color2" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/analogdreams/color3.jpg' | relative_url }}" alt="color3" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/analogdreams/color4.jpg' | relative_url }}" alt="color4" class="image featured">
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|L9|Pantone PQ-2582C
+|Modifiers|Pantone PQ-GREEN0921C|Pantone PQ-2582C
+|Various 1|Pantone PQ-Yellow 0131C|Pantone PQ-2582C
+|Various 2|Pantone PQ-MAGENTA0521C|Pantone PQ-2582C
 
 
 ## Pictures  

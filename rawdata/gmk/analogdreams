@@ -1,4 +1,4 @@
-name:'analogdreams'
+name:'Analog Dreams'
 cname:''
 keycapstype:'GMK'
 designer:'pwade3'
@@ -10,6 +10,6 @@ link:''
 currencyunit:'USD'
 Base:120||
 Japanese:60||
-Numpad ISO:48||
+Numpad & ISO:48||
 Spacebars:32||
 Novelties:50||
