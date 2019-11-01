@@ -41,6 +41,10 @@ NOTE: USD to CNY exchange rate is 7.04
 * GB Time: 2019-11-01  
 * Color Codes:  
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|WS2|RAL ?
+|Modifiers|RAL ? |SP ColorCodes VBV
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/delta/rendering_pics/1.jpg' | relative_url }}" alt="1.jpg" class="image featured">
