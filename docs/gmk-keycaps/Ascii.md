@@ -48,7 +48,7 @@ NOTE: USD to CNY exchange rate is 7.04
 ## Info  
 * Designer: Oblotzky  
 * Profile: GMK 0-1-2-3-4-5  
-* GB Time: 2019-11-01  
+* GB Time: 2019-11-01 ~ 2019-11-29
 * Color Codes:  
 
 |Base Color     | Legend Color

@@ -331,6 +331,7 @@ There is still a lot of wrong/missing info in this page. Any suggestions/advice/
 
 ### Contributors
 
+* [RedSuns](https://geekhack.org/index.php?action=profile;u=64773)
 * [dvorcol](https://geekhack.org/index.php?action=profile;u=52009)
 * [Vloshko](https://geekhack.org/index.php?action=profile;u=60892)
 * GodFire 野火
