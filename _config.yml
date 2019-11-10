@@ -33,3 +33,5 @@ aux_links:
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: dark
+
+theme: jekyll-theme-cayman
