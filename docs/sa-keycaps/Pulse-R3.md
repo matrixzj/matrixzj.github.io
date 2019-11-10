@@ -53,6 +53,7 @@ NOTE: USD to RMB exchange rate is 6.40
 <img src="{{ 'assets/images/sa-keycaps/pulser3/price.jpg' | relative_url }}" atl="price" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/pulser3/progress2.png' | relative_url }}" atl="progress2" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/pulser3/progress1.png' | relative_url }}" atl="progress1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/pulser3/progress3.png' | relative_url }}" atl="progress3" class="image featured">
 
 ## Kits
 ### Alphas
