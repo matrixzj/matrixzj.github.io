@@ -47,8 +47,9 @@ NOTE: USD to RMB exchange rate is 6.67
 |[VIM](#vim)|16.99|115.02|195|
 
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/price.jpg' | relative_url }}" alt="price" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/greenscreen/progress2.png' | relative_url }}" alt="progress" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/greenscreen/progress1.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/greenscreen/progress2.png' | relative_url }}" alt="progress2" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/greenscreen/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/greenscreen/progress3.png' | relative_url }}" alt="progress3" class="image featured">
 
 ## Kits
 ### GreenScreenAlphas
