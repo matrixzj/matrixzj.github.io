@@ -41,8 +41,9 @@ NOTE: USD to RMB exchange rate is 6.94
 |[Salty](#salty)|34.99|242.83|245.00|193|
 
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/price.jpg' | relative_url }}" alt="price" class="image featured">
-<img src="{{ 'assets/images/gmk-keycaps/carbonr2/progress2.png' | relative_url }}" alt="progress" class="image featured">
-<img src="{{ 'assets/images/gmk-keycaps/carbonr2/progress1.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/carbonr2/progress2.png' | relative_url }}" alt="progress2" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/carbonr2/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/carbonr2/progress3.png' | relative_url }}" alt="progress3" class="image featured">
 
 ## Kits
 ### Carbon Base
