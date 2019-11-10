@@ -16,8 +16,6 @@ ref link: [Arcane KONO GP Link](https://kono.store/products/sa-arcane)
 * [Info](#info)
 * [Pictures](#pictures)
 
-<img src="{{ 'assets/images/sa-keycaps/arcane/progress1.png' | relative_url }}" alt="progress1" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/arcane/progress2.png' | relative_url }}" alt="progress2" class="image featured">
 
 ## Price  
 NOTE: USD to RMB exchange rate is 6.73
@@ -32,6 +30,8 @@ NOTE: USD to RMB exchange rate is 6.73
 |[Spacebars](#spacebars)|29.99|201.83|270.00|27|
 |[ISO UK](#iso-uk)|23.99|161.45|173.00|9|
 
+<img src="{{ 'assets/images/sa-keycaps/arcane/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/arcane/progress2.png' | relative_url }}" alt="progress2" class="image featured">
 
 ## Kits
 ### Base
