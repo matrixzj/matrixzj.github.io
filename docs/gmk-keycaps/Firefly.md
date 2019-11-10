@@ -21,37 +21,39 @@ NOTE: USD to CNY exchange rate is 7.15
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|119.99|857.93|Unkonwn|
-|[Numpad](#numpad)|45.99|328.83|Unkonwn|
-|[DeAccent](#deaccent)|34.99|250.18|Unkonwn|
-|[40s](#40s)|45.99|328.83|Unkonwn|
-|[Icon](#icon)|39.99|285.93|Unkonwn|
-|[NORDEUK](#nordeuk)|59.99|428.93|Unkonwn|
+|[Base](#base)|119.99|857.93|553|
+|[Numpad](#numpad)|45.99|328.83|100|
+|[DeAccent](#deaccent)|34.99|250.18|279|
+|[40s](#40s)|45.99|328.83|100|
+|[Icon](#icon)|39.99|285.93|104|
+|[NORDEUK](#nordeuk)|59.99|428.93|51|
 
+<img src="{{ 'assets/images/gmk-keycaps/firefly/progress2.png' | relative_url }}" alt="progress2" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/firefly/progress1.png' | relative_url }}" alt="progress1" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 119.99  **Price(CNY):** 857.93  **Quantity:** Unkonwn  
+**Price(GH):** 119.99  **Price(CNY):** 857.93  **Quantity:** 553  
 <img src="{{ 'assets/images/gmk-keycaps/firefly/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Numpad  
-**Price(GH):** 45.99  **Price(CNY):** 328.83  **Quantity:** Unkonwn  
+**Price(GH):** 45.99  **Price(CNY):** 328.83  **Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/firefly/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ### DeAccent  
-**Price(GH):** 34.99  **Price(CNY):** 250.18  **Quantity:** Unkonwn  
+**Price(GH):** 34.99  **Price(CNY):** 250.18  **Quantity:** 279  
 <img src="{{ 'assets/images/gmk-keycaps/firefly/kits_pics/deaccent.png' | relative_url }}" alt="deaccent" class="image featured">
 
 ### 40s  
-**Price(GH):** 45.99  **Price(CNY):** 328.83  **Quantity:** Unkonwn  
+**Price(GH):** 45.99  **Price(CNY):** 328.83  **Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/firefly/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Icon  
-**Price(GH):** 39.99  **Price(CNY):** 285.93  **Quantity:** Unkonwn  
+**Price(GH):** 39.99  **Price(CNY):** 285.93  **Quantity:** 104  
 <img src="{{ 'assets/images/gmk-keycaps/firefly/kits_pics/icon.png' | relative_url }}" alt="icon" class="image featured">
 
 ### NORDEUK  
-**Price(GH):** 59.99  **Price(CNY):** 428.93  **Quantity:** Unkonwn  
+**Price(GH):** 59.99  **Price(CNY):** 428.93  **Quantity:** 51  
 <img src="{{ 'assets/images/gmk-keycaps/firefly/kits_pics/nordeuk.png' | relative_url }}" alt="nordeuk" class="image featured">
 
 
