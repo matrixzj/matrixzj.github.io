@@ -33,7 +33,7 @@ NOTE: USD to CNY exchange rate is 7.00
 ## Info  
 * Designer: Matrix Lab  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-11-09  
+* GB Time: 2019-11-09 ~ 2019-11-23 
 * Color Codes:  
 
 | |Base Color     | Legend Color
