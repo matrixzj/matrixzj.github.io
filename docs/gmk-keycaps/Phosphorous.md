@@ -21,32 +21,34 @@ NOTE: USD to CNY exchange rate is 7.15
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Core](#core)|129.00|922.35|Unkonwn|
-|[Numpad](#numpad)|34.00|243.10|Unkonwn|
-|[40s](#40s)|47.00|336.05|Unkonwn|
-|[Spacebars](#spacebars)|24.00|171.60|Unkonwn|
-|[NorDEUK](#nordeuk)|53.00|378.95|Unkonwn|
+|[Core](#core)|129.00|922.35|434|
+|[Numpad](#numpad)|34.00|243.10|102|
+|[40s](#40s)|47.00|336.05|79|
+|[Spacebars](#spacebars)|24.00|171.60|168|
+|[NorDEUK](#nordeuk)|53.00|378.95|28|
 
+<img src="{{ 'assets/images/gmk-keycaps/phosphorous/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/phosphorous/progress2.png' | relative_url }}" alt="progress2" class="image featured">
 
 ## Kits  
 ### Core  
-**Price(GH):** 129.00    **Price(CNY):** 922.35    **Quantity:** Unkonwn  
+**Price(GH):** 129.00    **Price(CNY):** 922.35    **Quantity:** 434  
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/kits_pics/core.png' | relative_url }}" alt="core" class="image featured">
 
 ### Numpad  
-**Price(GH):** 34.00    **Price(CNY):** 243.10    **Quantity:** Unkonwn  
+**Price(GH):** 34.00    **Price(CNY):** 243.10    **Quantity:** 102  
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ### 40s  
-**Price(GH):** 47.00    **Price(CNY):** 336.05    **Quantity:** Unkonwn  
+**Price(GH):** 47.00    **Price(CNY):** 336.05    **Quantity:** 79  
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 24.00    **Price(CNY):** 171.60    **Quantity:** Unkonwn  
+**Price(GH):** 24.00    **Price(CNY):** 171.60    **Quantity:** 168  
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### NorDEUK  
-**Price(GH):** 53.00    **Price(CNY):** 378.95    **Quantity:** Unkonwn  
+**Price(GH):** 53.00    **Price(CNY):** 378.95    **Quantity:** 28  
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/kits_pics/nordeuk.png' | relative_url }}" alt="nordeuk" class="image featured">
 
 
