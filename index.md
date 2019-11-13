@@ -328,6 +328,7 @@ Just buy it :)
 
 ### 2019
 * [Astrolokeys](docs/dsa-keycaps/Astrolokeys/)
+* [Scientific 科学计算器](docs/dsa-keycaps/Scientific/)
 
 ### 2018
 

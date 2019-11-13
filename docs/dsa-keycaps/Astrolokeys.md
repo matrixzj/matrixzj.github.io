@@ -38,6 +38,9 @@ NOTE: USD to CNY exchange rate is 7.15
 |[7u Spacebars](#7u-spacebars)|8.00|57.20|7|
 
 <img src="{{ 'assets/images/dsa-keycaps/astrolokeys/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/dsa-keycaps/astrolokeys/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/dsa-keycaps/astrolokeys/progress2.png' | relative_url }}" alt="progress2" class="image featured">
+
 
 ## Kits  
 ### Base  
