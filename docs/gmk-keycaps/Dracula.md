@@ -37,6 +37,7 @@ NOTE: USD to CNY exchange rate is 7.15
 ### Core
 **Price(GH):** 130.00    **Price(CNY):** 929.50    **Quantity:** 3006
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/core.jpg' | relative_url }}" alt="core" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/addon.jpg' | relative_url }}" alt="addon" class="image featured">
 
 ### Highlight
 **Price(GH):** 37.00    **Price(CNY):** 264.55    **Quantity:** 1223
