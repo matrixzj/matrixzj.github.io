@@ -129,7 +129,7 @@ NOTE: USD to CNY exchange rate is 6.88
 * Designer: OneCreativeMind  
 * Profile: DSA PBT 
 * GB Time: 2019-01-01  
-* Color Codes:   
+* Color Codes: RAG/GQT/GEC   
 
 
 ## Pictures  
