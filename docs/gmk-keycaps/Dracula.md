@@ -21,47 +21,49 @@ NOTE: USD to CNY exchange rate is 7.15
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Core](#core)|130.00|929.50|Unkonwn|
-|[Highlight](#highlight)|37.00|264.55|Unkonwn|
-|[Nightmode](#nightmode)|60.00|429.00|Unkonwn|
-|[Whitespace](#whitespace)|25.00|178.75|Unkonwn|
-|[Minify](#minify)|45.00|321.75|Unkonwn|
-|[Localization](#localization)|65.00|464.75|Unkonwn|
-|[Command](#command)|32.00|228.80|Unkonwn|
-|[ERR](#err)|50.00|357.50|Unkonwn|
+|[Core](#core)|130.00|929.50|U3006|
+|[Highlight](#highlight)|37.00|264.55|1223|
+|[Nightmode](#nightmode)|60.00|429.00|797|
+|[Whitespace](#whitespace)|25.00|178.75|654|
+|[Minify](#minify)|45.00|321.75|353|
+|[Localization](#localization)|65.00|464.75|117|
+|[Command](#command)|32.00|228.80|260|
+|[ERR](#err)|50.00|357.50|1167|
 
+<img src="{{ 'assets/images/gmk-keycaps/dracula/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/dracula/progress2.png' | relative_url }}" alt="progress2" class="image featured">
 
 ## Kits
 ### Core
-**Price(GH):** 130.00    **Price(CNY):** 929.50    **Quantity:** Unkonwn
+**Price(GH):** 130.00    **Price(CNY):** 929.50    **Quantity:** 3006
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/core.jpg' | relative_url }}" alt="core" class="image featured">
 
 ### Highlight
-**Price(GH):** 37.00    **Price(CNY):** 264.55    **Quantity:** Unkonwn
+**Price(GH):** 37.00    **Price(CNY):** 264.55    **Quantity:** 1223
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/highlight.jpg' | relative_url }}" alt="highlight" class="image featured">
 
 ### Nightmode
-**Price(GH):** 60.00    **Price(CNY):** 429.00    **Quantity:** Unkonwn
+**Price(GH):** 60.00    **Price(CNY):** 429.00    **Quantity:** 797
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/nightmode.jpg' | relative_url }}" alt="nightmode" class="image featured">
 
 ### Whitespace
-**Price(GH):** 25.00    **Price(CNY):** 178.75    **Quantity:** Unkonwn
+**Price(GH):** 25.00    **Price(CNY):** 178.75    **Quantity:** 652
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/whitespace.jpg' | relative_url }}" alt="whitespace" class="image featured">
 
 ### Minify
-**Price(GH):** 45.00    **Price(CNY):** 321.75    **Quantity:** Unkonwn
+**Price(GH):** 45.00    **Price(CNY):** 321.75    **Quantity:** 353
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/minify.jpg' | relative_url }}" alt="minify" class="image featured">
 
 ### Localization
-**Price(GH):** 65.00    **Price(CNY):** 464.75    **Quantity:** Unkonwn
+**Price(GH):** 65.00    **Price(CNY):** 464.75    **Quantity:** 117
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/localization.jpg' | relative_url }}" alt="localization" class="image featured">
 
 ### Command
-**Price(GH):** 32.00    **Price(CNY):** 228.80    **Quantity:** Unkonwn
+**Price(GH):** 32.00    **Price(CNY):** 228.80    **Quantity:** 260
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/command.jpg' | relative_url }}" alt="command" class="image featured">
 
 ### ERR
-**Price(GH):** 50.00    **Price(CNY):** 357.50    **Quantity:** Unkonwn
+**Price(GH):** 50.00    **Price(CNY):** 357.50    **Quantity:** 1167
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/err.jpg' | relative_url }}" alt="err" class="image featured">
 
 
