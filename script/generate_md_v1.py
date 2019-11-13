@@ -171,7 +171,7 @@ class GenerateKeyCapPage(object):
         index_lines = fd_index.readlines()
         fd_index.close()
 
-        profile_list = ['SA', 'GMK', '---']
+        profile_list = ['SA', 'GMK', 'DSA', '---']
         profile_current = self.info_dict['keycapstype']
 
         if os.path.isfile(self.keycap_filename_with_path):
@@ -274,7 +274,10 @@ class GenerateKeyCapPage(object):
         self.keycap_page_kit += "\n"
 
     def generate_keycap_page_info(self):
-        self.keycap_page_info += "* Designer: %s  \n* Profile: %s %s  \n" % (self.info_dict['designer'], self.info_dict['keycapstype'], self.info_dict['profile'])
+        if 'profile' in self.info_dict.keys():
+            self.keycap_page_info += "* Designer: %s  \n* Profile: %s %s  \n" % (self.info_dict['designer'], self.info_dict['keycapstype'], self.info_dict['profile'])
+        else:
+            self.keycap_page_info += "* Designer: %s  \n* Profile: %s  \n" % (self.info_dict['designer'], self.info_dict['keycapstype'])
         self.keycap_page_info += "* GB Time: %s  \n" % self.info_dict['time']
         if "SA" in self.info_dict['keycapstype']:
             if "/" not in self.info_dict['colorcodes']:
