@@ -332,6 +332,9 @@ Just buy it :)
 * [Ferrous](docs/dsa-keycaps/Ferrous/)
 
 ### 2018
+* [Alchemy](docs/dsa-keycaps/Alchemy/)
+
+### 2017
 
 ---
 
