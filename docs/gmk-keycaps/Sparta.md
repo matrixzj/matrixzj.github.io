@@ -54,6 +54,11 @@ NOTE: USD to CNY exchange rate is 7.01
 * GB Time: 2019-11-15  
 * Color Codes: 
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|RAL 9001 Cream|RAL 1011 Brown beige
+|Modifiers|RAL 3011 Brown red|RAL 1011 Brown beige
+|Accent|RAL 1011 Brown beige|RAL 3011 Brown red
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/sparta/rendering_pics/1.jpg' | relative_url }}" alt="1.jpg" class="image featured">
