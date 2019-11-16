@@ -123,6 +123,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Sparta 斯巴达](docs/gmk-keycaps/Sparta/)
 * [Dogethink Novelty 思考的狗](docs/gmk-keycaps/Dogethink-Novelty/)
 * [Matrix-01](docs/gmk-keycaps/Matrix-01/)
 * [Terra](docs/gmk-keycaps/Terra/)
