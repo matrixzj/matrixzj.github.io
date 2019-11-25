@@ -1,15 +1,16 @@
 name:'Ursa'
 cname:''
 keycapstype:'GMK'
-designer:'Nathanalphaman'
+designer:'NathanAlphaMan'
 profile:'1-1-2-3-4-4'
-time:'2019-11-01'
+time:'2019-11-18'
 colorcodes:''
 platform:'GH'
-link:''
+link:'https://geekhack.org/index.php?topic=103472.0'
 currencyunit:'USD'
-Major:||
-Cub:||
-O Horizon:||
-Honey:||
-Paddington:||
+Base:129.99||
+Cub:49.99||
+Spacebars:29.99||
+Novelties:39.99||
+Paddington:29.99||
+RAMA:51.99||
