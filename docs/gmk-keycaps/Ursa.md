@@ -60,8 +60,8 @@ NOTE: USD to CNY exchange rate is 7.03
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2019-11-18  
 * Color Codes:  
-
 <img src="{{ 'assets/images/gmk-keycaps/ursa/color.png' | relative_url }}" alt="color" class="image featured">
+
 | |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
 |Alpha|CP|RAL 7006
