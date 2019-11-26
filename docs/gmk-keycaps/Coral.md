@@ -27,6 +27,8 @@ NOTE: USD to CNY exchange rate is 7.10
 |[Spacebar](#spacebar)|24.99|177.43|Unkonwn|
 |[Novelties](#novelties)|39.99|283.93|Unkonwn|
 
+<img src="{{ 'assets/images/gmk-keycaps/coral/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/coral/progress2.png' | relative_url }}" alt="progress2" class="image featured">
 
 ## Kits  
 ### Base  
