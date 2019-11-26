@@ -39,6 +39,7 @@ NOTE: USD to RMB exchange rate is 6.73
 |[Spacebars](#spacebars)|8.99|60.50|55|
 
 <img src="{{ 'assets/images/sa-keycaps/godspeed/Price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/godspeed/progress1.png' | relative_url }}" alt="progress1" class="image featured">
 
 ## Kits
 ### SolarAlpha
