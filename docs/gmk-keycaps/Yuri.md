@@ -33,6 +33,7 @@ NOTE: USD to RMB exchange rate is 6.83
 |[International](#international)|57.99|396.07|40|
 
 <img src="{{ 'assets/images/gmk-keycaps/yuri/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/yuri/progress1.png' | relative_url }}" alt="progress1" class="image featured">
 
 
 ## Kits
