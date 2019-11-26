@@ -57,6 +57,7 @@ NOTE: USD to RMB exchange rate is 6.80
 <img src="{{ 'assets/images/sa-keycaps/oblivion/price.jpg' | relative_url }}" atl="price" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/oblivion/progress2.png' | relative_url }}" alt="progress2" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/oblivion/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/oblivion/progress3.png' | relative_url }}" alt="progress3" class="image featured">
 
 
 ## Kits
