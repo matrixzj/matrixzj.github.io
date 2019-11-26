@@ -45,6 +45,7 @@ NOTE: USD to RMB exchange rate is 6.89
 |[BO Spacebars](#bo-spacebars)|8.99|61.94|213|
 
 <img src="{{ 'assets/images/sa-keycaps/dasheranddancer/price.jpg' | relative_url }}" atl="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/dasheranddancer/progress1.png' | relative_url }}" atl="progress1" class="image featured">
 
 ## Kits
 ### Dasher TKL
