@@ -55,7 +55,7 @@ NOTE: USD to RMB exchange rate is 7.00
 |[Salt](#salt)|9.99|69.93|401|
 
 <img src="{{ 'assets/images/sa-keycaps/carbonr2/price.jpg' | relative_url }}" atl="price" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/carbonr2/progress.png' | relative_url }}" atl="progress" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/carbonr2/progress1.png' | relative_url }}" atl="progress1" class="image featured">
 
 ## Kits
 ### Alphas
