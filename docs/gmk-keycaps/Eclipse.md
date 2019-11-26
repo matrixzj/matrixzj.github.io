@@ -21,14 +21,14 @@ NOTE: USD to RMB exchange rate is 6.73
 
 | Name          | Price(MD)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Core](#core)|120.00|807.60|unknown|
-|[Numpad](#numpad)|37.00|249.01|unknown|
-|[Purple Accent](#purple-accent)|16.00|107.68|unknown|
-|[Orange Accent](#orange-accent)|16.00|107.68|unknown|
-|[Pale Blue Accent](#pale-blue-accent)|16.00|107.68|unknown|
-|[Novelties](#novelties)|25.00|168.25|unknown|
-|[SpaceBars](#spacebars)|35.00|235.55|unknown|
-|[40s](#40s)|45.00|302.85|unknown|
+|[Core](#core)|120.00|807.60|348|
+|[Numpad](#numpad)|37.00|249.01|118|
+|[Purple Accent](#purple-accent)|16.00|107.68|76|
+|[Orange Accent](#orange-accent)|16.00|107.68|87|
+|[Pale Blue Accent](#pale-blue-accent)|16.00|107.68|194|
+|[Novelties](#novelties)|25.00|168.25|57|
+|[SpaceBars](#spacebars)|35.00|235.55|84|
+|[40s](#40s)|45.00|302.85|60|
 
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/price.jpg' | relative_url }}" alt="price" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/progress2.png' | relative_url }}" alt="progress" class="image featured">
@@ -37,35 +37,35 @@ NOTE: USD to RMB exchange rate is 6.73
 
 ## Kits
 ### Core
-**Price(MD):** 120.00    **Price(RMB):** 807.60    **Quantity:** unknown  
+**Price(MD):** 120.00    **Price(RMB):** 807.60    **Quantity:** 348  
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/core.jpg' | relative_url }}" alt="Core" class="image featured">
 
 ### Numpad
-**Price(MD):** 37.00    **Price(RMB):** 249.01    **Quantity:** unknown  
+**Price(MD):** 37.00    **Price(RMB):** 249.01    **Quantity:** 118  
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/numpad.jpg' | relative_url }}" alt="Numpad" class="image featured">
 
 ### Purple Accent
-**Price(MD):** 16.00    **Price(RMB):** 107.68    **Quantity:** unknown  
+**Price(MD):** 16.00    **Price(RMB):** 107.68    **Quantity:** 76  
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/purple-accent.jpg' | relative_url }}" alt="Purple Accent" class="image featured">
 
 ### Orange Accent
-**Price(MD):** 16.00    **Price(RMB):** 107.68    **Quantity:** unknown  
+**Price(MD):** 16.00    **Price(RMB):** 107.68    **Quantity:** 87  
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/orange-accent.jpg' | relative_url }}" alt="Orange Accent" class="image featured">
 
 ### Pale Blue Accent
-**Price(MD):** 16.00    **Price(RMB):** 107.68    **Quantity:** unknown  
+**Price(MD):** 16.00    **Price(RMB):** 107.68    **Quantity:** 194  
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/pale-blue-accent.jpg' | relative_url }}" alt="Pale Blue Accent" class="image featured">
 
 ### Novelties
-**Price(MD):** 25.00    **Price(RMB):** 168.25    **Quantity:** unknown  
+**Price(MD):** 25.00    **Price(RMB):** 168.25    **Quantity:** 57  
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/novelties.jpg' | relative_url }}" alt="Novelties" class="image featured">
 
 ### SpaceBars
-**Price(MD):** 35.00    **Price(RMB):** 235.55    **Quantity:** unknown  
+**Price(MD):** 35.00    **Price(RMB):** 235.55    **Quantity:** 84  
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/spacebars.jpg' | relative_url }}" alt="SpaceBars" class="image featured">
 
 ### 40s
-**Price(MD):** 45.00    **Price(RMB):** 302.85    **Quantity:** unknown  
+**Price(MD):** 45.00    **Price(RMB):** 302.85    **Quantity:** 60  
 <img src="{{ 'assets/images/gmk-keycaps/eclipse/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 
