@@ -124,7 +124,6 @@ Just buy it :)
 
 ### 2019
 * [Ursa](docs/gmk-keycaps/Ursa/)
-* [Sparta 斯巴达](docs/gmk-keycaps/Sparta/)
 * [Dogethink Novelty 思考的狗](docs/gmk-keycaps/Dogethink-Novelty/)
 * [Matrix-01](docs/gmk-keycaps/Matrix-01/)
 * [Terra](docs/gmk-keycaps/Terra/)

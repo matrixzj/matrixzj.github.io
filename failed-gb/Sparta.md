@@ -2,7 +2,6 @@
 title: Sparta 斯巴达
 layout: default
 icon: fa-keyboard-o
-parent: GMK Keycaps
 nav_order: 310655
 ---
 
