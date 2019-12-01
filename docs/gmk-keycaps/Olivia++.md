@@ -28,6 +28,7 @@ NOTE: USD to CNY exchange rate is 7.03
 |[ISO](#iso)|26.00|182.78|Unkonwn|
 |[Spacebars](#spacebars)|14.00|98.42|Unkonwn|
 |[Hihihi](#hihihi)|34.00|239.02|Unkonwn|
+|[Rama](#rama)|68.00|478.04|Unkonwn|
 
 
 ## Kits  
@@ -59,6 +60,9 @@ NOTE: USD to CNY exchange rate is 7.03
 **Price(NovelKeys):** 34.00    **Price(CNY):** 239.02    **Quantity:** Unkonwn  
 <img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/hihihi.jpg' | relative_url }}" alt="hihihi" class="image featured">
 
+### Rama
+**Price(NovelKeys):** 68.00    **Price(CNY):** 478.04    **Quantity:** Unkonwn
+<img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 ## Info  
 * Designer: olivia  
