@@ -124,6 +124,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Olivia++](docs/gmk-keycaps/Olivia++/)
 * [Ursa](docs/gmk-keycaps/Ursa/)
 * [Dogethink Novelty 思考的狗](docs/gmk-keycaps/Dogethink-Novelty/)
 * [Matrix-01](docs/gmk-keycaps/Matrix-01/)
