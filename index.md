@@ -124,6 +124,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [DualShot](docs/gmk-keycaps/DualShot/)
 * [Rudy 鲁迪](docs/gmk-keycaps/Rudy/)
 * [Olivia++](docs/gmk-keycaps/Olivia++/)
 * [Ursa](docs/gmk-keycaps/Ursa/)
