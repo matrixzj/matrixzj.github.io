@@ -21,40 +21,32 @@ NOTE: USD to CNY exchange rate is 7.03
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|130.00|913.90|Unkonwn|
-|[Katakanas](#katakanas)|74.00|520.22|Unkonwn|
-|[Novelties](#novelties)|42.00|295.26|Unkonwn|
-|[Spacebars](#spacebars)|25.00|175.75|Unkonwn|
-|[40s](#40s)|42.00|295.26|Unkonwn|
+|[Base](#base)|130.00|913.90|319|
+|[Novelties](#novelties)|42.00|295.26|195|
+|[Spacebars](#spacebars)|25.00|175.75|113|
 |[Rama Green](#rama-green)|42.00|295.26|Unkonwn|
 |[Rama Golden](#rama-golden)|42.00|295.26|Unkonwn|
 
+<img src="{{ 'assets/images/gmk-keycaps/terra/progress1.png' | relative_url }}" alt="progress1" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/terra/progress2.png' | relative_url }}" alt="progress2" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 130.00    **Price(CNY):** 913.90    **Quantity:** Unkonwn  
+**Price(GH):** 130.00    **Price(CNY):** 913.90    **Quantity:** 319  
 <img src="{{ 'assets/images/gmk-keycaps/terra/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
-### Katakanas  
-**Price(GH):** 74.00    **Price(CNY):** 520.22    **Quantity:** Unkonwn  
-<img src="{{ 'assets/images/gmk-keycaps/terra/kits_pics/katakanas.png' | relative_url }}" alt="katakanas" class="image featured">
-
 ### Novelties  
-**Price(GH):** 42.00    **Price(CNY):** 295.26    **Quantity:** Unkonwn  
+**Price(GH):** 42.00    **Price(CNY):** 295.26    **Quantity:** 195  
 <img src="{{ 'assets/images/gmk-keycaps/terra/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 25.00    **Price(CNY):** 175.75    **Quantity:** Unkonwn  
+**Price(GH):** 25.00    **Price(CNY):** 175.75    **Quantity:** 113  
 <img src="{{ 'assets/images/gmk-keycaps/terra/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
-### 40s  
-**Price(GH):** 42.00    **Price(CNY):** 295.26    **Quantity:** Unkonwn  
-<img src="{{ 'assets/images/gmk-keycaps/terra/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
-
 ### Rama Green  
-**Price(GH):** 42.00    **Price(CNY):** 295.26    **Quantity:** Unkonwn  
+**Price(GH):** 42.00    **Price(CNY):** 295.26    **Quantity:** 85  
 ### Rama Golden  
-**Price(GH):** 42.00    **Price(CNY):** 295.26    **Quantity:** Unkonwn  
+**Price(GH):** 42.00    **Price(CNY):** 295.26    **Quantity:** 70  
 <img src="{{ 'assets/images/gmk-keycaps/terra/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 ## Info  
