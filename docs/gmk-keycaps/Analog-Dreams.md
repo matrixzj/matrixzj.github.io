@@ -21,34 +21,34 @@ NOTE: USD to CNY exchange rate is 7.04
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|844.80|Unkonwn|
-|[Japanese](#japanese)|60.00|422.40|Unkonwn|
-|[Numpad & ISO](#numpad-&-iso)|48.00|337.92|Unkonwn|
-|[Spacebars](#spacebars)|32.00|225.28|Unkonwn|
-|[Novelties](#novelties)|50.00|352.00|Unkonwn|
+|[Base](#base)|120.00|844.80|500|
+|[Japanese](#japanese)|60.00|422.40|185|
+|[Numpad & ISO](#numpad-&-iso)|48.00|337.92|113|
+|[Spacebars](#spacebars)|32.00|225.28|216|
+|[Novelties](#novelties)|50.00|352.00|250|
 
 <img src="{{ 'assets/images/gmk-keycaps/analogdreams/progress1.png' | relative_url }}" alt="progress1" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/analogdreams/progress2.png' | relative_url }}" alt="progress2" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 120.00    **Price(CNY):** 844.80    **Quantity:** Unkonwn  
+**Price(GH):** 120.00    **Price(CNY):** 844.80    **Quantity:** 500  
 <img src="{{ 'assets/images/gmk-keycaps/analogdreams/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Japanese  
-**Price(GH):** 60.00    **Price(CNY):** 422.40    **Quantity:** Unkonwn  
+**Price(GH):** 60.00    **Price(CNY):** 422.40    **Quantity:** 185  
 <img src="{{ 'assets/images/gmk-keycaps/analogdreams/kits_pics/japanese.jpg' | relative_url }}" alt="japanese" class="image featured">
 
 ### Numpad & ISO  
-**Price(GH):** 48.00    **Price(CNY):** 337.92    **Quantity:** Unkonwn  
+**Price(GH):** 48.00    **Price(CNY):** 337.92    **Quantity:** 113  
 <img src="{{ 'assets/images/gmk-keycaps/analogdreams/kits_pics/numpad-iso.jpg' | relative_url }}" alt="numpadiso" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 32.00    **Price(CNY):** 225.28    **Quantity:** Unkonwn  
+**Price(GH):** 32.00    **Price(CNY):** 225.28    **Quantity:** 216  
 <img src="{{ 'assets/images/gmk-keycaps/analogdreams/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Novelties  
-**Price(GH):** 50.00    **Price(CNY):** 352.00    **Quantity:** Unkonwn  
+**Price(GH):** 50.00    **Price(CNY):** 352.00    **Quantity:** 250  
 <img src="{{ 'assets/images/gmk-keycaps/analogdreams/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 
