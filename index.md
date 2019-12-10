@@ -124,6 +124,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2019
+* [Nautilus Nightmares 噩梦鹦鹉螺](docs/gmk-keycaps/Nautilus-Nightmares/)
 * [DualShot](docs/gmk-keycaps/DualShot/)
 * [Rudy 鲁迪](docs/gmk-keycaps/Rudy/)
 * [Olivia++](docs/gmk-keycaps/Olivia++/)
