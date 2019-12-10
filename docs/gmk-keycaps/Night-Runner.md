@@ -22,7 +22,7 @@ NOTE: USD to RMB exchange rate is 6.92
 | Name          | Price(ThekeyCompany)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|139.00|961.88|401|
-|[Spacebar](#spacebar)|22.00|152.24|2196|
+|[Spacebar](#spacebar)|22.00|152.24|196|
 |[Ortho](#ortho)|55.00|380.60|64|
 |[Novelties](#novelties)|55.00|380.60|233|
 
@@ -35,7 +35,7 @@ NOTE: USD to RMB exchange rate is 6.92
 <img src="{{ 'assets/images/gmk-keycaps/nightrunner/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Spacebar
-**Price(ThekeyCompany):** 22.00    **Price(RMB):** 152.24    **Quantity:** 2196
+**Price(ThekeyCompany):** 22.00    **Price(RMB):** 152.24    **Quantity:** 196
 <img src="{{ 'assets/images/gmk-keycaps/nightrunner/kits_pics/spacebar.jpg' | relative_url }}" alt="Spacebar" class="image featured">
 
 ### Ortho
