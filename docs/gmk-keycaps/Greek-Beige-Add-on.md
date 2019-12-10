@@ -21,12 +21,12 @@ NOTE: USD to CNY exchange rate is 7.07
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[All](#all)|30.00|212.10|Unkonwn|
+|[All](#all)|30.00|212.10|303|
 
 
 ## Kits  
 ### All  
-**Price(GH):** 30.00    **Price(CNY):** 212.10    **Quantity:** Unkonwn  
+**Price(GH):** 30.00    **Price(CNY):** 212.10    **Quantity:** 303  
 <img src="{{ 'assets/images/gmk-keycaps/greekbeigeadd-on/kits_pics/all.jpg' | relative_url }}" alt="all" class="image featured">
 
 
