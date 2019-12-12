@@ -71,6 +71,11 @@ NOTE: USD to CNY exchange rate is 7.03
 * GB Time: 2019-12-01  
 * Color Codes:   
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Peach Alphas|Pantone 487C|Pantone 202C
+|Maroon Alphas|Pantone 202C|Pantone 487C
+|Accents|Pantone 6C|Pantone 487C
 
 ## Pictures  
 <img src="{{ 'assets/images/sa-keycaps/sundaymorning/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
