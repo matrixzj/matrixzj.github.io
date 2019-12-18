@@ -121,6 +121,10 @@ Note: Donation needed for this kit
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VF.png' | relative_url }}" alt="colorVF" height="75" width="170"></th>
   </tr>
   <tr>
+    <th>VH</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VH.png' | relative_url }}" alt="colorVH" height="75" width="170"></th>
+  </tr>
+  <tr>
     <th>YG</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_YG.png' | relative_url }}" alt="colorYG" height="75" width="170"></th>
   </tr>
