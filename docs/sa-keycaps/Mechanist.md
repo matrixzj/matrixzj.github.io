@@ -21,61 +21,61 @@ NOTE: USD to CNY exchange rate is 6.71
 
 | Name          | Price(ZF)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Alphas](#alphas)|46.50|312.00|Unkonwn|
-|[Frozen Alphas](#frozen-alphas)|57.38|385.00|Unkonwn|
-|[TKL](#tkl)|62.59|420.00|Unkonwn|
-|[Numpad](#numpad)|38.60|259.00|Unkonwn|
-|[Mech Tools](#mech-tools)|33.68|226.00|Unkonwn|
-|[Gears](#gears)|34.28|230.00|Unkonwn|
-|[Non-Standard](#non-standard)|63.34|425.00|Unkonwn|
-|[ISO](#iso)|41.28|277.00|Unkonwn|
-|[40%](#40%)|87.78|589.00|Unkonwn|
-|[Arrows](#arrows)|8.64|58.00|Unkonwn|
-|[Spacebars](#spacebars)|9.09|61.00|Unkonwn|
+|[Alphas](#alphas)|46.50|312.00|Unknown|
+|[Frozen Alphas](#frozen-alphas)|57.38|385.00|Unknown|
+|[TKL](#tkl)|62.59|420.00|Unknown|
+|[Numpad](#numpad)|38.60|259.00|Unknown|
+|[Mech Tools](#mech-tools)|33.68|226.00|Unknown|
+|[Gears](#gears)|34.28|230.00|Unknown|
+|[Non-Standard](#non-standard)|63.34|425.00|Unknown|
+|[ISO](#iso)|41.28|277.00|Unknown|
+|[40%](#40%)|87.78|589.00|Unknown|
+|[Arrows](#arrows)|8.64|58.00|Unknown|
+|[Spacebars](#spacebars)|9.09|61.00|Unknown|
 
 <img src="{{ 'assets/images/sa-keycaps/mechanist/price.png' | relative_url }}" alt="price" class="image featured">
 
 ## Kits  
 ### Alphas  
-**Price(ZF):** 46.50    **Price(CNY):** 312.00    **Quantity:** Unkonwn  
+**Price(ZF):** 46.50    **Price(CNY):** 312.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/alphas.png' | relative_url }}" alt="alphas" class="image featured">
 
 ### Frozen Alphas  
-**Price(ZF):** 57.38    **Price(CNY):** 385.00    **Quantity:** Unkonwn  
+**Price(ZF):** 57.38    **Price(CNY):** 385.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/frozen-alphas.png' | relative_url }}" alt="frozen-alphas" class="image featured">
 
 ### TKL  
-**Price(ZF):** 62.59    **Price(CNY):** 420.00    **Quantity:** Unkonwn  
+**Price(ZF):** 62.59    **Price(CNY):** 420.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/tkl.png' | relative_url }}" alt="tkl" class="image featured">
 
 ### Numpad  
-**Price(ZF):** 38.60    **Price(CNY):** 259.00    **Quantity:** Unkonwn  
+**Price(ZF):** 38.60    **Price(CNY):** 259.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ### Mech Tools  
-**Price(ZF):** 33.68    **Price(CNY):** 226.00    **Quantity:** Unkonwn  
+**Price(ZF):** 33.68    **Price(CNY):** 226.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/mech-tools.png' | relative_url }}" alt="mech-tools" class="image featured">
 
 ### Gears  
-**Price(ZF):** 34.28    **Price(CNY):** 230.00    **Quantity:** Unkonwn  
+**Price(ZF):** 34.28    **Price(CNY):** 230.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/gears.png' | relative_url }}" alt="gears" class="image featured">
 
 ### Non-Standard  
-**Price(ZF):** 63.34    **Price(CNY):** 425.00    **Quantity:** Unkonwn  
+**Price(ZF):** 63.34    **Price(CNY):** 425.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/non-standard.png' | relative_url }}" alt="non-standard" class="image featured">
 
 ### ISO  
-**Price(ZF):** 41.28    **Price(CNY):** 277.00    **Quantity:** Unkonwn  
+**Price(ZF):** 41.28    **Price(CNY):** 277.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/iso.png' | relative_url }}" alt="iso" class="image featured">
 
 ### 40%  
-**Price(ZF):** 87.78    **Price(CNY):** 589.00    **Quantity:** Unkonwn  
+**Price(ZF):** 87.78    **Price(CNY):** 589.00    **Quantity:** Unknown  
 ### Arrows  
-**Price(ZF):** 8.64    **Price(CNY):** 58.00    **Quantity:** Unkonwn  
+**Price(ZF):** 8.64    **Price(CNY):** 58.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/arrows.png' | relative_url }}" alt="arrows" class="image featured">
 
 ### Spacebars  
-**Price(ZF):** 9.09    **Price(CNY):** 61.00    **Quantity:** Unkonwn  
+**Price(ZF):** 9.09    **Price(CNY):** 61.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/mechanist/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 

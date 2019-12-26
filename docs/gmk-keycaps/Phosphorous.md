@@ -27,8 +27,8 @@ NOTE: USD to CNY exchange rate is 7.15
 |[Spacebars](#spacebars)|24.00|171.60|168|
 |[NorDEUK](#nordeuk)|53.00|378.95|28|
 
-<img src="{{ 'assets/images/gmk-keycaps/phosphorous/progress1.png' | relative_url }}" alt="progress1" class="image featured">
-<img src="{{ 'assets/images/gmk-keycaps/phosphorous/progress2.png' | relative_url }}" alt="progress2" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/phosphorous/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/phosphorous/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Core  

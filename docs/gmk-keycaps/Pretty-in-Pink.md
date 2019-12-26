@@ -21,12 +21,12 @@ NOTE: USD to CNY exchange rate is 7.15
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|45.00|321.75|Unkonwn|
+|[Base](#base)|45.00|321.75|Unknown|
 
 
 ## Kits  
 ### Base  
-**Price(GH):** 45.00    **Price(CNY):** 321.75    **Quantity:** Unkonwn  
+**Price(GH):** 45.00    **Price(CNY):** 321.75    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/prettyinpink/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 

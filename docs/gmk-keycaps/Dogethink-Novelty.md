@@ -21,12 +21,12 @@ NOTE: USD to CNY exchange rate is 7.00
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[All](#all)|10.00|70.00|Unkonwn|
+|[All](#all)|10.00|70.00|Unknown|
 
 
 ## Kits  
 ### All  
-**Price(GH):** 10.00    **Price(CNY):** 70.00    **Quantity:** Unkonwn  
+**Price(GH):** 10.00    **Price(CNY):** 70.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/dogethinknovelty/kits_pics/all.jpg' | relative_url }}" alt="all" class="image featured">
 
 

@@ -21,22 +21,22 @@ NOTE: USD to CNY exchange rate is 7.04
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|144.99|1020.73|Unkonwn|
-|[Spaces](#spaces)|24.99|175.93|Unkonwn|
-|[Novelties](#novelties)|44.99|316.73|Unkonwn|
+|[Base](#base)|144.99|1020.73|Unknown|
+|[Spaces](#spaces)|24.99|175.93|Unknown|
+|[Novelties](#novelties)|44.99|316.73|Unknown|
 
 
 ## Kits  
 ### Base  
-**Price(GH):** 144.99    **Price(CNY):** 1020.73    **Quantity:** Unkonwn  
+**Price(GH):** 144.99    **Price(CNY):** 1020.73    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/sharkbait/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Spaces  
-**Price(GH):** 24.99    **Price(CNY):** 175.93    **Quantity:** Unkonwn  
+**Price(GH):** 24.99    **Price(CNY):** 175.93    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/sharkbait/kits_pics/spaces.png' | relative_url }}" alt="spaces" class="image featured">
 
 ### Novelties  
-**Price(GH):** 44.99    **Price(CNY):** 316.73    **Quantity:** Unkonwn  
+**Price(GH):** 44.99    **Price(CNY):** 316.73    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/sharkbait/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 

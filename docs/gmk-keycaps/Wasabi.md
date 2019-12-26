@@ -21,12 +21,12 @@ NOTE: USD to CNY exchange rate is 7.16
 
 | Name          | Price(OCO)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|109.00|780.44|Unkonwn|
+|[Base](#base)|109.00|780.44|Unknown|
 
 
 ## Kits  
 ### Base  
-**Price(OCO):** 109.00    **Price(CNY):** 780.44    **Quantity:** Unkonwn  
+**Price(OCO):** 109.00    **Price(CNY):** 780.44    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/wasabi/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 

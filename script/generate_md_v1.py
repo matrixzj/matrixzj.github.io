@@ -123,12 +123,12 @@ class GenerateKeyCapPage(object):
                 len(self.info_dict['price'][kit][1]) == 0:
                 self.info_dict['price'][kit][0] = 'Unknown'
                 self.info_dict['price'][kit][1] = 'Unknown'
-            # Price in USD is provided and CNY is Unkonwn
+            # Price in USD is provided and CNY is Unknown
             elif len(self.info_dict['price'][kit][0]) > 0 and \
                 len(self.info_dict['price'][kit][1]) == 0:
                 self.info_dict['price'][kit][0] = float(self.info_dict['price'][kit][0])
                 self.info_dict['price'][kit][1] = float(self.info_dict['price'][kit][0]) * float(self.info_dict['rate'])
-            # Price in CYN is provided and USD is Unkonwn
+            # Price in CYN is provided and USD is Unknown
             elif len(self.info_dict['price'][kit][0]) == 0 and \
                 len(self.info_dict['price'][kit][1]) > 0:
                 self.info_dict['price'][kit][0] = float(self.info_dict['price'][kit][1]) / float(self.info_dict['rate'])
@@ -138,7 +138,7 @@ class GenerateKeyCapPage(object):
                 self.info_dict['price'][kit][1] = float(self.info_dict['price'][kit][1])
 
             if len(self.info_dict['price'][kit][2]) == 0:
-                self.info_dict['price'][kit][2] = 'Unkonwn'
+                self.info_dict['price'][kit][2] = 'Unknown'
             else:
                 self.info_dict['price'][kit][2] = int(self.info_dict['price'][kit][2])
 

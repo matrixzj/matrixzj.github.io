@@ -21,32 +21,32 @@ NOTE: USD to CNY exchange rate is 7.03
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|129.99|913.83|Unkonwn|
-|[Dark Horse](#dark-horse)|71.99|506.09|Unkonwn|
-|[Spacebars](#spacebars)|21.99|154.59|Unkonwn|
-|[Blue Alu Rama](#blue-alu-rama)|38.00|267.14|Unkonwn|
-|[Brass Rama](#brass-rama)|56.00|393.68|Unkonwn|
+|[Base](#base)|129.99|913.83|Unknown|
+|[Dark Horse](#dark-horse)|71.99|506.09|Unknown|
+|[Spacebars](#spacebars)|21.99|154.59|Unknown|
+|[Blue Alu Rama](#blue-alu-rama)|38.00|267.14|Unknown|
+|[Brass Rama](#brass-rama)|56.00|393.68|Unknown|
 
 
 ## Kits  
 ### Base  
-**Price(GH):** 129.99    **Price(CNY):** 913.83    **Quantity:** Unkonwn  
+**Price(GH):** 129.99    **Price(CNY):** 913.83    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/rudy/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Dark Horse  
-**Price(GH):** 71.99    **Price(CNY):** 506.09    **Quantity:** Unkonwn  
+**Price(GH):** 71.99    **Price(CNY):** 506.09    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/rudy/kits_pics/dark-horse.png' | relative_url }}" alt="dark-horse" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 21.99    **Price(CNY):** 154.59    **Quantity:** Unkonwn  
+**Price(GH):** 21.99    **Price(CNY):** 154.59    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/rudy/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Blue Alu Rama  
-**Price(GH):** 38.00    **Price(CNY):** 267.14    **Quantity:** Unkonwn  
+**Price(GH):** 38.00    **Price(CNY):** 267.14    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/rudy/kits_pics/blue-alu-rama.png' | relative_url }}" alt="blue-alu-rama" class="image featured">
 
 ### Brass Rama  
-**Price(GH):** 56.00    **Price(CNY):** 393.68    **Quantity:** Unkonwn  
+**Price(GH):** 56.00    **Price(CNY):** 393.68    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/rudy/kits_pics/brass-rama.png' | relative_url }}" alt="brass-rama" class="image featured">
 
 

@@ -21,27 +21,27 @@ NOTE: USD to CNY exchange rate is 7.03
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[B Alpha](#b-alpha)|69.00|485.07|Unkonwn|
-|[Beta](#beta)|19.50|137.09|Unkonwn|
-|[Single Key](#single-key)|5.50|38.66|Unkonwn|
-|[RAMA](#rama)|56.00|393.68|Unkonwn|
+|[B Alpha](#b-alpha)|69.00|485.07|Unknown|
+|[Beta](#beta)|19.50|137.09|Unknown|
+|[Single Key](#single-key)|5.50|38.66|Unknown|
+|[RAMA](#rama)|56.00|393.68|Unknown|
 
 
 ## Kits  
 ### B Alpha  
-**Price(GH):** 69.00    **Price(CNY):** 485.07    **Quantity:** Unkonwn  
+**Price(GH):** 69.00    **Price(CNY):** 485.07    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/b/kits_pics/b-alpha.png' | relative_url }}" alt="b-alpha" class="image featured">
 
 ### Beta  
-**Price(GH):** 19.50    **Price(CNY):** 137.09    **Quantity:** Unkonwn  
+**Price(GH):** 19.50    **Price(CNY):** 137.09    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/b/kits_pics/beta.png' | relative_url }}" alt="beta" class="image featured">
 
 ### Single Key  
-**Price(GH):** 5.50    **Price(CNY):** 38.66    **Quantity:** Unkonwn  
+**Price(GH):** 5.50    **Price(CNY):** 38.66    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/b/kits_pics/single-b.png' | relative_url }}" alt="single-b" class="image featured">
 
 ### RAMA  
-**Price(GH):** 56.00    **Price(CNY):** 393.68    **Quantity:** Unkonwn  
+**Price(GH):** 56.00    **Price(CNY):** 393.68    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/b/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 

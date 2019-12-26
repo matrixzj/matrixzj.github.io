@@ -21,22 +21,22 @@ NOTE: USD to CNY exchange rate is 7.05
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|119.00|838.95|Unkonwn|
-|[Novelty](#novelty)|40.00|282.00|Unkonwn|
-|[Spacebar](#spacebar)|30.00|211.50|Unkonwn|
+|[Base](#base)|119.00|838.95|Unknown|
+|[Novelty](#novelty)|40.00|282.00|Unknown|
+|[Spacebar](#spacebar)|30.00|211.50|Unknown|
 
 
 ## Kits  
 ### Base  
-**Price(GH):** 119.00    **Price(CNY):** 838.95    **Quantity:** Unkonwn  
+**Price(GH):** 119.00    **Price(CNY):** 838.95    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/dualshot/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelty  
-**Price(GH):** 40.00    **Price(CNY):** 282.00    **Quantity:** Unkonwn  
+**Price(GH):** 40.00    **Price(CNY):** 282.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/dualshot/kits_pics/novelty.gif' | relative_url }}" alt="novelty" class="image featured">
 
 ### Spacebar  
-**Price(GH):** 30.00    **Price(CNY):** 211.50    **Quantity:** Unkonwn  
+**Price(GH):** 30.00    **Price(CNY):** 211.50    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/dualshot/kits_pics/spacebar.png' | relative_url }}" alt="spacebar" class="image featured">
 
 

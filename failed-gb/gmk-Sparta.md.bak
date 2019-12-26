@@ -20,30 +20,30 @@ NOTE: USD to CNY exchange rate is 7.01
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|129.00|904.29|Unkonwn|
-|[Greek](#greek)|48.00|336.48|Unkonwn|
-|[Novelties](#novelties)|55.00|385.55|Unkonwn|
-|[Spacebars](#spacebars)|24.00|168.24|Unkonwn|
-|[Rama](#rama)|42.00|294.42|Unkonwn|
+|[Base](#base)|129.00|904.29|Unknown|
+|[Greek](#greek)|48.00|336.48|Unknown|
+|[Novelties](#novelties)|55.00|385.55|Unknown|
+|[Spacebars](#spacebars)|24.00|168.24|Unknown|
+|[Rama](#rama)|42.00|294.42|Unknown|
 
 
 ## Kits  
 ### Base  
-**Price(GH):** 129.00    **Price(CNY):** 904.29    **Quantity:** Unkonwn  
+**Price(GH):** 129.00    **Price(CNY):** 904.29    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/sparta/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Greek  
-**Price(GH):** 48.00    **Price(CNY):** 336.48    **Quantity:** Unkonwn  
+**Price(GH):** 48.00    **Price(CNY):** 336.48    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/sparta/kits_pics/greek.png' | relative_url }}" alt="greek" class="image featured">
 
 ### Novelties  
-**Price(GH):** 55.00    **Price(CNY):** 385.55    **Quantity:** Unkonwn  
+**Price(GH):** 55.00    **Price(CNY):** 385.55    **Quantity:** Unknown  
 ### Spacebars  
-**Price(GH):** 24.00    **Price(CNY):** 168.24    **Quantity:** Unkonwn  
+**Price(GH):** 24.00    **Price(CNY):** 168.24    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/sparta/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Rama  
-**Price(GH):** 42.00    **Price(CNY):** 294.42    **Quantity:** Unkonwn  
+**Price(GH):** 42.00    **Price(CNY):** 294.42    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/sparta/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 

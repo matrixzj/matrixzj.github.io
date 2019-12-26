@@ -21,47 +21,47 @@ NOTE: USD to CNY exchange rate is 7.03
 
 | Name          | Price(NovelKeys)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Light](#light)|110.00|773.30|Unkonwn|
-|[Dark](#dark)|110.00|773.30|Unkonwn|
-|[Novelties](#novelties)|20.00|140.60|Unkonwn|
-|[Extra Mods](#extra-mods)|42.00|295.26|Unkonwn|
-|[ISO](#iso)|26.00|182.78|Unkonwn|
-|[Spacebars](#spacebars)|14.00|98.42|Unkonwn|
-|[Hihihi](#hihihi)|34.00|239.02|Unkonwn|
-|[Rama](#rama)|68.00|478.04|Unkonwn|
+|[Light](#light)|110.00|773.30|Unknown|
+|[Dark](#dark)|110.00|773.30|Unknown|
+|[Novelties](#novelties)|20.00|140.60|Unknown|
+|[Extra Mods](#extra-mods)|42.00|295.26|Unknown|
+|[ISO](#iso)|26.00|182.78|Unknown|
+|[Spacebars](#spacebars)|14.00|98.42|Unknown|
+|[Hihihi](#hihihi)|34.00|239.02|Unknown|
+|[Rama](#rama)|68.00|478.04|Unknown|
 
 
 ## Kits  
 ### Light  
-**Price(NovelKeys):** 110.00    **Price(CNY):** 773.30    **Quantity:** Unkonwn  
+**Price(NovelKeys):** 110.00    **Price(CNY):** 773.30    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/light.jpg' | relative_url }}" alt="light" class="image featured">
 
 ### Dark  
-**Price(NovelKeys):** 110.00    **Price(CNY):** 773.30    **Quantity:** Unkonwn  
+**Price(NovelKeys):** 110.00    **Price(CNY):** 773.30    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/dark.jpg' | relative_url }}" alt="dark" class="image featured">
 
 ### Novelties  
-**Price(NovelKeys):** 20.00    **Price(CNY):** 140.60    **Quantity:** Unkonwn  
+**Price(NovelKeys):** 20.00    **Price(CNY):** 140.60    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Extra Mods  
-**Price(NovelKeys):** 42.00    **Price(CNY):** 295.26    **Quantity:** Unkonwn  
+**Price(NovelKeys):** 42.00    **Price(CNY):** 295.26    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/extra-mods.jpg' | relative_url }}" alt="extra-mods" class="image featured">
 
 ### ISO  
-**Price(NovelKeys):** 26.00    **Price(CNY):** 182.78    **Quantity:** Unkonwn  
+**Price(NovelKeys):** 26.00    **Price(CNY):** 182.78    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/iso.jpg' | relative_url }}" alt="iso" class="image featured">
 
 ### Spacebars  
-**Price(NovelKeys):** 14.00    **Price(CNY):** 98.42    **Quantity:** Unkonwn  
+**Price(NovelKeys):** 14.00    **Price(CNY):** 98.42    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Hihihi  
-**Price(NovelKeys):** 34.00    **Price(CNY):** 239.02    **Quantity:** Unkonwn  
+**Price(NovelKeys):** 34.00    **Price(CNY):** 239.02    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/hihihi.jpg' | relative_url }}" alt="hihihi" class="image featured">
 
 ### Rama
-**Price(NovelKeys):** 68.00    **Price(CNY):** 478.04    **Quantity:** Unkonwn
+**Price(NovelKeys):** 68.00    **Price(CNY):** 478.04    **Quantity:** Unknown
 <img src="{{ 'assets/images/gmk-keycaps/olivia++/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 ## Info  

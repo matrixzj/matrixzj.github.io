@@ -21,32 +21,32 @@ NOTE: USD to CNY exchange rate is 7.15
 
 | Name          | Price(OCO)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Honeywell](#honeywell)|139.00|993.85|Unkonwn|
-|[Honey & Co Accent](#honey-&-co-accent)|22.00|157.30|Unkonwn|
-|[Mild Pink Accent](#mild-pink-accent)|22.00|157.30|Unkonwn|
-|[Turf Green Accent](#turf-green-accent)|22.00|157.30|Unkonwn|
-|[OG Red Accent](#og-red-accent)|22.00|157.30|Unkonwn|
+|[Honeywell](#honeywell)|139.00|993.85|Unknown|
+|[Honey & Co Accent](#honey-&-co-accent)|22.00|157.30|Unknown|
+|[Mild Pink Accent](#mild-pink-accent)|22.00|157.30|Unknown|
+|[Turf Green Accent](#turf-green-accent)|22.00|157.30|Unknown|
+|[OG Red Accent](#og-red-accent)|22.00|157.30|Unknown|
 
 
 ## Kits  
 ### Honeywell  
-**Price(OCO):** 139.00    **Price(CNY):** 993.85    **Quantity:** Unkonwn  
+**Price(OCO):** 139.00    **Price(CNY):** 993.85    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/honeywell&co./kits_pics/honeywell.png' | relative_url }}" alt="honeywell" class="image featured">
 
 ### Honey & Co Accent  
-**Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unkonwn  
+**Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/honeywell&co./kits_pics/honey-co-accent.png' | relative_url }}" alt="honey-co-accent" class="image featured">
 
 ### Mild Pink Accent  
-**Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unkonwn  
+**Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/honeywell&co./kits_pics/mild-pink-accent.png' | relative_url }}" alt="mild-pink-accent" class="image featured">
 
 ### Turf Green Accent  
-**Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unkonwn  
+**Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/honeywell&co./kits_pics/turf-green-accent.png' | relative_url }}" alt="turf-green-accent" class="image featured">
 
 ### OG Red Accent  
-**Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unkonwn  
+**Price(OCO):** 22.00    **Price(CNY):** 157.30    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/honeywell&co./kits_pics/og-red-accent.png' | relative_url }}" alt="og-red-accent" class="image featured">
 
 

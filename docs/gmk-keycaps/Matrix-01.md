@@ -21,12 +21,12 @@ NOTE: USD to CNY exchange rate is 7.00
 
 | Name          | Price(Taobao)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|201.86|1413.00|Unkonwn|
+|[Base](#base)|201.86|1413.00|Unknown|
 
 
 ## Kits  
 ### Base  
-**Price(Taobao):** 201.86    **Price(CNY):** 1413.00    **Quantity:** Unkonwn  
+**Price(Taobao):** 201.86    **Price(CNY):** 1413.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/matrix-01/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 

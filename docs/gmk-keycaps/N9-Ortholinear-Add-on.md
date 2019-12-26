@@ -21,12 +21,12 @@ NOTE: USD to CNY exchange rate is 7.08
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[All](#all)|46.99|332.69|Unkonwn|
+|[All](#all)|46.99|332.69|Unknown|
 
 
 ## Kits  
 ### All  
-**Price(GH):** 46.99    **Price(CNY):** 332.69    **Quantity:** Unkonwn  
+**Price(GH):** 46.99    **Price(CNY):** 332.69    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/n9ortholinearadd-on/kits_pics/all.png' | relative_url }}" alt="all" class="image featured">
 
 

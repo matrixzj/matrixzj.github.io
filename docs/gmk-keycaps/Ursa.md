@@ -21,37 +21,37 @@ NOTE: USD to CNY exchange rate is 7.03
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|129.99|913.83|Unkonwn|
-|[Cub](#cub)|49.99|351.43|Unkonwn|
-|[Spacebars](#spacebars)|29.99|210.83|Unkonwn|
-|[Novelties](#novelties)|39.99|281.13|Unkonwn|
-|[Paddington](#paddington)|29.99|210.83|Unkonwn|
-|[RAMA](#rama)|51.99|365.49|Unkonwn|
+|[Base](#base)|129.99|913.83|Unknown|
+|[Cub](#cub)|49.99|351.43|Unknown|
+|[Spacebars](#spacebars)|29.99|210.83|Unknown|
+|[Novelties](#novelties)|39.99|281.13|Unknown|
+|[Paddington](#paddington)|29.99|210.83|Unknown|
+|[RAMA](#rama)|51.99|365.49|Unknown|
 
 
 ## Kits  
 ### Base  
-**Price(GH):** 129.99    **Price(CNY):** 913.83    **Quantity:** Unkonwn  
+**Price(GH):** 129.99    **Price(CNY):** 913.83    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/ursa/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Cub  
-**Price(GH):** 49.99    **Price(CNY):** 351.43    **Quantity:** Unkonwn  
+**Price(GH):** 49.99    **Price(CNY):** 351.43    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/ursa/kits_pics/cub.png' | relative_url }}" alt="cub" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 29.99    **Price(CNY):** 210.83    **Quantity:** Unkonwn  
+**Price(GH):** 29.99    **Price(CNY):** 210.83    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/ursa/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Novelties  
-**Price(GH):** 39.99    **Price(CNY):** 281.13    **Quantity:** Unkonwn  
+**Price(GH):** 39.99    **Price(CNY):** 281.13    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/ursa/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Paddington  
-**Price(GH):** 29.99    **Price(CNY):** 210.83    **Quantity:** Unkonwn  
+**Price(GH):** 29.99    **Price(CNY):** 210.83    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/ursa/kits_pics/paddington.png' | relative_url }}" alt="paddington" class="image featured">
 
 ### RAMA  
-**Price(GH):** 51.99    **Price(CNY):** 365.49    **Quantity:** Unkonwn  
+**Price(GH):** 51.99    **Price(CNY):** 365.49    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/ursa/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 

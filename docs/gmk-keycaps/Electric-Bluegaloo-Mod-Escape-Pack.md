@@ -20,17 +20,17 @@ NOTE: USD to CNY exchange rate is 6.18
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Electric Bluegaloo Mod](#electric-bluegaloo-mod)|47.00|290.46|Unkonwn|
-|[Escape Pack](#escape-pack)|7.00|43.26|Unkonwn|
+|[Electric Bluegaloo Mod](#electric-bluegaloo-mod)|47.00|290.46|Unknown|
+|[Escape Pack](#escape-pack)|7.00|43.26|Unknown|
 
 
 ## Kits  
 ### Electric Bluegaloo Mod  
-**Price(GH):** 47.00    **Price(CNY):** 290.46    **Quantity:** Unkonwn  
+**Price(GH):** 47.00    **Price(CNY):** 290.46    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/electricbluegaloomod&escapepack/kits_pics/electric-bluegaloo-mod.png' | relative_url }}" alt="electric-bluegaloo-mod" class="image featured">
 
 ### Escape Pack  
-**Price(GH):** 7.00    **Price(CNY):** 43.26    **Quantity:** Unkonwn  
+**Price(GH):** 7.00    **Price(CNY):** 43.26    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/electricbluegaloomod&escapepack/kits_pics/escape-pack.png' | relative_url }}" alt="escape-pack" class="image featured">
 
 

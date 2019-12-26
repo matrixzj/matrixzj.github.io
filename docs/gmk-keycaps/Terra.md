@@ -24,8 +24,8 @@ NOTE: USD to CNY exchange rate is 7.03
 |[Base](#base)|130.00|913.90|319|
 |[Novelties](#novelties)|42.00|295.26|195|
 |[Spacebars](#spacebars)|25.00|175.75|113|
-|[Rama Green](#rama-green)|42.00|295.26|Unkonwn|
-|[Rama Golden](#rama-golden)|42.00|295.26|Unkonwn|
+|[Rama Green](#rama-green)|42.00|295.26|Unknown|
+|[Rama Golden](#rama-golden)|42.00|295.26|Unknown|
 
 <img src="{{ 'assets/images/gmk-keycaps/terra/progress1.png' | relative_url }}" alt="progress1" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/terra/progress2.png' | relative_url }}" alt="progress2" class="image featured">
