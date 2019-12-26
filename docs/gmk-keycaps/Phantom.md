@@ -28,8 +28,8 @@ NOTE: USD to RMB exchange rate is 6.42
 |[Euro](#euro)|52.00|333.84|14|
 |[Colevrak](#colevrak)|45.00|288.90|5|
 
-<img src="{{ 'assets/images/gmk-keycaps/phantom/progress2.png' | relative_url }}" alt="progress" class="image featured">
-<img src="{{ 'assets/images/gmk-keycaps/phantom/progress1.png' | relative_url }}" alt="progress" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/phantom/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/phantom/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base
