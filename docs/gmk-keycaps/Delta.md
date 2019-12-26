@@ -21,17 +21,19 @@ NOTE: USD to CNY exchange rate is 7.04
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|950.33|Unkonwn|
-|[Space](#space)|27.99|197.05|Unkonwn|
+|[Base](#base)|134.99|950.33|267|
+|[Space](#space)|27.99|197.05|115|
 
+<img src="{{ 'assets/images/gmk-keycaps/delta/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/delta/history.png' | relative_url }}" alt="history" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 134.99    **Price(CNY):** 950.33    **Quantity:** Unkonwn  
+**Price(GH):** 134.99    **Price(CNY):** 950.33    **Quantity:** 267  
 <img src="{{ 'assets/images/gmk-keycaps/delta/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Space  
-**Price(GH):** 27.99    **Price(CNY):** 197.05    **Quantity:** Unkonwn  
+**Price(GH):** 27.99    **Price(CNY):** 197.05    **Quantity:** 115  
 <img src="{{ 'assets/images/gmk-keycaps/delta/kits_pics/space.jpg' | relative_url }}" alt="space" class="image featured">
 
 
