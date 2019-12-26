@@ -25,8 +25,8 @@ NOTE: USD to RMB exchange rate is 6.34
 |[Base](#base)|169.00|1071.46|351|
 |[Extras](#extras)|50.00|317.00|150|
 
-<img src="{{ 'assets/images/gmk-keycaps/olivia/order.png' | relative_url }}" alt="order" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/olivia/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/olivia/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base

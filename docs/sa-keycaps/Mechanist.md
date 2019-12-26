@@ -9,6 +9,7 @@ nav_order: 310985
 # Mechanist 机械师
 
 ref link: [Mechanist ZF GB Link](http://www.zfrontier.com/m/4290)  
+ref link: [Mechanist GH IC Link](https://geekhack.org/index.php?topic=85610)  
 
 * [Price](#price)  
 * [Kits](#kits)  

@@ -26,7 +26,7 @@ NOTE: USD to RMB exchange rate is 6.71
 |[Modifiers](#modifiers)|34.99|234.78|652|
 |[Numpad](#numpad)|23.99|160.97|256|
 |[Novelties](#novelties)|19.99|134.13|455|
-|[40%](#40%)|38.99|261.62|139|
+|[40%](#40%)|44.99|301.88|139|
 |[Ergodox](#ergodox)|34.99|234.78|119|
 |[Tsangan](#tsangan)|31.99|214.65|153|
 |[Dvorak](#dvorak)|29.99|201.23|45|
@@ -35,7 +35,8 @@ NOTE: USD to RMB exchange rate is 6.71
 |[International](#international)|39.99|268.33|37|
 |[RaffleM](#rafflem)||||
 
-<img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/price.jpg' | relative_url }}" atl="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### BaseAlphas
@@ -53,7 +54,7 @@ NOTE: USD to RMB exchange rate is 6.71
 <img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/kits_pics/numpadnovelties.jpg' | relative_url }}" atl="Numpad" class="image featured">
 
 ### 40%
-**Price(USD):** 39  **Price(RMB):** 262  **Quantity:** 139
+**Price(USD):** 44.99  **Price(RMB):** 301.88  **Quantity:** 139
 <img src="{{ 'assets/images/sa-keycaps/amazingchocolatier/kits_pics/40.jpg' | relative_url }}" atl="40%" class="image featured">
 
 ### Ergodox

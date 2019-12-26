@@ -35,7 +35,8 @@ NOTE: USD to RMB exchange rate is 6.54
 |~~[6.25u Spacebars](#6.25u-spacebars)~~|~~12.99~~|~~84.95~~|~~19(COQ 25)~~|
 |~~[7u Spacebars](#7u-spacebars)~~|~~12.99~~|~~84.95~~|~~24(COQ 25)~~|
 
-<img src="{{ 'assets/images/sa-keycaps/jukeboxr2/price.jpg' | relative_url }}" atl="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/jukeboxr2/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/jukeboxr2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base
