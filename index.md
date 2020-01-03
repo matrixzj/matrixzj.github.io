@@ -128,6 +128,7 @@ Just buy it :)
 ### 2020
 * [Moon Dust 月球尘埃](docs/gmk-keycaps/Moon-Dust/)
 * [Peach Blossom 桃花](docs/gmk-keycaps/Peach-Blossom/)
+* [Dark](docs/gmk-keycaps/Dark/)
 
 ### 2019
 * [Toxic 毒药](docs/gmk-keycaps/Toxic/)
