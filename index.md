@@ -129,6 +129,7 @@ Just buy it :)
 * [Moon Dust 月球尘埃](docs/gmk-keycaps/Moon-Dust/)
 * [Peach Blossom 桃花](docs/gmk-keycaps/Peach-Blossom/)
 * [Dark](docs/gmk-keycaps/Dark/)
+* [Burgundy R3](docs/gmk-keycaps/Burgundy-R3/)
 
 ### 2019
 * [Toxic 毒药](docs/gmk-keycaps/Toxic/)
