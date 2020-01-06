@@ -21,7 +21,7 @@ NOTE: USD to CNY exchange rate is 7.15
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Core](#core)|130.00|929.50|U3006|
+|[Core](#core)|130.00|929.50|3006|
 |[Highlight](#highlight)|37.00|264.55|1223|
 |[Nightmode](#nightmode)|60.00|429.00|797|
 |[Whitespace](#whitespace)|25.00|178.75|654|
