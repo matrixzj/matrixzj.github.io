@@ -9,6 +9,7 @@ nav_order: 310650
 # Olivia++ 
 
 ref link: [Olivia++ NovelKeys GB Link](https://novelkeys.xyz/collections/frontpage/products/gmk-oliviaplusplus-gb)  
+ref link: [Olivia++ GH GB Link](https://geekhack.org/index.php?topic=103619.0)
 
 * [Price](#price)  
 * [Kits](#kits)  

@@ -26,7 +26,7 @@ NOTE: USD to RMB exchange rate is 6.92
 |[40s](#40s)|39.99|276.73|33|
 
 <img src="{{ 'assets/images/gmk-keycaps/merlin/progress1.png' | relative_url }}" alt="1" class="image featured">
-<img src="{{ 'assets/images/gmk-keycaps/merlin/progress2.png' | relative_url }}" alt="2" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/merlin/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base

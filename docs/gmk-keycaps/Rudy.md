@@ -21,24 +21,26 @@ NOTE: USD to CNY exchange rate is 7.03
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|129.99|913.83|Unknown|
-|[Dark Horse](#dark-horse)|71.99|506.09|Unknown|
-|[Spacebars](#spacebars)|21.99|154.59|Unknown|
+|[Base](#base)|129.99|913.83|602|
+|[Dark Horse](#dark-horse)|71.99|506.09|150|
+|[Spacebars](#spacebars)|21.99|154.59|262|
 |[Blue Alu Rama](#blue-alu-rama)|38.00|267.14|Unknown|
 |[Brass Rama](#brass-rama)|56.00|393.68|Unknown|
 
+<img src="{{ 'assets/images/gmk-keycaps/rudy/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/rudy/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 129.99    **Price(CNY):** 913.83    **Quantity:** Unknown  
+**Price(GH):** 129.99    **Price(CNY):** 913.83    **Quantity:** 602  
 <img src="{{ 'assets/images/gmk-keycaps/rudy/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Dark Horse  
-**Price(GH):** 71.99    **Price(CNY):** 506.09    **Quantity:** Unknown  
+**Price(GH):** 71.99    **Price(CNY):** 506.09    **Quantity:** 150  
 <img src="{{ 'assets/images/gmk-keycaps/rudy/kits_pics/dark-horse.png' | relative_url }}" alt="dark-horse" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 21.99    **Price(CNY):** 154.59    **Quantity:** Unknown  
+**Price(GH):** 21.99    **Price(CNY):** 154.59    **Quantity:** 262  
 <img src="{{ 'assets/images/gmk-keycaps/rudy/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Blue Alu Rama  
