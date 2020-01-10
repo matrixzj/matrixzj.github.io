@@ -130,6 +130,7 @@ Just buy it :)
 * [Peach Blossom 桃花](docs/gmk-keycaps/Peach-Blossom/)
 * [Dark](docs/gmk-keycaps/Dark/)
 * [Burgundy R3](docs/gmk-keycaps/Burgundy-R3/)
+* [Fuyu](docs/gmk-keycaps/Fuyu/)
 
 ### 2019
 * [Toxic 毒药](docs/gmk-keycaps/Toxic/)
