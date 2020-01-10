@@ -126,11 +126,11 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
-* [Moon Dust 月球尘埃](docs/gmk-keycaps/Moon-Dust/)
-* [Peach Blossom 桃花](docs/gmk-keycaps/Peach-Blossom/)
+* [Fuyu](docs/gmk-keycaps/Fuyu/)
 * [Dark](docs/gmk-keycaps/Dark/)
 * [Burgundy R3](docs/gmk-keycaps/Burgundy-R3/)
-* [Fuyu](docs/gmk-keycaps/Fuyu/)
+* [Moon Dust 月球尘埃](docs/gmk-keycaps/Moon-Dust/)
+* [Peach Blossom 桃花](docs/gmk-keycaps/Peach-Blossom/)
 
 ### 2019
 * [Toxic 毒药](docs/gmk-keycaps/Toxic/)
