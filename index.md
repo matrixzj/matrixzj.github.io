@@ -126,6 +126,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Copper](docs/gmk-keycaps/Copper/)
 * [Fuyu](docs/gmk-keycaps/Fuyu/)
 * [Dark](docs/gmk-keycaps/Dark/)
 * [Burgundy R3](docs/gmk-keycaps/Burgundy-R3/)
