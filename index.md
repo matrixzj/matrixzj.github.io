@@ -126,6 +126,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Metaverse R2](docs/gmk-keycaps/Metaverse-R2/)
 * [Copper](docs/gmk-keycaps/Copper/)
 * [Fuyu](docs/gmk-keycaps/Fuyu/)
 * [Dark](docs/gmk-keycaps/Dark/)
