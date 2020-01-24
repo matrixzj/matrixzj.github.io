@@ -1,14 +1,14 @@
 ---
-title: Red Samurai R2 红武士R2
+title: Red Samurai MD 红武士MD
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 310905
 ---
 
-# Red Samurai R2 红武士R2
+# Red Samurai MD 红武士MD
 
-ref link: [Red Samurai R2 MD GB Link](https://drop.com/buy/drop-redsuns-gmk-red-samurai-keycap-set)
+ref link: [Red Samurai MD Link](https://drop.com/buy/drop-redsuns-gmk-red-samurai-keycap-set)
 
 * [Price](#price)
 * [Kits](#kits)
