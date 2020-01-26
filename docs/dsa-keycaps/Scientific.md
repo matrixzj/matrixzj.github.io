@@ -3,7 +3,7 @@ title: Scientific 科学计算器
 layout: default
 icon: fa-keyboard-o
 parent: DSA Keycaps
-nav_order: 310990
+nav_order: 310985
 ---
 
 # Scientific 科学计算器

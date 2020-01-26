@@ -3,7 +3,7 @@ title: Astrolokeys
 layout: default
 icon: fa-keyboard-o
 parent: DSA Keycaps
-nav_order: 310995
+nav_order: 310980
 ---
 
 # Astrolokeys 

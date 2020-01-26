@@ -3,7 +3,7 @@ title: ICE Cream 冰淇淋
 layout: default
 icon: fa-keyboard-o
 parent: DSA Keycaps
-nav_order: 310980
+nav_order: 310995
 ---
 
 # ICE Cream 冰淇淋
@@ -73,7 +73,7 @@ NOTE: USD to CNY exchange rate is 6.85
 ## Info  
 * Designer: Toxic  
 * Profile: DSA  
-* GB Time: 2019-07-01  
+* GB Time: 2019-07-01(R3) / 2018-05(R2) / Unknown(R1)  
 * Color Codes:   
 
 

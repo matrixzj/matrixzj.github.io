@@ -1,8 +1,8 @@
 #! /bin/bash
 
 tmpDir='/tmp/keycaps'
-profileList=( 'SA' 'GMK' '---' )
-lenProfileList=3
+profileList=( 'DSA' '---' )
+lenProfileList=2
 
 function sort_profile() {
     profile=$1
