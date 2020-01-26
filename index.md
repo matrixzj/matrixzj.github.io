@@ -350,6 +350,7 @@ Just buy it :)
 * [Astrolokeys](docs/dsa-keycaps/Astrolokeys/)
 * [Scientific 科学计算器](docs/dsa-keycaps/Scientific/)
 * [Ferrous](docs/dsa-keycaps/Ferrous/)
+* [ICE Cream 冰淇淋](docs/dsa-keycaps/ICE-Cream/)
 
 ### 2018
 * [Alchemy](docs/dsa-keycaps/Alchemy/)
