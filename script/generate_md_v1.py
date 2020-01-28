@@ -270,7 +270,7 @@ class GenerateKeyCapPage(object):
         else:
             self.keycap_page_info += "* Designer: %s  \n* Profile: %s  \n" % (self.info_dict['designer'], self.info_dict['keycapstype'])
         self.keycap_page_info += "* GB Time: %s  \n" % self.info_dict['time']
-        if "SA" in self.info_dict['keycapstype']:
+        if self.info_dict['keycapstype'] == "SA":
             if "/" not in self.info_dict['colorcodes']:
                 self.keycap_page_info += "* Color Codes: %s  \n\n" % self.info_dict['colorcodes']
             else:
@@ -284,7 +284,7 @@ class GenerateKeyCapPage(object):
                     color_file_png = "assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_%s.png" % color
                     self.keycap_page_info += "  <tr>\n    <th>%s</th>\n    <th><img src=\"{{ '%s' | relative_url }}\" alt=\"Color_%s\" height=\"75\" width=\"170\"></th>\n  </tr>\n" % (color, color_file_png, color)
                 self.keycap_page_info += "</table>\n\n"
-        elif "GMK" in self.info_dict['keycapstype']: 
+        elif self.info_dict['keycapstype'] == "GMK": 
             self.keycap_page_info += "* Color Codes:  \n\n"
             self.keycap_page_info += "| |Base Color     | Legend Color\n| :-------------: | :-------------: | :------------:\n"
             for color in self.info_dict['colorcodes']:
@@ -294,6 +294,8 @@ class GenerateKeyCapPage(object):
             for color_file in color_files:
                 color_file_path = os.path.join(self.keycap_asset_path, color_file)
                 self.keycap_page_info += '<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
+            self.keycap_page_info += "\n\n"
+        elif self.info_dict['keycapstype'] == "DSA": 
             self.keycap_page_info += "\n\n"
 
     def generate_keycap_page_picture(self):
