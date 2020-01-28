@@ -12,10 +12,9 @@ class GenerateKeyCapPage(object):
     
     def __init__(self, keycap_raw_info_file):
 
-        self.info_dict = {"price":{}}
-        self.kits_list_index = []
+        with open(keycap_raw_info_file) as json_file:
+            self.info_dict = json.load(json_file)
 
-        self.parse_keycap_raw_info(keycap_raw_info_file)
         self.retrieve_exchange_rate()
 #        self.info_dict['rate'] = 7.16
 
@@ -23,12 +22,12 @@ class GenerateKeyCapPage(object):
         self.keycap_filename = "%s.md" % self.info_dict['name'].replace(" ","-")
         self.keycap_filename_with_path = os.path.join("docs", self.profile_path, self.keycap_filename)
 
+
         self.keycap_asset_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""))
-        print self.keycap_asset_path
         self.keycap_asset_kits_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "kits_pics")
         self.keycap_asset_render_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "rendering_pics")
 
-        self.parse_price_info()
+        self.parse_price_info_format()
         self.cal_nav_order()
 
         self.keycap_page_header = "---\n"
@@ -55,7 +54,7 @@ class GenerateKeyCapPage(object):
         keycap_write_to_file = raw_input("Generate Page File? ")
         if keycap_write_to_file.lower().strip() == "y":
             fd_keycap_filename_with_path = open(self.keycap_filename_with_path, "w+")
-            fd_keycap_filename_with_path.write(self.keycap_page_header)
+            fd_keycap_filename_with_path.write(self.keycap_page_header.encode('utf-8'))
             fd_keycap_filename_with_path.write(self.keycap_page_price)
             fd_keycap_filename_with_path.write(self.keycap_page_kit)
             fd_keycap_filename_with_path.write(self.keycap_page_info)
@@ -70,20 +69,6 @@ class GenerateKeyCapPage(object):
 
         else:
             sys.exit(0)
-	
-    def parse_keycap_raw_info(self, keycap_info_file):
-        lines = open(keycap_info_file, 'r').readlines()
-        self.kits_list_index = [ i.split(":")[0] for i in lines if '|' in i ]  
-        for line in lines:
-            if len(line) <= 1:
-                continue
-            else:
-                if "|" in line:
-                    self.info_dict["price"][line.split(":")[0]] = line.split(":")[1].strip().split("|")
-                elif "link" in line:
-                    self.info_dict["link"] = line.replace("link:","").replace("'","").strip()
-                else:
-                    self.info_dict[line.split(":")[0]] = line.split(":")[1].replace("'","").strip()
 
     def retrieve_exchange_rate(self):
         api_base_url = "http://www.apilayer.net/api/historical?format=1"
@@ -116,55 +101,53 @@ class GenerateKeyCapPage(object):
 
         self.info_dict['rate'] = "%.2f" % float(exchange_rate)
 
-    def parse_price_info(self):
-        for kit in self.info_dict['price']:
+    def parse_price_info_format(self):
+       for kit in self.info_dict['price_list']: 
             # Price in USD and CNY is Unknown
-            if len(self.info_dict['price'][kit][0]) == 0 and \
-                len(self.info_dict['price'][kit][1]) == 0:
-                self.info_dict['price'][kit][0] = 'Unknown'
-                self.info_dict['price'][kit][1] = 'Unknown'
+            if len(kit['price']) == 0 and \
+                len(kit['price_cny']) == 0:
+                kit['price'] = 'Unknown'
+                kit['price_cny'] = 'Unknown'
             # Price in USD is provided and CNY is Unknown
-            elif len(self.info_dict['price'][kit][0]) > 0 and \
-                len(self.info_dict['price'][kit][1]) == 0:
-                self.info_dict['price'][kit][0] = float(self.info_dict['price'][kit][0])
-                self.info_dict['price'][kit][1] = float(self.info_dict['price'][kit][0]) * float(self.info_dict['rate'])
+            elif len(kit['price']) > 0 and \
+                len(kit['price_cny']) == 0:
+                kit['price'] = float(kit['price'])
+                kit['price_cny'] = float(kit['price']) * float(self.info_dict['rate'])
             # Price in CYN is provided and USD is Unknown
-            elif len(self.info_dict['price'][kit][0]) == 0 and \
-                len(self.info_dict['price'][kit][1]) > 0:
-                self.info_dict['price'][kit][0] = float(self.info_dict['price'][kit][1]) / float(self.info_dict['rate'])
-                self.info_dict['price'][kit][1] = float(self.info_dict['price'][kit][1])
+            elif len(kit['price']) == 0 and \
+                len(kit['price_cny']) > 0:
+                kit['price'] = float(kit['price_cny']) / float(self.info_dict['rate'])
+                kit['price_cny'] = float(kit['price_cny'])
             else:
-                self.info_dict['price'][kit][0] = float(self.info_dict['price'][kit][0])
-                self.info_dict['price'][kit][1] = float(self.info_dict['price'][kit][1])
+                kit['price'] = float(kit['price'])
+            kit['price_cny'] = float(kit['price_cny'])
 
-            if len(self.info_dict['price'][kit][2]) == 0:
-                self.info_dict['price'][kit][2] = 'Unknown'
+            # Quantity is Unknown
+            if len(kit['quantity']) == 0:
+                kit['quantity'] = 'Unknown'
             else:
-                self.info_dict['price'][kit][2] = int(self.info_dict['price'][kit][2])
+                kit['quantity'] = int(kit['quantity'])
 
             price_table_format = "|[%s](#%s)|"
-            price_kit_format = ""
-            i = 0
-            while i < len(self.info_dict['price'][kit]):
-                if isinstance(self.info_dict['price'][kit][i], float):
+            
+            for j in {'price', 'price_cny', 'quantity'}:
+                if isinstance(kit[j], float):
                     item_table_format = "%.2f"
-                if isinstance(self.info_dict['price'][kit][i], int):
+                if isinstance(kit[j], int):
                     item_table_format = "%d"
-                if isinstance(self.info_dict['price'][kit][i], str):
+                if isinstance(kit[j], str):
                     item_table_format = "%s"
                 price_table_format = price_table_format + item_table_format + "|"
-
-                if i == 0:
-                    price_kit_format = "%s**Price(%s):** %s    " % (price_kit_format, self.info_dict['platform'], item_table_format)
-                if i == 1:
-                    price_kit_format = "%s**Price(CNY):** %s    " % (price_kit_format, item_table_format)
-                if i == 2:
-                    price_kit_format = "%s**Quantity:** %s  " % (price_kit_format, item_table_format)
-
-                i += 1
-
-            self.info_dict['price'][kit].append(price_table_format)
-            self.info_dict['price'][kit].append(price_kit_format)
+            
+                if j == 'price':
+                    price_kit_format = "**Price(%s):** %s    " % (self.info_dict['platform'], item_table_format)
+                elif j == 'price_cny':
+                    price_kit_format += "**Price(CNY):** %s    " % (item_table_format)
+                elif j == 'quantity':
+                    price_kit_format += "**Quantity:** %s  " % (item_table_format)
+            
+            kit['price_table_format'] = price_table_format
+            kit['price_kit_format'] = price_kit_format
 
     def cal_nav_order(self):
         fd_index = open("index.md", "r")
@@ -226,7 +209,6 @@ class GenerateKeyCapPage(object):
     	self.keycap_page_header += "# %s %s\n" % (self.info_dict['name'], self.info_dict['cname'])
     	self.keycap_page_header += "\n"
     	self.keycap_page_header += "ref link: [%s %s GB Link](%s)  \n" % (self.info_dict['name'], self.info_dict['platform'], self.info_dict['link'])
-    	self.keycap_page_header += "\n"
     	self.keycap_page_header += "* [Price](#price)  \n"
     	self.keycap_page_header += "* [Kits](#kits)  \n"
     	self.keycap_page_header += "* [Info](#info)  \n"
@@ -236,8 +218,9 @@ class GenerateKeyCapPage(object):
     def generate_keycap_page_price(self):
         self.keycap_page_price += "NOTE: %s to CNY exchange rate is %.2f\n\n" % (self.info_dict['currencyunit'], float(self.info_dict['rate']))
         self.keycap_page_price += "| Name          | Price(%s)    |  Price(CNY) | Quantity |\n| ------------- | ------------ |  ---------- | -------- |\n" % (self.info_dict['platform'])
-        for kit in self.kits_list_index:
-            self.keycap_page_price += self.info_dict['price'][kit][3] % (kit, kit.lower().replace(" ", "-").replace(".", ""), self.info_dict['price'][kit][0], self.info_dict['price'][kit][1], self.info_dict['price'][kit][2])
+
+        for kit in self.info_dict['price_list']:
+            self.keycap_page_price += kit['price_table_format'] % (kit['name'], kit['name'].lower().replace(" ", "-").replace(".", ""), kit['price'], kit['price_cny'], kit['quantity'])
             self.keycap_page_price += "\n"
         self.keycap_page_price += "\n"
 
@@ -247,28 +230,36 @@ class GenerateKeyCapPage(object):
                 price_file_path = os.path.join(self.keycap_asset_path, price_file)
                 self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="price" class="image featured">' % os.path.relpath(price_file_path, os.getcwd())
                 self.keycap_page_price += "\n"
-    
-            progress_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'progress' in f]
-            for progress_file in progress_files:
-                progress_file_path = os.path.join(self.keycap_asset_path, progress_file)
-                self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="progress" class="image featured">' % os.path.relpath(progress_file_path, os.getcwd())
+
+        if os.path.isdir(self.keycap_asset_path):
+            history_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'history' in f]
+            for history_file in history_files:
+                history_file_path = os.path.join(self.keycap_asset_path, history_file)
+                self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="price" class="image featured">' % os.path.relpath(history_file_path, os.getcwd())
+                self.keycap_page_price += "\n"
+
+        if os.path.isdir(self.keycap_asset_path):
+            history_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'history' in f]
+            for history_file in history_files:
+                history_file_path = os.path.join(self.keycap_asset_path, history_file)
+                self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="price" class="image featured">' % os.path.relpath(history_file_path, os.getcwd())
                 self.keycap_page_price += "\n"
 
         self.keycap_page_price += "\n"
 
     def generate_keycap_page_kit(self):
-        for kit in self.kits_list_index:
-            self.keycap_page_kit += "### %s  \n" % kit
-            self.keycap_page_kit += self.info_dict['price'][kit][4] % (self.info_dict['price'][kit][0], self.info_dict['price'][kit][1], self.info_dict['price'][kit][2])
+        for kit in self.info_dict['price_list']:
+            self.keycap_page_kit += "### %s  \n" % kit['name']
+            self.keycap_page_kit += kit['price_kit_format'] % (kit['price'], kit['price_cny'], kit['quantity'])
             self.keycap_page_kit += "\n"
-            kit_file_jpg = "%s.jpg" % kit.lower().replace(" ", "-")
-            kit_file_png = "%s.png" % kit.lower().replace(" ", "-")
+            kit_file_jpg = "%s.jpg" % kit['name'].lower().replace(" ", "-")
+            kit_file_png = "%s.png" % kit['name'].lower().replace(" ", "-")
             if os.path.isfile(os.path.join(self.keycap_asset_kits_path, kit_file_jpg)):
-                self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_jpg), os.getcwd()), kit.lower().replace(" ", "-"))
+                self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_jpg), os.getcwd()), kit['name'].lower().replace(" ", "-"))
                 self.keycap_page_kit += "\n\n"
 
             if os.path.isfile(os.path.join(self.keycap_asset_kits_path, kit_file_png)):
-                self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_png), os.getcwd()), kit.lower().replace(" ", "-"))
+                self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_png), os.getcwd()), kit['name'].lower().replace(" ", "-"))
                 self.keycap_page_kit += "\n\n"
 
         self.keycap_page_kit += "\n"
@@ -295,12 +286,15 @@ class GenerateKeyCapPage(object):
                 self.keycap_page_info += "</table>\n\n"
         elif "GMK" in self.info_dict['keycapstype']: 
             self.keycap_page_info += "* Color Codes:  \n\n"
+            self.keycap_page_info += "| |Base Color     | Legend Color\n| :-------------: | :-------------: | :------------:\n"
+            for color in self.info_dict['colorcodes']:
+                self.keycap_page_info += color
+                self.keycap_page_info += "\n"
             color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
             for color_file in color_files:
                 color_file_path = os.path.join(self.keycap_asset_path, color_file)
                 self.keycap_page_info += '<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
-            self.keycap_page_info += "| |Base Color     | Legend Color\n| :-------------: | :-------------: | :------------:\n|Alpha||\n"
-        self.keycap_page_info += "\n"
+            self.keycap_page_info += "\n\n"
 
     def generate_keycap_page_picture(self):
         picture_files = [f for f in os.listdir(self.keycap_asset_render_path) if os.path.isfile(os.path.join(self.keycap_asset_render_path, f))]

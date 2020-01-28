@@ -126,6 +126,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Darling 亲爱哒](docs/gmk-keycaps/Darling/)
 * [Metaverse R2](docs/gmk-keycaps/Metaverse-R2/)
 * [Copper](docs/gmk-keycaps/Copper/)
 * [Fuyu](docs/gmk-keycaps/Fuyu/)
