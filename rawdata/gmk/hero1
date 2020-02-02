@@ -1,0 +1,21 @@
+{
+    "name":"Hero",
+    "cname":"英雄",
+    "keycapstype":"GMK",
+    "designer":"mklfox44",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-02-01",
+    "colorcodes":[
+        "|Alpha|N7|"
+    ],
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=104486.0",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Adventurer", "price":"139.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Legend", "price":"69.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Spacebar", "price":"24.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+    ]
+}
