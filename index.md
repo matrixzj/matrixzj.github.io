@@ -126,6 +126,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Modern Dolch Light](docs/gmk-keycaps/Modern-Dolch-Light/)
 * [Hero 英雄](docs/gmk-keycaps/Hero/)
 * [Darling 亲爱哒](docs/gmk-keycaps/Darling/)
 * [Metaverse R2](docs/gmk-keycaps/Metaverse-R2/)

@@ -1,0 +1,29 @@
+{
+    "name":"Modern Dolch Light",
+    "cname":"",
+    "keycapstype":"GMK",
+    "designer":"janglad",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-02-02",
+    "colorcodes":[
+    ],
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=104498.0",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Standard", "price":"99.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Addition", "price":"29.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Numbers", "price":"34.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Obscure", "price":"39.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Aesthetic", "price":"29.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Alternate", "price":"19.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Command", "price":"19.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Modern", "price":"39.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Norde", "price":"54.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"RAMA Grey", "price":"38", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"RAMA Cyan", "price":"38", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"RAMA Red", "price":"38", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+    ]
+}
