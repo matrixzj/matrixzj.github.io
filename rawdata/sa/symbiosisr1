@@ -1,10 +1,25 @@
-name = 'Symbiosis R1'
-cname = '塞班/共生 R1'
-keycapstype = 'SA'
-designer = 'xblackdog'
-profile = 'Uniform R3'
-time = '2015-02'
-colorcodes = ''
-platform = ''
-link = ''
-All|||||
+{
+    "name":"Symbiosis R1",
+    "cname":"塞班/共生 R1",
+    "keycapstype":"SA",
+    "designer":"xblackdog",
+    "profile":"Uniform R3",
+    "time":"2015-02-01",
+    "colorcodes":[
+        "YG/BE/WW/GTG/NN"
+    ],
+    "platform":"PMK",
+    "link":"",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Base", "price":"77", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "WASD", "price":"6", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Spacebars", "price":"11", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Shift", "price":"30", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Macro", "price":"6", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Numpad", "price":"24", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Capslock", "price":"26", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+    ]
+}

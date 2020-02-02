@@ -271,7 +271,7 @@ class GenerateKeyCapPage(object):
             self.keycap_page_info += "* Designer: %s  \n* Profile: %s  \n" % (self.info_dict['designer'], self.info_dict['keycapstype'])
         self.keycap_page_info += "* GB Time: %s  \n" % self.info_dict['time']
         if self.info_dict['keycapstype'] == "SA":
-            if "/" not in self.info_dict['colorcodes']:
+            if "/" not in self.info_dict['colorcodes'][0]:
                 self.keycap_page_info += "* Color Codes: %s  \n\n" % self.info_dict['colorcodes']
             else:
                 self.keycap_page_info += "* Color Codes:  \n\n"
@@ -280,7 +280,7 @@ class GenerateKeyCapPage(object):
                     color_file_path = os.path.join(self.keycap_asset_path, color_file)
                     self.keycap_page_info += '<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
                 self.keycap_page_info += "<table style=\"width:100%\">\n  <tr>\n    <th>ColorCodes</th>\n    <th>Sample</th>\n  </tr>\n"
-                for color in self.info_dict['colorcodes'].split('/'):
+                for color in self.info_dict['colorcodes'][0].split('/'):
                     color_file_png = "assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_%s.png" % color
                     self.keycap_page_info += "  <tr>\n    <th>%s</th>\n    <th><img src=\"{{ '%s' | relative_url }}\" alt=\"Color_%s\" height=\"75\" width=\"170\"></th>\n  </tr>\n" % (color, color_file_png, color)
                 self.keycap_page_info += "</table>\n\n"
