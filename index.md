@@ -127,6 +127,8 @@ Just buy it :)
 
 ### 2020
 * [Modern Dolch Light](docs/gmk-keycaps/Modern-Dolch-Light/)
+* [Perestroika](docs/gmk-keycaps/Perestroika/)
+* [Finer Things](docs/gmk-keycaps/Finer-Things/)
 * [Hero 英雄](docs/gmk-keycaps/Hero/)
 * [Future Funk](docs/gmk-keycaps/Future-Funk/)
 * [Darling 亲爱哒](docs/gmk-keycaps/Darling/)

@@ -1,0 +1,22 @@
+{
+    "name":"Perestroika",
+    "cname":"",
+    "keycapstype":"GMK",
+    "designer":"koenoe",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-02-01",
+    "colorcodes":[
+        "|Base|RAL 3005|RAL 9001"
+    ],
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=104415.0",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Base", "price":"129", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Usual", "price":"59", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Unusual", "price":"39", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Modern", "price":"39", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+    ]
+}
