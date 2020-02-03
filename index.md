@@ -128,6 +128,7 @@ Just buy it :)
 ### 2020
 * [Modern Dolch Light](docs/gmk-keycaps/Modern-Dolch-Light/)
 * [Hero 英雄](docs/gmk-keycaps/Hero/)
+* [Future Funk](docs/gmk-keycaps/Future-Funk/)
 * [Darling 亲爱哒](docs/gmk-keycaps/Darling/)
 * [Metaverse R2](docs/gmk-keycaps/Metaverse-R2/)
 * [Copper](docs/gmk-keycaps/Copper/)

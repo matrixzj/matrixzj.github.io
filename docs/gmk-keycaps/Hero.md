@@ -3,7 +3,7 @@ title: Hero 英雄
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 300955
+nav_order: 300950
 ---
 
 # Hero 英雄

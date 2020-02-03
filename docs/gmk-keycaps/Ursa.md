@@ -3,7 +3,7 @@ title: Ursa
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 310650
+nav_order: 310655
 ---
 
 # Ursa 

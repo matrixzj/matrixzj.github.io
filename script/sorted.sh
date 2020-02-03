@@ -1,12 +1,12 @@
 #! /bin/bash
 
 tmpDir='/tmp/keycaps'
-profileList=( 'DSA' '---' )
-lenProfileList=2
+profileList=( 'SA' 'GMK' 'DSA' '---' )
+lenProfileList=4
 
 function sort_profile() {
     profile=$1
-    for year in $(seq 2013 2019); do 
+    for year in $(seq 2013 2020); do 
         last2DigitYear=${year:0-2}
         previousYear=$(expr ${year} - 1)
         

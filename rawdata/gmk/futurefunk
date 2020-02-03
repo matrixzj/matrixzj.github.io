@@ -1,0 +1,28 @@
+{
+    "name":"Future Funk",
+    "cname":"",
+    "keycapstype":"GMK",
+    "designer":"kema",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-01-30",
+    "colorcodes":[
+        "|Base|Pantone 2695C|WS1",
+        "|Modifiers1|Pantone 2695C|Pantone 212C",
+        "|Modifiers2|Pantone 2695C|Pantone 2036C",
+        "|Modifiers3|Pantone 2695C|Pantone 100C",
+        "|Modifiers4|Pantone 2695C|Pantone 635C"
+    ],
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=104453.0",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Base", "price":"145", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Light Alphas", "price":"80", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Hiragana", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Icon Mods", "price":"85", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"40s", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Spacebars", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+    ]
+}
