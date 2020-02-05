@@ -120,7 +120,7 @@ class GenerateKeyCapPage(object):
                 kit['price_cny'] = float(kit['price_cny'])
             else:
                 kit['price'] = float(kit['price'])
-            kit['price_cny'] = float(kit['price_cny'])
+                kit['price_cny'] = float(kit['price_cny'])
 
             # Quantity is Unknown
             if len(kit['quantity']) == 0:
