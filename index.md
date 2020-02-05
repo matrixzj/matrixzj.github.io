@@ -126,6 +126,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Zhuyin 注音](docs/gmk-keycaps/Zhuyin/)
 * [Modern Dolch Light](docs/gmk-keycaps/Modern-Dolch-Light/)
 * [Perestroika](docs/gmk-keycaps/Perestroika/)
 * [Finer Things](docs/gmk-keycaps/Finer-Things/)
