@@ -155,8 +155,8 @@ NOTE: USD to CNY exchange rate is 7.00
 ## Info  
 * Designer: Mito  
 * Profile: SA 1-1-2-3-4-3  
-* GB Time: 2020-02-04  
-* Color Codes: [u'Unknown']  
+* GB Time: 2020-02-06  
+* Color Codes: Unknown  
 
 ## Pictures  
 <img src="{{ 'assets/images/sa-keycaps/godspeedr2/rendering_pics/nwN2eHUQ8iFuG1YTjupw_boardrun_6.jpg' | relative_url }}" alt="nwN2eHUQ8iFuG1YTjupw_boardrun_6.jpg" class="image featured">

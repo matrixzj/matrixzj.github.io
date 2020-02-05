@@ -1,12 +1,12 @@
 ---
-title: GodSpeed 神佑
+title: GodSpeed R1 神佑R1
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 340950
 ---
 
-# SA GodSpeed
+# SA GodSpeed R1
 
 ref link: [SA Godspeed Massdrop link](https://www.massdrop.com/buy/godspeed-custom-sa-keycap-set)
 
