@@ -21,22 +21,24 @@ NOTE: USD to CNY exchange rate is 6.96
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Standard](#standard)|130.00|904.80|Unknown|
-|[Hangul](#hangul)|45.00|313.20|Unknown|
-|[Add-On](#add-on)|35.00|243.60|Unknown|
+|[Standard](#standard)|130.00|904.80|503|
+|[Hangul](#hangul)|45.00|313.20|150|
+|[Add-On](#add-on)|35.00|243.60|176|
 
+<img src="{{ 'assets/images/gmk-keycaps/burgundyr3/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/burgundyr3/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Standard  
-**Price(GH):** 130.00    **Price(CNY):** 904.80    **Quantity:** Unknown  
+**Price(GH):** 130.00    **Price(CNY):** 904.80    **Quantity:** 503  
 <img src="{{ 'assets/images/gmk-keycaps/burgundyr3/kits_pics/standard.jpg' | relative_url }}" alt="standard" class="image featured">
 
 ### Hangul  
-**Price(GH):** 45.00    **Price(CNY):** 313.20    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 313.20    **Quantity:** 150  
 <img src="{{ 'assets/images/gmk-keycaps/burgundyr3/kits_pics/hangul.jpg' | relative_url }}" alt="hangul" class="image featured">
 
 ### Add-On  
-**Price(GH):** 35.00    **Price(CNY):** 243.60    **Quantity:** Unknown  
+**Price(GH):** 35.00    **Price(CNY):** 243.60    **Quantity:** 176  
 <img src="{{ 'assets/images/gmk-keycaps/burgundyr3/kits_pics/add-on.jpg' | relative_url }}" alt="add-on" class="image featured">
 
 
