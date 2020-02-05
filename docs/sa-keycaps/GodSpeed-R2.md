@@ -111,6 +111,8 @@ NOTE: USD to CNY exchange rate is 7.00
 
 ### COLEVRAK  
 **Price(MD):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/godspeedr2/kits_pics/colevrak.jpg' | relative_url }}" alt="norde" class="image featured">
+
 ### EXOTIC  
 **Price(MD):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/godspeedr2/kits_pics/exotic.jpg' | relative_url }}" alt="exotic" class="image featured">
