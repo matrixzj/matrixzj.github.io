@@ -3,7 +3,7 @@ title: Darling 亲爱哒
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 300960
+nav_order: 300955
 ---
 
 # Darling 亲爱哒

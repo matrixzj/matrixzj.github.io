@@ -3,7 +3,7 @@ title: Finer Things
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 300945
+nav_order: 300940
 ---
 
 # Finer Things 

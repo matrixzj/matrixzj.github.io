@@ -3,7 +3,7 @@ title: Zhuyin 注音
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 300930
+nav_order: 300925
 ---
 
 # Zhuyin 注音

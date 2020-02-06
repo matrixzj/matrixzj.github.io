@@ -3,7 +3,7 @@ title: Modern Dolch Light
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 300935
+nav_order: 300930
 ---
 
 # Modern Dolch Light 

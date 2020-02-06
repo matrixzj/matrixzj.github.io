@@ -3,7 +3,7 @@ title: GodSpeed 神佑
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 300925
+nav_order: 300920
 ---
 
 # GodSpeed 神佑

@@ -3,7 +3,7 @@ title: Copper
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 300970
+nav_order: 300965
 ---
 
 # Copper 
