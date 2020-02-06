@@ -27,6 +27,7 @@
         { "name": "40s", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
         { "name": "Ergo", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
         { "name": "GeneSpeed", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "MitoSpeed", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
         { "name": "UK", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
         { "name": "Norde", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
         { "name": "COLEVRAK", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
