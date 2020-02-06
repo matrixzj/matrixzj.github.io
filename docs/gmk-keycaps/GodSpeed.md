@@ -16,36 +16,36 @@ ref link: [GodSpeed MD GB Link](https://drop.com/buy/drop-mito-gmk-godspeed-cust
 
 
 ## Price  
-NOTE: USD to CNY exchange rate is 7.00
+NOTE: USD to CNY exchange rate is 6.97
 
 | Name          | Price(MD)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Armstrong Base](#armstrong-base)|Unknown|Unknown|Unknown|
-|[Columbia GMK](#columbia-gmk)|Unknown|Unknown|Unknown|
-|[40s](#40s)|Unknown|Unknown|Unknown|
-|[Novelties](#novelties)|Unknown|Unknown|Unknown|
-|[Spacebars](#spacebars)|Unknown|Unknown|Unknown|
+|[Armstrong Base](#armstrong-base)|125.00|871.25|Unknown|
+|[Columbia GMK](#columbia-gmk)|115.00|801.55|Unknown|
+|[40s](#40s)|7.89|55.00|Unknown|
+|[Novelties](#novelties)|45.00|313.65|Unknown|
+|[Spacebars](#spacebars)|13.00|90.61|Unknown|
 
 
 ## Kits  
 ### Armstrong Base  
-**Price(MD):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(MD):** 125.00    **Price(CNY):** 871.25    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/godspeed/kits_pics/armstrong-base.jpg' | relative_url }}" alt="armstrong-base" class="image featured">
 
 ### Columbia GMK  
-**Price(MD):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(MD):** 115.00    **Price(CNY):** 801.55    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/godspeed/kits_pics/columbia-gmk.jpg' | relative_url }}" alt="columbia-gmk" class="image featured">
 
 ### 40s  
-**Price(MD):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(MD):** 7.89    **Price(CNY):** 55.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/godspeed/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### Novelties  
-**Price(MD):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(MD):** 45.00    **Price(CNY):** 313.65    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/godspeed/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(MD):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(MD):** 13.00    **Price(CNY):** 90.61    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/godspeed/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 
@@ -53,7 +53,8 @@ NOTE: USD to CNY exchange rate is 7.00
 * Designer: Mito  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-02-06  
-* Color Codes: Unknown
+* Color Codes:  
+
 
 
 ## Pictures  
