@@ -163,8 +163,9 @@ NOTE: USD to CNY exchange rate is 6.97
 * Designer: Mito  
 * Profile: SA 1-1-2-3-4-3  
 * GB Time: 2020-02-06  
-* Color Codes: [u'Unknown']  
+* Color Codes: Unknown  
 
 ## Pictures  
-<img src="{{ 'assets/images/sa-keycaps/godspeedr2/rendering_pics/nwN2eHUQ8iFuG1YTjupw_boardrun_6.jpg' | relative_url }}" alt="nwN2eHUQ8iFuG1YTjupw_boardrun_6.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/godspeedr2/rendering_pics/L6WLPXiNRniGnwVVdIBw_godspeed_apollo_kk_3.jpg' | relative_url }}" alt="L6WLPXiNRniGnwVVdIBw_godspeed_apollo_kk_3.jpg" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/godspeedr2/rendering_pics/3.jpg' | relative_url }}" alt="3.jpg" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/godspeedr2/rendering_pics/2.png' | relative_url }}" alt="2.png" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/godspeedr2/rendering_pics/1.jpg' | relative_url }}" alt="1.jpg" class="image featured">

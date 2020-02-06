@@ -88,9 +88,7 @@ class GenerateKeyCapPage(object):
         if self.info_dict['currencyunit'] == 'USD':
             currency_checked = "currencies=%s,CNY" % self.info_dict['currencyunit']
             api_url = "%s&%s&%s&%s" % (api_base_url, exchange_rate_api_key, currency_checked, date)
-            print api_url
             exchange_rate_result = requests.get(api_url)
-            print exchange_rate_result
             currency_key = "%sCNY" % self.info_dict['currencyunit']
             exchange_rate = exchange_rate_result.json()['quotes'][currency_key]
         else:
