@@ -1,0 +1,24 @@
+{
+    "name":"Spirit",
+    "cname":"陆军",
+    "keycapstype":"GMK",
+    "designer":"Kingnestea",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-02-10",
+    "colorcodes":[
+        "Base|CR|N6",
+        "Accent 1|N6|CR",
+        "Accent 2|P3|WS1"
+    ],
+    "platform":"Kono",
+    "link":"https://kono.store/products/gmk-spirit-keycap-set",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Base", "price":"119.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Numpad", "price":"39.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Novelty", "price":"44.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Spacebar", "price":"29.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+    ]
+}

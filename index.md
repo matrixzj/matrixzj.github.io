@@ -127,6 +127,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Spirit 陆军](docs/gmk-keycaps/Spirit/)
 * [GodSpeed 神佑](docs/gmk-keycaps/GodSpeed/)
 * [Zhuyin 注音](docs/gmk-keycaps/Zhuyin/)
 * [Modern Dolch Light](docs/gmk-keycaps/Modern-Dolch-Light/)
