@@ -293,7 +293,7 @@ class GenerateKeyCapPage(object):
             color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
             for color_file in color_files:
                 color_file_path = os.path.join(self.keycap_asset_path, color_file)
-                self.keycap_page_info += '<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
+                self.keycap_page_info += '\n<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
             self.keycap_page_info += "\n\n"
         elif self.info_dict['keycapstype'] == "DSA": 
             self.keycap_page_info += "\n\n"
