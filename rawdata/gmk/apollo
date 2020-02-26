@@ -1,0 +1,26 @@
+{
+    "name":"Apollo",
+    "cname":"阿波罗",
+    "keycapstype":"GMK",
+    "designer":"octix",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-02-25",
+    "colorcodes":[
+        "Alpha|Pantone 431 C|Pantone Cool Gray 2C",
+        "Modifiers|Pantone 4140 C|Pantone Cool Gray 2C",
+        "Accent|Pantone Cool Gray 2C|Pantone 4140 C"
+    ],
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=104800.0",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Command", "price":"120", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Telemetry", "price":"50", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Lunar", "price":"40", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Propellant", "price":"50", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Space", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Rama", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+    ]
+}
