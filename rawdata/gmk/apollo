@@ -6,9 +6,9 @@
     "profile":"1-1-2-3-4-4",
     "time":"2020-02-25",
     "colorcodes":[
-        "Alpha|Pantone 431 C|Pantone Cool Gray 2C",
-        "Modifiers|Pantone 4140 C|Pantone Cool Gray 2C",
-        "Accent|Pantone Cool Gray 2C|Pantone 4140 C"
+        "|Alpha|Pantone 431 C|Pantone Cool Gray 2C",
+        "|Modifiers|Pantone 4140 C|Pantone Cool Gray 2C",
+        "|Accent|Pantone Cool Gray 2C|Pantone 4140 C"
     ],
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104800.0",

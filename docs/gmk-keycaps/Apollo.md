@@ -62,9 +62,9 @@ NOTE: USD to CNY exchange rate is 7.04
 
 | |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
-Alpha|Pantone 431 C|Pantone Cool Gray 2C
-Modifiers|Pantone 4140 C|Pantone Cool Gray 2C
-Accent|Pantone Cool Gray 2C|Pantone 4140 C
+|Alpha|Pantone 431 C|Pantone Cool Gray 2C
+|Modifiers|Pantone 4140 C|Pantone Cool Gray 2C
+|Accent|Pantone Cool Gray 2C|Pantone 4140 C
 <img src="{{ 'assets/images/gmk-keycaps/apollo/color.png' | relative_url }}" alt="color" class="image featured">
 
 
