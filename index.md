@@ -21,6 +21,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2020
+* [Sail](docs/sa-keycaps/Sail/)
 * [GodSpeed R2 神佑R2](docs/sa-keycaps/GodSpeed-R2/)
 
 ### 2019
