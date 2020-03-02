@@ -128,6 +128,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Taro R2 香芋奶茶](docs/gmk-keycaps/Taro-R2/)
 * [Ashes](docs/gmk-keycaps/Ashes/)
 * [Honey 蜂蜜](docs/gmk-keycaps/Honey/)
 * [Apollo 阿波罗](docs/gmk-keycaps/Apollo/)
