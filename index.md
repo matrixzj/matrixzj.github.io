@@ -128,6 +128,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Honey 蜂蜜](docs/gmk-keycaps/Honey/)
 * [Apollo 阿波罗](docs/gmk-keycaps/Apollo/)
 * [Spirit 陆军](docs/gmk-keycaps/Spirit/)
 * [GodSpeed 神佑](docs/gmk-keycaps/GodSpeed/)
@@ -254,7 +255,7 @@ Just buy it :)
 * [Red Samurai R1 红武士R1](docs/gmk-keycaps/Red-Samurai-R1/)
 * [Valentine 2018 Cherry KA 2018 Liebe](docs/gmk-keycaps/Valentine-2018/)
 * [Camping 野营](docs/gmk-keycaps/Camping/)
-* [Taro 香芋](docs/gmk-keycaps/Taro/)
+* [Taro R1香芋奶茶R1](docs/gmk-keycaps/Taro-R1/)
 
 ### 2017
 * [Signal](docs/gmk-keycaps/Signal/)

@@ -1,0 +1,24 @@
+{
+    "name":"Honey",
+    "cname":"蜂蜜",
+    "keycapstype":"GMK",
+    "designer":"Holicalis",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-03-01",
+    "colorcodes":[
+        "|Alphas|Pantone 2001 C|Pantone 123 C",
+        "|Modifiers|Pantone 123 C|Pantone 2001 C",
+        "|Accent|Pantone 7570 C|Pantone 2001 C"
+    ],
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=104903.0",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Base", "price":"134.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Alt Alphas", "price":"77.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Novelties", "price":"68.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Spacebars", "price":"22.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+    ]
+}

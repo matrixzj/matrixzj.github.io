@@ -1,14 +1,14 @@
 ---
-title: Taro 香芋
+title: Taro R1 香芋奶茶R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 320995
 ---
 
-# Taro 香芋
+# Taro R1 香芋奶茶R1
 
-ref link: [Taro GH GB Link](https://geekhack.org/index.php?topic=93732.0)
+ref link: [Taro R1 GH GB Link](https://geekhack.org/index.php?topic=93732.0)
 
 * [Price](#price)
 * [Kits](#kits)

@@ -1,0 +1,35 @@
+{
+    "name":"Taro R2",
+    "cname":"香芋奶茶",
+    "keycapstype":"GMK",
+    "designer":"pwade3",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-03-02",
+    "colorcodes":[
+        "|Alpha|#8E71A2|#170B19",
+        "|Modifiers|#170B19|#8E71A2",
+        "|various 1|TU2|#170B19",
+        "|various 2|CV|#170B19",
+        "|Spacebar|#170B19|",
+        "|Space Various|#8E71A2|",
+        "|Taro 1|#170B19|#8E71A2",
+        "|Taro 2|#8E71A2|#170B19",
+        "|Taro 3|TU2|#170B19",
+        "|Taro 4|CV|#170B19"
+    ],
+    "platform":"GH",
+    "link":"",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Base", "price":"110", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Boba Alphas", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Milk Tea Mods", "price":"85", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Side Snacks", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Extra Straws", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Extra Toppings", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Small Portion", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Extra Sugar", "price":"60", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+    ]
+}
