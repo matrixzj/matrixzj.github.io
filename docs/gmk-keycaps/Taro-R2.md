@@ -8,7 +8,7 @@ nav_order: 300895
 
 # Taro R2 香芋奶茶
 
-ref link: [Taro R2 GH GB Link]()  
+ref link: [Taro R2 GH GB Link](https://geekhack.org/index.php?topic=104934.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
