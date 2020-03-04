@@ -16,8 +16,8 @@ class GenerateKeyCapPage(object):
         with open(keycap_raw_info_file) as json_file:
             self.info_dict = json.load(json_file)
 
-#        self.retrieve_exchange_rate()
-        self.info_dict['rate'] = 6.97
+        self.retrieve_exchange_rate()
+#        self.info_dict['rate'] = 6.97
 
         self.profile_path = "%s-keycaps" % self.info_dict['keycapstype'].lower()     
         self.keycap_filename = "%s.md" % self.info_dict['name'].replace(" ","-")

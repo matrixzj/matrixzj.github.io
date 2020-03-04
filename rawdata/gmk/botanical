@@ -1,0 +1,23 @@
+{
+    "name":"Botanical",
+    "cname":"植物园",
+    "keycapstype":"GMK",
+    "designer":"Hazzy",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-03-04",
+    "colorcodes":[
+        "|Alpha|Pantone 656 C|Pantone 5575 C",
+        "|Modifiers|Pantone 5477 C|Pantone 5575 C",
+        "|Accent|Pantone 5575 C|Pantone 5477 C"
+    ],
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=104954.0",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Jungle", "price":"119.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Bamboo", "price":"24.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Succulents", "price":"34.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+    ]
+}
