@@ -16,7 +16,9 @@ ref link: [GodSpeed MD GB Link](https://drop.com/buy/drop-mito-gmk-godspeed-cust
 
 
 ## Price  
+
 NOTE: USD to CNY exchange rate is 6.97
+
 | Name          | Price(MD)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Armstrong Base](#armstrong-base)|125.00|871.25|591|
@@ -25,8 +27,8 @@ NOTE: USD to CNY exchange rate is 6.97
 |[Novelties](#novelties)|45.00|313.65|348|
 |[Spacebars](#spacebars)|13.00|90.61|245|
 
-<img src="{{ '/home/jzou/keyboard/web/assets/images/gmk-keycaps/godspeed/history.png' | relative_url }}" alt="history" class="image featured">
-<img src="{{ '/home/jzou/keyboard/web/assets/images/gmk-keycaps/godspeed/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/godspeed/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/godspeed/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Armstrong Base  
@@ -54,9 +56,7 @@ NOTE: USD to CNY exchange rate is 6.97
 * Designer: Mito  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-02-06  
-* Color Codes:  
-
-Unknown
+* Color Codes: Unknown
 
 
 ## Pictures  

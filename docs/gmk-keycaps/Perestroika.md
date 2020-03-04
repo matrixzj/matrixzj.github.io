@@ -16,32 +16,34 @@ ref link: [Perestroika GH GB Link](https://geekhack.org/index.php?topic=104415.0
 
 
 ## Price  
-NOTE: USD to CNY exchange rate is 6.94
+
+NOTE: USD to CNY exchange rate is 6.97
+
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|129.00|895.26|500|
-|[Usual](#usual)|59.00|409.46|103|
-|[Unusual](#unusual)|39.00|270.66|100|
-|[Modern](#modern)|39.00|270.66|100|
+|[Base](#base)|129.00|899.13|500|
+|[Usual](#usual)|59.00|411.23|103|
+|[Unusual](#unusual)|39.00|271.83|100|
+|[Modern](#modern)|39.00|271.83|100|
 
-<img src="{{ '/home/jzou/keyboard/web/assets/images/gmk-keycaps/perestroika/history.png' | relative_url }}" alt="history" class="image featured">
-<img src="{{ '/home/jzou/keyboard/web/assets/images/gmk-keycaps/perestroika/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/perestroika/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/perestroika/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 129.00    **Price(CNY):** 895.26    **Quantity:** 500  
+**Price(GH):** 129.00    **Price(CNY):** 899.13    **Quantity:** 500  
 <img src="{{ 'assets/images/gmk-keycaps/perestroika/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Usual  
-**Price(GH):** 59.00    **Price(CNY):** 409.46    **Quantity:** 103  
+**Price(GH):** 59.00    **Price(CNY):** 411.23    **Quantity:** 103  
 <img src="{{ 'assets/images/gmk-keycaps/perestroika/kits_pics/usual.png' | relative_url }}" alt="usual" class="image featured">
 
 ### Unusual  
-**Price(GH):** 39.00    **Price(CNY):** 270.66    **Quantity:** 100  
+**Price(GH):** 39.00    **Price(CNY):** 271.83    **Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/perestroika/kits_pics/unusual.png' | relative_url }}" alt="unusual" class="image featured">
 
 ### Modern  
-**Price(GH):** 39.00    **Price(CNY):** 270.66    **Quantity:** 100  
+**Price(GH):** 39.00    **Price(CNY):** 271.83    **Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/perestroika/kits_pics/modern.png' | relative_url }}" alt="modern" class="image featured">
 
 
