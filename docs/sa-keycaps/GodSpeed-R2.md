@@ -47,8 +47,8 @@ NOTE: USD to CNY exchange rate is 6.97
 |[625 Spacebars](#625-spacebars)|9.00|62.73|68|
 |[700 Spacebars](#700-spacebars)|9.00|62.73|203|
 
-<img src="{{ '/home/jzou/keyboard/web/assets/images/sa-keycaps/godspeedr2/history.png' | relative_url }}" alt="history" class="image featured">
-<img src="{{ '/home/jzou/keyboard/web/assets/images/sa-keycaps/godspeedr2/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/godspeedr2/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/godspeedr2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Solar Alphas  
@@ -164,7 +164,7 @@ NOTE: USD to CNY exchange rate is 6.97
 * Designer: Mito  
 * Profile: SA 1-1-2-3-4-3  
 * GB Time: 2020-02-06  
-* Color Codes: Unknown  
+* Color Codes: [u'Unknown']  
 
 ## Pictures  
 <img src="{{ 'assets/images/sa-keycaps/godspeedr2/rendering_pics/3.jpg' | relative_url }}" alt="3.jpg" class="image featured">

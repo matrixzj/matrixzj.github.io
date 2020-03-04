@@ -16,8 +16,8 @@ class GenerateKeyCapPage(object):
         with open(keycap_raw_info_file) as json_file:
             self.info_dict = json.load(json_file)
 
-        self.retrieve_exchange_rate()
-#        self.info_dict['rate'] = 7.16
+#        self.retrieve_exchange_rate()
+        self.info_dict['rate'] = 6.97
 
         self.profile_path = "%s-keycaps" % self.info_dict['keycapstype'].lower()     
         self.keycap_filename = "%s.md" % self.info_dict['name'].replace(" ","-")
@@ -42,13 +42,13 @@ class GenerateKeyCapPage(object):
         if self.info_dict["history_graph"]:
             self.keycap_history_graph_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "history.png")
             self.download_graph(self.info_dict["history_graph"], self.keycap_history_graph_path)
-            self.history_graph_info = "<img src=\"{{ '" + self.keycap_history_graph_path + "' | relative_url }}\" alt=\"history\" class=\"image featured\">\n"
+            self.history_graph_info = "<img src=\"{{ '" + os.path.relpath(self.keycap_history_graph_path, os.getcwd()) + "' | relative_url }}\" alt=\"history\" class=\"image featured\">\n"
             print self.history_graph_info
 
         if self.info_dict["order_graph"]:
             self.keycap_order_graph_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "order.png")
             self.download_graph(self.info_dict["order_graph"], self.keycap_order_graph_path)
-            self.order_graph_info = "<img src=\"{{ '" + self.keycap_order_graph_path + "' | relative_url }}\" alt=\"order\" class=\"image featured\">\n\n"
+            self.order_graph_info = "<img src=\"{{ '" + os.path.relpath(self.keycap_order_graph_path, os.getcwd()) + "' | relative_url }}\" alt=\"order\" class=\"image featured\">\n\n"
             print self.order_graph_info
 
         self.keycap_page_kit = "## Kits  \n"
