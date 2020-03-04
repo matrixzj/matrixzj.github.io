@@ -5,6 +5,7 @@ import sys
 import os
 import json
 import requests
+import urllib
 
 raw_data_file = sys.argv[1]
 
@@ -22,7 +23,6 @@ class GenerateKeyCapPage(object):
         self.keycap_filename = "%s.md" % self.info_dict['name'].replace(" ","-")
         self.keycap_filename_with_path = os.path.join("docs", self.profile_path, self.keycap_filename)
 
-
         self.keycap_asset_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""))
         self.keycap_asset_kits_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "kits_pics")
         self.keycap_asset_render_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "rendering_pics")
@@ -37,6 +37,19 @@ class GenerateKeyCapPage(object):
         self.keycap_page_price = "## Price  \n"
         self.generate_keycap_page_price()
         print self.keycap_page_price
+        print "\n"
+
+        if self.info_dict["history_graph"]:
+            self.keycap_history_graph_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "history.png")
+            self.download_graph(self.info_dict["history_graph"], self.keycap_history_graph_path)
+            self.history_graph_info = "<img src=\"{{ '" + self.keycap_history_graph_path + "' | relative_url }}\" alt=\"history\" class=\"image featured\">\n"
+            print self.history_graph_info
+
+        if self.info_dict["order_graph"]:
+            self.keycap_order_graph_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "order.png")
+            self.download_graph(self.info_dict["order_graph"], self.keycap_order_graph_path)
+            self.order_graph_info = "<img src=\"{{ '" + self.keycap_order_graph_path + "' | relative_url }}\" alt=\"order\" class=\"image featured\">\n\n"
+            print self.order_graph_info
 
         self.keycap_page_kit = "## Kits  \n"
         self.generate_keycap_page_kit()
@@ -55,7 +68,16 @@ class GenerateKeyCapPage(object):
         if keycap_write_to_file.lower().strip() == "y":
             fd_keycap_filename_with_path = open(self.keycap_filename_with_path, "w+")
             fd_keycap_filename_with_path.write(self.keycap_page_header.encode('utf-8'))
-            fd_keycap_filename_with_path.write(self.keycap_page_price)
+            
+            if self.info_dict["history_graph"]:
+                self.keycap_page_price = self.keycap_page_price.replace("\n\n", "\n")
+                fd_keycap_filename_with_path.write(self.keycap_page_price)
+                fd_keycap_filename_with_path.write(self.history_graph_info)
+            else:
+                fd_keycap_filename_with_path.write(self.keycap_page_price)
+
+            if self.info_dict["order_graph"]:
+                fd_keycap_filename_with_path.write(self.order_graph_info)
             fd_keycap_filename_with_path.write(self.keycap_page_kit)
             fd_keycap_filename_with_path.write(self.keycap_page_info)
             if os.path.isdir(self.keycap_asset_render_path):
@@ -100,6 +122,14 @@ class GenerateKeyCapPage(object):
             exchange_rate = float(exchange_rate_result.json()['quotes'][currency_key_USDtoCNY]) / float(exchange_rate_result.json()['quotes'][currency_key_USDtoDest])
 
         self.info_dict['rate'] = "%.2f" % float(exchange_rate)
+
+    def download_graph(self, url, path):
+        proxies = {'http': 'http://10.0.1.77:443'}
+        res=urllib.urlopen(url, proxies=proxies)
+        con=res.read()
+        outf=open(path,'wb')
+        outf.write(con)
+        outf.close()
 
     def parse_price_info_format(self):
        for kit in self.info_dict['price_list']: 
@@ -231,19 +261,12 @@ class GenerateKeyCapPage(object):
                 self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="price" class="image featured">' % os.path.relpath(price_file_path, os.getcwd())
                 self.keycap_page_price += "\n"
 
-        if os.path.isdir(self.keycap_asset_path):
-            history_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'history' in f]
-            for history_file in history_files:
-                history_file_path = os.path.join(self.keycap_asset_path, history_file)
-                self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="price" class="image featured">' % os.path.relpath(history_file_path, os.getcwd())
-                self.keycap_page_price += "\n"
-
-        if os.path.isdir(self.keycap_asset_path):
-            history_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'history' in f]
-            for history_file in history_files:
-                history_file_path = os.path.join(self.keycap_asset_path, history_file)
-                self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="price" class="image featured">' % os.path.relpath(history_file_path, os.getcwd())
-                self.keycap_page_price += "\n"
+#        if os.path.isdir(self.keycap_asset_path):
+#            history_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'history' in f]
+#            for history_file in history_files:
+#                history_file_path = os.path.join(self.keycap_asset_path, history_file)
+#                self.keycap_page_price += '<img src="{{ \'%s\' | relative_url }}" alt="price" class="image featured">' % os.path.relpath(history_file_path, os.getcwd())
+#                self.keycap_page_price += "\n"
 
         self.keycap_page_price += "\n"
 
