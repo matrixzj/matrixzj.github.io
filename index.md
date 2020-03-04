@@ -128,6 +128,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Kaiju 怪兽](docs/gmk-keycaps/Kaiju/)
 * [Botanical 植物园](docs/gmk-keycaps/Botanical/)
 * [Taro R2 香芋奶茶](docs/gmk-keycaps/Taro-R2/)
 * [Ashes](docs/gmk-keycaps/Ashes/)
