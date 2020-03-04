@@ -16,7 +16,9 @@ ref link: [GodSpeed R2 MD GB Link](https://drop.com/buy/godspeed-custom-sa-keyca
 
 
 ## Price  
+
 NOTE: USD to CNY exchange rate is 6.97
+
 | Name          | Price(MD)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Solar Alphas](#solar-alphas)|37.00|257.89|636|
