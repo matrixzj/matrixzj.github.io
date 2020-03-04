@@ -21,22 +21,25 @@ NOTE: USD to CNY exchange rate is 6.89
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|139.99|964.53|Unknown|
-|[Novelties](#novelties)|44.99|309.98|Unknown|
-|[Spacebars](#spacebars)|24.99|172.18|Unknown|
+|[Base](#base)|139.99|964.53|552|
+|[Novelties](#novelties)|44.99|309.98|315|
+|[Spacebars](#spacebars)|24.99|172.18|250|
 
+
+<img src="{{ 'assets/images/gmk-keycaps/copper/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/copper/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 139.99    **Price(CNY):** 964.53    **Quantity:** Unknown  
+**Price(GH):** 139.99    **Price(CNY):** 964.53    **Quantity:** 552  
 <img src="{{ 'assets/images/gmk-keycaps/copper/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(GH):** 44.99    **Price(CNY):** 309.98    **Quantity:** Unknown  
+**Price(GH):** 44.99    **Price(CNY):** 309.98    **Quantity:** 315  
 <img src="{{ 'assets/images/gmk-keycaps/copper/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 24.99    **Price(CNY):** 172.18    **Quantity:** Unknown  
+**Price(GH):** 24.99    **Price(CNY):** 172.18    **Quantity:** 250  
 <img src="{{ 'assets/images/gmk-keycaps/copper/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 

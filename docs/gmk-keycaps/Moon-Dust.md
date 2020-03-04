@@ -21,22 +21,25 @@ NOTE: USD to CNY exchange rate is 6.96
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|939.53|Unknown|
-|[Novelties](#novelties)|45.99|320.09|Unknown|
-|[Spacebars](#spacebars)|29.99|208.73|Unknown|
+|[Base](#base)|134.99|939.53|291|
+|[Novelties](#novelties)|45.99|320.09|136|
+|[Spacebars](#spacebars)|29.99|208.73|115|
 
+
+<img src="{{ 'assets/images/gmk-keycaps/moondust/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/moondust/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 134.99    **Price(CNY):** 939.53    **Quantity:** Unknown  
+**Price(GH):** 134.99    **Price(CNY):** 939.53    **Quantity:** 291  
 <img src="{{ 'assets/images/gmk-keycaps/moondust/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(GH):** 45.99    **Price(CNY):** 320.09    **Quantity:** Unknown  
+**Price(GH):** 45.99    **Price(CNY):** 320.09    **Quantity:** 136  
 <img src="{{ 'assets/images/gmk-keycaps/moondust/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 29.99    **Price(CNY):** 208.73    **Quantity:** Unknown  
+**Price(GH):** 29.99    **Price(CNY):** 208.73    **Quantity:** 115  
 <img src="{{ 'assets/images/gmk-keycaps/moondust/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 

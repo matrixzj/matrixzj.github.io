@@ -13,14 +13,14 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104401.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.imgur.com/atpJRMm.png",
+    "order_graph":"https://i.imgur.com/sVfeZ6u.png",
     "price_list":[
-        { "name":"Darling", "price":"120", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Clacksaur", "price":"28", "price_cny":"", "quantity":"","price_table_format":"", "price_kit_format":""},
-        { "name": "Parasite", "price":"48", "price_cny":"", "quantity":"","price_table_format":"","price_kit_format":""},
-        { "name": "Partner", "price":"50", "price_cny":"", "quantity":"","price_table_format":"","price_kit_format":""},
-        { "name": "Remnants", "price":"64", "price_cny":"", "quantity":"","price_table_format":"","price_kit_format":""},
-        { "name": "RAMA", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name":"Darling", "price":"120", "price_cny":"", "quantity":"1002", "price_table_format":"","price_kit_format":"" },
+        { "name":"Clacksaur", "price":"28", "price_cny":"", "quantity":"296","price_table_format":"", "price_kit_format":""},
+        { "name": "Parasite", "price":"48", "price_cny":"", "quantity":"150","price_table_format":"","price_kit_format":""},
+        { "name": "Partner", "price":"50", "price_cny":"", "quantity":"572","price_table_format":"","price_kit_format":""},
+        { "name": "Remnants", "price":"64", "price_cny":"", "quantity":"124","price_table_format":"","price_kit_format":""},
+        { "name": "RAMA", "price":"45", "price_cny":"", "quantity":"224", "price_table_format":"", "price_kit_format":""}
     ]
 }

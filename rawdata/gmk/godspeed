@@ -11,13 +11,13 @@
     "platform":"MD",
     "link": "https://drop.com/buy/drop-mito-gmk-godspeed-custom-keycap-set",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://massdrop-s3.imgix.net/img_comment/1583284087685.844150064282571308808001-GMKgodspeedHistory200302final.PNG",
+    "order_graph":"https://massdrop-s3.imgix.net/img_comment/1583284061849.687990678994056281639318-GMKgodspeedStatus200302final.PNG",
     "price_list":[
-        { "name": "Armstrong Base", "price":"125", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "Columbia GMK", "price":"115", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "40s", "price":"", "price_cny":"55", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Novelties", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Spacebars", "price":"13", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name": "Armstrong Base", "price":"125", "price_cny":"", "quantity":"591", "price_table_format":"","price_kit_format":"" },
+        { "name": "Columbia GMK", "price":"115", "price_cny":"", "quantity":"108", "price_table_format":"", "price_kit_format":""},
+        { "name": "40s", "price":"", "price_cny":"55", "quantity":"63", "price_table_format":"", "price_kit_format":""},
+        { "name": "Novelties", "price":"45", "price_cny":"", "quantity":"348", "price_table_format":"", "price_kit_format":""},
+        { "name": "Spacebars", "price":"13", "price_cny":"", "quantity":"245", "price_table_format":"", "price_kit_format":""}
     ]
 }
