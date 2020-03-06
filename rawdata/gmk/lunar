@@ -1,0 +1,26 @@
+{
+    "name":"Lunar",
+    "cname":"月球",
+    "keycapstype":"GMK",
+    "designer":"Moridin",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-03-06",
+    "colorcodes":[
+        "|Alphas|2B|2M",
+        "|Numpad|N9|2M",
+        "|Accent 1|N6|",
+        "|Accent 2|RO2|"
+    ],
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=104965.0",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Core", "price":"160", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Novelties", "price":"75", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Alphas", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Spacebars", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Assembly", "price":"165", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+    ]
+}
