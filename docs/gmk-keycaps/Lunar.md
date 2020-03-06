@@ -1,12 +1,12 @@
 ---
-title: Lunar 月球
+title: Lunar 追月
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 300880
 ---
 
-# Lunar 月球
+# Lunar 追月
 
 ref link: [Lunar GH GB Link](https://geekhack.org/index.php?topic=104965.0)  
 * [Price](#price)  
