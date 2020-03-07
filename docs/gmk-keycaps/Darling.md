@@ -17,6 +17,7 @@ ref link: [Darling GH GB Link](https://geekhack.org/index.php?topic=104401.0)
 
 ## Price  
 NOTE: USD to CNY exchange rate is 6.94
+
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Darling](#darling)|120.00|832.80|1002|
@@ -26,8 +27,8 @@ NOTE: USD to CNY exchange rate is 6.94
 |[Remnants](#remnants)|64.00|444.16|124|
 |[RAMA](#rama)|45.00|312.30|224|
 
-<img src="{{ '/home/jzou/keyboard/web/assets/images/gmk-keycaps/darling/history.png' | relative_url }}" alt="history" class="image featured">
-<img src="{{ '/home/jzou/keyboard/web/assets/images/gmk-keycaps/darling/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/darling/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/darling/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Darling  
