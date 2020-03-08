@@ -88,6 +88,7 @@ Just buy it :)
 ### 2016
 * [1965](docs/sa-keycaps/1965/)
 * [Dasher & Dancer](docs/sa-keycaps/Dasher-Dancer/)
+* [Novelties Voyager 航行者个性](docs/sa-keycaps/Novelties-Voyager/)
 * [Grand Budapest 布达佩斯大饭店](docs/sa-keycaps/Grand-Budapest/)
 * [Commando 88 突击88](docs/sa-keycaps/Commando88/)
 * [GodSpeed R1 神佑R1](docs/sa-keycaps/GodSpeed-R1/)
