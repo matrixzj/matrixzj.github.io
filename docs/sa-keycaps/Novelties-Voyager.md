@@ -3,7 +3,7 @@ title: Novelties Voyager 航行者个性
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
-nav_order: 340925
+nav_order: 340935
 ---
 
 # Novelties Voyager 航行者个性
