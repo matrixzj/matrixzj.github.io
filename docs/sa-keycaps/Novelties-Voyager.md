@@ -29,7 +29,8 @@ NOTE: USD to CNY exchange rate is 6.77
 **Price(QQ Group):** Unknown    **Price(CNY):** Unknown    **Quantity:** 150  
 ### R3 Set  
 **Price(QQ Group):** Unknown    **Price(CNY):** Unknown    **Quantity:** 150  
-<img src="{{ 'assets/images/sa-keycaps/noveltiesvoyager/rendering_pics/voyager2.jpg' | relative_url }}" alt="voyager2" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/noveltiesvoyager/kits_pics/voyager2.jpg' | relative_url }}" alt="voyager2" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/noveltiesvoyager/rendering_pics/voyager1.jpg' | relative_url }}" alt="voyager1.jpg" class="image featured">
 
 ## Info  
 * Designer: Monkey Six  
@@ -58,4 +59,3 @@ NOTE: USD to CNY exchange rate is 6.77
 
 ## Pictures  
 <img src="{{ 'assets/images/sa-keycaps/noveltiesvoyager/rendering_pics/voyager4.jpg' | relative_url }}" alt="voyager4.jpg" class="image featured">
-<img src="{{ 'assets/images/sa-keycaps/noveltiesvoyager/rendering_pics/voyager1.jpg' | relative_url }}" alt="voyager1.jpg" class="image featured">
