@@ -11,11 +11,11 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104440.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.imgur.com/GC09WtC.png",
+    "order_graph":"https://i.imgur.com/7wzcRNx.png",
     "price_list":[
-        { "name":"Base", "price":"135", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Novelties", "price":"42", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Spacebars", "price":"30", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+        { "name":"Base", "price":"135", "price_cny":"", "quantity":"309", "price_table_format":"","price_kit_format":"" },
+        { "name":"Novelties", "price":"42", "price_cny":"", "quantity":"131", "price_table_format":"","price_kit_format":"" },
+        { "name":"Spacebars", "price":"30", "price_cny":"", "quantity":"110", "price_table_format":"","price_kit_format":"" }
     ]
 }

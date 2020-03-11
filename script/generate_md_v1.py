@@ -34,7 +34,7 @@ class GenerateKeyCapPage(object):
         self.generate_keycap_page_header()
         print self.keycap_page_header
 
-        self.keycap_page_price = "## Price  \n"
+        self.keycap_page_price = ""
         self.generate_keycap_page_price()
         print self.keycap_page_price
         print "\n"
@@ -244,9 +244,10 @@ class GenerateKeyCapPage(object):
     	self.keycap_page_header += "* [Info](#info)  \n"
     	self.keycap_page_header += "* [Pictures](#pictures)  \n"
     	self.keycap_page_header += "\n\n"
+        self.keycap_page_header += "## Price  \n\n"
+        self.keycap_page_header += "NOTE: %s to CNY exchange rate is %.2f\n\n" % (self.info_dict['currencyunit'], float(self.info_dict['rate']))
 
     def generate_keycap_page_price(self):
-        self.keycap_page_price += "NOTE: %s to CNY exchange rate is %.2f\n\n" % (self.info_dict['currencyunit'], float(self.info_dict['rate']))
         self.keycap_page_price += "| Name          | Price(%s)    |  Price(CNY) | Quantity |\n| ------------- | ------------ |  ---------- | -------- |\n" % (self.info_dict['platform'])
 
         for kit in self.info_dict['price_list']:

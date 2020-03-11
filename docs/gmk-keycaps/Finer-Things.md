@@ -16,26 +16,29 @@ ref link: [Finer Things GH GB Link](https://geekhack.org/index.php?topic=104440.
 
 
 ## Price  
+
 NOTE: USD to CNY exchange rate is 6.94
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|936.90|Unknown|
-|[Novelties](#novelties)|42.00|291.48|Unknown|
-|[Spacebars](#spacebars)|30.00|208.20|Unknown|
+|[Base](#base)|135.00|936.90|309|
+|[Novelties](#novelties)|42.00|291.48|131|
+|[Spacebars](#spacebars)|30.00|208.20|110|
 
+<img src="{{ 'assets/images/gmk-keycaps/finerthings/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/finerthings/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 135.00    **Price(CNY):** 936.90    **Quantity:** Unknown  
+**Price(GH):** 135.00    **Price(CNY):** 936.90    **Quantity:** 309  
 <img src="{{ 'assets/images/gmk-keycaps/finerthings/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(GH):** 42.00    **Price(CNY):** 291.48    **Quantity:** Unknown  
+**Price(GH):** 42.00    **Price(CNY):** 291.48    **Quantity:** 131  
 <img src="{{ 'assets/images/gmk-keycaps/finerthings/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 30.00    **Price(CNY):** 208.20    **Quantity:** Unknown  
+**Price(GH):** 30.00    **Price(CNY):** 208.20    **Quantity:** 110  
 <img src="{{ 'assets/images/gmk-keycaps/finerthings/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 
