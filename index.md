@@ -129,6 +129,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [RGBYK Add-On R2](docs/gmk-keycaps/RGBYK-Add-On-R2/)
 * [Lunar 月球](docs/gmk-keycaps/Lunar/)
 * [Kaiju 怪兽](docs/gmk-keycaps/Kaiju/)
 * [Botanical 植物园](docs/gmk-keycaps/Botanical/)
@@ -339,7 +340,7 @@ Just buy it :)
 ### 2015
 * [SKIDATA+ 黑橙R1](docs/gmk-keycaps/SKIDATA+/)
 * [Escape Pack](docs/gmk-keycaps/Escape-Pack/)
-* [RGBYK](docs/gmk-keycaps/RGBYK/)
+* [RGBYK R1](docs/gmk-keycaps/RGBYK-R1/)
 * [Sky Dolch](docs/gmk-keycaps/Sky-Dolch/)
 * [Electric Bluegaloo Mod & Escape Pack](docs/gmk-keycaps/Electric-Bluegaloo-Mod-Escape-Pack/)
 * [Triumph Adler TA](docs/gmk-keycaps/Triumph-Adler/)

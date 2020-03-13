@@ -1,0 +1,24 @@
+{
+    "name":"RGBYK Add-On R2",
+    "cname":"",
+    "keycapstype":"GMK",
+    "designer":"adxlk",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-03-13",
+    "colorcodes":[
+        "|V1|CR",
+        "|V4|CR",
+        "|N7|CR",
+        "|CV|CR",
+        "|V2|CR"
+    ],
+    "platform":"GH",
+    "link":"",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"RGBKY Add-On", "price":"", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+    ]
+}

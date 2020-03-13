@@ -1,14 +1,14 @@
 ---
-title: RGBYK
+title: RGBYK R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 350965
 ---
 
-# RGBYK
+# RGBYK R1
 
-ref link: [RGBYK GH GB Link](https://geekhack.org/index.php?topic=73626.0)
+ref link: [RGBYK R1 GH GB Link](https://geekhack.org/index.php?topic=73626.0)
 
 * [Price](#price)
 * [Kits](#kits)
