@@ -18,7 +18,6 @@
     "history_graph":"",
     "order_graph":"",
     "price_list":[
-        { "name":"RGBKY Add-On", "price":"", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name":"RGBYK Add-On", "price":"", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
     ]
 }

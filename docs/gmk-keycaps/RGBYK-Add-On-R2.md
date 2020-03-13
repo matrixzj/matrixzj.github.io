@@ -21,15 +21,14 @@ NOTE: USD to CNY exchange rate is 6.98
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[RGBKY Add-On](#rgbky-add-on)|Unknown|Unknown|Unknown|
-|[](#)|Unknown|Unknown|Unknown|
+|[RGBYK Add-On](#rgbyk-add-on)|Unknown|Unknown|Unknown|
 
 
 ## Kits  
-### RGBKY Add-On  
+### RGBYK Add-On  
 **Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
-###   
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/rgbykadd-onr2/kits_pics/rgbyk-add-on.png' | relative_url }}" alt="rgbyk-add-on" class="image featured">
+
 
 ## Info  
 * Designer: adxlk  
