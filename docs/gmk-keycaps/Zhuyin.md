@@ -21,19 +21,19 @@ NOTE: USD to CNY exchange rate is 7.02
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[White on Black](#white-on-black)|70.00|491.40|351|
-|[Black on White](#black-on-white)|70.00|491.40|320|
+|[White on Black](#white-on-black)|70.00|491.40|320|
+|[Black on White](#black-on-white)|70.00|491.40|351|
 
 <img src="{{ 'assets/images/gmk-keycaps/zhuyin/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/zhuyin/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### White on Black  
-**Price(GH):** 70.00    **Price(CNY):** 491.40    **Quantity:** 351  
+**Price(GH):** 70.00    **Price(CNY):** 491.40    **Quantity:** 320  
 <img src="{{ 'assets/images/gmk-keycaps/zhuyin/kits_pics/white-on-black.png' | relative_url }}" alt="white-on-black" class="image featured">
 
 ### Black on White  
-**Price(GH):** 70.00    **Price(CNY):** 491.40    **Quantity:** 320  
+**Price(GH):** 70.00    **Price(CNY):** 491.40    **Quantity:** 351  
 <img src="{{ 'assets/images/gmk-keycaps/zhuyin/kits_pics/black-on-white.png' | relative_url }}" alt="black-on-white" class="image featured">
 
 
