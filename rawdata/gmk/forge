@@ -1,0 +1,21 @@
+{
+    "name":"Forge",
+    "cname":"锻造",
+    "keycapstype":"GMK",
+    "designer":"driftingbunnies",
+    "profile":"1-1-2-3-4-4",
+    "time":"2020-03-20",
+    "colorcodes":[
+    ],
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=105102.0",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Anvil", "price":"129.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Hammer", "price":"24.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Forgemaster's", "price":"39.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Molten White Alphas", "price":"74.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+    ]
+}

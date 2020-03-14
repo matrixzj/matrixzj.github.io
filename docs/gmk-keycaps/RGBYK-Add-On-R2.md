@@ -8,7 +8,7 @@ nav_order: 300875
 
 # RGBYK Add-On R2 
 
-ref link: [RGBYK Add-On R2 GH GB Link]()  
+ref link: [RGBYK Add-On R2 GH GB Link](https://geekhack.org/index.php?topic=105127.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
