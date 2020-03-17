@@ -1,0 +1,27 @@
+{
+    "name": "Skeletor R2",
+    "cname": "骷髅王R2",
+    "keycapstype": "GMK",
+    "designer": "Nubbinator",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-03-13",
+    "colorcodes":[
+        "|Alpha|TU2|DY",
+        "|Modifiers|DY|TU2",
+        "|Accent 1|MG1|DY",
+        "|Accent 2|DY|MG1",
+        "|Accent 3|AE|DY",
+        "|Accent 4|DY|AE",
+        "|Accent 5|CV|DY",
+        "|Accent 6|DY|CV"
+    ],
+    "platform": "OCO",
+    "link": "https://www.originativeco.com/products/skeletor",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "159", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Accent", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}

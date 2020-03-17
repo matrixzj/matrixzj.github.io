@@ -129,6 +129,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Dolch R2](docs/gmk-keycaps/Dolch-R2/)
+* [HyperFuse Origins R2](docs/gmk-keycaps/HyperFuse-Origins-R2/)
+* [Skeletor R2 骷髅王R2](docs/gmk-keycaps/Skeletor-R2/)
 * [RGBYK Add-On R2](docs/gmk-keycaps/RGBYK-Add-On-R2/)
 * [Lunar 月球](docs/gmk-keycaps/Lunar/)
 * [Kaiju 怪兽](docs/gmk-keycaps/Kaiju/)
@@ -324,7 +327,7 @@ Just buy it :)
 * [Uniqey Blue](docs/gmk-keycaps/Uniqey-Blue/)
 * [Carbon R1 大碳 R1](docs/gmk-keycaps/Carbon-R1/)
 * [Ceresia](docs/gmk-keycaps/Ceresia/)
-* [Skeletor 骷髅王](docs/gmk-keycaps/Skeletor/)
+* [Skeletor R1 骷髅王R1](docs/gmk-keycaps/Skeletor-R1/)
 * [Custom Modifiers UniqueOrn](docs/gmk-keycaps/Custom-Modifiers-UniqueOrn/)
 * [Barebones Stormtrooper 风暴兵](docs/gmk-keycaps/Barebones-Stormtrooper/)
 * [Sky Dolch Accent](docs/gmk-keycaps/Sky-Dolch-Accent/)
@@ -351,7 +354,7 @@ Just buy it :)
 ### 2014
 * [Cyan](docs/gmk-keycaps/Cyan/)
 * [LED](docs/gmk-keycaps/LED/)
-* [Dolch](docs/gmk-keycaps/Dolch/)
+* [Dolch R1](docs/gmk-keycaps/Dolch-R1/)
 * [RGBY](docs/gmk-keycaps/RGBY/)
 
 ### 2013

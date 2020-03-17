@@ -1,14 +1,14 @@
 ---
-title: HyperFuse Origins
+title: HyperFuse Origins R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 320975
 ---
 
-# HyperFuse Origins
+# HyperFuse Origins R1
 
-ref link: [HyperFuse Origins OCO GB Link](https://www.originativeco.com/products/hyperfuse-origins)
+ref link: [HyperFuse Origins R1 OCO GB Link](https://www.originativeco.com/products/hyperfuse-origins)
 
 * [Price](#price)
 * [Kits](#kits)

@@ -1,14 +1,14 @@
 ---
-title: Dolch
+title: Dolch R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 360990
 ---
 
-# Dolch
+# Dolch R1
 
-ref link: [Dolch GH GB Link](https://geekhack.org/index.php?topic=58608.0)
+ref link: [Dolch R1 GH GB Link](https://geekhack.org/index.php?topic=58608.0)
 
 * [Price](#price)
 * [Kits](#kits)

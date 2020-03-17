@@ -1,14 +1,14 @@
 ---
-title: Skeletor 骷髅王
+title: Skeletor R1 骷髅王R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 340940
 ---
 
-# Skeletor 骷髅王
+# Skeletor R1 骷髅王R1
 
-ref link: [Skeletor OCO GB Link](https://www.originativeco.com/products/skeletor)
+ref link: [Skeletor R1 OCO GB Link](https://www.originativeco.com/products/skeletor)
 
 * [Price](#price)
 * [Kits](#kits)

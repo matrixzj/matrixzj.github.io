@@ -1,19 +1,18 @@
 {
-    "name":"",
-    "cname":"",
-    "keycapstype":"GMK",
-    "designer":"",
-    "profile":"1-1-2-3-4-4",
-    "time":"2020--",
+    "name": "",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020--",
     "colorcodes":[
     ],
-    "platform":"",
-    "link":"",
-    "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "platform": "",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
     "price_list":[
-        { "name":"", "price":"", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "", "price":"", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name": "", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
     ]
 }

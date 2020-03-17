@@ -1,0 +1,20 @@
+{
+    "name": "Dolch R2",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "IvanIvanovich",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-03-13",
+    "colorcodes":[
+        "|Alpha|CC|CP",
+        "|Modifiers|N9|CP"
+    ],
+    "platform": "OCO",
+    "link": "https://www.originativeco.com/products/dolch",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "159", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
