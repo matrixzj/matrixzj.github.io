@@ -27,7 +27,7 @@ NOTE: USD to CNY exchange rate is 7.01
 ## Kits  
 ### Base  
 **Price(OCO):** 159.00    **Price(CNY):** 1114.59    **Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/dolchr2/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/dolchr2/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 
 ## Info  
@@ -38,8 +38,6 @@ NOTE: USD to CNY exchange rate is 7.01
 
 | |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
-|Alpha|CC|CP
-|Modifiers|N9|CP
-
-
-## Pictures  
+|Alpha|CC|WS1
+|Modifiers|N9|WS1
+|Various|RO1|WS1
