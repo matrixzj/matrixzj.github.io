@@ -15,14 +15,14 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104453.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.imgur.com/X7nrD9v.png",
+    "order_graph":"https://i.imgur.com/xlOqwQ0.png",
     "price_list":[
-        { "name":"Base", "price":"145", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Light Alphas", "price":"80", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Hiragana", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Icon Mods", "price":"85", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"40s", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Spacebars", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+        { "name":"Base", "price":"145", "price_cny":"", "quantity":"1001", "price_table_format":"","price_kit_format":"" },
+        { "name":"Light Alphas", "price":"80", "price_cny":"", "quantity":"563", "price_table_format":"","price_kit_format":"" },
+        { "name":"Hiragana", "price":"65", "price_cny":"", "quantity":"177", "price_table_format":"","price_kit_format":"" },
+        { "name":"Icon Mods", "price":"85", "price_cny":"", "quantity":"456", "price_table_format":"","price_kit_format":"" },
+        { "name":"40s", "price":"65", "price_cny":"", "quantity":"150", "price_table_format":"","price_kit_format":"" },
+        { "name":"Spacebars", "price":"25", "price_cny":"", "quantity":"420", "price_table_format":"","price_kit_format":"" }
     ]
 }
