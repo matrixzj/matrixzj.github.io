@@ -1,0 +1,21 @@
+{
+    "name": "WoB 40s / Colevrak / R0/R5 Extensions",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "ttom",
+    "profile": "",
+    "time": "2020-03-23",
+    "colorcodes":[
+        "|CR|WS1"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=105239.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "40s", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Colevrak", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "R0/R5 Compatibility", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}

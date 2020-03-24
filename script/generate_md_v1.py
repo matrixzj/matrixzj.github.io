@@ -20,12 +20,12 @@ class GenerateKeyCapPage(object):
 #        self.info_dict['rate'] = 6.97
 
         self.profile_path = "%s-keycaps" % self.info_dict['keycapstype'].lower()     
-        self.keycap_filename = "%s.md" % self.info_dict['name'].replace(" ","-")
+        self.keycap_filename = "%s.md" % self.info_dict['name'].replace(" ","-").replace("/", "-")
         self.keycap_filename_with_path = os.path.join("docs", self.profile_path, self.keycap_filename)
 
-        self.keycap_asset_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""))
-        self.keycap_asset_kits_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "kits_pics")
-        self.keycap_asset_render_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ",""), "rendering_pics")
+        self.keycap_asset_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ","").replace("/",""))
+        self.keycap_asset_kits_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ","").replace("/",""), "kits_pics")
+        self.keycap_asset_render_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ","").replace("/",""), "rendering_pics")
 
         self.parse_price_info_format()
         self.cal_nav_order()
@@ -85,9 +85,9 @@ class GenerateKeyCapPage(object):
             fd_keycap_filename_with_path.close()
             print "%s was generated!" % self.keycap_filename_with_path
             if self.info_dict['cname']:
-                print "index entry: * [%s %s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['cname'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-'))
+                print "index entry: * [%s %s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['cname'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-').replace('/', '-'))
             else:
-                print "index entry: * [%s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-'))
+                print "index entry: * [%s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-').replace('/', '-'))
 
         else:
             sys.exit(0)
@@ -276,8 +276,8 @@ class GenerateKeyCapPage(object):
             self.keycap_page_kit += "### %s  \n" % kit['name']
             self.keycap_page_kit += kit['price_kit_format'] % (kit['price'], kit['price_cny'], kit['quantity'])
             self.keycap_page_kit += "\n"
-            kit_file_jpg = "%s.jpg" % kit['name'].lower().replace(" ", "-")
-            kit_file_png = "%s.png" % kit['name'].lower().replace(" ", "-")
+            kit_file_jpg = "%s.jpg" % kit['name'].lower().replace(" ", "-").replace("/", "-")
+            kit_file_png = "%s.png" % kit['name'].lower().replace(" ", "-").replace("/", "-")
             if os.path.isfile(os.path.join(self.keycap_asset_kits_path, kit_file_jpg)):
                 self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_jpg), os.getcwd()), kit['name'].lower().replace(" ", "-"))
                 self.keycap_page_kit += "\n\n"
