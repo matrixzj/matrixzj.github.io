@@ -85,7 +85,7 @@ NOTE: USD to RMB exchange rate is 6.63
 
 ### Dusk
 **Price(MD):** 16.99    **Price(RMB):** 112.64    **Quantity:** 494   
-<img src="{{ 'assets/images/gmk-keycaps/laser/kits_pics/dust.jpg' | relative_url }}" alt="Dusk" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/laser/kits_pics/dusk.jpg' | relative_url }}" alt="Dusk" class="image featured">
 
 ## Info
 * Designer: Mito
