@@ -27,7 +27,7 @@ NOTE: GBP to RMB exchange rate is 8.88
 |[Novelties](#novelties)|27.00|239.76|unknown|
 |[Spacebars](#spacebars)|15.00|133.20|unknown|
 |[Ergodox](#ergodox)|63.00|559.44|unknown|
-|[Ortholinear](#ortholinear)|53.00|470.64|unknown|
+|~~[Ortholinear](#ortholinear)~~|~~53.00~~|~~470.64~~|~~unknown~~|
 |[NorDe](#norde)|24.21|215.00|unknown|
 
 
@@ -56,8 +56,8 @@ NOTE: GBP to RMB exchange rate is 8.88
 **Price(UKKeycaps):** 63.00    **Price(RMB):** 559.44    **Quantity:** unknown  
 <img src="{{ 'assets/images/sa-keycaps/royalnavy/kits_pics/ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
 
-### Ortholinear
-**Price(UKKeycaps):** 53.00    **Price(RMB):** 470.64    **Quantity:** unknown  
+### ~~Ortholinear~~
+~~**Price(UKKeycaps):** 52.00~~    ~~**Price(RMB):** 470.64~~    ~~**Quantity:** unknown~~  
 <img src="{{ 'assets/images/sa-keycaps/royalnavy/kits_pics/ortholinear.png' | relative_url }}" alt="Ortholinear" class="image featured">
 
 ### NorDe

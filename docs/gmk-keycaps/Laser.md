@@ -33,7 +33,7 @@ NOTE: USD to RMB exchange rate is 6.63
 |[Spacebars](#spacebars)|17.99|119.27|908|
 |[Colevrak](#colevrak)|42.99|285.02|63|
 |[Dawn](#Dawn)|18.99|125.90|317|
-|[Dust](#Dust)|16.99|112.64|494|
+|[Dusk](#Dusk)|16.99|112.64|494|
 
 
 <img src="{{ 'assets/images/gmk-keycaps/laser/price.jpg' | relative_url }}" alt="price" class="image featured">
@@ -83,9 +83,9 @@ NOTE: USD to RMB exchange rate is 6.63
 **Price(MD):** 18.99    **Price(RMB):** 125.90    **Quantity:** 317  
 <img src="{{ 'assets/images/gmk-keycaps/laser/kits_pics/dawn.jpg' | relative_url }}" alt="Dawn" class="image featured">
 
-### Dawn
+### Dusk
 **Price(MD):** 16.99    **Price(RMB):** 112.64    **Quantity:** 494   
-<img src="{{ 'assets/images/gmk-keycaps/laser/kits_pics/dust.jpg' | relative_url }}" alt="Dust" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/laser/kits_pics/dust.jpg' | relative_url }}" alt="Dusk" class="image featured">
 
 ## Info
 * Designer: Mito
