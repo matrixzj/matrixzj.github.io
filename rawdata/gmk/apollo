@@ -13,14 +13,14 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104800.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.imgur.com/WtkJJ6m.png",
+    "order_graph":"https://i.imgur.com/mK2beWm.png",
     "price_list":[
-        { "name":"Command", "price":"120", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "Telemetry", "price":"50", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Lunar", "price":"40", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Propellant", "price":"50", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Space", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Rama", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name":"Command", "price":"120", "price_cny":"", "quantity":"1313", "price_table_format":"","price_kit_format":"" },
+        { "name": "Telemetry", "price":"50", "price_cny":"", "quantity":"261", "price_table_format":"", "price_kit_format":""},
+        { "name": "Lunar", "price":"40", "price_cny":"", "quantity":"745", "price_table_format":"", "price_kit_format":""},
+        { "name": "Propellant", "price":"50", "price_cny":"", "quantity":"130", "price_table_format":"", "price_kit_format":""},
+        { "name": "Space", "price":"25", "price_cny":"", "quantity":"319", "price_table_format":"", "price_kit_format":""},
+        { "name": "Rama", "price":"45", "price_cny":"", "quantity":"342", "price_table_format":"", "price_kit_format":""}
     ]
 }
