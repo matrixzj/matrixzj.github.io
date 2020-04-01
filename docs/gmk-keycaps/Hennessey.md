@@ -46,6 +46,10 @@ NOTE: USD to CNY exchange rate is 7.10
 * GB Time: 2020-04-01  
 * Color Codes:  
 
+|Base Color     | Legend Color
+| :-------------: | :------------:
+|WS1|CR
+
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/hennessey/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
