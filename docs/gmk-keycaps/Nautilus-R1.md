@@ -1,14 +1,14 @@
 ---
-title: Nautilus 鹦鹉螺
+title: Nautilus R1 鹦鹉螺R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 330860
 ---
 
-# Nautilus 鹦鹉螺
+# Nautilus R1 鹦鹉螺R1
 
-ref link: [Nautilus MD GB Link](https://www.massdrop.com/buy/massdrop-x-zambumon-gmk-nautilus-custom-keycap-set)
+ref link: [Nautilus R1 MD GB Link](https://www.massdrop.com/buy/massdrop-x-zambumon-gmk-nautilus-custom-keycap-set)
 
 * [Price](#price)
 * [Kits](#kits)
