@@ -1,0 +1,24 @@
+{
+    "name": "Noel",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Agilr",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-04-01",
+    "colorcodes":[
+        "|Alpha|WS2|RAL 230 70 30",
+        "|Modifiers|RAL 210 85 15|RAL 230 70 30",
+        "|Accents|RAL 010 80 20|WS2"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=105365.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hiragana", "price": "58.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "40s", "price": "39.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}

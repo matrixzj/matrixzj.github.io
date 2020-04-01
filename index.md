@@ -128,6 +128,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Noel](docs/gmk-keycaps/Noel/)
 * [WoB 40s / Colevrak / R0/R5 Extensions](docs/gmk-keycaps/WoB-40s---Colevrak---R0-R5-Extensions/)
 * [Dolch R2](docs/gmk-keycaps/Dolch-R2/)
 * [HyperFuse Origins R2](docs/gmk-keycaps/HyperFuse-Origins-R2/)
