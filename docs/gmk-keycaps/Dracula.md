@@ -29,6 +29,8 @@ NOTE: USD to CNY exchange rate is 7.15
 |[Localization](#localization)|65.00|464.75|117|
 |[Command](#command)|32.00|228.80|260|
 |[ERR](#err)|50.00|357.50|1167|
+|[RAMA EYE](#rama-eye)|42.00|300.30||
+|[RAMA ERR](#rama-err)|38.00|271.70||
 
 <img src="{{ 'assets/images/gmk-keycaps/dracula/progress1.png' | relative_url }}" alt="progress1" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/dracula/progress2.png' | relative_url }}" alt="progress2" class="image featured">
@@ -66,6 +68,14 @@ NOTE: USD to CNY exchange rate is 7.15
 ### ERR
 **Price(GH):** 50.00    **Price(CNY):** 357.50    **Quantity:** 1167
 <img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/err.jpg' | relative_url }}" alt="err" class="image featured">
+
+### RAMA EYE
+**Price(GH):** 42.00    **Price(CNY):** 300.30    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/rama-eye.jpg' | relative_url }}" alt="rama-eye" class="image featured">
+
+### RAMA ERR
+**Price(GH):** 38.00    **Price(CNY):** 271.70    **Quantity:** unknown  
+<img src="{{ 'assets/images/gmk-keycaps/dracula/kits_pics/rama-err.jpg' | relative_url }}" alt="rama-err" class="image featured">
 
 
 ## Info  
