@@ -16,6 +16,7 @@ ref link: [Botanical GH GB Link](https://geekhack.org/index.php?topic=104954.0)
 
 
 ## Price  
+
 NOTE: USD to CNY exchange rate is 6.97
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
@@ -23,6 +24,8 @@ NOTE: USD to CNY exchange rate is 6.97
 |[Jungle](#jungle)|119.99|836.33|Unknown|
 |[Bamboo](#bamboo)|24.99|174.18|Unknown|
 |[Succulents](#succulents)|34.99|243.88|Unknown|
+|[RAMA Green](#rama-green)|38.00|264.86|Unknown|
+|[RAMA White](#rama-white)|43.00|299.71|Unknown|
 
 
 ## Kits  
@@ -37,6 +40,14 @@ NOTE: USD to CNY exchange rate is 6.97
 ### Succulents  
 **Price(GH):** 34.99    **Price(CNY):** 243.88    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/botanical/kits_pics/succulents.jpg' | relative_url }}" alt="succulents" class="image featured">
+
+### RAMA Green  
+**Price(GH):** 38.00    **Price(CNY):** 264.86    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/botanical/kits_pics/rama-green.png' | relative_url }}" alt="rama-green" class="image featured">
+
+### RAMA White  
+**Price(GH):** 43.00    **Price(CNY):** 299.71    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/botanical/kits_pics/rama-white.png' | relative_url }}" alt="rama-white" class="image featured">
 
 
 ## Info  

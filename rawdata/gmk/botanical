@@ -18,6 +18,8 @@
     "price_list":[
         { "name":"Jungle", "price":"119.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
         { "name": "Bamboo", "price":"24.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Succulents", "price":"34.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name": "Succulents", "price":"34.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "RAMA Green", "price":"38", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "RAMA White", "price":"43", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
     ]
 }
