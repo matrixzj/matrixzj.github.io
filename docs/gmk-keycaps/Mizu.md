@@ -54,7 +54,7 @@ NOTE: USD to CNY exchange rate is 6.73
 
 ### RAMA White 
 **Price(GH):** 43.00    **Price(CNY):** 289.39    **Quantity:** 169  
-<img src="{{ 'assets/images/gmk-keycaps/mizu/kits_pics/rama-glow.png' | relative_url }}" alt="rama-glow" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/mizu/kits_pics/rama-white.png' | relative_url }}" alt="rama-white" class="image featured">
 
 
 ## Info  
