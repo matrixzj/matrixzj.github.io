@@ -128,6 +128,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Nautilus R2 鹦鹉螺R2](docs/gmk-keycaps/Nautilus-R2/)
 * [Belafonte](docs/gmk-keycaps/Belafonte/)
 * [Hennessey](docs/gmk-keycaps/Hennessey/)
 * [Noel](docs/gmk-keycaps/Noel/)

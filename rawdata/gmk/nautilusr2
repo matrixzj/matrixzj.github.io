@@ -23,6 +23,6 @@
         { "name": "Forties", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
         { "name": "International", "price": "72", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
         { "name": "Mac", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
     ]
 }
