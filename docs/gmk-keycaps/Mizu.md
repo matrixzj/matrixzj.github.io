@@ -25,6 +25,8 @@ NOTE: USD to CNY exchange rate is 6.73
 |[Spacebar](#spacebar)|30.00|201.00|347|
 |[Novelties](#novelties)|50.00|338.00|563|
 |[40s](#40s)|37.00|249.01|82|
+|[RAMA Glow](#rama-glow)|42.00|282.66||
+|[RAMA White](#rama-white)|43.00|289.39||
 
 <img src="{{ 'assets/images/gmk-keycaps/mizu/progress2.png' | relative_url }}" alt="progress" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/mizu/progress1.png' | relative_url }}" alt="progress" class="image featured">
@@ -45,6 +47,14 @@ NOTE: USD to CNY exchange rate is 6.73
 ### 40s  
 **Price(GH):** 37.00    **Price(CNY):** 249.01    **Quantity:** 82  
 <img src="{{ 'assets/images/gmk-keycaps/mizu/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
+
+### RAMA Glow 
+**Price(GH):** 42.00    **Price(CNY):** 282.66    **Quantity:** 264  
+<img src="{{ 'assets/images/gmk-keycaps/mizu/kits_pics/rama-glow.png' | relative_url }}" alt="rama-glow" class="image featured">
+
+### RAMA White 
+**Price(GH):** 43.00    **Price(CNY):** 289.39    **Quantity:** 169  
+<img src="{{ 'assets/images/gmk-keycaps/mizu/kits_pics/rama-glow.png' | relative_url }}" alt="rama-glow" class="image featured">
 
 
 ## Info  
