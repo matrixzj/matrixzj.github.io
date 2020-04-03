@@ -13,11 +13,11 @@
     "history_graph": "",
     "order_graph": "",
     "price_list":[
-        { "name": "Base", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Samurai", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Dishonor", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Nomad", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Samurai", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Dishonor", "price": "65", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Nomad", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
     ]
 }
