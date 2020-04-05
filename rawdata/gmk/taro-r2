@@ -20,16 +20,16 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104934.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.imgur.com/MCv5z10.png",
+    "order_graph":"https://i.imgur.com/VRskcBQ.png",
     "price_list":[
-        { "name":"Base", "price":"110", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Boba Alphas", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Milk Tea Mods", "price":"85", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Side Snacks", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Extra Straws", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Extra Toppings", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Small Portion", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Extra Sugar", "price":"60", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+        { "name":"Base", "price":"110", "price_cny":"", "quantity":"1248", "price_table_format":"","price_kit_format":"" },
+        { "name":"Boba Alphas", "price":"65", "price_cny":"", "quantity":"302", "price_table_format":"","price_kit_format":"" },
+        { "name":"Milk Tea Mods", "price":"85", "price_cny":"", "quantity":"259", "price_table_format":"","price_kit_format":"" },
+        { "name":"Side Snacks", "price":"45", "price_cny":"", "quantity":"654", "price_table_format":"","price_kit_format":"" },
+        { "name":"Extra Straws", "price":"25", "price_cny":"", "quantity":"255", "price_table_format":"","price_kit_format":"" },
+        { "name":"Extra Toppings", "price":"45", "price_cny":"", "quantity":"330", "price_table_format":"","price_kit_format":"" },
+        { "name":"Small Portion", "price":"45", "price_cny":"", "quantity":"330", "price_table_format":"","price_kit_format":"" },
+        { "name":"Extra Sugar", "price":"60", "price_cny":"", "quantity":"152", "price_table_format":"","price_kit_format":"" }
     ]
 }

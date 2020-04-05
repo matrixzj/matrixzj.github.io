@@ -16,51 +16,54 @@ ref link: [Taro R2 GH GB Link](https://geekhack.org/index.php?topic=104934.0)
 
 
 ## Price  
+
 NOTE: USD to CNY exchange rate is 7.00
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|110.00|770.00|Unknown|
-|[Boba Alphas](#boba-alphas)|65.00|455.00|Unknown|
-|[Milk Tea Mods](#milk-tea-mods)|85.00|595.00|Unknown|
-|[Side Snacks](#side-snacks)|45.00|315.00|Unknown|
-|[Extra Straws](#extra-straws)|25.00|175.00|Unknown|
-|[Extra Toppings](#extra-toppings)|45.00|315.00|Unknown|
-|[Small Portion](#small-portion)|45.00|315.00|Unknown|
-|[Extra Sugar](#extra-sugar)|60.00|420.00|Unknown|
+|[Base](#base)|110.00|770.00|1248|
+|[Boba Alphas](#boba-alphas)|65.00|455.00|302|
+|[Milk Tea Mods](#milk-tea-mods)|85.00|595.00|259|
+|[Side Snacks](#side-snacks)|45.00|315.00|654|
+|[Extra Straws](#extra-straws)|25.00|175.00|255|
+|[Extra Toppings](#extra-toppings)|45.00|315.00|330|
+|[Small Portion](#small-portion)|45.00|315.00|330|
+|[Extra Sugar](#extra-sugar)|60.00|420.00|152|
 
+<img src="{{ 'assets/images/gmk-keycaps/taror2/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/taror2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 110.00    **Price(CNY):** 770.00    **Quantity:** Unknown  
+**Price(GH):** 110.00    **Price(CNY):** 770.00    **Quantity:** 1248  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Boba Alphas  
-**Price(GH):** 65.00    **Price(CNY):** 455.00    **Quantity:** Unknown  
+**Price(GH):** 65.00    **Price(CNY):** 455.00    **Quantity:** 302  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/boba-alphas.jpg' | relative_url }}" alt="boba-alphas" class="image featured">
 
 ### Milk Tea Mods  
-**Price(GH):** 85.00    **Price(CNY):** 595.00    **Quantity:** Unknown  
+**Price(GH):** 85.00    **Price(CNY):** 595.00    **Quantity:** 259  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/milk-tea-mods.jpg' | relative_url }}" alt="milk-tea-mods" class="image featured">
 
 ### Side Snacks  
-**Price(GH):** 45.00    **Price(CNY):** 315.00    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 315.00    **Quantity:** 654  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/side-snacks.jpg' | relative_url }}" alt="side-snacks" class="image featured">
 
 ### Extra Straws  
-**Price(GH):** 25.00    **Price(CNY):** 175.00    **Quantity:** Unknown  
+**Price(GH):** 25.00    **Price(CNY):** 175.00    **Quantity:** 255  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/extra-straws.jpg' | relative_url }}" alt="extra-straws" class="image featured">
 
 ### Extra Toppings  
-**Price(GH):** 45.00    **Price(CNY):** 315.00    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 315.00    **Quantity:** 330  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/extra-toppings.jpg' | relative_url }}" alt="extra-toppings" class="image featured">
 
 ### Small Portion  
-**Price(GH):** 45.00    **Price(CNY):** 315.00    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 315.00    **Quantity:** 330  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/small-portion.jpg' | relative_url }}" alt="small-portion" class="image featured">
 
 ### Extra Sugar  
-**Price(GH):** 60.00    **Price(CNY):** 420.00    **Quantity:** Unknown  
+**Price(GH):** 60.00    **Price(CNY):** 420.00    **Quantity:** 152  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/extra-sugar.jpg' | relative_url }}" alt="extra-sugar" class="image featured">
 
 
