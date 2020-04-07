@@ -16,26 +16,29 @@ ref link: [Hero GH GB Link](https://geekhack.org/index.php?topic=104486.0)
 
 
 ## Price  
+
 NOTE: USD to CNY exchange rate is 6.94
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Adventurer](#adventurer)|139.99|971.53|Unknown|
-|[Legend](#legend)|69.99|485.73|Unknown|
-|[Spacebar](#spacebar)|24.99|173.43|Unknown|
+|[Adventurer](#adventurer)|139.99|971.53|376|
+|[Legend](#legend)|69.99|485.73|274|
+|[Spacebar](#spacebar)|24.99|173.43|111|
 
+<img src="{{ 'assets/images/gmk-keycaps/hero/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/hero/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Adventurer  
-**Price(GH):** 139.99    **Price(CNY):** 971.53    **Quantity:** Unknown  
+**Price(GH):** 139.99    **Price(CNY):** 971.53    **Quantity:** 376  
 <img src="{{ 'assets/images/gmk-keycaps/hero/kits_pics/adventurer.png' | relative_url }}" alt="adventurer" class="image featured">
 
 ### Legend  
-**Price(GH):** 69.99    **Price(CNY):** 485.73    **Quantity:** Unknown  
+**Price(GH):** 69.99    **Price(CNY):** 485.73    **Quantity:** 274  
 <img src="{{ 'assets/images/gmk-keycaps/hero/kits_pics/legend.png' | relative_url }}" alt="legend" class="image featured">
 
 ### Spacebar  
-**Price(GH):** 24.99    **Price(CNY):** 173.43    **Quantity:** Unknown  
+**Price(GH):** 24.99    **Price(CNY):** 173.43    **Quantity:** 111  
 <img src="{{ 'assets/images/gmk-keycaps/hero/kits_pics/spacebar.png' | relative_url }}" alt="spacebar" class="image featured">
 
 

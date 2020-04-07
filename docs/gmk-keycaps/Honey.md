@@ -16,31 +16,34 @@ ref link: [Honey GH GB Link](https://geekhack.org/index.php?topic=104903.0)
 
 
 ## Price  
+
 NOTE: USD to CNY exchange rate is 6.99
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|943.58|Unknown|
-|[Alt Alphas](#alt-alphas)|77.99|545.15|Unknown|
-|[Novelties](#novelties)|68.99|482.24|Unknown|
-|[Spacebars](#spacebars)|22.99|160.70|Unknown|
+|[Base](#base)|134.99|943.58|543|
+|[Alt Alphas](#alt-alphas)|77.99|545.15|205|
+|[Novelties](#novelties)|68.99|482.24|280|
+|[Spacebars](#spacebars)|22.99|160.70|108|
 
+<img src="{{ 'assets/images/gmk-keycaps/honey/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/honey/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 134.99    **Price(CNY):** 943.58    **Quantity:** Unknown  
+**Price(GH):** 134.99    **Price(CNY):** 943.58    **Quantity:** 543  
 <img src="{{ 'assets/images/gmk-keycaps/honey/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Alt Alphas  
-**Price(GH):** 77.99    **Price(CNY):** 545.15    **Quantity:** Unknown  
+**Price(GH):** 77.99    **Price(CNY):** 545.15    **Quantity:** 205  
 <img src="{{ 'assets/images/gmk-keycaps/honey/kits_pics/alt-alphas.png' | relative_url }}" alt="alt-alphas" class="image featured">
 
 ### Novelties  
-**Price(GH):** 68.99    **Price(CNY):** 482.24    **Quantity:** Unknown  
+**Price(GH):** 68.99    **Price(CNY):** 482.24    **Quantity:** 280  
 <img src="{{ 'assets/images/gmk-keycaps/honey/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 22.99    **Price(CNY):** 160.70    **Quantity:** Unknown  
+**Price(GH):** 22.99    **Price(CNY):** 160.70    **Quantity:** 108  
 <img src="{{ 'assets/images/gmk-keycaps/honey/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 

@@ -16,36 +16,34 @@ ref link: [Ashes GH GB Link](https://geekhack.org/index.php?topic=104895.0)
 
 
 ## Price  
+
 NOTE: USD to CNY exchange rate is 7.00
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Ashes](#ashes)|Unknown|Unknown|Unknown|
-|[Ghost](#ghost)|Unknown|Unknown|Unknown|
-|[Caldera](#caldera)|Unknown|Unknown|Unknown|
-|[Basalt](#basalt)|Unknown|Unknown|Unknown|
-|[Lahar](#lahar)|Unknown|Unknown|Unknown|
+|[Ashes](#ashes)|130.00|910.00|760|
+|[Ghost](#ghost)|66.00|462.00|256|
+|[Caldera](#caldera)|38.00|266.00|284|
+|[Lahar](#lahar)|32.00|224.00|159|
 
+<img src="{{ 'assets/images/gmk-keycaps/ashes/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/ashes/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Ashes  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** 130.00    **Price(CNY):** 910.00    **Quantity:** 760  
 <img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/ashes.jpg' | relative_url }}" alt="ashes" class="image featured">
 
 ### Ghost  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** 66.00    **Price(CNY):** 462.00    **Quantity:** 256  
 <img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/ghost.jpg' | relative_url }}" alt="ghost" class="image featured">
 
 ### Caldera  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** 38.00    **Price(CNY):** 266.00    **Quantity:** 284  
 <img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/caldera.jpg' | relative_url }}" alt="caldera" class="image featured">
 
-### Basalt  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/basalt.png' | relative_url }}" alt="basalt" class="image featured">
-
 ### Lahar  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** 32.00    **Price(CNY):** 224.00    **Quantity:** 159  
 <img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/lahar.jpg' | relative_url }}" alt="lahar" class="image featured">
 
 

@@ -13,12 +13,12 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104903.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.imgur.com/2wtjPj1.png",
+    "order_graph":"https://i.imgur.com/Ys5wdXL.png",
     "price_list":[
-        { "name":"Base", "price":"134.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Alt Alphas", "price":"77.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Novelties", "price":"68.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Spacebars", "price":"22.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+        { "name":"Base", "price":"134.99", "price_cny":"", "quantity":"543", "price_table_format":"","price_kit_format":"" },
+        { "name":"Alt Alphas", "price":"77.99", "price_cny":"", "quantity":"205", "price_table_format":"","price_kit_format":"" },
+        { "name":"Novelties", "price":"68.99", "price_cny":"", "quantity":"280", "price_table_format":"","price_kit_format":"" },
+        { "name":"Spacebars", "price":"22.99", "price_cny":"", "quantity":"108", "price_table_format":"","price_kit_format":"" }
     ]
 }

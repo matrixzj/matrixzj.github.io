@@ -11,11 +11,11 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104486.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.imgur.com/Lm3vkoe.png",
+    "order_graph":"https://i.imgur.com/yuTn5EK.png",
     "price_list":[
-        { "name":"Adventurer", "price":"139.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "Legend", "price":"69.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Spacebar", "price":"24.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name":"Adventurer", "price":"139.99", "price_cny":"", "quantity":"376", "price_table_format":"","price_kit_format":"" },
+        { "name": "Legend", "price":"69.99", "price_cny":"", "quantity":"274", "price_table_format":"", "price_kit_format":""},
+        { "name": "Spacebar", "price":"24.99", "price_cny":"", "quantity":"111", "price_table_format":"", "price_kit_format":""}
     ]
 }
