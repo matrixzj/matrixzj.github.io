@@ -128,6 +128,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Bleached 漂白](docs/gmk-keycaps/Bleached/)
 * [Black Lotus 黑莲花](docs/gmk-keycaps/Black-Lotus/)
 * [Bushido 武士道](docs/gmk-keycaps/Bushido/)
 * [Nautilus R2 鹦鹉螺R2](docs/gmk-keycaps/Nautilus-R2/)
