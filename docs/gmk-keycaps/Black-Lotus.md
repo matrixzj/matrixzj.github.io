@@ -61,9 +61,6 @@ NOTE: USD to CNY exchange rate is 7.04
 * GB Time: 2020-04-10  
 * Color Codes:  
 
-| |Base Color     | Legend Color
-| :-------------: | :-------------: | :------------:
-
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/blacklotus/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
