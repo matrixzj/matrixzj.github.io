@@ -128,6 +128,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Wild](docs/gmk-keycaps/Wild/)
 * [Black Mod Addon](docs/gmk-keycaps/Black-Mod-Addon/)
 * [Bleached 漂白](docs/gmk-keycaps/Bleached/)
 * [Black Lotus 黑莲花](docs/gmk-keycaps/Black-Lotus/)

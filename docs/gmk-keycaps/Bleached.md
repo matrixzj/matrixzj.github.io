@@ -8,7 +8,7 @@ nav_order: 300820
 
 # Bleached 漂白
 
-ref link: [Bleached GH GB Link]()  
+ref link: [Bleached GH GB Link](https://geekhack.org/index.php?topic=105650.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
