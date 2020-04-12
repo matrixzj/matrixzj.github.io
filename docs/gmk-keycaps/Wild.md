@@ -8,7 +8,7 @@ nav_order: 300810
 
 # Wild 
 
-ref link: [Wild QQ(China Domestic) GB Link]()  
+ref link: Wild QQ (China Domestic) GB   
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
@@ -19,14 +19,14 @@ ref link: [Wild QQ(China Domestic) GB Link]()
 
 NOTE: USD to CNY exchange rate is 7.04
 
-| Name          | Price(QQ(China Domestic GB))    |  Price(CNY) | Quantity |
+| Name          | Price(USD))    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[All](#all)|211.36|1488.00|Unknown|
 
 
 ## Kits  
 ### All  
-**Price(QQ):** 211.36    **Price(CNY):** 1488.00    **Quantity:** Unknown  
+**Price(USD):** 211.36    **Price(CNY):** 1488.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/wild/kits_pics/all.jpg' | relative_url }}" alt="all" class="image featured">
 
 
