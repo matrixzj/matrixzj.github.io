@@ -58,7 +58,7 @@ NOTE: USD to CNY exchange rate is 6.86
 
 
 ## Info  
-* Designer: davecruz86  
+* Designer: Dead Encryption  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-01-18  
 * Color Codes:  
