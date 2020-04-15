@@ -13,12 +13,12 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104895.0",
     "currencyunit":"USD",
-    "history_graph":"https://i.imgur.com/zXLYm67.png",
-    "order_graph":"https://i.imgur.com/ZLvPTCX.png",
+    "history_graph":"https://i.imgur.com/AYVgsaT.png",
+    "order_graph":"https://i.imgur.com/hivQonN.png",
     "price_list":[
-        { "name":"Ashes", "price":"130", "price_cny":"", "quantity":"760", "price_table_format":"","price_kit_format":"" },
-        { "name":"Ghost", "price":"66", "price_cny":"", "quantity":"256", "price_table_format":"","price_kit_format":"" },
-        { "name":"Caldera", "price":"38", "price_cny":"", "quantity":"284", "price_table_format":"","price_kit_format":"" },
-        { "name":"Lahar", "price":"32", "price_cny":"", "quantity":"159", "price_table_format":"","price_kit_format":"" }
+        { "name":"Ashes", "price":"130", "price_cny":"", "quantity":"772", "price_table_format":"","price_kit_format":"" },
+        { "name":"Ghost", "price":"66", "price_cny":"", "quantity":"262", "price_table_format":"","price_kit_format":"" },
+        { "name":"Caldera", "price":"38", "price_cny":"", "quantity":"291", "price_table_format":"","price_kit_format":"" },
+        { "name":"Lahar", "price":"32", "price_cny":"", "quantity":"162", "price_table_format":"","price_kit_format":"" }
     ]
 }

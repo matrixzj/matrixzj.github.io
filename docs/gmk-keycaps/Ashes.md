@@ -21,29 +21,29 @@ NOTE: USD to CNY exchange rate is 7.00
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Ashes](#ashes)|130.00|910.00|760|
-|[Ghost](#ghost)|66.00|462.00|256|
-|[Caldera](#caldera)|38.00|266.00|284|
-|[Lahar](#lahar)|32.00|224.00|159|
+|[Ashes](#ashes)|130.00|910.00|772|
+|[Ghost](#ghost)|66.00|462.00|262|
+|[Caldera](#caldera)|38.00|266.00|291|
+|[Lahar](#lahar)|32.00|224.00|162|
 
 <img src="{{ 'assets/images/gmk-keycaps/ashes/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/ashes/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Ashes  
-**Price(GH):** 130.00    **Price(CNY):** 910.00    **Quantity:** 760  
+**Price(GH):** 130.00    **Price(CNY):** 910.00    **Quantity:** 772  
 <img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/ashes.jpg' | relative_url }}" alt="ashes" class="image featured">
 
 ### Ghost  
-**Price(GH):** 66.00    **Price(CNY):** 462.00    **Quantity:** 256  
+**Price(GH):** 66.00    **Price(CNY):** 462.00    **Quantity:** 262  
 <img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/ghost.jpg' | relative_url }}" alt="ghost" class="image featured">
 
 ### Caldera  
-**Price(GH):** 38.00    **Price(CNY):** 266.00    **Quantity:** 284  
+**Price(GH):** 38.00    **Price(CNY):** 266.00    **Quantity:** 291  
 <img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/caldera.jpg' | relative_url }}" alt="caldera" class="image featured">
 
 ### Lahar  
-**Price(GH):** 32.00    **Price(CNY):** 224.00    **Quantity:** 159  
+**Price(GH):** 32.00    **Price(CNY):** 224.00    **Quantity:** 162  
 <img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/lahar.jpg' | relative_url }}" alt="lahar" class="image featured">
 
 

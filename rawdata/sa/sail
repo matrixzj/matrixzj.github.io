@@ -11,16 +11,16 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104881.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.imgur.com/9eKKQwQ.png",
+    "order_graph":"https://i.imgur.com/CGGW9N6.png",
     "price_list":[
-        { "name":"Alphas", "price":"55", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Modifiers", "price":"100", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Numpad", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"ISO", "price":"35", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Ortho", "price":"55", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Ergo Blanks", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"40s", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Maths", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+        { "name":"Alphas", "price":"55", "price_cny":"", "quantity":"243", "price_table_format":"","price_kit_format":"" },
+        { "name":"Modifiers", "price":"100", "price_cny":"", "quantity":"188", "price_table_format":"","price_kit_format":"" },
+        { "name":"Numpad", "price":"45", "price_cny":"", "quantity":"73", "price_table_format":"","price_kit_format":"" },
+        { "name":"ISO", "price":"35", "price_cny":"", "quantity":"50", "price_table_format":"","price_kit_format":"" },
+        { "name":"Ortho", "price":"55", "price_cny":"", "quantity":"64", "price_table_format":"","price_kit_format":"" },
+        { "name":"Ergo Blanks", "price":"65", "price_cny":"", "quantity":"50", "price_table_format":"","price_kit_format":"" },
+        { "name":"40s", "price":"45", "price_cny":"", "quantity":"52", "price_table_format":"","price_kit_format":"" },
+        { "name":"Maths", "price":"25", "price_cny":"", "quantity":"108", "price_table_format":"","price_kit_format":"" }
     ]
 }
