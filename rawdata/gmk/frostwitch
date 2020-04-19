@@ -1,0 +1,25 @@
+{
+    "name": "Frost Witch",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "megaforce",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-04-19 ~ 2020-05-24",
+    "colorcodes":[
+        "|Alpha|RAL 300 80 15|RAL 290 70 25",
+        "|Modifiers|RAL 290 70 25|RAL 300 80 15",
+        "|Accents|RAL 300 50 30|RAL 300 80 15"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=105829.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "115", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Accents", "price": "20", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
