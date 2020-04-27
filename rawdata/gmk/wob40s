@@ -11,11 +11,11 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=105239.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.imgur.com/UrNAYgO.png",
+    "order_graph": "https://i.imgur.com/2m2k4zm.png",
     "price_list":[
-        { "name": "40s", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Colevrak", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "R0/R5 Compatibility", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "40s", "price": "45", "price_cny": "", "quantity": "277", "price_table_format": "","price_kit_format": "" },
+        { "name": "Colevrak", "price": "52", "price_cny": "", "quantity": "125", "price_table_format": "","price_kit_format": "" },
+        { "name": "R0/R5 Compatibility", "price": "55", "price_cny": "", "quantity": "186", "price_table_format": "","price_kit_format": "" }
     ]
 }

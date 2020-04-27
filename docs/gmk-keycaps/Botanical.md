@@ -21,24 +21,26 @@ NOTE: USD to CNY exchange rate is 6.97
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Jungle](#jungle)|119.99|836.33|Unknown|
-|[Bamboo](#bamboo)|24.99|174.18|Unknown|
-|[Succulents](#succulents)|34.99|243.88|Unknown|
+|[Jungle](#jungle)|119.99|836.33|2021|
+|[Bamboo](#bamboo)|24.99|174.18|511|
+|[Succulents](#succulents)|34.99|243.88|1014|
 |[RAMA Green](#rama-green)|38.00|264.86|Unknown|
 |[RAMA White](#rama-white)|43.00|299.71|Unknown|
 
+<img src="{{ 'assets/images/gmk-keycaps/botanical/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/botanical/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Jungle  
-**Price(GH):** 119.99    **Price(CNY):** 836.33    **Quantity:** Unknown  
+**Price(GH):** 119.99    **Price(CNY):** 836.33    **Quantity:** 2021  
 <img src="{{ 'assets/images/gmk-keycaps/botanical/kits_pics/jungle.jpg' | relative_url }}" alt="jungle" class="image featured">
 
 ### Bamboo  
-**Price(GH):** 24.99    **Price(CNY):** 174.18    **Quantity:** Unknown  
+**Price(GH):** 24.99    **Price(CNY):** 174.18    **Quantity:** 511  
 <img src="{{ 'assets/images/gmk-keycaps/botanical/kits_pics/bamboo.jpg' | relative_url }}" alt="bamboo" class="image featured">
 
 ### Succulents  
-**Price(GH):** 34.99    **Price(CNY):** 243.88    **Quantity:** Unknown  
+**Price(GH):** 34.99    **Price(CNY):** 243.88    **Quantity:** 1014  
 <img src="{{ 'assets/images/gmk-keycaps/botanical/kits_pics/succulents.jpg' | relative_url }}" alt="succulents" class="image featured">
 
 ### RAMA Green  
