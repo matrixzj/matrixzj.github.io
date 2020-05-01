@@ -8,7 +8,7 @@ nav_order: 300800
 
 # Masterpiece 杰作
 
-ref link: [Masterpiece  GB Link]()  
+ref link: [Masterpiece GH GB Link](https://geekhack.org/index.php?topic=106068.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
@@ -19,7 +19,7 @@ ref link: [Masterpiece  GB Link]()
 
 NOTE: USD to CNY exchange rate is 7.06
 
-| Name          | Price()    |  Price(CNY) | Quantity |
+| Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|129.00|910.74|Unknown|
 |[Clarity](#clarity)|49.00|345.94|Unknown|
@@ -32,29 +32,29 @@ NOTE: USD to CNY exchange rate is 7.06
 
 ## Kits  
 ### Base  
-**Price():** 129.00    **Price(CNY):** 910.74    **Quantity:** Unknown  
+**Price(GH):** 129.00    **Price(CNY):** 910.74    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/masterpiece/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Clarity  
-**Price():** 49.00    **Price(CNY):** 345.94    **Quantity:** Unknown  
+**Price(GH):** 49.00    **Price(CNY):** 345.94    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/masterpiece/kits_pics/clarity.png' | relative_url }}" alt="clarity" class="image featured">
 
 ### Preserving  
-**Price():** 35.00    **Price(CNY):** 247.10    **Quantity:** Unknown  
+**Price(GH):** 35.00    **Price(CNY):** 247.10    **Quantity:** Unknown  
 ### West  
-**Price():** 59.00    **Price(CNY):** 416.54    **Quantity:** Unknown  
+**Price(GH):** 59.00    **Price(CNY):** 416.54    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/masterpiece/kits_pics/west.png' | relative_url }}" alt="west" class="image featured">
 
 ### RAMA Knife Gold  
-**Price():** 56.00    **Price(CNY):** 395.36    **Quantity:** Unknown  
+**Price(GH):** 56.00    **Price(CNY):** 395.36    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/masterpiece/kits_pics/rama-knife-gold.png' | relative_url }}" alt="rama-knife-gold" class="image featured">
 
 ### RAMA Knife Black  
-**Price():** 56.00    **Price(CNY):** 395.36    **Quantity:** Unknown  
+**Price(GH):** 56.00    **Price(CNY):** 395.36    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/masterpiece/kits_pics/rama-knife-black.png' | relative_url }}" alt="rama-knife-black" class="image featured">
 
 ### RAMA Master Gold  
-**Price():** 56.00    **Price(CNY):** 395.36    **Quantity:** Unknown  
+**Price(GH):** 56.00    **Price(CNY):** 395.36    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/masterpiece/kits_pics/rama-master-gold.png' | relative_url }}" alt="rama-master-gold" class="image featured">
 
 
@@ -64,7 +64,7 @@ NOTE: USD to CNY exchange rate is 7.06
 * GB Time: 2020-05-01 ~ 2020-06-02  
 * Color Codes:  
 
-| Base Color     | Legend Color
+|Base Color     | Legend Color
 | :-------------: | :------------:
 |RAL 240 40 40|WS1
 
