@@ -128,6 +128,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Masterpiece 杰作](docs/gmk-keycaps/Masterpiece/)
 * [Frost Witch](docs/gmk-keycaps/Frost-Witch/)
 * [Wild](docs/gmk-keycaps/Wild/)
 * [Black Mod Addon](docs/gmk-keycaps/Black-Mod-Addon/)

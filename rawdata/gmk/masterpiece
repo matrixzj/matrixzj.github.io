@@ -1,0 +1,25 @@
+{
+    "name": "Masterpiece",
+    "cname": "杰作",
+    "keycapstype": "GMK",
+    "designer": "Energieschleuder",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-05-01 ~ 2020-06-02",
+    "colorcodes":[
+        "|RAL 240 40 40|WS1"
+    ],
+    "platform": "",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "129", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Clarity", "price": "49", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Preserving", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "West", "price": "59", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Knife Gold", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Knife Black", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Master Gold", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
