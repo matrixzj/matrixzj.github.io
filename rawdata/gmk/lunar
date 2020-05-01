@@ -4,7 +4,7 @@
     "keycapstype":"GMK",
     "designer":"Moridin",
     "profile":"1-1-2-3-4-4",
-    "time":"2020-03-06",
+    "time":"2020-03-06 ~ 2020-04-03",
     "colorcodes":[
         "|Alphas|2B|2M",
         "|Numpad|N9|2M",
@@ -14,13 +14,13 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=104965.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.imgur.com/hbPBAsZ.png",
+    "order_graph":"https://i.imgur.com/4x5gOvA.png",
     "price_list":[
-        { "name":"Core", "price":"160", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Novelties", "price":"75", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Alphas", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Spacebars", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Assembly", "price":"165", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+        { "name":"Core", "price":"160", "price_cny":"", "quantity":"380", "price_table_format":"","price_kit_format":"" },
+        { "name":"Novelties", "price":"75", "price_cny":"", "quantity":"258", "price_table_format":"","price_kit_format":"" },
+        { "name":"Alphas", "price":"65", "price_cny":"", "quantity":"139", "price_table_format":"","price_kit_format":"" },
+        { "name":"Spacebars", "price":"25", "price_cny":"", "quantity":"100", "price_table_format":"","price_kit_format":"" },
+        { "name":"Assembly", "price":"165", "price_cny":"", "quantity":"75", "price_table_format":"","price_kit_format":"" }
     ]
 }

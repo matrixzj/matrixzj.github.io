@@ -21,29 +21,33 @@ NOTE: USD to CNY exchange rate is 7.10
 
 | Name          | Price(MD)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|852.00|Unknown|
-|[Spacebars](#spacebars)|12.00|85.20|Unknown|
-|[Decorations](#decorations)|50.00|355.00|Unknown|
+|[Base](#base)|120.00|852.00|357|
+|[Spacebars](#spacebars)|12.00|85.20|220|
+|[Decorations](#decorations)|50.00|355.00|307|
 
+<img src="{{ 'assets/images/gmk-keycaps/belafonte/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/belafonte/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(MD):** 120.00    **Price(CNY):** 852.00    **Quantity:** Unknown  
+**Price(MD):** 120.00    **Price(CNY):** 852.00    **Quantity:** 357  
 <img src="{{ 'assets/images/gmk-keycaps/belafonte/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Spacebars  
-**Price(MD):** 12.00    **Price(CNY):** 85.20    **Quantity:** Unknown  
+**Price(MD):** 12.00    **Price(CNY):** 85.20    **Quantity:** 220  
 <img src="{{ 'assets/images/gmk-keycaps/belafonte/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Decorations  
-**Price(MD):** 50.00    **Price(CNY):** 355.00    **Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/hennessey/kits_pics/decorations.png' | relative_url }}" alt="decorations" class="image featured">
+**Price(MD):** 50.00    **Price(CNY):** 355.00    **Quantity:** 307  
 
 ## Info  
 * Designer: Mito  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-04-01  
+* GB Time: 2020-04-01 ~ 2020-04-29  
 * Color Codes:  
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
 
 
 ## Pictures  
