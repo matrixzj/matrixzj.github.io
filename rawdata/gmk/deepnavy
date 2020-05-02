@@ -1,0 +1,21 @@
+{
+    "name": "Deep Navy",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "ttom",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-05-01 ~ 2020-06-01",
+    "colorcodes":[
+        "|Unknown Blue|WS1"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=106058.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "33", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
