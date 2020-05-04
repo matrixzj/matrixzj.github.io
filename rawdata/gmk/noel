@@ -13,12 +13,12 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=105365.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.imgur.com/tHycAU9.png",
+    "order_graph": "https://i.imgur.com/IuH4XY0.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Hiragana", "price": "58.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "49.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "40s", "price": "39.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "1500", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hiragana", "price": "58.99", "price_cny": "", "quantity": "441", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "price_cny": "", "quantity": "542", "price_table_format": "","price_kit_format": "" },
+        { "name": "40s", "price": "39.99", "price_cny": "", "quantity": "172", "price_table_format": "","price_kit_format": "" }
     ]
 }

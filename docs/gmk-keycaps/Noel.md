@@ -17,31 +17,33 @@ ref link: [Noel GH GB Link](https://geekhack.org/index.php?topic=105365.0)
 
 ## Price  
 
-NOTE: USD to CNY exchange rate is 7.09
+NOTE: USD to CNY exchange rate is 7.10
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|957.08|Unknown|
-|[Hiragana](#hiragana)|58.99|418.24|Unknown|
-|[Novelties](#novelties)|49.99|354.43|Unknown|
-|[40s](#40s)|39.99|283.53|Unknown|
+|[Base](#base)|134.99|958.43|1500|
+|[Hiragana](#hiragana)|58.99|418.83|441|
+|[Novelties](#novelties)|49.99|354.93|542|
+|[40s](#40s)|39.99|283.93|172|
 
+<img src="{{ 'assets/images/gmk-keycaps/noel/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/noel/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 134.99    **Price(CNY):** 957.08    **Quantity:** Unknown  
+**Price(GH):** 134.99    **Price(CNY):** 958.43    **Quantity:** 1500  
 <img src="{{ 'assets/images/gmk-keycaps/noel/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Hiragana  
-**Price(GH):** 58.99    **Price(CNY):** 418.24    **Quantity:** Unknown  
+**Price(GH):** 58.99    **Price(CNY):** 418.83    **Quantity:** 441  
 <img src="{{ 'assets/images/gmk-keycaps/noel/kits_pics/hiragana.png' | relative_url }}" alt="hiragana" class="image featured">
 
 ### Novelties  
-**Price(GH):** 49.99    **Price(CNY):** 354.43    **Quantity:** Unknown  
+**Price(GH):** 49.99    **Price(CNY):** 354.93    **Quantity:** 542  
 <img src="{{ 'assets/images/gmk-keycaps/noel/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### 40s  
-**Price(GH):** 39.99    **Price(CNY):** 283.53    **Quantity:** Unknown  
+**Price(GH):** 39.99    **Price(CNY):** 283.93    **Quantity:** 172  
 <img src="{{ 'assets/images/gmk-keycaps/noel/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 
