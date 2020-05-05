@@ -1,12 +1,12 @@
 ---
-title: Masterpiece 杰作
+title: Masterpiece 工匠
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 300800
 ---
 
-# Masterpiece 杰作
+# Masterpiece 工匠
 
 ref link: [Masterpiece GH GB Link](https://geekhack.org/index.php?topic=106068.0)  
 * [Price](#price)  
