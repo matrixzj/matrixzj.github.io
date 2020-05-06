@@ -1,0 +1,22 @@
+{
+    "name": "Redacted",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "GarrettSucks",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-05-06 ~ 2020-06-02",
+    "colorcodes":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Clearance", "price": "124.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Classified", "price": "34.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Bars", "price": "24.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Eyes Only", "price": "24.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "43", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
