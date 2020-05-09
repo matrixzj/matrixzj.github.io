@@ -8,7 +8,7 @@ nav_order: 300785
 
 # Redacted 
 
-ref link: [Redacted GH GB Link]()  
+ref link: [Redacted GH GB Link](https://geekhack.org/index.php?topic=106200.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
@@ -55,3 +55,11 @@ NOTE: USD to CNY exchange rate is 7.10
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-05-06 ~ 2020-06-02  
 * Color Codes:  
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|2M|N9
+|Redactions|2M|CR
+
+
+## Pictures  
