@@ -33,7 +33,7 @@ NOTE: USD to CNY exchange rate is 7.04
 ## Info  
 * Designer: superdoedoe  
 * Profile: GMK 1-2-3-4-4-4  
-* GB Time: 2020-04-10  
+* GB Time: 2020-04-10 ~ 2020-05-10  
 * Color Codes:  
 
 
