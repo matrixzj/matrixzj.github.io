@@ -21,12 +21,12 @@ NOTE: USD to CNY exchange rate is 7.04
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[All](#all)|60.00|422.40|Unknown|
+|[All](#all)|60.00|422.40|389|
 
-
+<img src="{{ 'assets/images/gmk-keycaps/blackmodaddon/history.png' | relative_url }}" alt="history" class="image featured">
 ## Kits  
 ### All  
-**Price(GH):** 60.00    **Price(CNY):** 422.40    **Quantity:** Unknown  
+**Price(GH):** 60.00    **Price(CNY):** 422.40    **Quantity:** 389  
 <img src="{{ 'assets/images/gmk-keycaps/blackmodaddon/kits_pics/all.png' | relative_url }}" alt="all" class="image featured">
 
 
