@@ -70,7 +70,7 @@ NOTE: USD to CNY exchange rate is 7.03
 ## Info  
 * Designer: Abec13  
 * Profile: SA 1-1-2-3-4-3  
-* GB Time: 2019-12-01  
+* GB Time: 2019-12-01 ~ 2020-01-16  
 * Color Codes:   
 
 | |Base Color     | Legend Color

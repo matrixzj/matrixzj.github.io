@@ -50,7 +50,7 @@ NOTE: USD to CNY exchange rate is 7.00
 ## Info  
 * Designer: Tyson  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-03-02  
+* GB Time: 2020-03-02 ~ 2020-03-21  
 * Color Codes:  
 
 | |Base Color     | Legend Color

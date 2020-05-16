@@ -55,7 +55,7 @@ NOTE: USD to CNY exchange rate is 6.97
 ## Info  
 * Designer: nephlock  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-03-04  
+* GB Time: 2020-03-04 ~ 2020-03-31  
 * Color Codes:  
 
 | |Base Color     | Legend Color

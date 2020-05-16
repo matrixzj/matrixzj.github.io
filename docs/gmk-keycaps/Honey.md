@@ -50,7 +50,7 @@ NOTE: USD to CNY exchange rate is 6.99
 ## Info  
 * Designer: Holicalis  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-03-01  
+* GB Time: 2020-03-01 ~ 2020-04-01  
 * Color Codes:  
 
 | |Base Color     | Legend Color

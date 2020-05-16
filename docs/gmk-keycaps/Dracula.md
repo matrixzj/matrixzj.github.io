@@ -81,7 +81,7 @@ NOTE: USD to CNY exchange rate is 7.15
 ## Info  
 * Designer: pikku-allu  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-10-04  
+* GB Time: 2019-10-04 ~ 2019-10-31  
 * Color Codes:  
 
 <img src="{{ 'assets/images/gmk-keycaps/dracula/color1.png' | relative_url }}" alt="color1" class="image featured">

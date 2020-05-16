@@ -61,7 +61,7 @@ NOTE: USD to CNY exchange rate is 7.05
 ## Info  
 * Designer: Zambumon  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-12-04  
+* GB Time: 2019-12-04 ~ 2019-12-31  
 * Color Codes:  
 
 

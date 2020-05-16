@@ -46,7 +46,7 @@ NOTE: USD to CNY exchange rate is 6.89
 ## Info  
 * Designer: fatboycarney  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-01-13  
+* GB Time: 2020-01-13 ~ 2020-02-21  
 * Color Codes:  
 
 | |Base Color     | Legend Color

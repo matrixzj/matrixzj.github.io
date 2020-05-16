@@ -46,7 +46,7 @@ NOTE: USD to CNY exchange rate is 6.96
 ## Info  
 * Designer: Hisui  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-01-01  
+* GB Time: 2020-01-01 ~ 2020-02-01   
 * Color Codes:  
 
 | |Base Color     | Legend Color

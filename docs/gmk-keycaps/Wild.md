@@ -33,7 +33,7 @@ NOTE: USD to CNY exchange rate is 7.04
 ## Info  
 * Designer: Monkey Six  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-04-12  
+* GB Time: 2020-04-12 ~ 2020-05-06  
 * Color Codes:  
 
 | |Base Color     | Legend Color

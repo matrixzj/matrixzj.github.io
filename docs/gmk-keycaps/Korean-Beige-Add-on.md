@@ -32,7 +32,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: xondat
 * Profile: GMK 1-1-2-3-4-4
-* GB Time: 2019-06
+* GB Time: 2019-06-21 ~ 2019-07-19
 * ColorCodes:  
 
 ||Base|Legend

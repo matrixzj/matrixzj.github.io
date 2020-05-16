@@ -50,7 +50,7 @@ NOTE: USD to CNY exchange rate is 6.97
 ## Info  
 * Designer: koenoe  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-02-01  
+* GB Time: 2020-02-01 ~ 2020-02-29  
 * Color Codes:  
 
 | |Base Color     | Legend Color

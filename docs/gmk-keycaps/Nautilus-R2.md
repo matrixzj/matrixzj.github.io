@@ -68,7 +68,7 @@ NOTE: USD to CNY exchange rate is 7.10
 ## Info  
 * Designer: Zambumon  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-04-02  
+* GB Time: 2020-04-02 ~ 2020-05-05  
 * Color Codes:  
 
 | |Base Color     | Legend Color

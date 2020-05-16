@@ -60,7 +60,7 @@ NOTE: USD to CNY exchange rate is 7.15
 ## Info  
 * Designer: Emir  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-10-01  
+* GB Time: 2019-10-01 ~ 2019-11-01 
 * Color Codes:  
 
 <img src="{{ 'assets/images/gmk-keycaps/firefly/color.png' | relative_url }}" alt="color" class="image featured">

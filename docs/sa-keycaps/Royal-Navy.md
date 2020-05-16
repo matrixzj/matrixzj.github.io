@@ -68,7 +68,7 @@ NOTE: GBP to RMB exchange rate is 8.88
 ## Info
 * Designer: UKKeycaps
 * Profile: SA 1-1-2-3-4-3
-* GB Time: 2019-09
+* GB Time: 2019-09-05 ~ 2019-10-05
 * Color Codes:  
 <table style="width:100%">
   <tr>

@@ -109,7 +109,7 @@ NOTE: USD to CNY exchange rate is 7.15
 ## Info  
 * Designer: T0mb3ry  
 * Profile: SA 1-1-2-3-4-3  
-* GB Time: 2019-10-03  
+* GB Time: 2019-10-03 ~ 2019-11-01 
 * Color Codes:  
 
 <table style="width:100%">

@@ -60,7 +60,7 @@ NOTE: USD to CNY exchange rate is 6.94
 ## Info  
 * Designer: kema  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-01-30  
+* GB Time: 2020-01-30 ~ 2020-02-29  
 * Color Codes:  
 
 | |Base Color     | Legend Color

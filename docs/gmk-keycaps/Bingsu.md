@@ -55,7 +55,7 @@ NOTE: USD to CNY exchange rate is 7.07
 ## Info  
 * Designer: Rise  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-10-15  
+* GB Time: 2019-10-15 ~ 2019-11-16  
 * Color Codes: 2 Customerized RAL colors and GMK CP
 
 

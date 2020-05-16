@@ -33,7 +33,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: Emir
 * Profile: GMK as shown in picture
-* GB Time: 2019-08
+* GB Time: 2019-08-22 ~ 2019-08-31
 * ColorCodes:  
 
 Base | Legend

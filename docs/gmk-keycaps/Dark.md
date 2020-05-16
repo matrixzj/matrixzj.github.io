@@ -56,7 +56,7 @@ NOTE: USD to CNY exchange rate is 6.96
 ## Info  
 * Designer: roostrc0gburn  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-01-02  
+* GB Time: 2020-01-02 ~ 2020-01-31  
 * Color Codes:  
 
 |Base Color     | Legend Color

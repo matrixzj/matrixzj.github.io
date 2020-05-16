@@ -55,7 +55,7 @@ NOTE: USD to CNY exchange rate is 7.03
 ## Info  
 * Designer: Warrenified  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-12-01  
+* GB Time: 2019-12-01 ~ 2020-01-01  
 * Color Codes:  
 
 

@@ -33,7 +33,7 @@ NOTE: USD to CNY exchange rate is 7.08
 ## Info  
 * Designer: tvaro  
 * Profile: GMK 1-2-3-4-4  
-* GB Time: 2019-09-12  
+* GB Time: 2019-09-12 ~ 2019-10-14  
 * Color Codes:  
 
 | |Base Color     | Legend Color

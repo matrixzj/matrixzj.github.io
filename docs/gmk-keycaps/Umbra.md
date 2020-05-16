@@ -50,7 +50,7 @@ NOTE: USD to CNY exchange rate is 7.04
 ## Info  
 * Designer: Pachriksu  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-11-01  
+* GB Time: 2019-11-01 ~ 2019-12-16  
 * Color Codes:  
 
 | |Base Color     | Legend Color

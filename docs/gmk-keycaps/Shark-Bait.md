@@ -46,7 +46,7 @@ NOTE: USD to CNY exchange rate is 7.04
 ## Info  
 * Designer: WAVES_D0NT_DIE  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-11-01  
+* GB Time: 2019-11-01 ~ 2019-12-05  
 * Color Codes:  
 
 

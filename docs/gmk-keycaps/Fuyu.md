@@ -50,7 +50,7 @@ NOTE: USD to CNY exchange rate is 6.95
 ## Info  
 * Designer: Mcnos  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-01-10  
+* GB Time: 2020-01-10 ~ 2020-02-13  
 * Color Codes:  
 
 | |Base Color     | Legend Color

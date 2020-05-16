@@ -70,7 +70,7 @@ NOTE: USD to CNY exchange rate is 7.03
 ## Info  
 * Designer: olivia  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-12-01  
+* GB Time: 2019-12-01 ~ 2019-12-31 
 * Color Codes:  
 
 | |Base Color     | Legend Color

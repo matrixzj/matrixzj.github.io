@@ -39,7 +39,7 @@ NOTE: USD to RMB exchange rate is 6.92
 ## Info
 * Designer: AbrotherThatIsUnderecover
 * Profile: GMK 1-2-3-4
-* GB Time: 2019-08
+* GB Time: 2019-08-26 ~ 2019-09-30
 * ColorCodes:  
 
 

@@ -59,7 +59,7 @@ NOTE: USD to CNY exchange rate is 6.94
 ## Info  
 * Designer: Xerpocalypse  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-01-27  
+* GB Time: 2020-01-27 ~ 2020-02-21  
 * Color Codes:  
 
 | |Base Color     | Legend Color

@@ -55,7 +55,7 @@ NOTE: USD to CNY exchange rate is 7.10
 ## Info  
 * Designer: HoodrowThrillson  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-10-11  
+* GB Time: 2019-10-11 ~ 2019-11-18  
 * Color Codes:  
 
 <img src="{{ 'assets/images/gmk-keycaps/coral/color2.png' | relative_url }}" alt="color" class="image featured">

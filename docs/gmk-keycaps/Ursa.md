@@ -60,7 +60,7 @@ NOTE: USD to CNY exchange rate is 7.03
 ## Info  
 * Designer: NathanAlphaMan  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2019-11-18  
+* GB Time: 2019-11-18 ~ 2020-01-06 
 * Color Codes:  
 <img src="{{ 'assets/images/gmk-keycaps/ursa/color.png' | relative_url }}" alt="color" class="image featured">
 

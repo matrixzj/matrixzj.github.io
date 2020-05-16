@@ -33,7 +33,7 @@ NOTE: USD to CNY exchange rate is 6.98
 ## Info  
 * Designer: adxlk  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-03-13  
+* GB Time: 2020-03-13 ~ 2020-04-10  
 * Color Codes:  
 
 |Base Color     | Legend Color

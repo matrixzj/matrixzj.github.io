@@ -60,7 +60,7 @@ NOTE: USD to CNY exchange rate is 7.04
 ## Info  
 * Designer: octix  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-02-25  
+* GB Time: 2020-02-25 ~ 2020-03-25 
 * Color Codes:  
 
 | |Base Color     | Legend Color

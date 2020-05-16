@@ -47,7 +47,7 @@ NOTE: USD to CNY exchange rate is 6.98
 ## Info  
 * Designer: Kingnestea  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-02-10  
+* GB Time: 2020-02-10 ~ 2020-03-16  
 * Color Codes:  
 
 | |Base Color     | Legend Color

@@ -60,7 +60,7 @@ NOTE: USD to CNY exchange rate is 6.86
 ## Info  
 * Designer: Dead Encryption  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-01-18  
+* GB Time: 2020-01-18 ~ 2020-02-22  
 * Color Codes:  
 
 ||Base Color      | Legend Color
