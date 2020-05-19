@@ -8,7 +8,7 @@ nav_order: 310935
 
 # Bliss
 
-ref link: [Bliss Dixie GB Link](https://dixiemech.store/collections/sa-bliss/products/sa-bliss)
+ref link: [Bliss GH GB Link](https://geekhack.org/index.php?topic=101407.0)
 
 * [Price](#price)
 * [Kits](#kits)
