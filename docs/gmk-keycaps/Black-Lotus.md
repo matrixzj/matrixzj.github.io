@@ -21,37 +21,39 @@ NOTE: USD to CNY exchange rate is 7.04
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|Unknown|Unknown|Unknown|
-|[Modifiers](#modifiers)|Unknown|Unknown|Unknown|
-|[Hiragana Alphas](#hiragana-alphas)|Unknown|Unknown|Unknown|
-|[Novelties](#novelties)|Unknown|Unknown|Unknown|
-|[40s](#40s)|Unknown|Unknown|Unknown|
-|[Spacebars](#spacebars)|Unknown|Unknown|Unknown|
+|[Base](#base)|Unknown|Unknown|521|
+|[Modifiers](#modifiers)|Unknown|Unknown|101|
+|[Hiragana Alphas](#hiragana-alphas)|Unknown|Unknown|101|
+|[Novelties](#novelties)|Unknown|Unknown|235|
+|[40s](#40s)|Unknown|Unknown|100|
+|[Spacebars](#spacebars)|Unknown|Unknown|114|
 
+<img src="{{ 'assets/images/gmk-keycaps/blacklotus/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/blacklotus/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** 521  
 <img src="{{ 'assets/images/gmk-keycaps/blacklotus/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Modifiers  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** 101  
 <img src="{{ 'assets/images/gmk-keycaps/blacklotus/kits_pics/modifiers.jpg' | relative_url }}" alt="modifiers" class="image featured">
 
 ### Hiragana Alphas  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** 101  
 <img src="{{ 'assets/images/gmk-keycaps/blacklotus/kits_pics/hiragana-alphas.jpg' | relative_url }}" alt="hiragana-alphas" class="image featured">
 
 ### Novelties  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** 235  
 <img src="{{ 'assets/images/gmk-keycaps/blacklotus/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### 40s  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/blacklotus/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### Spacebars  
-**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(GH):** Unknown    **Price(CNY):** Unknown    **Quantity:** 114  
 <img src="{{ 'assets/images/gmk-keycaps/blacklotus/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 

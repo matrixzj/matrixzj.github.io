@@ -4,20 +4,20 @@
     "keycapstype": "GMK",
     "designer": "potatobot",
     "profile": "1-1-2-3-4-4",
-    "time": "2020-04-10",
+    "time": "2020-04-10 ~ 2020-05-08",
     "colorcodes":[
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=105639.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.imgur.com/eIvOXOT.png",
+    "order_graph": "https://i.imgur.com/rDuB6ch.png",
     "price_list":[
-        { "name": "Base", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Modifiers", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Hiragana Alphas", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "40s", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "", "price_cny": "", "quantity": "521", "price_table_format": "","price_kit_format": "" },
+        { "name": "Modifiers", "price": "", "price_cny": "", "quantity": "101", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hiragana Alphas", "price": "", "price_cny": "", "quantity": "101", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "", "price_cny": "", "quantity": "235", "price_table_format": "","price_kit_format": "" },
+        { "name": "40s", "price": "", "price_cny": "", "quantity": "100", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "", "price_cny": "", "quantity": "114", "price_table_format": "","price_kit_format": "" }
     ]
 }

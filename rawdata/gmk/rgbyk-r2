@@ -4,7 +4,7 @@
     "keycapstype":"GMK",
     "designer":"adxlk",
     "profile":"1-1-2-3-4-4",
-    "time":"2020-03-13",
+    "time":"2020-03-13 ~ 2020-04-10",
     "colorcodes":[
         "|V1|CR",
         "|V4|CR",
@@ -16,8 +16,8 @@
     "link":"https://geekhack.org/index.php?topic=105127.0",
     "currencyunit":"USD",
     "history_graph":"",
-    "order_graph":"",
+    "order_graph":"https://i.imgur.com/LOYc40M.png",
     "price_list":[
-        { "name":"RGBYK Add-On", "price":"", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+        { "name":"RGBYK Add-On", "price":"", "price_cny":"", "quantity":"394", "price_table_format":"","price_kit_format":"" }
     ]
 }
