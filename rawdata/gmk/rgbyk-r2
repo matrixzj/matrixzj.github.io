@@ -18,6 +18,6 @@
     "history_graph":"",
     "order_graph":"https://i.imgur.com/LOYc40M.png",
     "price_list":[
-        { "name":"RGBYK Add-On", "price":"", "price_cny":"", "quantity":"394", "price_table_format":"","price_kit_format":"" }
+        { "name":"RGBYK Add-On", "price":"60", "price_cny":"", "quantity":"394", "price_table_format":"","price_kit_format":"" }
     ]
 }
