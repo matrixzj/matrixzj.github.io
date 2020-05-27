@@ -13,13 +13,13 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=105829.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.imgur.com/GHrQqIX.png",
+    "order_graph": "https://i.imgur.com/cOvXzRT.png",
     "price_list":[
-        { "name": "Base", "price": "115", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Base", "price": "115", "price_cny": "", "quantity": "1030", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "30", "price_cny": "", "quantity": "646", "price_table_format": "","price_kit_format": "" },
         { "name": "Latin Alphas", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Accents", "price": "20", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Spacebars", "price": "35", "price_cny": "", "quantity": "281", "price_table_format": "","price_kit_format": "" },
+        { "name": "Accents", "price": "20", "price_cny": "", "quantity": "194", "price_table_format": "","price_kit_format": "" }
     ]
 }

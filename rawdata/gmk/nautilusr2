@@ -13,16 +13,16 @@
     "platform": "GH",
     "link": "",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://zambumon.files.wordpress.com/2020/05/gmk_nautilus_2_week_5_2.png",
+    "order_graph": "https://zambumon.files.wordpress.com/2020/05/gmk_nautilus_2_week_5_1.png",
     "price_list":[
-        { "name": "Core", "price": "115", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Explorer", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "25", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Forties", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "International", "price": "72", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Mac", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Core", "price": "115", "price_cny": "", "quantity": "1371", "price_table_format": "","price_kit_format": "" },
+        { "name": "Explorer", "price": "45", "price_cny": "", "quantity": "215", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "35", "price_cny": "", "quantity": "721", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "price_cny": "", "quantity": "467", "price_table_format": "","price_kit_format": "" },
+        { "name": "Forties", "price": "45", "price_cny": "", "quantity": "123", "price_table_format": "","price_kit_format": "" },
+        { "name": "International", "price": "72", "price_cny": "", "quantity": "76", "price_table_format": "","price_kit_format": "" },
+        { "name": "Mac", "price": "30", "price_cny": "", "quantity": "111", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "52", "price_cny": "", "quantity": "517", "price_table_format": "","price_kit_format": "" }
     ]
 }

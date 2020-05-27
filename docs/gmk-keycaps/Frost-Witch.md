@@ -21,32 +21,34 @@ NOTE: USD to CNY exchange rate is 7.07
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|115.00|813.05|Unknown|
-|[Novelties](#novelties)|30.00|212.10|Unknown|
-|[Latin Alphas](#latin-alphas)|55.00|388.85|Unknown|
-|[Spacebars](#spacebars)|35.00|247.45|Unknown|
-|[Accents](#accents)|20.00|141.40|Unknown|
+|[Base](#base)|115.00|813.05|1030|
+|[Novelties](#novelties)|30.00|212.10|646|
+|[~~Latin Alphas~~](#latin-alphas)|55.00|388.85|Unknown|
+|[Spacebars](#spacebars)|35.00|247.45|281|
+|[Accents](#accents)|20.00|141.40|194|
 
+<img src="{{ 'assets/images/gmk-keycaps/frostwitch/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/frostwitch/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 115.00    **Price(CNY):** 813.05    **Quantity:** Unknown  
+**Price(GH):** 115.00    **Price(CNY):** 813.05    **Quantity:** 1030  
 <img src="{{ 'assets/images/gmk-keycaps/frostwitch/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(GH):** 30.00    **Price(CNY):** 212.10    **Quantity:** Unknown  
+**Price(GH):** 30.00    **Price(CNY):** 212.10    **Quantity:** 646  
 <img src="{{ 'assets/images/gmk-keycaps/frostwitch/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
-### Latin Alphas  
+### ~~Latin Alphas~~    
 **Price(GH):** 55.00    **Price(CNY):** 388.85    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/frostwitch/kits_pics/latin-alphas.png' | relative_url }}" alt="latin-alphas" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 35.00    **Price(CNY):** 247.45    **Quantity:** Unknown  
+**Price(GH):** 35.00    **Price(CNY):** 247.45    **Quantity:** 281  
 <img src="{{ 'assets/images/gmk-keycaps/frostwitch/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Accents  
-**Price(GH):** 20.00    **Price(CNY):** 141.40    **Quantity:** Unknown  
+**Price(GH):** 20.00    **Price(CNY):** 141.40    **Quantity:** 194  
 <img src="{{ 'assets/images/gmk-keycaps/frostwitch/kits_pics/accents.png' | relative_url }}" alt="accents" class="image featured">
 
 
