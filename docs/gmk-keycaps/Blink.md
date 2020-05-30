@@ -1,0 +1,56 @@
+---
+title: Blink 
+layout: default
+icon: fa-keyboard-o
+parent: GMK Keycaps
+nav_order: 300775
+---
+
+# Blink 
+
+ref link: [Blink TKC GB Link](https://thekey.company/collections/blink/products/gmk-blink)  
+* [Price](#price)  
+* [Kits](#kits)  
+* [Info](#info)  
+* [Pictures](#pictures)  
+
+
+## Price  
+
+NOTE: USD to CNY exchange rate is 7.14
+
+| Name          | Price(TKC)    |  Price(CNY) | Quantity |
+| ------------- | ------------ |  ---------- | -------- |
+|[Base Pink](#base-pink)|140.00|999.60|Unknown|
+|[Base Black](#base-black)|140.00|999.60|Unknown|
+|[Novelties](#novelties)|60.00|428.40|Unknown|
+|[Spacebars](#spacebars)|27.00|192.78|Unknown|
+
+
+## Kits  
+### Base Pink  
+**Price(TKC):** 140.00    **Price(CNY):** 999.60    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/blink/kits_pics/base-pink.jpg' | relative_url }}" alt="base-pink" class="image featured">
+
+### Base Black  
+**Price(TKC):** 140.00    **Price(CNY):** 999.60    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/blink/kits_pics/base-black.jpg' | relative_url }}" alt="base-black" class="image featured">
+
+### Novelties  
+**Price(TKC):** 60.00    **Price(CNY):** 428.40    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/blink/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
+
+### Spacebars  
+**Price(TKC):** 27.00    **Price(CNY):** 192.78    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/blink/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
+
+
+## Info  
+* Designer: jebbra  
+* Profile: GMK 1-1-2-3-4-4  
+* GB Time: 2020-05-29 ~ 2020-06-26  
+* Color Codes:  
+
+
+## Pictures  
+<img src="{{ 'assets/images/gmk-keycaps/blink/rendering_pics/1.jpg' | relative_url }}" alt="1.jpg" class="image featured">

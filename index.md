@@ -129,6 +129,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Blink](docs/gmk-keycaps/Blink/)
 * [Lux](docs/gmk-keycaps/Lux/)
 * [Redacted](docs/gmk-keycaps/Redacted/)
 * [Classic Blue](docs/gmk-keycaps/Classic-Blue/)
