@@ -8,7 +8,7 @@ nav_order: 310790
 
 # SandStorm 沙暴
 
-ref link: [SandStorm GH GB Link]()
+ref link: [SandStorm GH GB Link](https://geekhack.org/index.php?topic=102364)
 
 * [Price](#price)
 * [Kits](#kits)
