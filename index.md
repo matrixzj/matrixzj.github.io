@@ -130,6 +130,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Rouge](docs/gmk-keycaps/Rouge/)
 * [Blink](docs/gmk-keycaps/Blink/)
 * [Lux](docs/gmk-keycaps/Lux/)
 * [Redacted](docs/gmk-keycaps/Redacted/)
