@@ -1,0 +1,25 @@
+{
+    "name":"DreamEater",
+    "cname":"",
+    "keycapstype":"SA",
+    "designer":"",
+    "profile":"1-1-2-3-4-3",
+    "time":"2020-05-31 ~ 2020-07-01",
+    "colorcodes":[
+        "Unknown"
+    ],
+    "platform":"UK MechSupply",
+    "link":"http://www.mechsupply.co.uk/product/sa-dreameater",
+    "currencyunit":"GBP",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Base", "price":"94", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Numpad", "price":"23", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Novelties", "price":"32", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Specialties", "price":"32", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"NorDe", "price":"", "price_cny":"27", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Ortholinear", "price":"60", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name":"Ergodox", "price":"65", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+    ]
+}
