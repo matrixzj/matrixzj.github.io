@@ -31,6 +31,9 @@ NOTE: USD to CNY exchange rate is 7.12
 |[Command](#command)|19.99|142.33|Unknown|
 |[Obscure](#obscure)|39.99|284.73|Unknown|
 |[Norde](#norde)|54.99|391.53|Unknown|
+|[RAMA Grey](#rama-grey)|43.00|306.16|Unknown|
+|[RAMA Red](#rama-red)|43.00|306.16|Unknown|
+|[RAMA Swirl](#rama-swirl)|15.00|106.80|Unknown|
 
 
 ## Kits  
@@ -73,6 +76,18 @@ NOTE: USD to CNY exchange rate is 7.12
 ### Norde  
 **Price(Dixie):** 54.99    **Price(CNY):** 391.53    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/norde.jpg' | relative_url }}" alt="norde" class="image featured">
+
+### RAMA Grey  
+**Price(Dixie):** 43.00    **Price(CNY):** 306.16    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/rama-grey.png' | relative_url }}" alt="rama-grey" class="image featured">
+
+### RAMA Red  
+**Price(Dixie):** 43.00    **Price(CNY):** 306.16    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/rama-red.png' | relative_url }}" alt="rama-red" class="image featured">
+
+### RAMA Swirl  
+**Price(Dixie):** 15.00    **Price(CNY):** 106.80    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/rama-swirl.png' | relative_url }}" alt="rama-swirl" class="image featured">
 
 
 ## Info  
