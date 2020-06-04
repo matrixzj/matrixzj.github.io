@@ -309,15 +309,18 @@ class GenerateKeyCapPage(object):
                     self.keycap_page_info += "  <tr>\n    <th>%s</th>\n    <th><img src=\"{{ '%s' | relative_url }}\" alt=\"Color_%s\" height=\"75\" width=\"170\"></th>\n  </tr>\n" % (color, color_file_png, color)
                 self.keycap_page_info += "</table>\n\n"
         elif self.info_dict['keycapstype'] == "GMK": 
-            self.keycap_page_info += "* Color Codes:  \n\n"
-            self.keycap_page_info += "| |Base Color     | Legend Color\n| :-------------: | :-------------: | :------------:\n"
-            for color in self.info_dict['colorcodes']:
-                self.keycap_page_info += color
-                self.keycap_page_info += "\n"
-            color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
-            for color_file in color_files:
-                color_file_path = os.path.join(self.keycap_asset_path, color_file)
-                self.keycap_page_info += '\n<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
+            if len(self.info_dict['colorcodes']) > 0:
+                self.keycap_page_info += "* Color Codes:  \n\n"
+                self.keycap_page_info += "| |Base Color     | Legend Color\n| :-------------: | :-------------: | :------------:\n"
+                for color in self.info_dict['colorcodes']:
+                    self.keycap_page_info += color
+                    self.keycap_page_info += "\n"
+                color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
+                for color_file in color_files:
+                    color_file_path = os.path.join(self.keycap_asset_path, color_file)
+                    self.keycap_page_info += '\n<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
+            else:
+                self.keycap_page_info += "* Color Codes: Unknown  \n"
             self.keycap_page_info += "\n\n"
         elif self.info_dict['keycapstype'] == "DSA": 
             self.keycap_page_info += "\n\n"

@@ -8,7 +8,7 @@ nav_order: 300765
 
 # Modern Dolch R2 
 
-ref link: [Modern Dolch R2 Dixie GB Link](https://dixiemech.store/products/gmk-modern-dolch-2-keycap-set)  
+ref link: [Modern Dolch R2 GH GB Link](https://geekhack.org/index.php?topic=106764.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
@@ -19,7 +19,7 @@ ref link: [Modern Dolch R2 Dixie GB Link](https://dixiemech.store/products/gmk-m
 
 NOTE: USD to CNY exchange rate is 7.12
 
-| Name          | Price(Dixie)    |  Price(CNY) | Quantity |
+| Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Standard](#standard)|99.99|711.93|Unknown|
 |[Mist](#mist)|109.99|783.13|Unknown|
@@ -38,55 +38,55 @@ NOTE: USD to CNY exchange rate is 7.12
 
 ## Kits  
 ### Standard  
-**Price(Dixie):** 99.99    **Price(CNY):** 711.93    **Quantity:** Unknown  
+**Price(GH):** 99.99    **Price(CNY):** 711.93    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/standard.jpg' | relative_url }}" alt="standard" class="image featured">
 
 ### Mist  
-**Price(Dixie):** 109.99    **Price(CNY):** 783.13    **Quantity:** Unknown  
+**Price(GH):** 109.99    **Price(CNY):** 783.13    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/mist.jpg' | relative_url }}" alt="mist" class="image featured">
 
 ### Addition  
-**Price(Dixie):** 29.99    **Price(CNY):** 213.53    **Quantity:** Unknown  
+**Price(GH):** 29.99    **Price(CNY):** 213.53    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/addition.jpg' | relative_url }}" alt="addition" class="image featured">
 
 ### Aesthetic  
-**Price(Dixie):** 29.99    **Price(CNY):** 213.53    **Quantity:** Unknown  
+**Price(GH):** 29.99    **Price(CNY):** 213.53    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/aesthetic.jpg' | relative_url }}" alt="aesthetic" class="image featured">
 
 ### Numbers  
-**Price(Dixie):** 34.99    **Price(CNY):** 249.13    **Quantity:** Unknown  
+**Price(GH):** 34.99    **Price(CNY):** 249.13    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/numbers.jpg' | relative_url }}" alt="numbers" class="image featured">
 
 ### Alternate  
-**Price(Dixie):** 19.99    **Price(CNY):** 142.33    **Quantity:** Unknown  
+**Price(GH):** 19.99    **Price(CNY):** 142.33    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/alternate.jpg' | relative_url }}" alt="alternate" class="image featured">
 
 ### Modern  
-**Price(Dixie):** 39.99    **Price(CNY):** 284.73    **Quantity:** Unknown  
+**Price(GH):** 39.99    **Price(CNY):** 284.73    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/modern.jpg' | relative_url }}" alt="modern" class="image featured">
 
 ### Command  
-**Price(Dixie):** 19.99    **Price(CNY):** 142.33    **Quantity:** Unknown  
+**Price(GH):** 19.99    **Price(CNY):** 142.33    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/command.jpg' | relative_url }}" alt="command" class="image featured">
 
 ### Obscure  
-**Price(Dixie):** 39.99    **Price(CNY):** 284.73    **Quantity:** Unknown  
+**Price(GH):** 39.99    **Price(CNY):** 284.73    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/obscure.jpg' | relative_url }}" alt="obscure" class="image featured">
 
 ### Norde  
-**Price(Dixie):** 54.99    **Price(CNY):** 391.53    **Quantity:** Unknown  
+**Price(GH):** 54.99    **Price(CNY):** 391.53    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/norde.jpg' | relative_url }}" alt="norde" class="image featured">
 
 ### RAMA Grey  
-**Price(Dixie):** 43.00    **Price(CNY):** 306.16    **Quantity:** Unknown  
+**Price(GH):** 43.00    **Price(CNY):** 306.16    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/rama-grey.png' | relative_url }}" alt="rama-grey" class="image featured">
 
 ### RAMA Red  
-**Price(Dixie):** 43.00    **Price(CNY):** 306.16    **Quantity:** Unknown  
+**Price(GH):** 43.00    **Price(CNY):** 306.16    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/rama-red.png' | relative_url }}" alt="rama-red" class="image featured">
 
 ### RAMA Swirl  
-**Price(Dixie):** 15.00    **Price(CNY):** 106.80    **Quantity:** Unknown  
+**Price(GH):** 15.00    **Price(CNY):** 106.80    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/moderndolchr2/kits_pics/rama-swirl.png' | relative_url }}" alt="rama-swirl" class="image featured">
 
 
@@ -94,7 +94,7 @@ NOTE: USD to CNY exchange rate is 7.12
 * Designer: Janglad  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-06-03 ~ 2020-07-02  
-* Color Codes:  
+* Color Codes: Unknown  
 
 
 ## Pictures  
