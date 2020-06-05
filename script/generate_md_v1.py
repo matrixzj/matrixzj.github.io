@@ -27,6 +27,8 @@ class GenerateKeyCapPage(object):
         self.keycap_asset_kits_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ","").replace("/",""), "kits_pics")
         self.keycap_asset_render_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ","").replace("/",""), "rendering_pics")
 
+        print self.keycap_asset_kits_path
+
         self.parse_price_info_format()
         self.cal_nav_order()
 

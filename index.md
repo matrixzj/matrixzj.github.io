@@ -130,6 +130,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Boneyard](docs/gmk-keycaps/Boneyard/)
 * [Modern Dolch R2](docs/gmk-keycaps/Modern-Dolch-R2/)
 * [Rouge](docs/gmk-keycaps/Rouge/)
 * [Blink](docs/gmk-keycaps/Blink/)
