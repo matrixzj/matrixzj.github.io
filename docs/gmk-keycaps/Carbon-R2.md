@@ -21,23 +21,23 @@ NOTE: USD to RMB exchange rate is 6.94
 
 | Name          | Price(USD)    |  Price(RMB) |  Price(ZF) | Quantity |
 | ------------- | ------------- |  ---------- |  --------- | -------- |
-|[Carbon Base](#carbonbase)|159.99|1110.33|1117.00|362|
-|[Bone Base](#bonebase)|159.99|1110.33|1117.00|142|
+|[Carbon Base](#carbon-base)|159.99|1110.33|1117.00|362|
+|[Bone Base](#bone-base)|159.99|1110.33|1117.00|142|
 |[Assembly](#assembly)|109.99|763.33|768.00|62|
-|[Umka Modifiers](#umkamodifiers)|159.99|1110.33|1117.00|50|
-|[Beezarre Alphas](#beezarrealphas)|109.99|763.33|768.00|54|
-|[Boneyard Alphas](#boneyardalphas)|109.99|763.33|768.00|76|
-|[Carbon Cadet](#carboncadet)|42.99|298.35|301.00|83|
-|[Bone Icon Extension](#boneiconextension)|72.99|506.55|510.00|48|
+|[Umka Modifiers](#umka-modifiers)|159.99|1110.33|1117.00|50|
+|[Beezarre Alphas](#beezarre-alphas)|109.99|763.33|768.00|54|
+|[Boneyard Alphas](#boneyard-alphas)|109.99|763.33|768.00|76|
+|[Carbon Cadet](#carbon-cadet)|42.99|298.35|301.00|83|
+|[Bone Icon Extension](#bone-icon-extension)|72.99|506.55|510.00|48|
 |[NorDeUK](#nordeuk)|74.99|520.43|524.00|26|
 |[DC](#dc)|59.99|416.33|419.00|21|
 |[Space](#space)|49.99|346.93|349.00|72|
 |[Arrows](#arrows)|49.99|346.93|349.00|56|
 |[Novelties](#novelties)|49.99|346.93|419.00|247|
-|[Rolling Bones](#rollingbones)|89.99|624.53|629.00|63|
-|[Half-Life Lambda](#half-lifelambda)|39.99|277.53|280.00|72|
-|[Warning Signs R0](#warningsignsr0)|79.99|555.13|559.00|68|
-|[Warning Signs R1](#warningsignsr1)|59.99|416.33|419.00|46|
+|[Rolling Bones](#rolling-bones)|89.99|624.53|629.00|63|
+|[Half-Life Lambda](#half-life-lambda)|39.99|277.53|280.00|72|
+|[Warning Signs R0](#warning-signs-r0)|79.99|555.13|559.00|68|
+|[Warning Signs R1](#warning-signs-r1)|59.99|416.33|419.00|46|
 |[Salty](#salty)|34.99|242.83|245.00|193|
 
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/price.jpg' | relative_url }}" alt="price" class="image featured">
