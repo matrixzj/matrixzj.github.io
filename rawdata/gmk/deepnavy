@@ -11,11 +11,11 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=106058.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/zvqxgp9Z/GMKdeep-Navy-Progress200605with-Ext.png",
+    "order_graph": "https://i.postimg.cc/RhGXQKB3/GMKdeep-Navy-Status200605with-Ext.png",
     "price_list":[
-        { "name": "Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "33", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "125", "price_cny": "", "quantity": "1553", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "33", "price_cny": "", "quantity": "500", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "667", "price_table_format": "","price_kit_format": "" }
     ]
 }
