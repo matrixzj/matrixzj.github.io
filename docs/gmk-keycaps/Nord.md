@@ -59,7 +59,19 @@ NOTE: USD to CNY exchange rate is 7.06
 * Designer: Gtrx  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-06-10 ~ 2020-07-10  
-* Color Codes: Unknown  
+* Color Codes:  
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|RAL 240 60 10|RAL 240 70 15
+|Modifiers 1|RAL 280 20 10|RAL 270 30 10
+|Modifiers 2|RAL 280 20 10|RAL 270 40 15
+|Modifiers 3|RAL 280 20 10|RAL 020 50 40
+|Modifiers 4|RAL 280 20 10|RAL 085 80 30
+|Modifiers 5|RAL 280 20 10|RAL 150 60 20
+|Modifiers 6|RAL 280 20 10|RAL 330 60 25
+
+<img src="{{ 'assets/images/gmk-keycaps/nord/color.png' | relative_url }}" alt="color" class="image featured">
 
 
 ## Pictures  

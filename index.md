@@ -130,6 +130,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Nord](docs/gmk-keycaps/Nord/)
 * [Midnight Rainbow 午夜彩虹](docs/gmk-keycaps/Midnight-Rainbow/)
 * [Boneyard](docs/gmk-keycaps/Boneyard/)
 * [Modern Dolch R2](docs/gmk-keycaps/Modern-Dolch-R2/)
