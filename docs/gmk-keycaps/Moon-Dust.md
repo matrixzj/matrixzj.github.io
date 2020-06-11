@@ -51,7 +51,10 @@ NOTE: USD to CNY exchange rate is 6.96
 
 | |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
-|Alpha|Panton 095 90 10|
+|Alpha|Pantone PQ-2092C|Pantone PQ-2084C
+|Modifiers|Pantone PQ-5255C|Pantone PQ-2084C
+
+<img src="{{ 'assets/images/gmk-keycaps/moondust/color.jpg' | relative_url }}" alt="color" class="image featured">
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/moondust/rendering_pics/1.jpg' | relative_url }}" alt="1.jpg" class="image featured">
