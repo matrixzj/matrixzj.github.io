@@ -130,6 +130,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Blue Samurai 蓝武士](docs/gmk-keycaps/Blue-Samurai/)
 * [Red Samurai R2 红武士R2](docs/gmk-keycaps/Red-Samurai-R2/)
 * [Nord](docs/gmk-keycaps/Nord/)
 * [Midnight Rainbow 午夜彩虹](docs/gmk-keycaps/Midnight-Rainbow/)
