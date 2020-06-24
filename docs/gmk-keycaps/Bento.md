@@ -21,22 +21,25 @@ NOTE: USD to RMB exchange rate is 6.79
 
 | Name          | Price(Novelkeys)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|150.00|1018.50|unknown|
-|[Kobe](#kobe)|70.00|475.30|unknown|
-|[Spacebars](#spacebars)|28.00|190.12|unknown|
+|[Base](#base)|150.00|1018.50|1000|
+|[Kobe](#kobe)|70.00|475.30|161|
+|[Spacebars](#spacebars)|28.00|190.12|513|
 
+
+<img src="{{ 'assets/images/gmk-keycaps/bento/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/bento/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base
-**Price(Novelkeys):** 150.00    **Price(RMB):** 1018.50    **Quantity:** unknown  
+**Price(Novelkeys):** 150.00    **Price(RMB):** 1018.50    **Quantity:** 1000  
 <img src="{{ 'assets/images/gmk-keycaps/bento/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Kobe
-**Price(Novelkeys):** 70.00    **Price(RMB):** 475.30    **Quantity:** unknown  
+**Price(Novelkeys):** 70.00    **Price(RMB):** 475.30    **Quantity:** 161   
 <img src="{{ 'assets/images/gmk-keycaps/bento/kits_pics/kobe.jpeg' | relative_url }}" alt="Kobe" class="image featured">
 
 ### Spacebars
-**Price(Novelkeys):** 28.00    **Price(RMB):** 190.12    **Quantity:** unknown  
+**Price(Novelkeys):** 28.00    **Price(RMB):** 190.12    **Quantity:** 513  
 <img src="{{ 'assets/images/gmk-keycaps/bento/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
 
 

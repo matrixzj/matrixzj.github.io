@@ -12,13 +12,13 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=106200.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/KcnSzTRL/GMKredacted-Progress200602fin-With-Ext.png",
+    "order_graph": "https://i.postimg.cc/qqHPwJZz/GMKredacted-Status200602fin-With-Ext.png",
     "price_list":[
-        { "name": "Clearance", "price": "124.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Classified", "price": "34.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Bars", "price": "24.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Eyes Only", "price": "24.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "43", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Clearance", "price": "124.99", "price_cny": "", "quantity": "2066", "price_table_format": "","price_kit_format": "" },
+        { "name": "Classified", "price": "34.99", "price_cny": "", "quantity": "772", "price_table_format": "","price_kit_format": "" },
+        { "name": "Bars", "price": "24.99", "price_cny": "", "quantity": "372", "price_table_format": "","price_kit_format": "" },
+        { "name": "Eyes Only", "price": "24.99", "price_cny": "", "quantity": "690", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "43", "price_cny": "", "quantity": "474", "price_table_format": "","price_kit_format": "" }
     ]
 }
