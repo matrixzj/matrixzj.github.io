@@ -59,8 +59,38 @@ NOTE: USD to CNY exchange rate is 7.08
 * Designer: RedSuns  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-06-12 ~ 2020-06-30  
-* Color Codes: Unknown  
+* Color Codes: 
 
+<table style="width:100%">
+  <tr>
+    <th> </th>
+    <th>Base</th>
+    <th>Sample</th>
+    <th>Legend</th>
+    <th>Sample</th>
+  </tr>
+  <tr>
+    <th>Alpha</th>
+    <th style="background-color: #003057;">&#160;</th>
+    <th><b> Pantone 540 C </b></th>
+    <th style="background-color: #b9975b;">&#160;</th>
+    <th><b> Pantone 465 C </b></th>
+  </tr>
+  <tr>
+    <th>Modifiers</th>
+    <th style="background-color: #25282a;">&#160;</th>
+    <th><b> Pantone 426 C </b></th>
+    <th style="background-color: #b9975b;">&#160;</th>
+    <th><b> Pantone 465 C </b></th>
+  </tr>
+  <tr>
+    <th>Accents</th>
+    <th style="background-color: #b9975b;">&#160;</th>
+    <th><b> Pantone 465 C </b></th>
+    <th style="background-color: #003057;">&#160;</th>
+    <th><b> Pantone 540 C </b></th>
+  </tr>
+</table>
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/bluesamurai/rendering_pics/1.jpg' | relative_url }}" alt="1.jpg" class="image featured">
