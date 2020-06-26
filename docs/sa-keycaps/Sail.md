@@ -84,7 +84,7 @@ NOTE: USD to CNY exchange rate is 6.99
   </tr>
   <tr>
     <th>Pantone PQ-7717C</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_Pantone PQ-7717C.png' | relative_url }}" alt="Color_Pantone PQ-7717C" height="75" width="170"></th>
+    <th style="background-color: #00857D;">&#160;</th>
   </tr>
 </table>
 
