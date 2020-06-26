@@ -33,18 +33,18 @@ NOTE: GBP to CNY exchange rate is 8.81
 ## Kits  
 ### Base  
 **Price(UK MechSupply):** 94.00    **Price(CNY):** 828.14    **Quantity:** Unknown  
-### Numpad  
-**Price(UK MechSupply):** 23.00    **Price(CNY):** 202.63    **Quantity:** Unknown  
-### NorDe  
-**Price(UK MechSupply):** 3.06    **Price(CNY):** 27.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/dreameater/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
+### Numpad  
+**Price(UK MechSupply):** 23.00    **Price(CNY):** 202.63    **Quantity:** Unknown  
 ### Novelties  
 **Price(UK MechSupply):** 32.00    **Price(CNY):** 281.92    **Quantity:** Unknown  
 ### Specialties  
 **Price(UK MechSupply):** 32.00    **Price(CNY):** 281.92    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/dreameater/kits_pics/specialties.jpg' | relative_url }}" alt="specialties" class="image featured">
 
+### NorDe  
+**Price(UK MechSupply):** 3.06    **Price(CNY):** 27.00    **Quantity:** Unknown  
 ### Ortholinear  
 **Price(UK MechSupply):** 60.00    **Price(CNY):** 528.60    **Quantity:** Unknown  
 ### Ergodox  
@@ -56,7 +56,45 @@ NOTE: GBP to CNY exchange rate is 8.81
 * Designer:   
 * Profile: SA 1-1-2-3-4-3  
 * GB Time: 2020-05-31 ~ 2020-07-01  
-* Color Codes: Unknown  
+* Color Codes:  
+
+<table style="width:100%">
+  <tr>
+    <th>ColorCodes</th>
+    <th>Sample</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <th>VBV</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VBV.png' | relative_url }}" alt="Color_VBV" height="75" width="170"></th>
+    <th>Base Colors</th>
+  </tr>
+  <tr>
+    <th>BFL</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BFL.png' | relative_url }}" alt="Color_BFL" height="75" width="170"></th>
+    <th>Base Colors</th>
+  </tr>
+  <tr>
+    <th>#3b6f75</th>
+    <th style="background-color: #3b6f75;">&#160;</th>
+    <th>Base Colors</th>
+  </tr>
+  <tr>
+    <th>BED</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BED.png' | relative_url }}" alt="Color_BED" height="75" width="170"></th>
+    <th>Base Colors</th>
+  </tr>
+  <tr>
+    <th>BBI</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_BBI.png' | relative_url }}" alt="Color_BBI" height="75" width="170"></th>
+    <th>Base/Legend Colors</th>
+  </tr>
+  <tr>
+    <th>RCJ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RCJ.png' | relative_url }}" alt="Color_RCJ" height="75" width="170"></th>
+    <th>Legend Colors</th>
+  </tr>
+</table>
 
 ## Pictures  
 <img src="{{ 'assets/images/sa-keycaps/dreameater/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
