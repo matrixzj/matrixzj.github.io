@@ -41,6 +41,10 @@ NOTE: USD to CNY exchange rate is 7.08
 * GB Time: 2020-05-12 ~ 2020-06-07  
 * Color Codes:  
 
+|Base Color     | Legend Color
+| :-------------: | :------------:
+|RAL 000 15 00|RAL 080 70 60
+
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/lux/rendering_pics/1.jpg' | relative_url }}" alt="1.jpg" class="image featured">
