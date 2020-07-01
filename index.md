@@ -130,6 +130,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Laser R2 激光R2](docs/gmk-keycaps/Laser-R2/)
 * [Classic Red 经典红](docs/gmk-keycaps/Classic-Red/)
 * [Bread 面包](docs/gmk-keycaps/Bread/)
 * [Blue Samurai 蓝武士](docs/gmk-keycaps/Blue-Samurai/)
