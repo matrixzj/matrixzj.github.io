@@ -17,4 +17,3 @@ There is still a lot of wrong/missing info in this page. Any suggestions/advice/
 * [Vloshko](https://geekhack.org/index.php?action=profile;u=60892)
 * GodFire 野火
 * [Stepstone](https://old.reddit.com/user/stepstone82)
-* [Saga•江丁](https://geekhack.org/index.php?action=profile;u=66675)
