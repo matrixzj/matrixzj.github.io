@@ -35,6 +35,8 @@ NOTE: USD to CNY exchange rate is 7.07
 
 ### Red Alpha  
 **Price(GH):** 85.00    **Price(CNY):** 600.95    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/classicred/kits_pics/red-alpha.jpg' | relative_url }}" alt="red-alpha" class="image featured">
+
 ### Spacebars  
 **Price(GH):** 25.00    **Price(CNY):** 176.75    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/classicred/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
