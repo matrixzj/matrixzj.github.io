@@ -15,11 +15,11 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=106715.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/rwzW9dK3/GMKrouge-Progress200630fin-Yext2.png",
+    "order_graph": "https://i.postimg.cc/PrX1PVht/GMKrouge-Status200630fin-Yext2.png",
     "price_list":[
-        { "name": "Base", "price": "120", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Numpad", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "40s", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "120", "price_cny": "", "quantity": "614", "price_table_format": "","price_kit_format": "" },
+        { "name": "Numpad", "price": "45", "price_cny": "", "quantity": "174", "price_table_format": "","price_kit_format": "" },
+        { "name": "40s", "price": "35", "price_cny": "", "quantity": "151", "price_table_format": "","price_kit_format": "" }
     ]
 }

@@ -17,26 +17,28 @@ ref link: [Rouge GH GB Link](https://geekhack.org/index.php?topic=106715.0)
 
 ## Price  
 
-NOTE: USD to CNY exchange rate is 7.14
+NOTE: USD to CNY exchange rate is 7.13
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|856.80|Unknown|
-|[Numpad](#numpad)|45.00|321.30|Unknown|
-|[40s](#40s)|35.00|249.90|Unknown|
+|[Base](#base)|120.00|855.60|614|
+|[Numpad](#numpad)|45.00|320.85|174|
+|[40s](#40s)|35.00|249.55|151|
 
+<img src="{{ 'assets/images/gmk-keycaps/rouge/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/rouge/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 120.00    **Price(CNY):** 856.80    **Quantity:** Unknown  
+**Price(GH):** 120.00    **Price(CNY):** 855.60    **Quantity:** 614  
 <img src="{{ 'assets/images/gmk-keycaps/rouge/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Numpad  
-**Price(GH):** 45.00    **Price(CNY):** 321.30    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 320.85    **Quantity:** 174  
 <img src="{{ 'assets/images/gmk-keycaps/rouge/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ### 40s  
-**Price(GH):** 35.00    **Price(CNY):** 249.90    **Quantity:** Unknown  
+**Price(GH):** 35.00    **Price(CNY):** 249.55    **Quantity:** 151  
 <img src="{{ 'assets/images/gmk-keycaps/rouge/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 

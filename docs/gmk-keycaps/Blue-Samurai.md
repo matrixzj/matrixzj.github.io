@@ -21,37 +21,39 @@ NOTE: USD to CNY exchange rate is 7.08
 
 | Name          | Price(MD)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|125.00|885.00|Unknown|
-|[Nishi](#nishi)|65.00|460.20|Unknown|
-|[Pure Hiragana](#pure-hiragana)|65.00|460.20|Unknown|
-|[Novelties](#novelties)|55.00|389.40|Unknown|
-|[Novelties Text](#novelties-text)|45.00|318.60|Unknown|
-|[Spacebars](#spacebars)|20.00|141.60|Unknown|
+|[Base](#base)|125.00|885.00|1058|
+|[Nishi](#nishi)|65.00|460.20|482|
+|[Pure Hiragana](#pure-hiragana)|65.00|460.20|59|
+|[Novelties](#novelties)|55.00|389.40|640|
+|[Novelties Text](#novelties-text)|45.00|318.60|144|
+|[Spacebars](#spacebars)|20.00|141.60|466|
 
+<img src="{{ 'assets/images/gmk-keycaps/bluesamurai/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/bluesamurai/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(MD):** 125.00    **Price(CNY):** 885.00    **Quantity:** Unknown  
+**Price(MD):** 125.00    **Price(CNY):** 885.00    **Quantity:** 1058  
 <img src="{{ 'assets/images/gmk-keycaps/bluesamurai/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Nishi  
-**Price(MD):** 65.00    **Price(CNY):** 460.20    **Quantity:** Unknown  
+**Price(MD):** 65.00    **Price(CNY):** 460.20    **Quantity:** 482  
 <img src="{{ 'assets/images/gmk-keycaps/bluesamurai/kits_pics/nishi.jpg' | relative_url }}" alt="nishi" class="image featured">
 
 ### Pure Hiragana  
-**Price(MD):** 65.00    **Price(CNY):** 460.20    **Quantity:** Unknown  
+**Price(MD):** 65.00    **Price(CNY):** 460.20    **Quantity:** 59  
 <img src="{{ 'assets/images/gmk-keycaps/bluesamurai/kits_pics/pure-hiragana.jpg' | relative_url }}" alt="pure-hiragana" class="image featured">
 
 ### Novelties  
-**Price(MD):** 55.00    **Price(CNY):** 389.40    **Quantity:** Unknown  
+**Price(MD):** 55.00    **Price(CNY):** 389.40    **Quantity:** 640  
 <img src="{{ 'assets/images/gmk-keycaps/bluesamurai/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Novelties Text  
-**Price(MD):** 45.00    **Price(CNY):** 318.60    **Quantity:** Unknown  
+**Price(MD):** 45.00    **Price(CNY):** 318.60    **Quantity:** 144  
 <img src="{{ 'assets/images/gmk-keycaps/bluesamurai/kits_pics/novelties-text.jpg' | relative_url }}" alt="novelties-text" class="image featured">
 
 ### Spacebars  
-**Price(MD):** 20.00    **Price(CNY):** 141.60    **Quantity:** Unknown  
+**Price(MD):** 20.00    **Price(CNY):** 141.60    **Quantity:** 466  
 <img src="{{ 'assets/images/gmk-keycaps/bluesamurai/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 
@@ -59,7 +61,7 @@ NOTE: USD to CNY exchange rate is 7.08
 * Designer: RedSuns  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-06-12 ~ 2020-06-30  
-* Color Codes: 
+* Color Codes:  
 
 <table style="width:100%">
   <tr>
