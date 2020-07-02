@@ -10,10 +10,10 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=106793.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/L4BtJtsx/GMKmid-Rain-Progress200626y-Ext.png",
+    "order_graph": "https://i.postimg.cc/sxc7brLk/GMKmid-Rain-Status2006226y-Ext.png",
     "price_list":[
-        { "name": "Base", "price": "130", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebar", "price": "25", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "130", "price_cny": "", "quantity": "516", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "price_cny": "", "quantity": "158", "price_table_format": "","price_kit_format": "" }
     ]
 }
