@@ -21,37 +21,39 @@ NOTE: USD to CNY exchange rate is 7.08
 
 | Name          | Price(MD)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|125.00|885.00|Unknown|
-|[Nishi](#nishi)|65.00|460.20|Unknown|
-|[Pure Hiragana](#pure-hiragana)|65.00|460.20|Unknown|
-|[Novelties](#novelties)|55.00|389.40|Unknown|
-|[Novelties Text](#novelties-text)|45.00|318.60|Unknown|
-|[Spacebars](#spacebars)|20.00|141.60|Unknown|
+|[Base](#base)|125.00|885.00|648|
+|[Nishi](#nishi)|65.00|460.20|265|
+|[Pure Hiragana](#pure-hiragana)|65.00|460.20|53|
+|[Novelties](#novelties)|55.00|389.40|756|
+|[Novelties Text](#novelties-text)|45.00|318.60|77|
+|[Spacebars](#spacebars)|20.00|141.60|397|
 
+<img src="{{ 'assets/images/gmk-keycaps/redsamurair2/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/redsamurair2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(MD):** 125.00    **Price(CNY):** 885.00    **Quantity:** Unknown  
+**Price(MD):** 125.00    **Price(CNY):** 885.00    **Quantity:** 648  
 <img src="{{ 'assets/images/gmk-keycaps/redsamurair2/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Nishi  
-**Price(MD):** 65.00    **Price(CNY):** 460.20    **Quantity:** Unknown  
+**Price(MD):** 65.00    **Price(CNY):** 460.20    **Quantity:** 265  
 <img src="{{ 'assets/images/gmk-keycaps/redsamurair2/kits_pics/nishi.jpg' | relative_url }}" alt="nishi" class="image featured">
 
 ### Pure Hiragana  
-**Price(MD):** 65.00    **Price(CNY):** 460.20    **Quantity:** Unknown  
+**Price(MD):** 65.00    **Price(CNY):** 460.20    **Quantity:** 53  
 <img src="{{ 'assets/images/gmk-keycaps/redsamurair2/kits_pics/pure-hiragana.jpg' | relative_url }}" alt="pure-hiragana" class="image featured">
 
 ### Novelties  
-**Price(MD):** 55.00    **Price(CNY):** 389.40    **Quantity:** Unknown  
+**Price(MD):** 55.00    **Price(CNY):** 389.40    **Quantity:** 756  
 <img src="{{ 'assets/images/gmk-keycaps/redsamurair2/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Novelties Text  
-**Price(MD):** 45.00    **Price(CNY):** 318.60    **Quantity:** Unknown  
+**Price(MD):** 45.00    **Price(CNY):** 318.60    **Quantity:** 77  
 <img src="{{ 'assets/images/gmk-keycaps/redsamurair2/kits_pics/novelties-text.jpg' | relative_url }}" alt="novelties-text" class="image featured">
 
 ### Spacebars  
-**Price(MD):** 20.00    **Price(CNY):** 141.60    **Quantity:** Unknown  
+**Price(MD):** 20.00    **Price(CNY):** 141.60    **Quantity:** 397  
 <img src="{{ 'assets/images/gmk-keycaps/redsamurair2/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 
@@ -92,7 +94,5 @@ NOTE: USD to CNY exchange rate is 7.08
   </tr>
 </table>
 
-
-## Pictures
-<img src="{{ 'assets/images/gmk-keycaps/redsamurai/rendering_pics/2.jpeg' | relative_url }}" alt="2.jpeg" class="image featured">
-<img src="{{ 'assets/images/gmk-keycaps/redsamurai/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">
+## Pictures  
+<img src="{{ 'assets/images/gmk-keycaps/redsamurair2/rendering_pics/1.jpg' | relative_url }}" alt="1.jpg" class="image featured">
