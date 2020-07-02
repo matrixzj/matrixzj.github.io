@@ -8,7 +8,7 @@ nav_order: 340980
 
 # TA Royal Alpha 610 Typewriter R1 皇家打字机 R1
 
-ref link: [TA Royal Alpha 610 Typewriter R1 MD GB Link](https://www.massdrop.com/buy/gmk-ta-royal-alpha-typewriter-keycap-set/)
+ref link: [TA Royal Alpha 610 Typewriter R1 MD GB Link](https://drop.com/buy/gmk-ta-royal-alpha-typewriter-keycap-set-2)
 
 * [Price](#price)
 * [Kits](#kits)

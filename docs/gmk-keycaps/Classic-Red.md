@@ -8,7 +8,7 @@ nav_order: 300730
 
 # Classic Red 经典红
 
-ref link: [Classic Red GH GB Link]()  
+ref link: [Classic Red GH GB Link](https://geekhack.org/index.php?topic=107236.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  

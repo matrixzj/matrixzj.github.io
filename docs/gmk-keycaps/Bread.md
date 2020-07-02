@@ -8,7 +8,7 @@ nav_order: 300735
 
 # Bread 面包
 
-ref link: [Bread GH GB Link]()  
+ref link: [Bread GH GB Link](https://geekhack.org/index.php?topic=107200.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
