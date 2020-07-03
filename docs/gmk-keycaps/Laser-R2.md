@@ -78,7 +78,7 @@ NOTE: USD to CNY exchange rate is 7.07
 ## Info  
 * Designer: Mito  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-07-01 ~   
+* GB Time: 2020-07-01 ~ 2020-07-31  
 * Color Codes: Unknown  
 
 
