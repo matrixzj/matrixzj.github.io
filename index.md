@@ -21,6 +21,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2020
+* [Mizu 水](docs/sa-keycaps/Mizu/)
 * [DreamEater](docs/sa-keycaps/DreamEater/)
 * [2600](docs/sa-keycaps/2600/)
 * [Sail](docs/sa-keycaps/Sail/)
