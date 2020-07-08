@@ -131,6 +131,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Deku](docs/gmk-keycaps/Deku/)
 * [HammerHead 锤头鲨](docs/gmk-keycaps/HammerHead/)
 * [Nuclear Data 核子](docs/gmk-keycaps/Nuclear-Data/)
 * [Laser R2 激光R2](docs/gmk-keycaps/Laser-R2/)
