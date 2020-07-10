@@ -1,0 +1,27 @@
+{
+    "name": "Mecha-01",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "FU11.META1",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-07-10 ~ 2020-08-07",
+    "colorcodes":[
+        "|Alpha Base|Pantone PQ-267C|Pantone PQ-802C",
+        "|Alpha Berserk|Pantone PQ-267C|RO2",
+        "|Modifiers|CR|Pantone PQ-802C",
+        "|Accent 1|CR|RO2",
+        "|Accent 2|CR|V2"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=100396.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Berserk", "price": "115", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extras", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "65", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}

@@ -6,8 +6,30 @@ import os
 import json
 import requests
 import urllib
+import PIL
+from PIL import Image
 
 raw_data_file = sys.argv[1]
+
+def resize_file(source_file):
+    source_filename = source_file.split('/')[-1]
+    img = Image.open(source_file)
+    if img.mode == "RGBA":
+        rgb_img = img.convert('RGB')
+        target_RGB_file = '/tmp/tmp_rgb_' + source_filename
+        rgb_img.save(target_RGB_file)
+        os.rename(target_RGB_file, source_file)
+
+    while os.stat(source_file).st_size > 409600:
+        # print source_file 
+        finalw = img.size[0] * 0.7
+        finalh = img.size[1] * 0.7
+
+        img = img.resize((int(finalw), int(finalh)), PIL.Image.ANTIALIAS)
+
+        target_file = '/tmp/tmp_rgb_' + source_filename
+        img.save(target_file)
+        os.rename(target_file, source_file)
 
 class GenerateKeyCapPage(object):
     
@@ -281,10 +303,12 @@ class GenerateKeyCapPage(object):
             kit_file_jpg = "%s.jpg" % kit['name'].lower().replace(" ", "-").replace("/", "-")
             kit_file_png = "%s.png" % kit['name'].lower().replace(" ", "-").replace("/", "-")
             if os.path.isfile(os.path.join(self.keycap_asset_kits_path, kit_file_jpg)):
+                resize_file(os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_jpg)))
                 self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_jpg), os.getcwd()), kit['name'].lower().replace(" ", "-"))
                 self.keycap_page_kit += "\n\n"
 
             if os.path.isfile(os.path.join(self.keycap_asset_kits_path, kit_file_png)):
+                resize_file(os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_png)))
                 self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_png), os.getcwd()), kit['name'].lower().replace(" ", "-"))
                 self.keycap_page_kit += "\n\n"
 
@@ -323,6 +347,7 @@ class GenerateKeyCapPage(object):
                 color_files = [f for f in os.listdir(self.keycap_asset_path) if os.path.isfile(os.path.join(self.keycap_asset_path, f)) and 'color' in f]
                 for color_file in color_files:
                     color_file_path = os.path.join(self.keycap_asset_path, color_file)
+                    resize_file(color_file_path)
                     self.keycap_page_info += '\n<img src="{{ \'%s\' | relative_url }}" alt="color" class="image featured">\n' % os.path.relpath(color_file_path, os.getcwd())
             else:
                 self.keycap_page_info += "* Color Codes: Unknown  \n"
@@ -334,6 +359,7 @@ class GenerateKeyCapPage(object):
         picture_files = [f for f in os.listdir(self.keycap_asset_render_path) if os.path.isfile(os.path.join(self.keycap_asset_render_path, f))]
         for pic in picture_files:
             pic_file_path = os.path.join(self.keycap_asset_render_path, pic)
+            resize_file(pic_file_path)
             pic_file_relpath = os.path.relpath(pic_file_path, os.getcwd())
             self.keycap_page_picture += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">\n' % (pic_file_relpath, pic)
 
