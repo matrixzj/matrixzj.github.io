@@ -131,6 +131,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Sumi 墨绘](docs/gmk-keycaps/Sumi/)
 * [Prepress](docs/gmk-keycaps/Prepress/)
 * [Mecha-01](docs/gmk-keycaps/Mecha-01/)
 * [Deku](docs/gmk-keycaps/Deku/)

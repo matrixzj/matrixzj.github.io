@@ -1,0 +1,26 @@
+{
+    "name": "Sumi",
+    "cname": "墨绘",
+    "keycapstype": "GMK",
+    "designer": "FaKe_VirTual",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-07-15 ~ 2020-08-15",
+    "colorcodes":[
+        "|Alpha|RAL 5004|WS1",
+        "|Modifiers|WS1|RAL 5004",
+        "|Accent|WS1|RAL 3028"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=107513.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hiragana Alpha", "price": "70", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extension", "price": "43", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "43", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
