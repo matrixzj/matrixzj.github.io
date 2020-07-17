@@ -131,6 +131,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Prepress](docs/gmk-keycaps/Prepress/)
 * [Mecha-01](docs/gmk-keycaps/Mecha-01/)
 * [Deku](docs/gmk-keycaps/Deku/)
 * [HammerHead 锤头鲨](docs/gmk-keycaps/HammerHead/)
