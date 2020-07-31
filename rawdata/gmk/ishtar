@@ -4,19 +4,22 @@
     "keycapstype": "GMK",
     "designer": "Bachoo",
     "profile": "1-1-2-3-4-4",
-    "time": "2020-07-01 ~ 2020",
+    "time": "2020-07-28 ~ 2020-08-28",
     "colorcodes":[
+        "|Alpha|RAL 1015|RAL 3020",
+        "|Modifiers|RAL 9017|RAL 3020",
+        "|Accent|RAL 1017|RAL 3020"
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=107776.0",
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
     "price_list":[
-        { "name": "Base", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Kuro", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Tengoku", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "144.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Kuro", "price": "74.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Tengoku", "price": "26.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
     ]
 }

@@ -15,9 +15,9 @@
     "history_graph": "",
     "order_graph": "",
     "price_list":[
-        { "name": "Core", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebar", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "NorDeUk", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Core", "price": "129.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "51.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebar", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "NorDeUk", "price": "69.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
     ]
 }
