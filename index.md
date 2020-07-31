@@ -131,6 +131,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Evil Dolch](docs/gmk-keycaps/Evil-Dolch/)
 * [Pono](docs/gmk-keycaps/Pono/)
 * [Sumi 墨绘](docs/gmk-keycaps/Sumi/)
 * [Prepress](docs/gmk-keycaps/Prepress/)
