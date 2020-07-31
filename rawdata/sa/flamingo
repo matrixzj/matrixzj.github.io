@@ -1,0 +1,18 @@
+{
+    "name":"Flamingo",
+    "cname":"火烈鸟",
+    "keycapstype":"SA",
+    "designer":"hoq",
+    "profile":"1-1-2-3-4-3",
+    "time":"2020-07-28 ~ 2020-08-20",
+    "colorcodes":[
+    ],
+    "platform":"TAOBAO",
+    "link":"https://item.taobao.com/item.htm?spm=a2126o.success.0.0.1e004831BVm8Mt&id=623743516472",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Base", "price":"", "price_cny":"1190", "quantity":"", "price_table_format":"","price_kit_format":"" }
+    ]
+}
