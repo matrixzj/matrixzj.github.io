@@ -1,0 +1,24 @@
+{
+    "name": "Dolch R5",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "LightningXI",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-08-01 ~ 2020-09-04",
+    "colorcodes":[
+        "|Alpha|CC|CP",
+        "|Modifiers|N9|CP",
+        "|Accent|P3|CP"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=107843.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extension", "price": "65", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hangul", "price": "70", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Bento R2",
+    "cname": "便当R2",
+    "keycapstype": "GMK",
+    "designer": "biip",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-08-03 ~ 2020-08-31",
+    "colorcodes":[
+        "|Alpha|WS4|(RAL 240 50 25)19-02162",
+        "|Modifiers|(RAL 240 50 25)19-02162|19-03272",
+        "|Red Accent|19-03272|WS4",
+        "|Spacebars 1|19-03272|",
+        "|Spacebars 2|WS4|"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=107866.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Traditional Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Revival Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "70", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salmon", "price": "42", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Seafood", "price": "42", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Sakana", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Chopsticks", "price": "28", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA 1", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA 2", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA 3", "price": "60", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}

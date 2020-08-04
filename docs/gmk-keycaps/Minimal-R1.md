@@ -1,14 +1,14 @@
 ---
-title: Minimal 极简
+title: Minimal R1 极简白R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 310975
 ---
 
-# Minimal 极简
+# Minimal R1 极简白R1
 
-ref link: [Minimal GH GB Link](https://geekhack.org/index.php?topic=99624.0)
+ref link: [Minimal R1 GH GB Link](https://geekhack.org/index.php?topic=99624.0)
 
 * [Price](#price)
 * [Kits](#kits)

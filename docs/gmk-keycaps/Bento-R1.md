@@ -1,14 +1,14 @@
 ---
-title: Bento 便当
+title: Bento R1 便当R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 310985
 ---
 
-# Bento 便当
+# Bento R1 便当R1
 
-ref link: [Bento Novelkeys GB Link](https://novelkeys.xyz/collections/frontpage/products/gmk-bento-gb)
+ref link: [Bento R1 Novelkeys GB Link](https://novelkeys.xyz/collections/frontpage/products/gmk-bento-gb)
 
 * [Price](#price)
 * [Kits](#kits)
