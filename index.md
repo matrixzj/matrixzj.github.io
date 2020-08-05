@@ -74,7 +74,7 @@ Just buy it :)
 
 ### 2017
 * [Abyss 深渊](docs/sa-keycaps/Abyss/)
-* [Oblivion 湮没/码农](docs/sa-keycaps/Oblivion/)
+* [Oblivion R1 湮没/码农R1](docs/sa-keycaps/Oblivion-R1/)
 * [BloodShadow 黑红](docs/sa-keycaps/Blood-Shadow/)
 * [HyperFuse](docs/sa-keycaps/HyperFuse/)
 * [Carbon R2 大碳R2](docs/sa-keycaps/Carbon-R2/)

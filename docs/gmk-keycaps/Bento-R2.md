@@ -48,10 +48,10 @@ NOTE: USD to CNY exchange rate is 6.98
 
 ### Salmon  
 **Price(GH):** 42.00    **Price(CNY):** 293.16    **Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/salmon.jpg' | relative_url }}" alt="salmon" class="image featured">
-
 ### Seafood  
 **Price(GH):** 42.00    **Price(CNY):** 293.16    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/salmon.jpg' | relative_url }}" alt="salmon" class="image featured">
+
 ### Sakana  
 **Price(GH):** 55.00    **Price(CNY):** 383.90    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/sakana.jpg' | relative_url }}" alt="sakana" class="image featured">
