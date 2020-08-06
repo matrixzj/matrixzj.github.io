@@ -13,6 +13,7 @@ raw_data_file = sys.argv[1]
 
 def resize_file(source_file):
     source_filename = source_file.split('/')[-1]
+    print source_filename
     img = Image.open(source_file)
     if img.mode == "RGBA":
         rgb_img = img.convert('RGB')

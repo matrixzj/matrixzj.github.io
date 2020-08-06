@@ -34,20 +34,33 @@ NOTE: USD to CNY exchange rate is 6.97
 ## Kits  
 ### Base  
 **Price(GH):** 135.00    **Price(CNY):** 940.95    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/oni/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
+
 ### Novelties  
 **Price(GH):** 48.00    **Price(CNY):** 334.56    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/oni/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
+
 ### uwu  
 **Price(GH):** 38.00    **Price(CNY):** 264.86    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/oni/kits_pics/uwu.jpg' | relative_url }}" alt="uwu" class="image featured">
+
 ### Hiragana  
 **Price(GH):** 70.00    **Price(CNY):** 487.90    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/oni/kits_pics/hiragana.jpg' | relative_url }}" alt="hiragana" class="image featured">
+
 ### Accents  
 **Price(GH):** 42.00    **Price(CNY):** 292.74    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/oni/kits_pics/accents.jpg' | relative_url }}" alt="accents" class="image featured">
+
 ### Extension  
 **Price(GH):** 30.00    **Price(CNY):** 209.10    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/oni/kits_pics/extension.jpg' | relative_url }}" alt="extension" class="image featured">
+
 ### RAMA ESC  
 **Price(GH):** 45.00    **Price(CNY):** 313.65    **Quantity:** Unknown  
 ### RAMA Enter  
 **Price(GH):** 55.00    **Price(CNY):** 383.35    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/oni/kits_pics/rama.jpg' | relative_url }}" alt="rama" class="image featured">
 
 ## Info  
 * Designer: BapoDonu  
