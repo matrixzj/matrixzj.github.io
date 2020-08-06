@@ -133,6 +133,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Oni](docs/gmk-keycaps/Oni/)
 * [Bento R2 便当R2](docs/gmk-keycaps/Bento-R2/)
 * [Minimal R2 极简白R2](docs/gmk-keycaps/Minimal-R2/)
 * [Dolch R5](docs/gmk-keycaps/Dolch-R5/)
