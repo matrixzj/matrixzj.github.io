@@ -11,11 +11,11 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=105269.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.postimg.cc/qRVrMnKb/SA2600r2progress200705fin-Next.png",
+    "order_graph":"https://i.postimg.cc/3wD7T9k0/SA2600r2status200705fin-Next.png",
     "price_list":[
-        { "name":"Base", "price":"139.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "Numpad", "price":"29.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "YY Addon", "price":"24.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name":"Base", "price":"139.99", "price_cny":"", "quantity":"338", "price_table_format":"","price_kit_format":"" },
+        { "name": "Numpad", "price":"29.99", "price_cny":"", "quantity":"150", "price_table_format":"", "price_kit_format":""},
+        { "name": "YY Addon", "price":"24.99", "price_cny":"", "quantity":"184", "price_table_format":"", "price_kit_format":""}
     ]
 }

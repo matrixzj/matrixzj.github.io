@@ -10,12 +10,12 @@
     "platform": "GH",
     "link": "",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/QCsYQ9Zj/GMKbnyrd-Prog200703fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/PqgRqV6p/GMKbnyrd-Stat200703fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "120", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "40s", "price": "40", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Domino", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "120", "price_cny": "", "quantity": "1000", "price_table_format": "","price_kit_format": "" },
+        { "name": "40s", "price": "40", "price_cny": "", "quantity": "150", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "35", "price_cny": "", "quantity": "567", "price_table_format": "","price_kit_format": "" },
+        { "name": "Domino", "price": "35", "price_cny": "", "quantity": "507", "price_table_format": "","price_kit_format": "" }
     ]
 }
