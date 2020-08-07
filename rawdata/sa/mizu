@@ -10,12 +10,12 @@
     "platform":"GH",
     "link":"",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.postimg.cc/bvvThGH8/SA-R3mizu-Progress200801fin-Yext.png",
+    "order_graph":"https://i.postimg.cc/t4k5wd62/SA-R3mizu-Status200801fin-Yext.png",
     "price_list":[
-        { "name":"Base", "price":"139.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Homing", "price":"6.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "RAMA White", "price":"42.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "RAMA Blue", "price":"37.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name":"Base", "price":"139.99", "price_cny":"", "quantity":"1425", "price_table_format":"","price_kit_format":"" },
+        { "name":"Homing", "price":"6.99", "price_cny":"", "quantity":"100", "price_table_format":"","price_kit_format":"" },
+        { "name": "RAMA White", "price":"42.99", "price_cny":"", "quantity":"273", "price_table_format":"", "price_kit_format":""},
+        { "name": "RAMA Blue", "price":"37.99", "price_cny":"", "quantity":"469", "price_table_format":"", "price_kit_format":""}
     ]
 }

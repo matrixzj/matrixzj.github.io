@@ -21,57 +21,59 @@ NOTE: USD to CNY exchange rate is 7.07
 
 | Name          | Price(MD)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Cyberdeck](#cyberdeck)|110.00|777.70|Unknown|
-|[Synthwave](#synthwave)|99.00|699.93|Unknown|
-|[Gaijin](#gaijin)|65.00|459.55|Unknown|
-|[Kobe](#kobe)|65.00|459.55|Unknown|
-|[Blocknet](#blocknet)|65.00|459.55|Unknown|
-|[Novelties](#novelties)|45.00|318.15|Unknown|
-|[Turbo](#turbo)|45.00|318.15|Unknown|
-|[Extras](#extras)|50.00|353.50|Unknown|
-|[ISO](#iso)|60.00|424.20|Unknown|
-|[Bars](#bars)|18.00|127.26|Unknown|
+|[Cyberdeck](#cyberdeck)|110.00|777.70|3707|
+|[Synthwave](#synthwave)|99.00|699.93|851|
+|[Gaijin](#gaijin)|65.00|459.55|1181|
+|[Kobe](#kobe)|65.00|459.55|208|
+|[Blocknet](#blocknet)|65.00|459.55|972|
+|[Novelties](#novelties)|45.00|318.15|2377|
+|[Turbo](#turbo)|45.00|318.15|775|
+|[Extras](#extras)|50.00|353.50|349|
+|[ISO](#iso)|60.00|424.20|173|
+|[Bars](#bars)|18.00|127.26|1431|
 
+<img src="{{ 'assets/images/gmk-keycaps/laserr2/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/laserr2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Cyberdeck  
-**Price(MD):** 110.00    **Price(CNY):** 777.70    **Quantity:** Unknown  
+**Price(MD):** 110.00    **Price(CNY):** 777.70    **Quantity:** 3707  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/cyberdeck.jpg' | relative_url }}" alt="cyberdeck" class="image featured">
 
 ### Synthwave  
-**Price(MD):** 99.00    **Price(CNY):** 699.93    **Quantity:** Unknown  
+**Price(MD):** 99.00    **Price(CNY):** 699.93    **Quantity:** 851  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/synthwave.jpg' | relative_url }}" alt="synthwave" class="image featured">
 
 ### Gaijin  
-**Price(MD):** 65.00    **Price(CNY):** 459.55    **Quantity:** Unknown  
+**Price(MD):** 65.00    **Price(CNY):** 459.55    **Quantity:** 1181  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/gaijin.jpg' | relative_url }}" alt="gaijin" class="image featured">
 
 ### Kobe  
-**Price(MD):** 65.00    **Price(CNY):** 459.55    **Quantity:** Unknown  
+**Price(MD):** 65.00    **Price(CNY):** 459.55    **Quantity:** 208  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/kobe.jpg' | relative_url }}" alt="kobe" class="image featured">
 
 ### Blocknet  
-**Price(MD):** 65.00    **Price(CNY):** 459.55    **Quantity:** Unknown  
+**Price(MD):** 65.00    **Price(CNY):** 459.55    **Quantity:** 972  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/blocknet.jpg' | relative_url }}" alt="blocknet" class="image featured">
 
 ### Novelties  
-**Price(MD):** 45.00    **Price(CNY):** 318.15    **Quantity:** Unknown  
+**Price(MD):** 45.00    **Price(CNY):** 318.15    **Quantity:** 2377  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Turbo  
-**Price(MD):** 45.00    **Price(CNY):** 318.15    **Quantity:** Unknown  
+**Price(MD):** 45.00    **Price(CNY):** 318.15    **Quantity:** 775  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/turbo.jpg' | relative_url }}" alt="turbo" class="image featured">
 
 ### Extras  
-**Price(MD):** 50.00    **Price(CNY):** 353.50    **Quantity:** Unknown  
+**Price(MD):** 50.00    **Price(CNY):** 353.50    **Quantity:** 349  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/extras.jpg' | relative_url }}" alt="extras" class="image featured">
 
 ### ISO  
-**Price(MD):** 60.00    **Price(CNY):** 424.20    **Quantity:** Unknown  
+**Price(MD):** 60.00    **Price(CNY):** 424.20    **Quantity:** 173  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/iso.jpg' | relative_url }}" alt="iso" class="image featured">
 
 ### Bars  
-**Price(MD):** 18.00    **Price(CNY):** 127.26    **Quantity:** Unknown  
+**Price(MD):** 18.00    **Price(CNY):** 127.26    **Quantity:** 1431  
 <img src="{{ 'assets/images/gmk-keycaps/laserr2/kits_pics/bars.jpg' | relative_url }}" alt="bars" class="image featured">
 
 

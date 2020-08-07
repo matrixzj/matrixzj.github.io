@@ -11,13 +11,13 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=107236.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/8zw2M2Bc/GMKclassic-Red-Progress200801fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/HkpGJYMF/GMKclassic-Red-Status200801fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "120", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Red Alpha", "price": "85", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "25", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA X", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA O", "price": "", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "120", "price_cny": "", "quantity": "507", "price_table_format": "","price_kit_format": "" },
+        { "name": "Red Alpha", "price": "85", "price_cny": "", "quantity": "250", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "price_cny": "", "quantity": "100", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA X", "price": "", "price_cny": "", "quantity": "359", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA O", "price": "", "price_cny": "", "quantity": "256", "price_table_format": "","price_kit_format": "" }
     ]
 }
