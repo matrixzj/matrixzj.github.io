@@ -13,7 +13,6 @@ raw_data_file = sys.argv[1]
 
 def resize_file(source_file):
     source_filename = source_file.split('/')[-1]
-    print source_filename
     img = Image.open(source_file)
     if img.mode == "RGBA":
         rgb_img = img.convert('RGB')
@@ -91,6 +90,9 @@ class GenerateKeyCapPage(object):
 
         keycap_write_to_file = raw_input("Generate Page File? ")
         if keycap_write_to_file.lower().strip() == "y":
+            if os.path.isfile(self.keycap_filename_with_path):
+                tmp_file_name = os.path.join("/tmp", "%s.md" % self.info_dict['name'].replace(" ","-").replace("/", "-"))
+                os.rename(self.keycap_filename_with_path, tmp_file_name)
             fd_keycap_filename_with_path = open(self.keycap_filename_with_path, "w+")
             fd_keycap_filename_with_path.write(self.keycap_page_header.encode('utf-8'))
             
@@ -113,7 +115,9 @@ class GenerateKeyCapPage(object):
                 print "index entry: * [%s %s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['cname'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-').replace('/', '-'))
             else:
                 print "index entry: * [%s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-').replace('/', '-'))
-
+            if os.path.isfile(self.keycap_filename_with_path):
+                tmp_file_name = os.path.join("/tmp", "%s.md" % self.info_dict['name'].replace(" ","-").replace("/", "-"))
+                os.system("diff %s %s" % (self.keycap_filename_with_path, tmp_file_name))
         else:
             sys.exit(0)
 
@@ -149,8 +153,8 @@ class GenerateKeyCapPage(object):
         self.info_dict['rate'] = "%.2f" % float(exchange_rate)
 
     def download_graph(self, url, path):
-        proxies = {'http': 'http://10.0.1.77:443'}
-        res=urllib.urlopen(url, proxies=proxies)
+        # proxies = {'http': 'http://10.0.1.77:443'}
+        res=urllib.urlopen(url)
         con=res.read()
         outf=open(path,'wb')
         outf.write(con)

@@ -16,13 +16,13 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=101037.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/N02JmCcX/GMKhammerhead-Progress200731fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/mg5pcf0R/GMKhammerhead-Status200731fin-Yext.png",
     "price_list":[
-        { "name": "Base Dark", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Base Light", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Extras", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Euro", "price": "40", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base Dark", "price": "125", "price_cny": "", "quantity": "2216", "price_table_format": "","price_kit_format": "" },
+        { "name": "Base Light", "price": "125", "price_cny": "", "quantity": "1156", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "55", "price_cny": "", "quantity": "1583", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extras", "price": "30", "price_cny": "", "quantity": "1079", "price_table_format": "","price_kit_format": "" },
+        { "name": "Euro", "price": "40", "price_cny": "", "quantity": "150", "price_table_format": "","price_kit_format": "" }
     ]
 }
