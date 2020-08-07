@@ -21,6 +21,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2020
+* [Skyriter](docs/sa-keycaps/Skyriter/)
 * [Oblivion R2 码农R2](docs/sa-keycaps/Oblivion-R2/)
 * [Flamingo 火烈鸟](docs/sa-keycaps/Flamingo/)
 * [Mizu 水](docs/sa-keycaps/Mizu/)

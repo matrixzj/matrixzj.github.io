@@ -115,8 +115,8 @@ class GenerateKeyCapPage(object):
                 print "index entry: * [%s %s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['cname'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-').replace('/', '-'))
             else:
                 print "index entry: * [%s](docs/%s-keycaps/%s/)" % (self.info_dict['name'], self.info_dict['keycapstype'].lower(), self.info_dict['name'].replace(' ','-').replace('/', '-'))
-            if os.path.isfile(self.keycap_filename_with_path):
-                tmp_file_name = os.path.join("/tmp", "%s.md" % self.info_dict['name'].replace(" ","-").replace("/", "-"))
+            tmp_file_name = os.path.join("/tmp", "%s.md" % self.info_dict['name'].replace(" ","-").replace("/", "-"))
+            if os.path.isfile(self.keycap_filename_with_path) and os.path.isfile(tmp_file_name):
                 print "\n\nDiff result:\n"
                 os.system("diff %s %s" % (self.keycap_filename_with_path, tmp_file_name))
         else:

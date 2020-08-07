@@ -1,0 +1,25 @@
+{
+    "name":"Skyriter",
+    "cname":"",
+    "keycapstype":"SA",
+    "designer":"cijanzen",
+    "profile":"1-1-2-3-4-3",
+    "time":"2020-08-07 ~ 2020-08-28",
+    "colorcodes":[
+    ],
+    "platform":"GH",
+    "link":"",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Alphas", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "TKL", "price":"85", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Numpad", "price":"35", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Ortho", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Spacekeys", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Novelties", "price":"35", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "ISO", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "NorDe", "price":"40", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+    ]
+}
