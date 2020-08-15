@@ -21,6 +21,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2020
+* [Rocket 火箭](docs/sa-keycaps/Rocket/)
 * [Skyriter](docs/sa-keycaps/Skyriter/)
 * [Oblivion R2 码农R2](docs/sa-keycaps/Oblivion-R2/)
 * [Flamingo 火烈鸟](docs/sa-keycaps/Flamingo/)
