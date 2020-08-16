@@ -1,14 +1,14 @@
 ---
-title: Shoko 硝子
+title: Shoko R1 硝子R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 320885
 ---
 
-# Shoko 硝子
+# Shoko R1 硝子R1
 
-ref link: [Shoko ZF GB Link](http://www.zfrontier.com/m/5020)
+ref link: [Shoko R1 ZF GB Link](http://www.zfrontier.com/m/5020)
 
 * [Price](#price)
 * [Kits](#kits)
