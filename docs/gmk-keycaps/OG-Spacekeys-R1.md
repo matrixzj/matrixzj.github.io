@@ -1,14 +1,14 @@
 ---
-title: OG Spacekeys(L9/CC/CR split spacebars)
+title: OG Spacekeys R1(L9/CC/CR split spacebars)
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 310903
 ---
 
-# OG Spacekeys(L9/CC/CR split spacebars)
+# OG Spacekeys R1(L9/CC/CR split spacebars)
 
-ref link: [OG Spacekeys GH GB Link](https://geekhack.org/index.php?topic=100687.0)  
+ref link: [OG Spacekeys R1 GH GB Link](https://geekhack.org/index.php?topic=100687.0)  
 
 * [Price](#price)  
 * [Kits](#kits)  
