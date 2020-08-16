@@ -1,12 +1,12 @@
 ---
-title: Shoko R2 硝子
+title: Shoko R2 硝子R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 300650
 ---
 
-# Shoko R2 硝子
+# Shoko R2 硝子R2
 
 ref link: [Shoko R2 GH GB Link](https://geekhack.org/index.php?topic=108028.0)  
 * [Price](#price)  
