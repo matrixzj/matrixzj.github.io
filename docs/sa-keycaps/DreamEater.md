@@ -33,18 +33,18 @@ NOTE: GBP to CNY exchange rate is 8.81
 ## Kits  
 ### Base  
 **Price(UK MechSupply):** 94.00    **Price(CNY):** 828.14    **Quantity:** Unknown  
-<img src="{{ 'assets/images/sa-keycaps/dreameater/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
-
 ### Numpad  
 **Price(UK MechSupply):** 23.00    **Price(CNY):** 202.63    **Quantity:** Unknown  
+### NorDe  
+**Price(UK MechSupply):** 3.06    **Price(CNY):** 27.00    **Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/dreameater/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
+
 ### Novelties  
 **Price(UK MechSupply):** 32.00    **Price(CNY):** 281.92    **Quantity:** Unknown  
 ### Specialties  
 **Price(UK MechSupply):** 32.00    **Price(CNY):** 281.92    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/dreameater/kits_pics/specialties.jpg' | relative_url }}" alt="specialties" class="image featured">
 
-### NorDe  
-**Price(UK MechSupply):** 3.06    **Price(CNY):** 27.00    **Quantity:** Unknown  
 ### Ortholinear  
 **Price(UK MechSupply):** 60.00    **Price(CNY):** 528.60    **Quantity:** Unknown  
 ### Ergodox  
