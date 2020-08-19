@@ -10,14 +10,14 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=107358.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/DwF7CzCT/GMKdeku-Progress200807fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/wTD6cNQ2/GMKdeku-Status200807fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "49.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "40s", "price": "49.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Latin", "price": "74.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebar", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "1503", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "price_cny": "", "quantity": "903", "price_table_format": "","price_kit_format": "" },
+        { "name": "40s", "price": "49.99", "price_cny": "", "quantity": "113", "price_table_format": "","price_kit_format": "" },
+        { "name": "Latin", "price": "74.99", "price_cny": "", "quantity": "108", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebar", "price": "29.99", "price_cny": "", "quantity": "250", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "442", "price_table_format": "","price_kit_format": "" }
     ]
 }
