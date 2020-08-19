@@ -10,18 +10,18 @@
     "platform": "MD",
     "link": "https://drop.com/buy/drop-mito-gmk-laser-custom-keycap-set",
     "currencyunit": "USD",
-    "history_graph": "https://massdrop-s3.imgix.net/img_comment/1596588237826.796850298546324400851456-GMKlaserR2progress200731final.PNG",
-    "order_graph": "https://massdrop-s3.imgix.net/img_comment/1596588222206.484044175228592678279859-GMKlaserR2status200731final.PNG",
+    "history_graph": "https://massdrop-s3.imgix.net/img_comment/1596890090494.373766280924612099358034-GMKlaserR2progress200807final.PNG",
+    "order_graph": "https://massdrop-s3.imgix.net/img_comment/1596889915419.077058770838252338387394-GMKlaserR2status200807final.PNG",
     "price_list":[
-        { "name": "Cyberdeck", "price": "110", "price_cny": "", "quantity": "3707", "price_table_format": "","price_kit_format": "" },
-        { "name": "Synthwave", "price": "99", "price_cny": "", "quantity": "851", "price_table_format": "","price_kit_format": "" },
-        { "name": "Gaijin", "price": "65", "price_cny": "", "quantity": "1181", "price_table_format": "","price_kit_format": "" },
-        { "name": "Kobe", "price": "65", "price_cny": "", "quantity": "208", "price_table_format": "","price_kit_format": "" },
-        { "name": "Blocknet", "price": "65", "price_cny": "", "quantity": "972", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "45", "price_cny": "", "quantity": "2377", "price_table_format": "","price_kit_format": "" },
-        { "name": "Turbo", "price": "45", "price_cny": "", "quantity": "775", "price_table_format": "","price_kit_format": "" },
-        { "name": "Extras", "price": "50", "price_cny": "", "quantity": "349", "price_table_format": "","price_kit_format": "" },
-        { "name": "ISO", "price": "60", "price_cny": "", "quantity": "173", "price_table_format": "","price_kit_format": "" },
-        { "name": "Bars", "price": "18", "price_cny": "", "quantity": "1431", "price_table_format": "","price_kit_format": "" }
+        { "name": "Cyberdeck", "price": "110", "price_cny": "", "quantity": "4317", "price_table_format": "","price_kit_format": "" },
+        { "name": "Synthwave", "price": "99", "price_cny": "", "quantity": "1030", "price_table_format": "","price_kit_format": "" },
+        { "name": "Gaijin", "price": "65", "price_cny": "", "quantity": "1407", "price_table_format": "","price_kit_format": "" },
+        { "name": "Kobe", "price": "65", "price_cny": "", "quantity": "252", "price_table_format": "","price_kit_format": "" },
+        { "name": "Blocknet", "price": "65", "price_cny": "", "quantity": "1178", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "price_cny": "", "quantity": "2753", "price_table_format": "","price_kit_format": "" },
+        { "name": "Turbo", "price": "45", "price_cny": "", "quantity": "944", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extras", "price": "50", "price_cny": "", "quantity": "431", "price_table_format": "","price_kit_format": "" },
+        { "name": "ISO", "price": "60", "price_cny": "", "quantity": "203", "price_table_format": "","price_kit_format": "" },
+        { "name": "Bars", "price": "18", "price_cny": "", "quantity": "1703", "price_table_format": "","price_kit_format": "" }
     ]
 }

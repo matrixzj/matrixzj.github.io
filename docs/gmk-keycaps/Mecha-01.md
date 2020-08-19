@@ -21,32 +21,34 @@ NOTE: USD to CNY exchange rate is 7.00
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|125.00|875.00|Unknown|
-|[Berserk](#berserk)|115.00|805.00|Unknown|
-|[Extras](#extras)|52.00|364.00|Unknown|
-|[Novelties](#novelties)|65.00|455.00|Unknown|
-|[Spacebars](#spacebars)|30.00|210.00|Unknown|
+|[Base](#base)|125.00|875.00|2592|
+|[Berserk](#berserk)|115.00|805.00|524|
+|[Extras](#extras)|52.00|364.00|342|
+|[Novelties](#novelties)|65.00|455.00|1500|
+|[Spacebars](#spacebars)|30.00|210.00|700|
 
+<img src="{{ 'assets/images/gmk-keycaps/mecha-01/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/mecha-01/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 125.00    **Price(CNY):** 875.00    **Quantity:** Unknown  
+**Price(GH):** 125.00    **Price(CNY):** 875.00    **Quantity:** 2592  
 <img src="{{ 'assets/images/gmk-keycaps/mecha-01/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Berserk  
-**Price(GH):** 115.00    **Price(CNY):** 805.00    **Quantity:** Unknown  
+**Price(GH):** 115.00    **Price(CNY):** 805.00    **Quantity:** 524  
 <img src="{{ 'assets/images/gmk-keycaps/mecha-01/kits_pics/berserk.png' | relative_url }}" alt="berserk" class="image featured">
 
 ### Extras  
-**Price(GH):** 52.00    **Price(CNY):** 364.00    **Quantity:** Unknown  
+**Price(GH):** 52.00    **Price(CNY):** 364.00    **Quantity:** 342  
 <img src="{{ 'assets/images/gmk-keycaps/mecha-01/kits_pics/extras.png' | relative_url }}" alt="extras" class="image featured">
 
 ### Novelties  
-**Price(GH):** 65.00    **Price(CNY):** 455.00    **Quantity:** Unknown  
+**Price(GH):** 65.00    **Price(CNY):** 455.00    **Quantity:** 1500  
 <img src="{{ 'assets/images/gmk-keycaps/mecha-01/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 30.00    **Price(CNY):** 210.00    **Quantity:** Unknown  
+**Price(GH):** 30.00    **Price(CNY):** 210.00    **Quantity:** 700  
 <img src="{{ 'assets/images/gmk-keycaps/mecha-01/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 

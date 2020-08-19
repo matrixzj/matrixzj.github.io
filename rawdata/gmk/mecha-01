@@ -15,13 +15,13 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=100396.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/qqvrJ2BD/GMKmecha01progress200807fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/1tHP1vSN/GMKmecha01status200807fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Berserk", "price": "115", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Extras", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "65", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "125", "price_cny": "", "quantity": "2592", "price_table_format": "","price_kit_format": "" },
+        { "name": "Berserk", "price": "115", "price_cny": "", "quantity": "524", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extras", "price": "52", "price_cny": "", "quantity": "342", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "65", "price_cny": "", "quantity": "1500", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "price_cny": "", "quantity": "700", "price_table_format": "","price_kit_format": "" }
     ]
 }
