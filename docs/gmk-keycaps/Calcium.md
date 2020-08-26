@@ -1,12 +1,12 @@
 ---
-title: GB 透明
+title: Calcium 透明
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 300645
 ---
 
-# GB 透明
+# Calcium 透明
 
 ref link: [GB GH GB Link](https://geekhack.org/index.php?topic=108054.0)  
 * [Price](#price)  
