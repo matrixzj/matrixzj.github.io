@@ -135,7 +135,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
-* [GB 透明](docs/gmk-keycaps/GB/)
+* [Calcium 透明](docs/gmk-keycaps/Calcium/)
 * [Shoko R2 硝子R2](docs/gmk-keycaps/Shoko-R2/)
 * [Oni](docs/gmk-keycaps/Oni/)
 * [Bento R2 便当R2](docs/gmk-keycaps/Bento-R2/)
