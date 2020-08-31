@@ -27,7 +27,7 @@ NOTE: USD to RMB exchange rate is 6.69
 ## Kits
 ### Set
 **Price(GH):** 62.00    **Price(RMB):** 414.78    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/blackmodi/kits_pics/set.jpg' | relative_url }}" alt="Set" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/blackmodi/kits_pics/all.jpg' | relative_url }}" alt="All" class="image featured">
 
 
 ## Info
