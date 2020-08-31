@@ -33,7 +33,7 @@ NOTE: USD to RMB exchange rate is 6.79
 
 ### Hacker/Standard
 **Price(MD):** unknown    **Price(RMB):** unknown    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/3run/kits_pics/hacker-standard.png' | relative_url }}" alt="Hacker/Standard" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/3run/kits_pics/hacker-standard.jpeg' | relative_url }}" alt="Hacker/Standard" class="image featured">
 
 ### Extras
 **Price(MD):** unknown    **Price(RMB):** unknown    **Quantity:** unknown  
