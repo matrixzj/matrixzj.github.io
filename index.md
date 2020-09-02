@@ -135,6 +135,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Yuru](docs/gmk-keycaps/Yuru/)
 * [Posh](docs/gmk-keycaps/Posh/)
 * [Beta](docs/gmk-keycaps/Beta/)
 * [Calcium 透明](docs/gmk-keycaps/Calcium/)
