@@ -1,0 +1,24 @@
+{
+    "name": "Red Devils",
+    "cname": "红魔鬼",
+    "keycapstype": "GMK",
+    "designer": "Fredington",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-09-02 ~ 2020-09-30",
+    "colorcodes":[
+    ],
+    "platform": "",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hangul", "price": "65", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Taegukgi", "price": "32.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Dokkaebi Salvun", "price": "47", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Horangi RAMA", "price": "40", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Taeguk RAMA", "price": "47", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
