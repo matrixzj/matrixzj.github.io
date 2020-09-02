@@ -1,0 +1,26 @@
+{
+    "name": "Posh",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "annlovesbears",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-09-01 ~ 2020-10-02",
+    "colorcodes":[
+        "|Alpha|CP|RAL 5022",
+        "|Modifiers|RAL 5022|RAL 3015",
+        "|Accent|RAL 3015|RAL 5022"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=104603.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "139.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Alt Alphas", "price": "84.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Alt Mods", "price": "104.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Forties", "price": "49.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "43.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "47.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
