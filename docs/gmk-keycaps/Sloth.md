@@ -35,6 +35,8 @@ NOTE: USD to CNY exchange rate is 6.84
 
 ### Baby Sloth  
 **Price(GH):** 45.00    **Price(CNY):** 307.80    **Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/sloth/kits_pics/baby-sloth.jpg' | relative_url }}" alt="baby-sloth" class="image featured">
+
 ### Branches  
 **Price(GH):** 35.00    **Price(CNY):** 239.40    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/sloth/kits_pics/branches.jpg' | relative_url }}" alt="branches" class="image featured">
