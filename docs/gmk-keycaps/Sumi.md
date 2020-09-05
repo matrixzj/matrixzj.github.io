@@ -21,37 +21,42 @@ NOTE: USD to CNY exchange rate is 6.99
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|943.65|Unknown|
-|[Hiragana Alphas](#hiragana-alphas)|70.00|489.30|Unknown|
-|[Novelties](#novelties)|56.00|391.44|Unknown|
-|[Spacebars](#spacebars)|35.00|244.65|Unknown|
-|[Extension](#extension)|43.00|300.57|Unknown|
-|[RAMA](#rama)|43.00|300.57|Unknown|
+|[Base](#base)|135.00|943.65|3647|
+|[Hiragana Alphas](#hiragana-alphas)|70.00|489.30|647|
+|[Novelties](#novelties)|56.00|391.44|2308|
+|[Spacebars](#spacebars)|35.00|244.65|525|
+|[Extension](#extension)|43.00|300.57|162|
+|[RAMA Kanji](#rama-kanji)|43.00|300.57|411|
+|[RAMA Torii](#rama-torii)|43.00|300.57|1640|
 
+<img src="{{ 'assets/images/gmk-keycaps/sumi/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/sumi/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 135.00    **Price(CNY):** 943.65    **Quantity:** Unknown  
+**Price(GH):** 135.00    **Price(CNY):** 943.65    **Quantity:** 3647  
 <img src="{{ 'assets/images/gmk-keycaps/sumi/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Hiragana Alphas  
-**Price(GH):** 70.00    **Price(CNY):** 489.30    **Quantity:** Unknown  
+**Price(GH):** 70.00    **Price(CNY):** 489.30    **Quantity:** 647  
 <img src="{{ 'assets/images/gmk-keycaps/sumi/kits_pics/hiragana-alphas.jpg' | relative_url }}" alt="hiragana-alphas" class="image featured">
 
 ### Novelties  
-**Price(GH):** 56.00    **Price(CNY):** 391.44    **Quantity:** Unknown  
+**Price(GH):** 56.00    **Price(CNY):** 391.44    **Quantity:** 2308  
 <img src="{{ 'assets/images/gmk-keycaps/sumi/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(GH):** 35.00    **Price(CNY):** 244.65    **Quantity:** Unknown  
+**Price(GH):** 35.00    **Price(CNY):** 244.65    **Quantity:** 525  
 <img src="{{ 'assets/images/gmk-keycaps/sumi/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Extension  
-**Price(GH):** 43.00    **Price(CNY):** 300.57    **Quantity:** Unknown  
+**Price(GH):** 43.00    **Price(CNY):** 300.57    **Quantity:** 162  
 <img src="{{ 'assets/images/gmk-keycaps/sumi/kits_pics/extension.jpg' | relative_url }}" alt="extension" class="image featured">
 
-### RAMA  
-**Price(GH):** 43.00    **Price(CNY):** 300.57    **Quantity:** Unknown  
+### RAMA Kanji  
+**Price(GH):** 43.00    **Price(CNY):** 300.57    **Quantity:** 411  
+### RAMA Torii  
+**Price(GH):** 43.00    **Price(CNY):** 300.57    **Quantity:** 1640  
 <img src="{{ 'assets/images/gmk-keycaps/sumi/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 

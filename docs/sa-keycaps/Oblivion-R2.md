@@ -21,92 +21,94 @@ NOTE: USD to CNY exchange rate is 6.98
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Oblivion Alphas](#oblivion-alphas)|45.00|314.10|Unknown|
-|[Hagoromo Alphas](#hagoromo-alphas)|45.00|314.10|Unknown|
-|[Oblivion ASCII Alphas](#oblivion-ascii-alphas)|47.00|328.06|Unknown|
-|[Hagoromo ASCII Alphas](#hagoromo-ascii-alphas)|47.00|328.06|Unknown|
-|[Git Modifiers](#git-modifiers)|88.00|614.24|Unknown|
-|[Oblivion Modifiers](#oblivion-modifiers)|92.00|642.16|Unknown|
-|[Monochrome Modifiers](#monochrome-modifiers)|95.00|663.10|Unknown|
-|[Oblivion Numpad](#oblivion-numpad)|35.00|244.30|Unknown|
-|[Hagoromo Numpad](#hagoromo-numpad)|35.00|244.30|Unknown|
-|[Assembly](#assembly)|27.00|188.46|Unknown|
-|[40bit](#40bit)|70.00|488.60|Unknown|
-|[Ergodox](#ergodox)|90.00|628.20|Unknown|
-|[Alternate Function](#alternate-function)|15.00|104.70|Unknown|
-|[Arrows](#arrows)|8.00|55.84|Unknown|
-|[7u Spacebars](#7u-spacebars)|8.00|55.84|Unknown|
-|[Spacekeys](#spacekeys)|29.00|202.42|Unknown|
-|[VIM](#vim)|25.00|174.50|Unknown|
+|[Oblivion Alphas](#oblivion-alphas)|45.00|314.10|872|
+|[Hagoromo Alphas](#hagoromo-alphas)|45.00|314.10|1061|
+|[Oblivion ASCII Alphas](#oblivion-ascii-alphas)|47.00|328.06|286|
+|[Hagoromo ASCII Alphas](#hagoromo-ascii-alphas)|47.00|328.06|276|
+|[Git Modifiers](#git-modifiers)|88.00|614.24|1168|
+|[Oblivion Modifiers](#oblivion-modifiers)|92.00|642.16|629|
+|[Monochrome Modifiers](#monochrome-modifiers)|95.00|663.10|217|
+|[Oblivion Numpad](#oblivion-numpad)|35.00|244.30|299|
+|[Hagoromo Numpad](#hagoromo-numpad)|35.00|244.30|333|
+|[Assembly](#assembly)|27.00|188.46|162|
+|[40bit](#40bit)|70.00|488.60|54|
+|[Ergodox](#ergodox)|90.00|628.20|57|
+|[Alternate Function](#alternate-function)|15.00|104.70|249|
+|[Arrows](#arrows)|8.00|55.84|651|
+|[7u Spacebars](#7u-spacebars)|8.00|55.84|811|
+|[Spacekeys](#spacekeys)|29.00|202.42|166|
+|[VIM](#vim)|25.00|174.50|476|
 
+<img src="{{ 'assets/images/sa-keycaps/oblivionr2/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/oblivionr2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Oblivion Alphas  
-**Price(GH):** 45.00    **Price(CNY):** 314.10    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 314.10    **Quantity:** 872  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/oblivion-alphas.jpg' | relative_url }}" alt="oblivion-alphas" class="image featured">
 
 ### Hagoromo Alphas  
-**Price(GH):** 45.00    **Price(CNY):** 314.10    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 314.10    **Quantity:** 1061  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/hagoromo-alphas.jpg' | relative_url }}" alt="hagoromo-alphas" class="image featured">
 
 ### Oblivion ASCII Alphas  
-**Price(GH):** 47.00    **Price(CNY):** 328.06    **Quantity:** Unknown  
+**Price(GH):** 47.00    **Price(CNY):** 328.06    **Quantity:** 286  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/oblivion-ascii-alphas.jpg' | relative_url }}" alt="oblivion-ascii-alphas" class="image featured">
 
 ### Hagoromo ASCII Alphas  
-**Price(GH):** 47.00    **Price(CNY):** 328.06    **Quantity:** Unknown  
+**Price(GH):** 47.00    **Price(CNY):** 328.06    **Quantity:** 276  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/hagoromo-ascii-alphas.jpg' | relative_url }}" alt="hagoromo-ascii-alphas" class="image featured">
 
 ### Git Modifiers  
-**Price(GH):** 88.00    **Price(CNY):** 614.24    **Quantity:** Unknown  
+**Price(GH):** 88.00    **Price(CNY):** 614.24    **Quantity:** 1168  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/git-modifiers.jpg' | relative_url }}" alt="git-modifiers" class="image featured">
 
 ### Oblivion Modifiers  
-**Price(GH):** 92.00    **Price(CNY):** 642.16    **Quantity:** Unknown  
+**Price(GH):** 92.00    **Price(CNY):** 642.16    **Quantity:** 629  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/oblivion-modifiers.jpg' | relative_url }}" alt="oblivion-modifiers" class="image featured">
 
 ### Monochrome Modifiers  
-**Price(GH):** 95.00    **Price(CNY):** 663.10    **Quantity:** Unknown  
+**Price(GH):** 95.00    **Price(CNY):** 663.10    **Quantity:** 217  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/monochrome-modifiers.jpg' | relative_url }}" alt="monochrome-modifiers" class="image featured">
 
 ### Oblivion Numpad  
-**Price(GH):** 35.00    **Price(CNY):** 244.30    **Quantity:** Unknown  
+**Price(GH):** 35.00    **Price(CNY):** 244.30    **Quantity:** 299  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/oblivion-numpad.jpg' | relative_url }}" alt="oblivion-numpad" class="image featured">
 
 ### Hagoromo Numpad  
-**Price(GH):** 35.00    **Price(CNY):** 244.30    **Quantity:** Unknown  
+**Price(GH):** 35.00    **Price(CNY):** 244.30    **Quantity:** 333  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/hagoromo-numpad.jpg' | relative_url }}" alt="hagoromo-numpad" class="image featured">
 
 ### Assembly  
-**Price(GH):** 27.00    **Price(CNY):** 188.46    **Quantity:** Unknown  
+**Price(GH):** 27.00    **Price(CNY):** 188.46    **Quantity:** 162  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/assembly.jpg' | relative_url }}" alt="assembly" class="image featured">
 
 ### 40bit  
-**Price(GH):** 70.00    **Price(CNY):** 488.60    **Quantity:** Unknown  
+**Price(GH):** 70.00    **Price(CNY):** 488.60    **Quantity:** 54  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/40bit.jpg' | relative_url }}" alt="40bit" class="image featured">
 
 ### Ergodox  
-**Price(GH):** 90.00    **Price(CNY):** 628.20    **Quantity:** Unknown  
+**Price(GH):** 90.00    **Price(CNY):** 628.20    **Quantity:** 57  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/ergodox.jpg' | relative_url }}" alt="ergodox" class="image featured">
 
 ### Alternate Function  
-**Price(GH):** 15.00    **Price(CNY):** 104.70    **Quantity:** Unknown  
+**Price(GH):** 15.00    **Price(CNY):** 104.70    **Quantity:** 249  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/alternate-function.jpg' | relative_url }}" alt="alternate-function" class="image featured">
 
 ### Arrows  
-**Price(GH):** 8.00    **Price(CNY):** 55.84    **Quantity:** Unknown  
+**Price(GH):** 8.00    **Price(CNY):** 55.84    **Quantity:** 651  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/arrows.jpg' | relative_url }}" alt="arrows" class="image featured">
 
 ### 7u Spacebars  
-**Price(GH):** 8.00    **Price(CNY):** 55.84    **Quantity:** Unknown  
+**Price(GH):** 8.00    **Price(CNY):** 55.84    **Quantity:** 811  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/7u-spacebars.jpg' | relative_url }}" alt="7u-spacebars" class="image featured">
 
 ### Spacekeys  
-**Price(GH):** 29.00    **Price(CNY):** 202.42    **Quantity:** Unknown  
+**Price(GH):** 29.00    **Price(CNY):** 202.42    **Quantity:** 166  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/spacekeys.jpg' | relative_url }}" alt="spacekeys" class="image featured">
 
 ### VIM  
-**Price(GH):** 25.00    **Price(CNY):** 174.50    **Quantity:** Unknown  
+**Price(GH):** 25.00    **Price(CNY):** 174.50    **Quantity:** 476  
 <img src="{{ 'assets/images/sa-keycaps/oblivionr2/kits_pics/vim.jpg' | relative_url }}" alt="vim" class="image featured">
 
 

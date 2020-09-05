@@ -12,12 +12,12 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=107645.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/hSScYNXp/GMKevil-Dolch-Progress200828fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/k7PnQ2qr/GMKevil-Dolch-Status200828fin-Yext.png",
     "price_list":[
-        { "name": "Core", "price": "129.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "51.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebar", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "NorDeUk", "price": "69.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Core", "price": "129.99", "price_cny": "", "quantity": "1000", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "51.99", "price_cny": "", "quantity": "322", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebar", "price": "29.99", "price_cny": "", "quantity": "250", "price_table_format": "","price_kit_format": "" },
+        { "name": "NorDeUk", "price": "69.99", "price_cny": "", "quantity": "100", "price_table_format": "","price_kit_format": "" }
     ]
 }

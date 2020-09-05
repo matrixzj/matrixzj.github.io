@@ -13,14 +13,15 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=107513.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/B4nmkvzS/GMKsumi-Progress200815fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/fZKH8dBq/GMKsumi-Status200815fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "135", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Hiragana Alphas", "price": "70", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Extension", "price": "43", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "43", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "135", "price_cny": "", "quantity": "3647", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hiragana Alphas", "price": "70", "price_cny": "", "quantity": "647", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "56", "price_cny": "", "quantity": "2308", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "price_cny": "", "quantity": "525", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extension", "price": "43", "price_cny": "", "quantity": "162", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Kanji", "price": "43", "price_cny": "", "quantity": "411", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Torii", "price": "43", "price_cny": "", "quantity": "1640", "price_table_format": "","price_kit_format": "" }
     ]
 }

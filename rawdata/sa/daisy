@@ -1,0 +1,21 @@
+{
+    "name":"Daisy",
+    "cname":"雏菊",
+    "keycapstype":"SA",
+    "designer":"Dragon L",
+    "profile":"1-1-2-3-4-3",
+    "time":"2020-09-10 ~ 2020-09-30",
+    "colorcodes":[
+        "WCK/YCF/NN"
+    ],
+    "platform":"Taobao",
+    "link":"https://item.taobao.com/item.htm?id=625882252098",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name":"Base", "price":"", "price_cny":"823", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Numpad", "price":"", "price_cny":"252", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Novelties WKL", "price":"", "price_cny":"683", "quantity":"", "price_table_format":"", "price_kit_format":""}
+    ]
+}

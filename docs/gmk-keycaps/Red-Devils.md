@@ -8,7 +8,7 @@ nav_order: 300625
 
 # Red Devils 红魔鬼
 
-ref link: [Red Devils  GB Link]()  
+ref link: [Red Devils GH GB Link](https://geekhack.org/index.php?topic=108422.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
@@ -19,7 +19,7 @@ ref link: [Red Devils  GB Link]()
 
 NOTE: USD to CNY exchange rate is 6.84
 
-| Name          | Price()    |  Price(CNY) | Quantity |
+| Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|135.00|923.40|Unknown|
 |[Hangul](#hangul)|65.00|444.60|Unknown|
@@ -32,31 +32,31 @@ NOTE: USD to CNY exchange rate is 6.84
 
 ## Kits  
 ### Base  
-**Price():** 135.00    **Price(CNY):** 923.40    **Quantity:** Unknown  
+**Price(GH):** 135.00    **Price(CNY):** 923.40    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/reddevils/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Hangul  
-**Price():** 65.00    **Price(CNY):** 444.60    **Quantity:** Unknown  
+**Price(GH):** 65.00    **Price(CNY):** 444.60    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/reddevils/kits_pics/hangul.jpg' | relative_url }}" alt="hangul" class="image featured">
 
 ### Spacebars  
-**Price():** 30.00    **Price(CNY):** 205.20    **Quantity:** Unknown  
+**Price(GH):** 30.00    **Price(CNY):** 205.20    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/reddevils/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Taegukgi  
-**Price():** 32.99    **Price(CNY):** 225.65    **Quantity:** Unknown  
+**Price(GH):** 32.99    **Price(CNY):** 225.65    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/reddevils/kits_pics/taegukgi.jpg' | relative_url }}" alt="taegukgi" class="image featured">
 
 ### Dokkaebi Salvun  
-**Price():** 47.00    **Price(CNY):** 321.48    **Quantity:** Unknown  
+**Price(GH):** 47.00    **Price(CNY):** 321.48    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/reddevils/kits_pics/dokkaebi-salvun.png' | relative_url }}" alt="dokkaebi-salvun" class="image featured">
 
 ### Horangi RAMA  
-**Price():** 40.00    **Price(CNY):** 273.60    **Quantity:** Unknown  
+**Price(GH):** 40.00    **Price(CNY):** 273.60    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/reddevils/kits_pics/horangi-rama.jpg' | relative_url }}" alt="horangi-rama" class="image featured">
 
 ### Taeguk RAMA  
-**Price():** 47.00    **Price(CNY):** 321.48    **Quantity:** Unknown  
+**Price(GH):** 47.00    **Price(CNY):** 321.48    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/reddevils/kits_pics/taeguk-rama.jpg' | relative_url }}" alt="taeguk-rama" class="image featured">
 
 

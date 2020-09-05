@@ -135,6 +135,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Sloth](docs/gmk-keycaps/Sloth/)
+* [Shorebound](docs/gmk-keycaps/Shorebound/)
+* [Monokai Material](docs/gmk-keycaps/Monokai-Material/)
 * [Red Devils 红魔鬼](docs/gmk-keycaps/Red-Devils/)
 * [Yuru](docs/gmk-keycaps/Yuru/)
 * [Posh](docs/gmk-keycaps/Posh/)

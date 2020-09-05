@@ -21,27 +21,29 @@ NOTE: USD to CNY exchange rate is 7.00
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Core](#core)|129.99|909.93|Unknown|
-|[Novelties](#novelties)|51.99|363.93|Unknown|
-|[Spacebar](#spacebar)|29.99|209.93|Unknown|
-|[NorDeUk](#nordeuk)|69.99|489.93|Unknown|
+|[Core](#core)|129.99|909.93|1000|
+|[Novelties](#novelties)|51.99|363.93|322|
+|[Spacebar](#spacebar)|29.99|209.93|250|
+|[NorDeUk](#nordeuk)|69.99|489.93|100|
 
+<img src="{{ 'assets/images/gmk-keycaps/evildolch/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/evildolch/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Core  
-**Price(GH):** 129.99    **Price(CNY):** 909.93    **Quantity:** Unknown  
+**Price(GH):** 129.99    **Price(CNY):** 909.93    **Quantity:** 1000  
 <img src="{{ 'assets/images/gmk-keycaps/evildolch/kits_pics/core.jpg' | relative_url }}" alt="core" class="image featured">
 
 ### Novelties  
-**Price(GH):** 51.99    **Price(CNY):** 363.93    **Quantity:** Unknown  
+**Price(GH):** 51.99    **Price(CNY):** 363.93    **Quantity:** 322  
 <img src="{{ 'assets/images/gmk-keycaps/evildolch/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebar  
-**Price(GH):** 29.99    **Price(CNY):** 209.93    **Quantity:** Unknown  
+**Price(GH):** 29.99    **Price(CNY):** 209.93    **Quantity:** 250  
 <img src="{{ 'assets/images/gmk-keycaps/evildolch/kits_pics/spacebar.jpg' | relative_url }}" alt="spacebar" class="image featured">
 
 ### NorDeUk  
-**Price(GH):** 69.99    **Price(CNY):** 489.93    **Quantity:** Unknown  
+**Price(GH):** 69.99    **Price(CNY):** 489.93    **Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/evildolch/kits_pics/nordeuk.jpg' | relative_url }}" alt="nordeuk" class="image featured">
 
 
