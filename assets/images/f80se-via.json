@@ -8,7 +8,8 @@
     "labels": [
       "Split BackSpace",
       "Split LShift",
-      "Split RShift"
+      "Split RShift",
+      ["Bottom Row", "6.25u Standard", "7u WKL"]
     ],
     "keymap": [
       [
