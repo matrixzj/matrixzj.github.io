@@ -23,6 +23,9 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 [Github Page GH页面 https://enjoykeycap.github.io/](https://enjoykeycap.github.io/)    
 [Gitee Page 码云页面 https://enjoykeycap.gitee.io/](https://enjoykeycap.gitee.io/)   <---------- recommended for China Users,推荐墙内兄弟用这个   
 
+<img src="{{ 'assets/images/astro.gif' | relative_url }}" alt="Astro" height="48" width="48">   
+
+
 ## SA KeyCaps
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
