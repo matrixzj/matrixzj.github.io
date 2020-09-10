@@ -20,8 +20,8 @@ Just buy it :)
 # IMPORTANT NOTES 重要通知
 For a well-known reason, this page is always unable to open for my dear China MainLand friends. In order to solve this issue and url alignment, I will migrate this GH page to:   
 由于众所周知的原因，在墙里面的兄弟经常说这个页面打不开。为解决这个问题，也为了保持网址上的一致性，决定将这个页面迁移到以下：  
-[Github Page GH页面](https://enjoykeycap.github.io/)    
-[Gitee Page 码云页面](https://enjoykeycap.gitee.io/)   <---------- recommended for China Users,推荐墙内兄弟用这个   
+[Github Page GH页面 https://enjoykeycap.github.io/](https://enjoykeycap.github.io/)    
+[Gitee Page 码云页面 https://enjoykeycap.gitee.io/](https://enjoykeycap.gitee.io/)   <---------- recommended for China Users,推荐墙内兄弟用这个   
 
 ## SA KeyCaps
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
