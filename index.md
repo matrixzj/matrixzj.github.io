@@ -30,6 +30,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2020
+* [Dual Shot](docs/sa-keycaps/Dual-Shot/)
 * [Daisy 雏菊](docs/sa-keycaps/Daisy/)
 * [Rocket 火箭](docs/sa-keycaps/Rocket/)
 * [Skyriter](docs/sa-keycaps/Skyriter/)
