@@ -6,6 +6,7 @@
     "profile":"1-1-2-3-4-3",
     "time":"2020-09-15 ~ 2020-10-15",
     "colorcodes":[
+        "GC/Pantone 13-1406TCX"
     ],
     "platform":"GH",
     "link":"",
@@ -21,8 +22,10 @@
         { "name": "Numpad", "price":"35", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
         { "name": "Spacebars", "price":"30", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
         { "name": "UwU Novelties", "price":"35", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "UK", "price":"", "price_cny":"25", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "NorDe", "price":"", "price_cny":"32", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Bundle", "price":"", "price_cny":"360", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name": "UK", "price":"25", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "NorDe", "price":"32", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "Bundle", "price":"360", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "RAMA UwU", "price":"42", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
+        { "name": "RAMA Moon and Star", "price":"42", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
     ]
 }

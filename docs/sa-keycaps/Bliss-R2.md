@@ -29,9 +29,11 @@ NOTE: USD to CNY exchange rate is 6.78
 |[Numpad](#numpad)|35.00|237.30|Unknown|
 |[Spacebars](#spacebars)|30.00|203.40|Unknown|
 |[UwU Novelties](#uwu-novelties)|35.00|237.30|Unknown|
-|[UK](#uk)|3.69|25.00|Unknown|
-|[NorDe](#norde)|4.72|32.00|Unknown|
-|[Bundle](#bundle)|53.10|360.00|Unknown|
+|[UK](#uk)|25.00|169.50|Unknown|
+|[NorDe](#norde)|32.00|216.96|Unknown|
+|[Bundle](#bundle)|360.00|2440.80|Unknown|
+|[RAMA UwU](#rama-uwu)|42.00|284.76|Unknown|
+|[RAMA Moon and Star](#rama-moon-and-star)|42.00|284.76|Unknown|
 
 
 ## Kits  
@@ -66,21 +68,33 @@ NOTE: USD to CNY exchange rate is 6.78
 ### UwU Novelties  
 **Price(GH):** 35.00    **Price(CNY):** 237.30    **Quantity:** Unknown  
 ### UK  
-**Price(GH):** 3.69    **Price(CNY):** 25.00    **Quantity:** Unknown  
+**Price(GH):** 25.00    **Price(CNY):** 169.50    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/blissr2/kits_pics/uk.png' | relative_url }}" alt="uk" class="image featured">
 
 ### NorDe  
-**Price(GH):** 4.72    **Price(CNY):** 32.00    **Quantity:** Unknown  
+**Price(GH):** 32.00    **Price(CNY):** 216.96    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/blissr2/kits_pics/norde.png' | relative_url }}" alt="norde" class="image featured">
 
-### Bundle (Alphas+Pink Alphas+UwU Alphas+Modifiers+Pink Modifiers+Numpad+Spacebars+UwU Novelties)
-**Price(GH):** 53.10    **Price(CNY):** 360.00    **Quantity:** Unknown  
+### Bundle  
+**Price(GH):** 360.00    **Price(CNY):** 2440.80    **Quantity:** Unknown  
+Alphas/Pink Alphas/UwU Alphas/Modifiers/Pink Modifiers/Numpad/Spacebars/UwU Novelties included
+
+### RAMA UwU  
+**Price(GH):** 42.00    **Price(CNY):** 284.76    **Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/blissr2/kits_pics/rama-uwu.png' | relative_url }}" alt="rama-uwu" class="image featured">
+
+### RAMA Moon and Star  
+**Price(GH):** 42.00    **Price(CNY):** 284.76    **Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/blissr2/kits_pics/rama-moon-and-star.png' | relative_url }}" alt="rama-moon-and-star" class="image featured">
+
 
 ## Info  
 * Designer: Minterly  
 * Profile: SA 1-1-2-3-4-3  
 * GB Time: 2020-09-15 ~ 2020-10-15  
-* Color Codes:    
+* Color Codes:  
+
+<img src="{{ 'assets/images/sa-keycaps/blissr2/color.jpg' | relative_url }}" alt="color" class="image featured">
 <table style="width:100%">
   <tr>
     <th>ColorCodes</th>
@@ -88,11 +102,11 @@ NOTE: USD to CNY exchange rate is 6.78
   </tr>
   <tr>
     <th>GC</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GC.png' | relative_url }}" alt="colorGC" height="75" width="170"></th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GC.png' | relative_url }}" alt="Color_GC" height="75" width="170"></th>
   </tr>
   <tr>
-    <th>Pantone 13-1406</th>
-    <th></th>
+    <th>Pantone 13-1406TCX</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_Pantone 13-1406TCX.png' | relative_url }}" alt="Color_Pantone 13-1406TCX" height="75" width="170"></th>
   </tr>
 </table>
 

@@ -68,7 +68,7 @@ NOTE: USD to RMB exchange rate is 6.88
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GC.png' | relative_url }}" alt="colorGC" height="75" width="170"></th>
   </tr>
   <tr>
-    <th>Pantone 13-1406</th>
+    <th>Pantone 13-1406TCX</th>
     <th></th>
   </tr>
 </table>
