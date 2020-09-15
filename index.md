@@ -30,6 +30,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2020
+* [Bliss R2](docs/sa-keycaps/Bliss-R2/)
 * [Jadeite 翠玉白菜](docs/sa-keycaps/Jadeite/)
 * [Dual Shot](docs/sa-keycaps/Dual-Shot/)
 * [Daisy 雏菊](docs/sa-keycaps/Daisy/)
@@ -49,7 +50,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [Yuri 尤里](docs/sa-keycaps/Yuri/)
 * [Royal Navy 皇家海军](docs/sa-keycaps/Royal-Navy/)
 * [128K AE](docs/sa-keycaps/128K-AE/)
-* [Bliss](docs/sa-keycaps/Bliss/)
+* [Bliss R1](docs/sa-keycaps/Bliss-R1/)
 * [Novelties Halloween 万圣节个性](docs/sa-keycaps/Novelties-Halloween/)
 * [Fluffy Clouds](docs/sa-keycaps/Fluffy-Clouds/)
 * [Magic City](docs/sa-keycaps/Magic-City/)

@@ -1,14 +1,14 @@
 ---
-title: Bliss
+title: Bliss R1
 layout: default
 icon: fa-keyboard-o
 parent: SA Keycaps
 nav_order: 310935
 ---
 
-# Bliss
+# Bliss R1
 
-ref link: [Bliss GH GB Link](https://geekhack.org/index.php?topic=101407.0)
+ref link: [Bliss R1 GH GB Link](https://geekhack.org/index.php?topic=101407.0)
 
 * [Price](#price)
 * [Kits](#kits)
