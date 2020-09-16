@@ -8,7 +8,7 @@ nav_order: 300935
 
 # Bliss R2 
 
-ref link: [Bliss R2 GH GB Link]()  
+ref link: [Bliss R2 GH GB Link](https://geekhack.org/index.php?topic=108608)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
@@ -67,6 +67,8 @@ NOTE: USD to CNY exchange rate is 6.78
 
 ### UwU Novelties  
 **Price(GH):** 35.00    **Price(CNY):** 237.30    **Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/blissr2/kits_pics/uwu-novelties.png' | relative_url }}" alt="uwu-novelties" class="image featured">
+
 ### UK  
 **Price(GH):** 25.00    **Price(CNY):** 169.50    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/blissr2/kits_pics/uk.png' | relative_url }}" alt="uk" class="image featured">
@@ -106,7 +108,7 @@ Alphas/Pink Alphas/UwU Alphas/Modifiers/Pink Modifiers/Numpad/Spacebars/UwU Nove
   </tr>
   <tr>
     <th>Pantone 13-1406TCX</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_Pantone 13-1406TCX.png' | relative_url }}" alt="Color_Pantone 13-1406TCX" height="75" width="170"></th>
+    <th></th>
   </tr>
 </table>
 
