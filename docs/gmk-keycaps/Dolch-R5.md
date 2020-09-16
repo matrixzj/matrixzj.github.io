@@ -21,27 +21,29 @@ NOTE: USD to CNY exchange rate is 6.98
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|942.30|Unknown|
-|[Extension](#extension)|65.00|453.70|Unknown|
-|[Hangul](#hangul)|70.00|488.60|Unknown|
-|[RAMA](#rama)|45.00|314.10|Unknown|
+|[Base](#base)|135.00|942.30|1020|
+|[Extension](#extension)|65.00|453.70|360|
+|[Hangul](#hangul)|70.00|488.60|256|
+|[RAMA](#rama)|45.00|314.10|432|
 
+<img src="{{ 'assets/images/gmk-keycaps/dolchr5/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/dolchr5/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 135.00    **Price(CNY):** 942.30    **Quantity:** Unknown  
+**Price(GH):** 135.00    **Price(CNY):** 942.30    **Quantity:** 1020  
 <img src="{{ 'assets/images/gmk-keycaps/dolchr5/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Extension  
-**Price(GH):** 65.00    **Price(CNY):** 453.70    **Quantity:** Unknown  
+**Price(GH):** 65.00    **Price(CNY):** 453.70    **Quantity:** 360  
 <img src="{{ 'assets/images/gmk-keycaps/dolchr5/kits_pics/extension.png' | relative_url }}" alt="extension" class="image featured">
 
 ### Hangul  
-**Price(GH):** 70.00    **Price(CNY):** 488.60    **Quantity:** Unknown  
+**Price(GH):** 70.00    **Price(CNY):** 488.60    **Quantity:** 256  
 <img src="{{ 'assets/images/gmk-keycaps/dolchr5/kits_pics/hangul.png' | relative_url }}" alt="hangul" class="image featured">
 
 ### RAMA  
-**Price(GH):** 45.00    **Price(CNY):** 314.10    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 314.10    **Quantity:** 432  
 <img src="{{ 'assets/images/gmk-keycaps/dolchr5/kits_pics/rama.jpg' | relative_url }}" alt="rama" class="image featured">
 
 

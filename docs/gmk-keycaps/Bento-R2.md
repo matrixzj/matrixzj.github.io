@@ -21,55 +21,57 @@ NOTE: USD to CNY exchange rate is 6.98
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Traditional Base](#traditional-base)|125.00|872.50|Unknown|
-|[Revival Base](#revival-base)|125.00|872.50|Unknown|
-|[Latin Alphas](#latin-alphas)|70.00|488.60|Unknown|
-|[Salmon](#salmon)|42.00|293.16|Unknown|
-|[Seafood](#seafood)|42.00|293.16|Unknown|
-|[Sakana](#sakana)|55.00|383.90|Unknown|
-|[Chopsticks](#chopsticks)|28.00|195.44|Unknown|
-|[RAMA 1](#rama-1)|56.00|390.88|Unknown|
-|[RAMA 2](#rama-2)|56.00|390.88|Unknown|
-|[RAMA 3](#rama-3)|60.00|418.80|Unknown|
+|[Traditional Base](#traditional-base)|125.00|872.50|5001|
+|[Revival Base](#revival-base)|125.00|872.50|1083|
+|[Latin Alphas](#latin-alphas)|70.00|488.60|339|
+|[Salmon](#salmon)|42.00|293.16|3196|
+|[Seafood](#seafood)|42.00|293.16|873|
+|[Sakana](#sakana)|55.00|383.90|384|
+|[Chopsticks](#chopsticks)|28.00|195.44|1500|
+|[RAMA 1](#rama-1)|56.00|390.88|522|
+|[RAMA 2](#rama-2)|56.00|390.88|412|
+|[RAMA 3](#rama-3)|60.00|418.80|318|
 
+<img src="{{ 'assets/images/gmk-keycaps/bentor2/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/bentor2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Traditional Base  
-**Price(GH):** 125.00    **Price(CNY):** 872.50    **Quantity:** Unknown  
+**Price(GH):** 125.00    **Price(CNY):** 872.50    **Quantity:** 5001  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/traditional-base.jpg' | relative_url }}" alt="traditional-base" class="image featured">
 
 ### Revival Base  
-**Price(GH):** 125.00    **Price(CNY):** 872.50    **Quantity:** Unknown  
+**Price(GH):** 125.00    **Price(CNY):** 872.50    **Quantity:** 1083  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/revival-base.jpg' | relative_url }}" alt="revival-base" class="image featured">
 
 ### Latin Alphas  
-**Price(GH):** 70.00    **Price(CNY):** 488.60    **Quantity:** Unknown  
+**Price(GH):** 70.00    **Price(CNY):** 488.60    **Quantity:** 339  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/latin-alphas.jpg' | relative_url }}" alt="latin-alphas" class="image featured">
 
 ### Salmon  
-**Price(GH):** 42.00    **Price(CNY):** 293.16    **Quantity:** Unknown  
-### Seafood  
-**Price(GH):** 42.00    **Price(CNY):** 293.16    **Quantity:** Unknown  
+**Price(GH):** 42.00    **Price(CNY):** 293.16    **Quantity:** 3196  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/salmon.jpg' | relative_url }}" alt="salmon" class="image featured">
 
+### Seafood  
+**Price(GH):** 42.00    **Price(CNY):** 293.16    **Quantity:** 873  
 ### Sakana  
-**Price(GH):** 55.00    **Price(CNY):** 383.90    **Quantity:** Unknown  
+**Price(GH):** 55.00    **Price(CNY):** 383.90    **Quantity:** 384  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/sakana.jpg' | relative_url }}" alt="sakana" class="image featured">
 
 ### Chopsticks  
-**Price(GH):** 28.00    **Price(CNY):** 195.44    **Quantity:** Unknown  
+**Price(GH):** 28.00    **Price(CNY):** 195.44    **Quantity:** 1500  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/chopsticks.jpg' | relative_url }}" alt="chopsticks" class="image featured">
 
 ### RAMA 1  
-**Price(GH):** 56.00    **Price(CNY):** 390.88    **Quantity:** Unknown  
+**Price(GH):** 56.00    **Price(CNY):** 390.88    **Quantity:** 522  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/rama-1.jpg' | relative_url }}" alt="rama-1" class="image featured">
 
 ### RAMA 2  
-**Price(GH):** 56.00    **Price(CNY):** 390.88    **Quantity:** Unknown  
+**Price(GH):** 56.00    **Price(CNY):** 390.88    **Quantity:** 412  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/rama-2.jpg' | relative_url }}" alt="rama-2" class="image featured">
 
 ### RAMA 3  
-**Price(GH):** 60.00    **Price(CNY):** 418.80    **Quantity:** Unknown  
+**Price(GH):** 60.00    **Price(CNY):** 418.80    **Quantity:** 318  
 <img src="{{ 'assets/images/gmk-keycaps/bentor2/kits_pics/rama-3.jpg' | relative_url }}" alt="rama-3" class="image featured">
 
 

@@ -12,19 +12,19 @@
     "link": "https://geekhack.org/index.php?topic=107868.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/1mJt0tjV/GMKminimal2status200902fin-Yext.png",
     "price_list":[
-        { "name": "Standard", "price": "99.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Numbers", "price": "34.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Addition", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Obscure", "price": "39.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Command", "price": "19.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Colour", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Mono", "price": "34.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Norde", "price": "54.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Black", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Red Square", "price": "43", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Green Triangle", "price": "43", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Blue Circle", "price": "43", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Standard", "price": "99.99", "price_cny": "", "quantity": "5043", "price_table_format": "","price_kit_format": "" },
+        { "name": "Numbers", "price": "34.99", "price_cny": "", "quantity": "744", "price_table_format": "","price_kit_format": "" },
+        { "name": "Addition", "price": "29.99", "price_cny": "", "quantity": "561", "price_table_format": "","price_kit_format": "" },
+        { "name": "Obscure", "price": "39.99", "price_cny": "", "quantity": "784", "price_table_format": "","price_kit_format": "" },
+        { "name": "Command", "price": "19.99", "price_cny": "", "quantity": "615", "price_table_format": "","price_kit_format": "" },
+        { "name": "Colour", "price": "29.99", "price_cny": "", "quantity": "2000", "price_table_format": "","price_kit_format": "" },
+        { "name": "Mono", "price": "34.99", "price_cny": "", "quantity": "427", "price_table_format": "","price_kit_format": "" },
+        { "name": "Norde", "price": "54.99", "price_cny": "", "quantity": "181", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Black", "price": "56", "price_cny": "", "quantity": "1075", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Red Square", "price": "43", "price_cny": "", "quantity": "236", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Green Triangle", "price": "43", "price_cny": "", "quantity": "217", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Blue Circle", "price": "43", "price_cny": "", "quantity": "265", "price_table_format": "","price_kit_format": "" }
     ]
 }

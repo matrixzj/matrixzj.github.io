@@ -15,18 +15,18 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=107866.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/0PWvM1Bv/GMKbento-R2progress200831fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/yBTsKZhk/GMKbento-R2status200831fin-Yext.png",
     "price_list":[
-        { "name": "Traditional Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Revival Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Latin Alphas", "price": "70", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Salmon", "price": "42", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Seafood", "price": "42", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Sakana", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Chopsticks", "price": "28", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA 1", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA 2", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA 3", "price": "60", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Traditional Base", "price": "125", "price_cny": "", "quantity": "5001", "price_table_format": "","price_kit_format": "" },
+        { "name": "Revival Base", "price": "125", "price_cny": "", "quantity": "1083", "price_table_format": "","price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "70", "price_cny": "", "quantity": "339", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salmon", "price": "42", "price_cny": "", "quantity": "3196", "price_table_format": "","price_kit_format": "" },
+        { "name": "Seafood", "price": "42", "price_cny": "", "quantity": "873", "price_table_format": "","price_kit_format": "" },
+        { "name": "Sakana", "price": "55", "price_cny": "", "quantity": "384", "price_table_format": "","price_kit_format": "" },
+        { "name": "Chopsticks", "price": "28", "price_cny": "", "quantity": "1500", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA 1", "price": "56", "price_cny": "", "quantity": "522", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA 2", "price": "56", "price_cny": "", "quantity": "412", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA 3", "price": "60", "price_cny": "", "quantity": "318", "price_table_format": "","price_kit_format": "" }
     ]
 }
