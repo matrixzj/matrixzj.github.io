@@ -34,7 +34,7 @@ NOTE: USD to CNY exchange rate is 6.98
 |[RAMA Green Triangle](#rama-green-triangle)|43.00|300.14|217|
 |[RAMA Blue Circle](#rama-blue-circle)|43.00|300.14|265|
 
-
+<img src="{{ 'assets/images/gmk-keycaps/minimalr2/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/minimalr2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  

@@ -11,7 +11,7 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=107868.0",
     "currencyunit": "USD",
-    "history_graph": "",
+    "history_graph": "https://i.postimg.cc/Y20SdH5n/GMKminimal2progress200902fin-YNext.png",
     "order_graph": "https://i.postimg.cc/1mJt0tjV/GMKminimal2status200902fin-Yext.png",
     "price_list":[
         { "name": "Standard", "price": "99.99", "price_cny": "", "quantity": "5043", "price_table_format": "","price_kit_format": "" },
