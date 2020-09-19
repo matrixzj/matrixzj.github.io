@@ -30,19 +30,13 @@ NOTE: USD to RMB exchange rate is 6.80
 ## Kits
 ### Base
 **Price(GH):** 135.00    **Price(RMB):** 918.00    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/solarizeddark/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
-
-### Color
-**Price(GH):** 60.00    **Price(RMB):** 408.00    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/solarizeddark/kits_pics/color.png' | relative_url }}" alt="Color" class="image featured">
-
 ### Spacebar
 **Price(GH):** 22.00    **Price(RMB):** 149.60    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/solarizeddark/kits_pics/spacebar.png' | relative_url }}" alt="Spacebar" class="image featured">
-
+### Color
+**Price(GH):** 60.00    **Price(RMB):** 408.00    **Quantity:** unknown  
 ### Ergodox
 **Price(GH):** 50.00    **Price(RMB):** 340.00    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/solarizeddark/kits_pics/ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/solarizeddark/kits_pics/all.jpg' | relative_url }}" alt="Ergodox" class="image featured">
 
 
 ## Info
