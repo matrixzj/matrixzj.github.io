@@ -30,6 +30,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2020
+* [Nightlight](docs/sa-keycaps/Nightlight/)
 * [Bliss R2](docs/sa-keycaps/Bliss-R2/)
 * [Jadeite 翠玉白菜](docs/sa-keycaps/Jadeite/)
 * [Dual Shot](docs/sa-keycaps/Dual-Shot/)
