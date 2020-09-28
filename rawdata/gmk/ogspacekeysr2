@@ -10,11 +10,11 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=107883.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/Ch1PYZBL/GMKog-Spacekeys2lines200904fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/SyVTwLKv/GMKog-Spacekeys2bars200904fin-Yext.png",
     "price_list":[
-        { "name": "CCN9", "price": "25", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "CPCR", "price": "25", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "L9U9", "price": "25", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "CCN9", "price": "25", "price_cny": "", "quantity": "500", "price_table_format": "","price_kit_format": "" },
+        { "name": "CPCR", "price": "25", "price_cny": "", "quantity": "615", "price_table_format": "","price_kit_format": "" },
+        { "name": "L9U9", "price": "25", "price_cny": "", "quantity": "500", "price_table_format": "","price_kit_format": "" }
     ]
 }

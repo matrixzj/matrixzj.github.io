@@ -21,23 +21,24 @@ NOTE: USD to CNY exchange rate is 6.97
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[CCN9](#ccn9)|25.00|174.25|Unknown|
-|[CPCR](#cpcr)|25.00|174.25|Unknown|
-|[L9U9](#l9u9)|25.00|174.25|Unknown|
-|ALL above 3|69.00|480.93|Unknown|
+|[CCN9](#ccn9)|25.00|174.25|500|
+|[CPCR](#cpcr)|25.00|174.25|615|
+|[L9U9](#l9u9)|25.00|174.25|500|
 
+<img src="{{ 'assets/images/gmk-keycaps/ogspacekeysr2/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/ogspacekeysr2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### CCN9  
-**Price(GH):** 25.00    **Price(CNY):** 174.25    **Quantity:** Unknown  
+**Price(GH):** 25.00    **Price(CNY):** 174.25    **Quantity:** 500  
 <img src="{{ 'assets/images/gmk-keycaps/ogspacekeysr2/kits_pics/ccn9.png' | relative_url }}" alt="ccn9" class="image featured">
 
 ### CPCR  
-**Price(GH):** 25.00    **Price(CNY):** 174.25    **Quantity:** Unknown  
+**Price(GH):** 25.00    **Price(CNY):** 174.25    **Quantity:** 615  
 <img src="{{ 'assets/images/gmk-keycaps/ogspacekeysr2/kits_pics/cpcr.png' | relative_url }}" alt="cpcr" class="image featured">
 
 ### L9U9  
-**Price(GH):** 25.00    **Price(CNY):** 174.25    **Quantity:** Unknown  
+**Price(GH):** 25.00    **Price(CNY):** 174.25    **Quantity:** 500  
 <img src="{{ 'assets/images/gmk-keycaps/ogspacekeysr2/kits_pics/l9u9.png' | relative_url }}" alt="l9u9" class="image featured">
 
 
@@ -45,7 +46,7 @@ NOTE: USD to CNY exchange rate is 6.97
 * Designer: hineybush  
 * Profile: GMK R4  
 * GB Time: 2020-08-04 ~ 2020-09-04  
-* Color Codes: 
+* Color Codes:
 |Base Color
 | :-------------:
 |L9
