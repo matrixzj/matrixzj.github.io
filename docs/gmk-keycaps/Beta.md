@@ -21,22 +21,24 @@ NOTE: USD to CNY exchange rate is 6.87
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Beta Base](#beta-base)|138.00|948.06|Unknown|
-|[JS Base](#js-base)|138.00|948.06|Unknown|
-|[RAMA](#rama)|38.00|261.06|Unknown|
+|[Beta Base](#beta-base)|138.00|948.06|501|
+|[JS Base](#js-base)|138.00|948.06|1083|
+|[RAMA](#rama)|38.00|261.06|366|
 
+<img src="{{ 'assets/images/gmk-keycaps/beta/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/beta/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Beta Base  
-**Price(GH):** 138.00    **Price(CNY):** 948.06    **Quantity:** Unknown  
+**Price(GH):** 138.00    **Price(CNY):** 948.06    **Quantity:** 501  
 <img src="{{ 'assets/images/gmk-keycaps/beta/kits_pics/beta-base.jpg' | relative_url }}" alt="beta-base" class="image featured">
 
 ### JS Base  
-**Price(GH):** 138.00    **Price(CNY):** 948.06    **Quantity:** Unknown  
+**Price(GH):** 138.00    **Price(CNY):** 948.06    **Quantity:** 1083  
 <img src="{{ 'assets/images/gmk-keycaps/beta/kits_pics/js-base.jpg' | relative_url }}" alt="js-base" class="image featured">
 
 ### RAMA  
-**Price(GH):** 38.00    **Price(CNY):** 261.06    **Quantity:** Unknown  
+**Price(GH):** 38.00    **Price(CNY):** 261.06    **Quantity:** 366  
 <img src="{{ 'assets/images/gmk-keycaps/beta/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 

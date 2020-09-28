@@ -14,11 +14,11 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=108290.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/Dv0H7LJD/GMKbeta-Lines200921fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/9WJs3JMZ/GMKbeta-Bars200921fin-Yext.png",
     "price_list":[
-        { "name": "Beta Base", "price": "138", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "JS Base", "price": "138", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Beta Base", "price": "138", "price_cny": "", "quantity": "501", "price_table_format": "","price_kit_format": "" },
+        { "name": "JS Base", "price": "138", "price_cny": "", "quantity": "1083", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "366", "price_table_format": "","price_kit_format": "" }
     ]
 }
