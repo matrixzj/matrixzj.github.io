@@ -1,0 +1,26 @@
+{
+    "name": "Red Dragon",
+    "cname": "西方龙",
+    "keycapstype": "GMK",
+    "designer": "Rensuya",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-10-01 ~ 2020-11-01",
+    "colorcodes":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Zhuyin", "price": "61.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Accent", "price": "25.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Micro", "price": "32.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Dragon", "price": "37.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Red Fire", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Gold Fire", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Red Dragon", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Gold Dragon", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
