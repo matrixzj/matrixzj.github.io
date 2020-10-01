@@ -1,0 +1,38 @@
+{
+    "name":"Carbon R3",
+    "cname":"大碳R3",
+    "keycapstype":"SA",
+    "designer":"T0mb3ry",
+    "profile":"1-1-2-3-4-3",
+    "time":"2020-10-01 ~ 2020-10-30",
+    "colorcodes":[
+        "OBC/WBO/GQM"
+    ],
+    "platform":"MD",
+    "link":"https://drop.com/buy/carbon",
+    "currencyunit":"USD",
+    "history_graph":"",
+    "order_graph":"",
+    "price_list":[
+        { "name": "Alphas", "price": "45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Carbonski", "price": "45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Dual Alphas", "price": "45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Modifiers", "price": "95", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Bones Modifiers", "price": "95", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Dual Modifiers", "price": "95", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Numpad", "price": "42", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Bones Numpad", "price": "35", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "40s", "price": "55", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Ergodox", "price": "70", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "ISO UK", "price": "40", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "XTRA", "price": "25", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Carbon Novelties", "price": "34", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Warning Signs", "price": "22", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Rolling Bones", "price": "70", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Half-Life Lambda", "price": "9", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "625u Spacebars", "price": "12", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "7u Spacebars", "price": "12", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Beige Spacekeys", "price": "9", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Gray Spacekeys", "price": "9", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+    ]
+}

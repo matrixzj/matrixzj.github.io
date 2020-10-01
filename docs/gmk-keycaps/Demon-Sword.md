@@ -8,7 +8,7 @@ nav_order: 300605
 
 # Demon Sword 
 
-ref link: [Demon Sword GH GB Link]()  
+ref link: [Demon Sword GH GB Link](https://geekhack.org/index.php?topic=108843.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
