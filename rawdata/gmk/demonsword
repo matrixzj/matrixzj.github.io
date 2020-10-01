@@ -1,0 +1,26 @@
+{
+    "name": "Demon Sword",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Raravin",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-10-01 ~",
+    "colorcodes":[
+        "|Alpha|RAL 9010|RAL 5026",
+        "|Modifiers|RAL 5026|RAL 9010",
+        "|Modifiers|RAL 3002|RAL 9010"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Oath", "price": "74.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hull", "price": "34.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "44.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "40mm Cannon", "price": "44.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}

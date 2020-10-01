@@ -149,6 +149,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Demon Sword](docs/gmk-keycaps/Demon-Sword/)
 * [Sloth](docs/gmk-keycaps/Sloth/)
 * [Shorebound](docs/gmk-keycaps/Shorebound/)
 * [Monokai Material](docs/gmk-keycaps/Monokai-Material/)
