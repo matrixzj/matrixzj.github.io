@@ -150,6 +150,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Space Cadet R2 太空学员R2](docs/gmk-keycaps/Space-Cadet-R2/)
 * [Red Dragon 西方龙](docs/gmk-keycaps/Red-Dragon/)
 * [Demon Sword](docs/gmk-keycaps/Demon-Sword/)
 * [Sloth](docs/gmk-keycaps/Sloth/)
@@ -322,7 +323,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [MR Sleeves Addon ](docs/gmk-keycaps/MR-Sleeves-Addon/)
 * [Tokyo Nights 东京之夜](docs/gmk-keycaps/Tokyo-Nights/)
 * [Modern Dolch 摩登豆](docs/gmk-keycaps/Modern-Dolch/)
-* [Space Cadet 太空学员](docs/gmk-keycaps/Space-Cadet/)
+* [Space Cadet R1 太空学员R1](docs/gmk-keycaps/Space-Cadet-R1/)
 * [Metaverse](docs/gmk-keycaps/Metaverse/)
 * [N6TU1-CR](docs/gmk-keycaps/N6TU1-CR/)
 * [Necro 死灵](docs/gmk-keycaps/Necro/)

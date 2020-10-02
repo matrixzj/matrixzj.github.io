@@ -1,12 +1,12 @@
 ---
-title: Space Cadet 太空学员
+title: Space Cadet R1 太空学员R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 320915
 ---
 
-# Space Cadet 太空学员
+# Space Cadet R1 太空学员R1
 
 ref link: [Space Cadet MD GB Link](https://www.massdrop.com/buy/massdrop-x-oblotzky-gmk-space-cadet-keycap-set)
 
