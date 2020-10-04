@@ -110,8 +110,8 @@ NOTE: USD to RMB exchange rate is 6.87
     <th>Sample</th>
   </tr>
   <tr>
-    <th>WBO</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WBO.png' | relative_url }}" alt="colorWBO" height="75" width="170"></th>
+    <th>WCK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="colorWCK" height="75" width="170"></th>
   </tr>
   <tr>
     <th>YCF</th>

@@ -1,0 +1,23 @@
+{
+    "name": "Noire",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "gasp",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-10-04 ~ 2020-11-04",
+    "colorcodes":[
+        "|CR|RAL1013"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=108890.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "140", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salvun Alu", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salvun Brass", "price": "50", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salvun Copper", "price": "50", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
