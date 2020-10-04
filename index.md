@@ -160,7 +160,6 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [Yuru](docs/gmk-keycaps/Yuru/)
 * [Posh](docs/gmk-keycaps/Posh/)
 * [Beta](docs/gmk-keycaps/Beta/)
-* [Calcium 透明](docs/gmk-keycaps/Calcium/)
 * [Shoko R2 硝子R2](docs/gmk-keycaps/Shoko-R2/)
 * [Oni](docs/gmk-keycaps/Oni/)
 * [Bento R2 便当R2](docs/gmk-keycaps/Bento-R2/)
