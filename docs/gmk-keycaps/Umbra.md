@@ -55,9 +55,9 @@ NOTE: USD to CNY exchange rate is 7.04
 
 | |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
-|Alpha|RAL 270 30 10|CP
-|Modifiers|RAL 270 20 10|RAL 240 60 40
-|Accents|RAL 240 60 40|RAL 270 20 10
+|Alpha|RAL 260 30 10|CP
+|Modifiers|RAL 260 20 05|RAL 240 60 40
+|Accents|RAL 240 60 40|RAL 260 20 05
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/umbra/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">

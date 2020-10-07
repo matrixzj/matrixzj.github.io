@@ -21,12 +21,12 @@ NOTE: USD to RMB exchange rate is 6.21
 
 | Name          | Price(MD)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|99.00|614.79|unknown|
+|[Base](#base)|99.00|614.79|1059|
 
 
 ## Kits
 ### Base
-**Price(MD):** 99.00    **Price(RMB):** 614.79    **Quantity:** unknown  
+**Price(MD):** 99.00    **Price(RMB):** 614.79    **Quantity:** 1059  
 <img src="{{ 'assets/images/gmk-keycaps/triumphadler/kits_pics/base.jpeg' | relative_url }}" alt="Base" class="image featured">
 
 

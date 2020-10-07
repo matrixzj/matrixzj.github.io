@@ -13,13 +13,14 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=108227.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/jKhzVMP8/GMKyuru-Lines201001fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/R9mcbk66/GMKyuru-Bars201001fin-Yext.png",
     "price_list":[
-        { "name": "Latin Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Hiragana Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Extensions", "price": "39.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "59.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Smile", "price": "25.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Latin Base", "price": "134.99", "price_cny": "", "quantity": "673", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hiragana Base", "price": "134.99", "price_cny": "", "quantity": "1072", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extensions", "price": "39.99", "price_cny": "", "quantity": "177", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "59.99", "price_cny": "", "quantity": "926", "price_table_format": "","price_kit_format": "" },
+        { "name": "Smile", "price": "25.99", "price_cny": "", "quantity": "354", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "523", "price_table_format": "","price_kit_format": "" }
     ]
 }

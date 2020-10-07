@@ -10,13 +10,13 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=108427.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/DFh2Qv8D/GMKsloth-Lines201002fin-YNext.png",
+    "order_graph": "https://i.postimg.cc/wqX9KPb0/GMKsloth-Bars201002fin-Yext.png",
     "price_list":[
-        { "name": "Lazy AF", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Baby Sloth", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Branches", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Slovelties", "price": "58", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Lazy AF", "price": "125", "price_cny": "", "quantity": "1104", "price_table_format": "","price_kit_format": "" },
+        { "name": "Baby Sloth", "price": "45", "price_cny": "", "quantity": "82", "price_table_format": "","price_kit_format": "" },
+        { "name": "Branches", "price": "35", "price_cny": "", "quantity": "319", "price_table_format": "","price_kit_format": "" },
+        { "name": "Slovelties", "price": "58", "price_cny": "", "quantity": "672", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "price_cny": "", "quantity": "507", "price_table_format": "","price_kit_format": "" }
     ]
 }

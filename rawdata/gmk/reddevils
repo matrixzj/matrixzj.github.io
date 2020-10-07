@@ -10,15 +10,15 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=108422.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://postimg.cc/SnzcfSjP",
+    "order_graph": "https://postimg.cc/MvLyBMZR",
     "price_list":[
-        { "name": "Base", "price": "135", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Hangul", "price": "65", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "30", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Taegukgi", "price": "32.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Dokkaebi Salvun", "price": "47", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Horangi RAMA", "price": "40", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Taeguk RAMA", "price": "47", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "135", "price_cny": "", "quantity": "567", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hangul", "price": "65", "price_cny": "", "quantity": "105", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "price_cny": "", "quantity": "124", "price_table_format": "","price_kit_format": "" },
+        { "name": "Taegukgi", "price": "32.99", "price_cny": "", "quantity": "334", "price_table_format": "","price_kit_format": "" },
+        { "name": "Dokkaebi Salvun", "price": "47", "price_cny": "", "quantity": "171", "price_table_format": "","price_kit_format": "" },
+        { "name": "Horangi RAMA", "price": "40", "price_cny": "", "quantity": "282", "price_table_format": "","price_kit_format": "" },
+        { "name": "Taeguk RAMA", "price": "47", "price_cny": "", "quantity": "400", "price_table_format": "","price_kit_format": "" }
     ]
 }
