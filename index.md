@@ -150,6 +150,8 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Retrocast](docs/gmk-keycaps/Retrocast/)
+* [Rainy Day 雨天](docs/gmk-keycaps/Rainy-Day/)
 * [Noire](docs/gmk-keycaps/Noire/)
 * [Space Cadet R2 太空学员R2](docs/gmk-keycaps/Space-Cadet-R2/)
 * [Red Dragon 西方龙](docs/gmk-keycaps/Red-Dragon/)

@@ -1,0 +1,24 @@
+{
+    "name": "Rainy Day",
+    "cname": "雨天",
+    "keycapstype": "GMK",
+    "designer": "Owl",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-10-06 ~ 2020-11-16",
+    "colorcodes":[
+        "|Alpha|Pantone PQ-15-4101TCX|Pantone PQ-10393C",
+        "|Modifiers|Pantone PQ-10393C|Pantone 9481C",
+        "|Accent|Pantone 9481C|Pantone PQ-10393C"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Sidewalks", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hangul", "price": "39.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Petrichor", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
