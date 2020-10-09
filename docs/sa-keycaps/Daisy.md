@@ -37,6 +37,8 @@ NOTE: USD to CNY exchange rate is 6.83
 
 ### Novelties WKL  
 **Price(Taobao):** 100.00    **Price(CNY):** 683.00    **Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/daisy/kits_pics/novelties-wkl.jpg' | relative_url }}" alt="novelties-wkl" class="image featured">
+
 
 ## Info  
 * Designer: Dragon L  
