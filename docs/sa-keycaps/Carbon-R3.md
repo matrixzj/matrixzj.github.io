@@ -37,10 +37,10 @@ NOTE: USD to CNY exchange rate is 6.79
 |[Warning Signs](#warning-signs)|22.00|149.38|Unknown|
 |[Rolling Bones](#rolling-bones)|70.00|475.30|Unknown|
 |[Half-Life Lambda](#half-life-lambda)|9.00|61.11|Unknown|
-|[625u Spacebars](#625u-spacebars)|12.00|81.48|Unknown|
-|[7u Spacebars](#7u-spacebars)|12.00|81.48|Unknown|
-|[Beige Spacekeys](#beige-spacekeys)|9.00|61.11|Unknown|
-|[Gray Spacekeys](#gray-spacekeys)|9.00|61.11|Unknown|
+|[625u Spacebars](#625u-spacebars)|10.00|67.90|Unknown|
+|[7u Spacebars](#7u-spacebars)|10.00|67.90|Unknown|
+|[Beige Spacekeys](#beige-spacekeys)|12.00|81.48|Unknown|
+|[Gray Spacekeys](#gray-spacekeys)|12.00|81.48|Unknown|
 
 
 ## Kits  
@@ -109,19 +109,19 @@ NOTE: USD to CNY exchange rate is 6.79
 <img src="{{ 'assets/images/sa-keycaps/carbonr3/kits_pics/half-life-lambda.jpg' | relative_url }}" alt="half-life-lambda" class="image featured">
 
 ### 625u Spacebars  
-**Price(MD):** 12.00    **Price(CNY):** 81.48    **Quantity:** Unknown  
+**Price(MD):** 10.00    **Price(CNY):** 67.90    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/carbonr3/kits_pics/625u-spacebars.jpg' | relative_url }}" alt="625u-spacebars" class="image featured">
 
 ### 7u Spacebars  
-**Price(MD):** 12.00    **Price(CNY):** 81.48    **Quantity:** Unknown  
+**Price(MD):** 10.00    **Price(CNY):** 67.90    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/carbonr3/kits_pics/7u-spacebars.jpg' | relative_url }}" alt="7u-spacebars" class="image featured">
 
 ### Beige Spacekeys  
-**Price(MD):** 9.00    **Price(CNY):** 61.11    **Quantity:** Unknown  
+**Price(MD):** 12.00    **Price(CNY):** 81.48    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/carbonr3/kits_pics/beige-spacekeys.jpg' | relative_url }}" alt="beige-spacekeys" class="image featured">
 
 ### Gray Spacekeys  
-**Price(MD):** 9.00    **Price(CNY):** 61.11    **Quantity:** Unknown  
+**Price(MD):** 12.00    **Price(CNY):** 81.48    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/carbonr3/kits_pics/gray-spacekeys.jpg' | relative_url }}" alt="gray-spacekeys" class="image featured">
 
 

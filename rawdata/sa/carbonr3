@@ -30,9 +30,9 @@
         { "name": "Warning Signs", "price": "22", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
         { "name": "Rolling Bones", "price": "70", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
         { "name": "Half-Life Lambda", "price": "9", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "625u Spacebars", "price": "12", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "7u Spacebars", "price": "12", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "Beige Spacekeys", "price": "9", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "Gray Spacekeys", "price": "9", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
+        { "name": "625u Spacebars", "price": "10", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "7u Spacebars", "price": "10", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Beige Spacekeys", "price": "12", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
+        { "name": "Gray Spacekeys", "price": "12", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" }
     ]
 }
