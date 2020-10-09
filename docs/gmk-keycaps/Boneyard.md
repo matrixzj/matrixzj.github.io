@@ -8,7 +8,7 @@ nav_order: 300760
 
 # Boneyard 
 
-ref link: [Boneyard GH GB Link]()  
+ref link: [Boneyard GH GB Link](https://geekhack.org/index.php?topic=104968.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  

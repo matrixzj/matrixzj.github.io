@@ -8,7 +8,7 @@ nav_order: 300835
 
 # Nautilus R2 鹦鹉螺R2
 
-ref link: [Nautilus R2 GH GB Link]()  
+ref link: [Nautilus R2 GH GB Link](https://geekhack.org/index.php?topic=105453.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  

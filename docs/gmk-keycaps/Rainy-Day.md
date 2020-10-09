@@ -8,7 +8,7 @@ nav_order: 300590
 
 # Rainy Day 雨天
 
-ref link: [Rainy Day GH GB Link]()  
+ref link: [Rainy Day GH GB Link](https://geekhack.org/index.php?topic=108957.0)  
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  

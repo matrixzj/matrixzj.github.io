@@ -1,0 +1,28 @@
+{
+    "name": "Grand Prix",
+    "cname": "大奖赛",
+    "keycapstype": "GMK",
+    "designer": "zekth",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-10-09 ~ 2020-10-30",
+    "colorcodes":[
+        "|Alpha|RAL 280 80 10|RAL 270 30 15",
+        "|Modifiers|RAL 270 30 15|RAL 110 80 70",
+        "|Accent|RAL 110 80 70|RAL 270 30 15",
+        "|Orange Accent|RAL 2005|RAL 270 30 15"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Addon", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "125CC", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Le Mans", "price": "68", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Olive Wreath", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}

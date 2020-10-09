@@ -15,16 +15,16 @@
         "|Modifiers 6|RAL 280 20 10|RAL 330 60 25"
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=106874.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/XYmq9qgG/GMKnord-Progress200708b.png",
+    "order_graph": "https://i.postimg.cc/Vkd5SnXP/GMKnord-Status200708b.png",
     "price_list":[
-        { "name": "Base", "price": "125", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebar", "price": "20", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelty", "price": "50", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "NorDE", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Assembly", "price": "150", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Numpad", "price": "35", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "125", "price_cny": "", "quantity": "1040", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebar", "price": "20", "price_cny": "", "quantity": "165", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelty", "price": "50", "price_cny": "", "quantity": "435", "price_table_format": "","price_kit_format": "" },
+        { "name": "NorDE", "price": "55", "price_cny": "", "quantity": "214", "price_table_format": "","price_kit_format": "" },
+        { "name": "Assembly", "price": "150", "price_cny": "", "quantity": "112", "price_table_format": "","price_kit_format": "" },
+        { "name": "Numpad", "price": "35", "price_cny": "", "quantity": "182", "price_table_format": "","price_kit_format": "" }
     ]
 }
