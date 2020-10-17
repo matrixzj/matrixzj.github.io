@@ -1,0 +1,31 @@
+{
+    "name": "Red Line",
+    "cname": "仪表盘",
+    "keycapstype": "GMK",
+    "designer": "GarrettSucks",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-10-16 ~ 2002-11-13",
+    "colorcodes":[
+        "|Alpha|Unknown|Unknown",
+        "|Modifiers|Unknown|Unknown",
+        "|Accent|Unknown|GR1"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=109094.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Standard", "price": "104.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Dashboard", "price": "39.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Warning", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Addition", "price": "39.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Alternate", "price": "24.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Aesthetic", "price": "24.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Modern", "price": "39.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Obscure", "price": "44.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Push-to-Start", "price": "40", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Thread", "price": "40", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Warning", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ]
+}
