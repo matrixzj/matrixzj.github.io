@@ -2,13 +2,14 @@
     "name":"Biso",
     "cname":"",
     "keycapstype":"SA",
-    "designer":"",
+    "designer":"bisoromi",
     "profile":"1-1-2-3-4-4",
     "time":"2020-10-17 ~ 2020-10-31",
     "colorcodes":[
+        "NN/ON/TEA/GX/TBN"
     ],
-    "platform":"Monokei",
-    "link":"https://monokei.co/products/sa-biso",
+    "platform":"GH",
+    "link":"https://geekhack.org/index.php?topic=109140.0",
     "currencyunit":"SGD",
     "history_graph":"",
     "order_graph":"",
