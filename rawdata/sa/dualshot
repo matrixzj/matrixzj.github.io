@@ -11,14 +11,14 @@
     "link":"https://dixiemech.com/sadualshot",
     "currencyunit":"USD",
     "history_graph":"",
-    "order_graph":"",
+    "order_graph":"https://i.postimg.cc/pPN8PwMQ/SAdualshot-Status201011fin-YNext.png",
     "price_list":[
-        { "name":"Base", "price":"124.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "Numbers", "price":"29.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Novelty", "price":"39.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Accent", "price":"44.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Spacebars", "price":"24.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "ISO", "price":"24.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "RAMA", "price":"42", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name":"Base", "price":"124.99", "price_cny":"", "quantity":"1002", "price_table_format":"","price_kit_format":"" },
+        { "name": "Numbers", "price":"29.99", "price_cny":"", "quantity":"169", "price_table_format":"", "price_kit_format":""},
+        { "name": "Novelty", "price":"39.99", "price_cny":"", "quantity":"284", "price_table_format":"", "price_kit_format":""},
+        { "name": "Accent", "price":"44.99", "price_cny":"", "quantity":"663", "price_table_format":"", "price_kit_format":""},
+        { "name": "Spacebars", "price":"24.99", "price_cny":"", "quantity":"205", "price_table_format":"", "price_kit_format":""},
+        { "name": "ISO", "price":"24.99", "price_cny":"", "quantity":"46", "price_table_format":"", "price_kit_format":""},
+        { "name": "RAMA", "price":"42", "price_cny":"", "quantity":"212", "price_table_format":"", "price_kit_format":""}
     ]
 }

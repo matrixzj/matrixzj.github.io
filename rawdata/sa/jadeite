@@ -11,15 +11,15 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=108595.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.postimg.cc/05vDXSq2/SAjadeite-Lines201016fin-Yext.png",
+    "order_graph":"https://i.postimg.cc/xfMLPRh4/SAjadeite-Bars201016fin-Yext.png",
     "price_list":[
-        { "name":"Alphas", "price":"45", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "Modifiers", "price":"75", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Numpad", "price":"30", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "ISO", "price":"30", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "40s", "price":"75", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Spacebars", "price":"15", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""},
-        { "name": "Novelty", "price":"30", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name":"Alphas", "price":"45", "price_cny":"", "quantity":"507", "price_table_format":"","price_kit_format":"" },
+        { "name": "Modifiers", "price":"75", "price_cny":"", "quantity":"483", "price_table_format":"", "price_kit_format":""},
+        { "name": "Numpad", "price":"30", "price_cny":"", "quantity":"103", "price_table_format":"", "price_kit_format":""},
+        { "name": "ISO", "price":"30", "price_cny":"", "quantity":"29", "price_table_format":"", "price_kit_format":""},
+        { "name": "40s", "price":"75", "price_cny":"", "quantity":"56", "price_table_format":"", "price_kit_format":""},
+        { "name": "Spacebars", "price":"15", "price_cny":"", "quantity":"73", "price_table_format":"", "price_kit_format":""},
+        { "name": "Novelty", "price":"30", "price_cny":"", "quantity":"181", "price_table_format":"", "price_kit_format":""}
     ]
 }

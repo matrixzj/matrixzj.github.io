@@ -21,38 +21,42 @@ NOTE: USD to CNY exchange rate is 6.81
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Alphas](#alphas)|45.00|306.45|Unknown|
-|[Modifiers](#modifiers)|75.00|510.75|Unknown|
-|[Numpad](#numpad)|30.00|204.30|Unknown|
-|[ISO](#iso)|30.00|204.30|Unknown|
-|[40s](#40s)|75.00|510.75|Unknown|
-|[Spacebars](#spacebars)|15.00|102.15|Unknown|
-|[Novelty](#novelty)|30.00|204.30|Unknown|
+|[Alphas](#alphas)|45.00|306.45|507|
+|[Modifiers](#modifiers)|75.00|510.75|483|
+|[Numpad](#numpad)|30.00|204.30|103|
+|[ISO](#iso)|30.00|204.30|29|
+|[40s](#40s)|75.00|510.75|56|
+|[Spacebars](#spacebars)|15.00|102.15|73|
+|[Novelty](#novelty)|30.00|204.30|181|
 
+<img src="{{ 'assets/images/sa-keycaps/jadeite/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/jadeite/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Alphas  
-**Price(GH):** 45.00    **Price(CNY):** 306.45    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 306.45    **Quantity:** 507  
 <img src="{{ 'assets/images/sa-keycaps/jadeite/kits_pics/alphas.jpg' | relative_url }}" alt="alphas" class="image featured">
 
 ### Modifiers  
-**Price(GH):** 75.00    **Price(CNY):** 510.75    **Quantity:** Unknown  
+**Price(GH):** 75.00    **Price(CNY):** 510.75    **Quantity:** 483  
 <img src="{{ 'assets/images/sa-keycaps/jadeite/kits_pics/modifiers.jpg' | relative_url }}" alt="modifiers" class="image featured">
 
-### 40s  
-**Price(GH):** 75.00    **Price(CNY):** 510.75    **Quantity:** Unknown  
-<img src="{{ 'assets/images/sa-keycaps/jadeite/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
-
 ### Numpad  
-**Price(GH):** 30.00    **Price(CNY):** 204.30    **Quantity:** Unknown  
-### ISO  
-**Price(GH):** 30.00    **Price(CNY):** 204.30    **Quantity:** Unknown  
-### Spacebars  
-**Price(GH):** 15.00    **Price(CNY):** 102.15    **Quantity:** Unknown  
-### Novelty  
-**Price(GH):** 30.00    **Price(CNY):** 204.30    **Quantity:** Unknown  
+**Price(GH):** 30.00    **Price(CNY):** 204.30    **Quantity:** 103  
 <img src="{{ 'assets/images/sa-keycaps/jadeite/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
+### ISO  
+**Price(GH):** 30.00    **Price(CNY):** 204.30    **Quantity:** 29  
+
+### 40s  
+**Price(GH):** 75.00    **Price(CNY):** 510.75    **Quantity:** 56  
+
+### Spacebars  
+**Price(GH):** 15.00    **Price(CNY):** 102.15    **Quantity:** 73  
+
+### Novelty  
+**Price(GH):** 30.00    **Price(CNY):** 204.30    **Quantity:** 181  
+<img src="{{ 'assets/images/sa-keycaps/jadeite/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ## Info  
 * Designer: HoodrowThrillson   
@@ -63,18 +67,23 @@ NOTE: USD to CNY exchange rate is 6.81
 <table style="width:100%">
   <tr>
     <th>ColorCodes</th>
+    <th>Sample</th>
   </tr>
   <tr>
-    <th>PBT Color codes VS</th>
+    <th>VS</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VS.png' | relative_url }}" alt="Color_VS" height="75" width="170"></th>
   </tr>
   <tr>
-    <th>PBT Color codes VAZ</th>
+    <th>VAZ</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAZ.png' | relative_url }}" alt="Color_VAZ" height="75" width="170"></th>
   </tr>
   <tr>
-    <th>PBT Color codes VCB</th>
+    <th>VCB</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCB.png' | relative_url }}" alt="Color_VCB" height="75" width="170"></th>
   </tr>
   <tr>
-    <th>PBT Color codes WAN</th>
+    <th>WAN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WAN.png' | relative_url }}" alt="Color_WAN" height="75" width="170"></th>
   </tr>
 </table>
 
