@@ -43,19 +43,19 @@ NOTE: USD to CNY exchange rate is 6.81
 
 ### Numpad  
 **Price(GH):** 30.00    **Price(CNY):** 204.30    **Quantity:** 103  
-<img src="{{ 'assets/images/sa-keycaps/jadeite/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
 ### ISO  
 **Price(GH):** 30.00    **Price(CNY):** 204.30    **Quantity:** 29  
-
-### 40s  
-**Price(GH):** 75.00    **Price(CNY):** 510.75    **Quantity:** 56  
 
 ### Spacebars  
 **Price(GH):** 15.00    **Price(CNY):** 102.15    **Quantity:** 73  
 
 ### Novelty  
 **Price(GH):** 30.00    **Price(CNY):** 204.30    **Quantity:** 181  
+<img src="{{ 'assets/images/sa-keycaps/jadeite/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
+
+### 40s  
+**Price(GH):** 75.00    **Price(CNY):** 510.75    **Quantity:** 56  
 <img src="{{ 'assets/images/sa-keycaps/jadeite/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ## Info  
