@@ -19,14 +19,14 @@ ref link: [Angel/Devil Daisy QQ GB Link](https://item.taobao.com/item.htm?spm=a1
 
 NOTE: USD to CNY exchange rate is 6.69
 
-| Name          | Price(QQ)    |  Price(CNY) | Quantity |
+| Name          | Price(USD)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Angel Daisy](#angel-daisy)|164.13|1098.00|Unknown|
 |[Devil Daisy](#devil-daisy)|164.13|1098.00|Unknown|
 |[WCK Alpha](#wck-alpha)|59.64|399.00|Unknown|
 |[GQM Alpha](#gqm-alpha)|92.38|618.00|Unknown|
 |[Daisy Nov WKL](#daisy-nov-wkl)|99.55|666.00|Unknown|
-|[Angle Devil Bee](#angle-devil-bee)|44.84|300.00|Unknown|
+|[Angel Devil Bee](#angel-devil-bee)|44.84|300.00|Unknown|
 |[YCF TKL](#ycf-tkl)|74.59|499.00|Unknown|
 |[WCK Num](#wck-num)|74.59|499.00|Unknown|
 |[WCK Spacebar](#wck-spacebar)|13.15|88.00|Unknown|
@@ -35,41 +35,43 @@ NOTE: USD to CNY exchange rate is 6.69
 
 ## Kits  
 ### Angel Daisy  
-**Price(QQ):** 164.13    **Price(CNY):** 1098.00    **Quantity:** Unknown  
+**Price(USD):** 164.13    **Price(CNY):** 1098.00    **Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/angel-daisy.jpg' | relative_url }}" alt="angel-daisy" class="image featured">
+
 ### Devil Daisy  
-**Price(QQ):** 164.13    **Price(CNY):** 1098.00    **Quantity:** Unknown  
+**Price(USD):** 164.13    **Price(CNY):** 1098.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/devil-daisy.jpg' | relative_url }}" alt="devil-daisy" class="image featured">
 
 ### WCK Alpha  
-**Price(QQ):** 59.64    **Price(CNY):** 399.00    **Quantity:** Unknown  
+**Price(USD):** 59.64    **Price(CNY):** 399.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/wck-alpha.jpg' | relative_url }}" alt="wck-alpha" class="image featured">
 
 ### GQM Alpha  
-**Price(QQ):** 92.38    **Price(CNY):** 618.00    **Quantity:** Unknown  
+**Price(USD):** 92.38    **Price(CNY):** 618.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/gqm-alpha.jpg' | relative_url }}" alt="gqm-alpha" class="image featured">
 
 ### Daisy Nov WKL  
-**Price(QQ):** 99.55    **Price(CNY):** 666.00    **Quantity:** Unknown  
+**Price(USD):** 99.55    **Price(CNY):** 666.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/daisy-nov-wkl.jpg' | relative_url }}" alt="daisy-nov-wkl" class="image featured">
 
-### Angle Devil Bee  
-**Price(QQ):** 44.84    **Price(CNY):** 300.00    **Quantity:** Unknown  
-<img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/angle-devil-bee.jpg' | relative_url }}" alt="angle-devil-bee" class="image featured">
+### Angel Devil Bee  
+**Price(USD):** 44.84    **Price(CNY):** 300.00    **Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/angel-devil-bee.jpg' | relative_url }}" alt="angel-devil-bee" class="image featured">
 
 ### YCF TKL  
-**Price(QQ):** 74.59    **Price(CNY):** 499.00    **Quantity:** Unknown  
+**Price(USD):** 74.59    **Price(CNY):** 499.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/ycf-tkl.jpg' | relative_url }}" alt="ycf-tkl" class="image featured">
 
 ### WCK Num  
-**Price(QQ):** 74.59    **Price(CNY):** 499.00    **Quantity:** Unknown  
+**Price(USD):** 74.59    **Price(CNY):** 499.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/wck-num.jpg' | relative_url }}" alt="wck-num" class="image featured">
 
 ### WCK Spacebar  
-**Price(QQ):** 13.15    **Price(CNY):** 88.00    **Quantity:** Unknown  
+**Price(USD):** 13.15    **Price(CNY):** 88.00    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/wck-spacebar.jpg' | relative_url }}" alt="wck-spacebar" class="image featured">
 
 ### Childhood  
-**Price(QQ):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
+**Price(USD):** Unknown    **Price(CNY):** Unknown    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/angeldevildaisy/kits_pics/childhood.jpg' | relative_url }}" alt="childhood" class="image featured">
 
 
