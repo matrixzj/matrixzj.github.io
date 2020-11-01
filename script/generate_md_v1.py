@@ -47,9 +47,11 @@ class GenerateKeyCapPage(object):
 
         self.keycap_asset_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ","").replace("/",""))
         self.keycap_asset_kits_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ","").replace("/",""), "kits_pics")
+        if not os.path.isdir(self.keycap_asset_kits_path):
+            os.makedirs(self.keycap_asset_kits_path)
         self.keycap_asset_render_path = os.path.join(os.getcwd(), 'assets/images/', self.profile_path, self.info_dict['name'].lower().replace(" ","").replace("/",""), "rendering_pics")
-
-        print self.keycap_asset_kits_path
+        if not os.path.isdir(self.keycap_asset_render_path):
+            os.makedirs(self.keycap_asset_render_path)
 
         self.parse_price_info_format()
         self.cal_nav_order()
@@ -306,16 +308,15 @@ class GenerateKeyCapPage(object):
             self.keycap_page_kit += "### %s  \n" % kit['name']
             self.keycap_page_kit += kit['price_kit_format'] % (kit['price'], kit['price_cny'], kit['quantity'])
             self.keycap_page_kit += "\n"
-            kit_file_jpg = "%s.jpg" % kit['name'].lower().replace(" ", "-").replace("/", "-")
-            kit_file_png = "%s.png" % kit['name'].lower().replace(" ", "-").replace("/", "-")
-            if os.path.isfile(os.path.join(self.keycap_asset_kits_path, kit_file_jpg)):
-                resize_file(os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_jpg)))
-                self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_jpg), os.getcwd()), kit['name'].lower().replace(" ", "-"))
-                self.keycap_page_kit += "\n\n"
+           
+            if len(kit['pic']) > 0: 
+                file_ext = kit['pic'].split('.')[-1]
+                file_name = kit['name'].lower().replace(" ", "-") + "." + file_ext
+                file_path = os.path.join(os.getcwd(), self.keycap_asset_kits_path, file_name)
+                self.download_graph(kit["pic"], file_path)
+                resize_file(file_path)
 
-            if os.path.isfile(os.path.join(self.keycap_asset_kits_path, kit_file_png)):
-                resize_file(os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_png)))
-                self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(os.path.join(self.keycap_asset_kits_path, kit_file_png), os.getcwd()), kit['name'].lower().replace(" ", "-"))
+                self.keycap_page_kit += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">' % (os.path.relpath(file_path, os.getcwd()), kit['name'].lower().replace(" ", "-"))
                 self.keycap_page_kit += "\n\n"
 
         self.keycap_page_kit += "\n"
@@ -362,11 +363,14 @@ class GenerateKeyCapPage(object):
             self.keycap_page_info += "\n\n"
 
     def generate_keycap_page_picture(self):
-        picture_files = [f for f in os.listdir(self.keycap_asset_render_path) if os.path.isfile(os.path.join(self.keycap_asset_render_path, f))]
-        for pic in picture_files:
-            pic_file_path = os.path.join(self.keycap_asset_render_path, pic)
-            resize_file(pic_file_path)
-            pic_file_relpath = os.path.relpath(pic_file_path, os.getcwd())
-            self.keycap_page_picture += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">\n' % (pic_file_relpath, pic)
+            for index in range(0, len(self.info_dict['render_pics'])):
+                file_ext = self.info_dict['render_pics'][index].split('.')[-1]
+                file_name = str(index + 1) + "." + file_ext
+                file_path = os.path.join(os.getcwd(), self.keycap_asset_render_path, file_name)
+                self.download_graph(self.info_dict['render_pics'][index], file_path)
+                resize_file(file_path)
+
+                pic_file_relpath = os.path.relpath(file_path, os.getcwd())
+                self.keycap_page_picture += '<img src="{{ \'%s\' | relative_url }}" alt="%s" class="image featured">\n' % (pic_file_relpath, str(index + 1))
 
 GenerateKeyCapPage(raw_data_file)

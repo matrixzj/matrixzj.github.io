@@ -1,0 +1,27 @@
+{
+    "name": "Honor",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "biip",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-11-02 ~ 2020-11-30",
+    "colorcodes":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=109319.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base Dark", "price": "95", "pic": "https://i.imgur.com/Z66Zfs4.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Base Light", "price": "95", "pic": "https://i.imgur.com/51mMdmD.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extension Dark", "price": "38", "pic": "https://i.imgur.com/Q60u83u.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extension Light", "price": "38", "pic": "https://i.imgur.com/1ZeXofl.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Kabuto", "price": "56", "pic": "https://i.imgur.com/JAibJ05.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Katana", "price": "56", "pic": "https://i.imgur.com/obU5uqt.png", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/HWzBEYv.jpg",
+        "https://i.imgur.com/fFPslSH.jpg"
+    ]
+}
