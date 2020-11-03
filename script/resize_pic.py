@@ -6,22 +6,27 @@ from sys import argv
 import sys
 import os
 
-script, sourceFilePath, sourceFileName = argv
+def resize_file(source_file):
+    source_filename = source_file.split('/')[-1]
+    img = Image.open(source_file)
+    if img.mode == "RGBA":
+        rgb_img = img.convert('RGB')
+        target_RGB_file = '/tmp/tmp_rgb_' + source_filename
+        rgb_img.save(target_RGB_file)
+        os.rename(target_RGB_file, source_file)
 
-sourceFile = sourceFilePath + '/' + sourceFileName
-img = Image.open(sourceFile)
-if img.mode == "RGBA": 
-    rgb_img = img.convert('RGB')
-    targetRGBFile = sourceFilePath + '/rgb_' + sourceFileName
-    rgb_img.save(targetRGBFile)
-    os.rename(targetRGBFile, sourceFile)
-    sys.exit(0)
+    while os.stat(source_file).st_size > 409600:
+        finalw = img.size[0] * 0.9
+        finalh = img.size[1] * 0.9
 
-finalw = img.size[0] * 0.7
-finalh = img.size[1] * 0.7
+        img = img.resize((int(finalw), int(finalh)), PIL.Image.ANTIALIAS)
 
-img = img.resize((int(finalw), int(finalh)), PIL.Image.ANTIALIAS)
+        target_file = '/tmp/tmp_rgb_' + source_filename
+        img.save(target_file) 
+	os.rename(target_file, source_file)
 
-targetFileName = sourceFilePath + '/resized_' + sourceFileName
-img.save(targetFileName)
-os.rename(targetFileName, sourceFile)
+if __name__ == '__main__':
+    orig_size = os.stat(argv[1]).st_size
+    resize_file(argv[1])
+    final_size = os.stat(argv[1]).st_size
+    print('orig_size: {}, final_size: {}'.format(orig_size, final_size))
