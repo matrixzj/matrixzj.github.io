@@ -55,14 +55,14 @@ def cal_nav_order(keycapType):
     if os.path.isfile(keycap_filename_with_path):
 	info_dict['nav_order'] = read_nav_order(keycap_filename_with_path)
     else:
-        current_profile_marker = "## %s KeyCaps\n" % keycapType
+        current_profile_marker = '## {} KeyCaps\n'.format(keycapType)
 	current_porfile_index = index_lines.index(current_profile_marker)
 
-	year_marker = "### %s\n" % info_dict['time'].split('-')[0]
+	year_marker = '### {}\n'.format(info_dict['time'].split('-')[0])
 	year_index = index_lines.index(year_marker, current_porfile_index)
 
 	latest_entry = index_lines[year_index + 1]
-	latest_file_name = "%s.md" % re.sub(".*\(", "", latest_entry)[:-3]
+	latest_file_name = '{}.md'.format(re.sub(".*\(", "", latest_entry)[:-3])
 	current_nav_order = read_nav_order(latest_file_name)
 	info_dict['nav_order'] = current_nav_order - 5
 

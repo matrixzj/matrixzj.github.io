@@ -153,6 +153,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 
 ### 2020
 * [Pride](docs/gmk-keycaps/Pride/)
+* [Honor](docs/gmk-keycaps/Honor/)
 * [Hallyu](docs/gmk-keycaps/Hallyu/)
 * [Taegeukgi](docs/gmk-keycaps/Taegeukgi/)
 * [Red Line 仪表盘](docs/gmk-keycaps/Red-Line/)
