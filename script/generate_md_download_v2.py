@@ -20,6 +20,8 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
+SPACELINE = '\n'
+
 PROFILES = ['SA', 'GMK', 'DSA', '---']
 
 keycap_raw_info_file = argv[1]
@@ -163,8 +165,8 @@ NOTE: USD to CNY exchange rate is {:.2f}
 	keycap_page_price_order_graph_info = generate_graph_info(kit['order_graph'], 'order')
 	write_to_file(keycap_page_price_order_graph_info)	
 
-    keycap_page_price_end = '\n\n'
-    write_to_file(keycap_page_price_end)
+    write_to_file(SPACELINE)
+    write_to_file(SPACELINE)
 
 def generate_keycap_page_kit():
     keycap_page_kit_title = '## Kits\n'
@@ -211,19 +213,22 @@ def generate_keycap_page_info():
         write_to_file(keycap_page_info_color_graph_end)
 
     if info_dict['keycapstype'] == "GMK" and info_dict['colorcodes']:
-        keycap_page_info_color_gmk_table_header = """| |Base Color     | Legend Color
-| :-------------: | :-------------: | :------------:"""
+        keycap_page_info_color_gmk_table_header = """
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+"""
         write_to_file(keycap_page_info_color_gmk_table_header)
         
-        write_to_file(info_dict['colorcodes'])
-
-    keycap_page_info_end = '\n'
-    write_to_file(keycap_page_info_end)
+	for color in info_dict['colorcodes']:
+	    write_to_file("{}\n".format(color))
+	write_to_file(SPACELINE)
 
     # generate color graph files
     for color_pic in info_dict['color_pics']:
         keycap_page_info_color_graph_entry = generate_graph_info(color_pic, 'color', '')
         write_to_file(keycap_page_info_color_graph_entry)
+
+    write_to_file(SPACELINE)
 
 def generate_keycap_page_pics():
     keycap_page_pics_header = '## Pictures  \n'
