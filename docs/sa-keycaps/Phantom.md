@@ -8,7 +8,7 @@ nav_order: 300993
 
 # Phantom 紫金
 
-ref link: [Private GB]( 
+ref link: [Private GB] 
 * [Price](#price)  
 * [Kits](#kits)  
 * [Info](#info)  
@@ -28,6 +28,8 @@ NOTE: USD to CNY exchange rate is 6.94
 ### All  
 **Price(Private GB):** 220.00    **Price(CNY):** 1526.80    **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/phantom/kits_pics/all.png' | relative_url }}" alt="all" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/phantom/kits_pics/1.jpeg' | relative_url }}" alt="1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/phantom/kits_pics/2.jpeg' | relative_url }}" alt="2" class="image featured">
 
 
 ## Info  
