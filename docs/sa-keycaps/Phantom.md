@@ -21,12 +21,12 @@ NOTE: USD to CNY exchange rate is 6.94
 
 | Name          | Price(Private GB)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[All](#all)|220.00|1526.80|Unknown|
+|[All](#all)|220.00|1526.80|50|
 
 
 ## Kits  
 ### All  
-**Price(Private GB):** 220.00    **Price(CNY):** 1526.80    **Quantity:** Unknown  
+**Price(Private GB):** 220.00    **Price(CNY):** 1526.80    **Quantity:** 50  
 <img src="{{ 'assets/images/sa-keycaps/phantom/kits_pics/all.png' | relative_url }}" alt="all" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/phantom/kits_pics/1.jpeg' | relative_url }}" alt="1" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/phantom/kits_pics/2.jpeg' | relative_url }}" alt="2" class="image featured">
