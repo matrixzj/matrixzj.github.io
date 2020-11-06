@@ -46,6 +46,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [DreamEater](docs/sa-keycaps/DreamEater/)
 * [2600](docs/sa-keycaps/2600/)
 * [Sail](docs/sa-keycaps/Sail/)
+* [Phantom 紫金](docs/sa-keycaps/Phantom/)
 * [GodSpeed R2 神佑R2](docs/sa-keycaps/GodSpeed-R2/)
 
 ### 2019
