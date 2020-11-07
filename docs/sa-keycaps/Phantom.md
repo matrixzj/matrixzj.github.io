@@ -34,7 +34,7 @@ NOTE: USD to CNY exchange rate is 6.94
 
 ## Info  
 * Designer: briano1905 & fropsie  
-* Profile: SA 1-1-2-3-4-4  
+* Profile: SA 1-1-2-3-4-3    
 * GB Time: 2020-02-01  
 * Color Codes: Same as GMK Phantom  
 
