@@ -21,35 +21,37 @@ NOTE: USD to CNY exchange rate is 6.79
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|916.58|Unknown|
-|[Oath](#oath)|74.99|509.18|Unknown|
-|[Hull](#hull)|34.99|237.58|Unknown|
-|[Novelties](#novelties)|44.99|305.48|Unknown|
-|[40mm Cannon](#40mm-cannon)|44.99|305.48|Unknown|
-|[RAMA](#rama)|56.00|380.24|Unknown|
+|[Base](#base)|134.99|916.58|1112|
+|[Oath](#oath)|74.99|509.18|159|
+|[Hull](#hull)|34.99|237.58|169|
+|[Novelties](#novelties)|44.99|305.48|326|
+|[~~40mm Cannon~~](#40mm-cannon)|44.99|305.48|Unknown|
+|[RAMA](#rama)|56.00|380.24|207|
 
+<img src="{{ 'assets/images/gmk-keycaps/demonsword/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/demonsword/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 134.99    **Price(CNY):** 916.58    **Quantity:** Unknown  
+**Price(GH):** 134.99    **Price(CNY):** 916.58    **Quantity:** 1112  
 <img src="{{ 'assets/images/gmk-keycaps/demonsword/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Oath  
-**Price(GH):** 74.99    **Price(CNY):** 509.18    **Quantity:** Unknown  
+**Price(GH):** 74.99    **Price(CNY):** 509.18    **Quantity:** 159  
 <img src="{{ 'assets/images/gmk-keycaps/demonsword/kits_pics/oath.jpg' | relative_url }}" alt="oath" class="image featured">
 
 ### Hull  
-**Price(GH):** 34.99    **Price(CNY):** 237.58    **Quantity:** Unknown  
+**Price(GH):** 34.99    **Price(CNY):** 237.58    **Quantity:** 169  
 ### Novelties  
-**Price(GH):** 44.99    **Price(CNY):** 305.48    **Quantity:** Unknown  
+**Price(GH):** 44.99    **Price(CNY):** 305.48    **Quantity:** 326  
 <img src="{{ 'assets/images/gmk-keycaps/demonsword/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
-### 40mm Cannon  
+### ~~40mm Cannon~~  
 **Price(GH):** 44.99    **Price(CNY):** 305.48    **Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/demonsword/kits_pics/40mm-cannon.jpg' | relative_url }}" alt="40mm-cannon" class="image featured">
 
 ### RAMA  
-**Price(GH):** 56.00    **Price(CNY):** 380.24    **Quantity:** Unknown  
+**Price(GH):** 56.00    **Price(CNY):** 380.24    **Quantity:** 207  
 <img src="{{ 'assets/images/gmk-keycaps/demonsword/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 

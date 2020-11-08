@@ -105,7 +105,7 @@ icon: fa-keyboard-o
 parent: {} Keycaps
 nav_order: {}
 ---
-""".format(info_dict['name'], info_dict['cname'], info_dict['keycapstype'], info_dict['nav_order'])
+""".format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'], info_dict['nav_order'])
     write_to_file(keycap_page_header)
 
 def generate_graph_info(url, name, parent_path):
@@ -124,7 +124,7 @@ def generate_graph_info(url, name, parent_path):
 def generate_keycap_page_index():
     keycap_page_title = """
 # {} {}
-""".format(info_dict['name'], info_dict['cname'])
+""".format(info_dict['name'], info_dict['cname'].encode('utf-8'))
     write_to_file(keycap_page_title)
 
     keycap_page_index = """
@@ -158,11 +158,11 @@ NOTE: USD to CNY exchange rate is {:.2f}
 	write_to_file(keycap_page_price_table_entry)
 
     if info_dict["history_graph"]:
-	keycap_page_price_history_graph_info = generate_graph_info(kit['history_graph'], 'history')
+	keycap_page_price_history_graph_info = generate_graph_info(info_dict['history_graph'], 'history', '')
 	write_to_file(keycap_page_price_history_graph_info)	
 
     if info_dict["order_graph"]:
-	keycap_page_price_order_graph_info = generate_graph_info(kit['order_graph'], 'order')
+	keycap_page_price_order_graph_info = generate_graph_info(info_dict['order_graph'], 'order', '')
 	write_to_file(keycap_page_price_order_graph_info)	
 
     write_to_file(SPACELINE)

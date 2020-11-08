@@ -8,19 +8,19 @@
     "colorcodes":[
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=109000.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/37bR6LV2/GMKred-Dragon-Status201101fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Zhuyin", "price": "61.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Accent", "price": "25.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Micro", "price": "32.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Dragon", "price": "37.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Red Fire", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Gold Fire", "price": "38", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Red Dragon", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Gold Dragon", "price": "52", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "", "price_cny": "", "quantity": "1372", "price_table_format": "","price_kit_format": "" },
+        { "name": "Zhuyin", "price": "61.99", "pic": "", "price_cny": "", "quantity": "304", "price_table_format": "","price_kit_format": "" },
+        { "name": "Accent", "price": "25.99", "pic": "", "price_cny": "", "quantity": "332", "price_table_format": "","price_kit_format": "" },
+        { "name": "Micro", "price": "32.99", "pic": "", "price_cny": "", "quantity": "116", "price_table_format": "","price_kit_format": "" },
+        { "name": "Dragon", "price": "37.99", "pic": "", "price_cny": "", "quantity": "850", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Red Fire", "price": "38", "pic": "", "price_cny": "", "quantity": "491", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Gold Fire", "price": "38", "pic": "", "price_cny": "", "quantity": "624", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Red Dragon", "price": "52", "pic": "", "price_cny": "", "quantity": "368", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Gold Dragon", "price": "52", "pic": "", "price_cny": "", "quantity": "625", "price_table_format": "","price_kit_format": "" }
     ]
 }
