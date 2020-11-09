@@ -21,12 +21,12 @@ NOTE: USD to RMB exchange rate is 6.73
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|129.00|868.17|unknown|
+|[Base](#base)|129.00|868.17|400|
 
 
 ## Kits
 ### Base
-**Price(GH):** 129.00    **Price(RMB):** 868.17    **Quantity:** unknown  
+**Price(GH):** 129.00    **Price(RMB):** 868.17    **Quantity:** 400  
 <img src="{{ 'assets/images/gmk-keycaps/nines/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 

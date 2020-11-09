@@ -21,12 +21,12 @@ NOTE: USD to CNY exchange rate is 7.04
 
 | Name          | Price(Kono)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|139.99|985.52|400|
+|[Base](#base)|139.99|985.52|unknown|
 
 
 ## Kits
 ### Base
-**Price(GH):** 139.99    **Price(CNY):** 985.52    **Quantity:** 400    
+**Price(GH):** 139.99    **Price(CNY):** 985.52    **Quantity:** unknown  
 <img src="{{ 'assets/images/gmk-keycaps/nines/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 
