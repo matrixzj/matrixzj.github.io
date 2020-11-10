@@ -34,6 +34,7 @@ keycap_path_name = info_dict['name'].replace(" ","-").replace("/", "-")
 profile_path = info_dict['keycapstype'].lower() + "-keycaps"
 keycap_filename = keycap_path_name + ".md"
 keycap_filename_with_path = os.path.join("docs", profile_path, keycap_filename)
+keycap_assets_with_path = os.path.join("assets/images", profile_path, keycap_path_name)
 
 info_dict['rate'] = exchange_rate.retrieve_exchange_rate(info_dict['time'].split('~')[0].strip())
 
@@ -108,14 +109,12 @@ nav_order: {}
 """.format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'], info_dict['nav_order'])
     write_to_file(keycap_page_header)
 
-def generate_graph_info(url, name, parent_path):
-    file_ext = url.split('.')[-1]
-    file_name = str(name) + '.' + file_ext
-    graph_dir = os.path.join(os.getcwd(), 'assets/images/', profile_path, keycap_path_name, parent_path)
-    if not os.path.isdir(graph_dir):
-	os.makedirs(graph_dir)
-    graph_path = os.path.join(graph_dir, file_name)
-    download_graph.download_graph(url, graph_path)
+def generate_graph_info(url, sub_path, name):
+    path = os.path.join(keycap_assets_with_path, sub_path)
+    print(path)
+    if not os.path.isdir(path):
+        os.makedirs(path)
+    graph_path = download_graph.download_graph(url, keycap_assets_with_path, sub_path, name)
     resize_pic.resize_file(graph_path)
     graph_info = """<img src=\"{{{{ '{}' | relative_url }}}}\" alt=\"{}\" class=\"image featured\">
 """.format(os.path.relpath(graph_path, os.getcwd()), name)
@@ -158,11 +157,11 @@ NOTE: USD to CNY exchange rate is {:.2f}
 	write_to_file(keycap_page_price_table_entry)
 
     if info_dict["history_graph"]:
-	keycap_page_price_history_graph_info = generate_graph_info(info_dict['history_graph'], 'history', '')
+	keycap_page_price_history_graph_info = generate_graph_info(info_dict['history_graph'], '', 'history')
 	write_to_file(keycap_page_price_history_graph_info)	
 
     if info_dict["order_graph"]:
-	keycap_page_price_order_graph_info = generate_graph_info(info_dict['order_graph'], 'order', '')
+	keycap_page_price_order_graph_info = generate_graph_info(info_dict['order_graph'], '', 'order')
 	write_to_file(keycap_page_price_order_graph_info)	
 
     write_to_file(SPACELINE)
@@ -174,7 +173,7 @@ def generate_keycap_page_kit():
 
     for kit in info_dict['price_list']:
 	if kit['pic']:
-	    keycap_page_kit_entry_graph_info = generate_graph_info(kit['pic'], kit['name'].lower().replace(' ', '-'), 'kits_pics')
+	    keycap_page_kit_entry_graph_info = generate_graph_info(kit['pic'], 'kits_pics', kit['name'].lower().replace(' ', '-'))
 	else:
 	    keycap_page_kit_entry_graph_info = ''
 
@@ -194,14 +193,15 @@ def generate_keycap_page_info():
     write_to_file(keycap_page_info_header)
 
     if info_dict['keycapstype'] == "SA" and info_dict['colorcodes']:
+        write_to_file(SPACELINE)
         keycap_page_info_color_sa_table_header = """<table style="width:100%">
   <tr>
     <th>ColorCodes</th>
     <th>Sample</th>
   </tr>"""
-        write_to_file(keycap_page_info_color_graph_header)
+        write_to_file(keycap_page_info_color_sa_table_header)
 
-        for color in self.info_dict['colorcodes'][0].split('/'):
+        for color in info_dict['colorcodes'][0].split('/'):
             keycap_page_info_color_sa_table_entry = """  <tr>
     <th>{}</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_{}.png' | relative_url }}" alt="Color_{}" height="75" width="170"></th>
@@ -210,7 +210,7 @@ def generate_keycap_page_info():
             write_to_file(keycap_page_info_color_sa_table_entry)
 
         keycap_page_info_color_sa_table_end = '</table>'
-        write_to_file(keycap_page_info_color_graph_end)
+        write_to_file(keycap_page_info_color_sa_table_end)
 
     if info_dict['keycapstype'] == "GMK" and info_dict['colorcodes']:
         keycap_page_info_color_gmk_table_header = """
@@ -221,11 +221,12 @@ def generate_keycap_page_info():
         
 	for color in info_dict['colorcodes']:
 	    write_to_file("{}\n".format(color))
-	write_to_file(SPACELINE)
+
+    write_to_file(SPACELINE)
 
     # generate color graph files
-    for color_pic in info_dict['color_pics']:
-        keycap_page_info_color_graph_entry = generate_graph_info(color_pic, 'color', '')
+    for index in range(0, len(info_dict['color_pics'])):
+        keycap_page_info_color_graph_entry = generate_graph_info(color_pic, '', index)
         write_to_file(keycap_page_info_color_graph_entry)
 
     write_to_file(SPACELINE)
@@ -235,7 +236,7 @@ def generate_keycap_page_pics():
     write_to_file(keycap_page_pics_header)
 
     for index in range(0, len(info_dict['render_pics'])):
-        keycap_page_pic_entry = generate_graph_info(info_dict['render_pics'][index], index, 'rendering_pics')
+        keycap_page_pic_entry = generate_graph_info(info_dict['render_pics'][index], 'rendering_pics', index)
         write_to_file(keycap_page_pic_entry)
 
 def generate_keycap_page_end():
@@ -253,7 +254,7 @@ def generate_keycap_page_end():
         
     print bcolors.OKGREEN + "{} was generated!".format(keycap_filename_with_path) + bcolors.ENDC
     if info_dict['cname']:
-        index_entry = "* [{} {}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['cname'], info_dict['keycapstype'].lower(), keycap_path_name)
+        index_entry = "* [{} {}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'].lower(), keycap_path_name)
     else:
         index_entry = "* [{}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['keycapstype'].lower(), keycap_path_name)
 
