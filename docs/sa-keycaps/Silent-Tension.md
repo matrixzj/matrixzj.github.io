@@ -21,16 +21,16 @@ NOTE: USD to CNY exchange rate is 6.61
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|163.40|1080.00|Unknown|
+|[Base](#base)|163.38|1080.00|Unknown|
 |[Alphas](#alphas)|36.31|240.00|Unknown|
-|[Numpad](#numpad)|41.61|275.00|Unknown|
-|[Extension](#extension)|60.52|400.00|Unknown|
-|[Novelties](#novelties)|37.22|246.00|Unknown|
+|[Numpad](#numpad)|41.60|275.00|Unknown|
+|[Extension](#extension)|60.51|400.00|Unknown|
+|[Novelties](#novelties)|37.21|246.00|Unknown|
 |[7u Spacebars](#7u-spacebars)|15.13|100.00|Unknown|
 
 ## Kits
 ### Base  
-**Price(USD):** 163.40	**Price(CNY):** 1080.00	**Quantity:** Unknown  
+**Price(USD):** 163.38	**Price(CNY):** 1080.00	**Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/Silent-Tension/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Alphas  
@@ -38,15 +38,15 @@ NOTE: USD to CNY exchange rate is 6.61
 <img src="{{ 'assets/images/sa-keycaps/Silent-Tension/kits_pics/alphas.jpg' | relative_url }}" alt="alphas" class="image featured">
 
 ### Numpad  
-**Price(USD):** 41.61	**Price(CNY):** 275.00	**Quantity:** Unknown  
+**Price(USD):** 41.60	**Price(CNY):** 275.00	**Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/Silent-Tension/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
 ### Extension  
-**Price(USD):** 60.52	**Price(CNY):** 400.00	**Quantity:** Unknown  
+**Price(USD):** 60.51	**Price(CNY):** 400.00	**Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/Silent-Tension/kits_pics/extension.jpg' | relative_url }}" alt="extension" class="image featured">
 
 ### Novelties  
-**Price(USD):** 37.22	**Price(CNY):** 246.00	**Quantity:** Unknown  
+**Price(USD):** 37.21	**Price(CNY):** 246.00	**Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/Silent-Tension/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### 7u Spacebars  
@@ -65,15 +65,15 @@ NOTE: USD to CNY exchange rate is 6.61
     <th>Sample</th>
   </tr>  <tr>
     <th>RAC</th>
-    <th><img src="{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAC.png' | relative_url }" alt="Color_RAC" height="75" width="170"></th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAC.png' | relative_url }}" alt="Color_RAC" height="75" width="170"></th>
   </tr>
   <tr>
     <th>WCK</th>
-    <th><img src="{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }" alt="Color_WCK" height="75" width="170"></th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WCK.png' | relative_url }}" alt="Color_WCK" height="75" width="170"></th>
   </tr>
   <tr>
     <th>NN</th>
-    <th><img src="{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }" alt="Color_NN" height="75" width="170"></th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="Color_NN" height="75" width="170"></th>
   </tr>
 </table>
 

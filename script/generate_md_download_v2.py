@@ -111,7 +111,6 @@ nav_order: {}
 
 def generate_graph_info(url, sub_path, name):
     path = os.path.join(keycap_assets_with_path, sub_path)
-    print(path)
     if not os.path.isdir(path):
         os.makedirs(path)
     graph_path = download_graph.download_graph(url, keycap_assets_with_path, sub_path, name)
@@ -204,7 +203,7 @@ def generate_keycap_page_info():
         for color in info_dict['colorcodes'][0].split('/'):
             keycap_page_info_color_sa_table_entry = """  <tr>
     <th>{}</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_{}.png' | relative_url }}" alt="Color_{}" height="75" width="170"></th>
+    <th><img src="{{{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_{}.png' | relative_url }}}}" alt="Color_{}" height="75" width="170"></th>
   </tr>
 """.format(color, color, color)
             write_to_file(keycap_page_info_color_sa_table_entry)
