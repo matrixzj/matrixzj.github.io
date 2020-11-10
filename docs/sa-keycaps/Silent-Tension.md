@@ -28,6 +28,8 @@ NOTE: USD to CNY exchange rate is 6.61
 |[Novelties](#novelties)|37.21|246.00|Unknown|
 |[7u Spacebars](#7u-spacebars)|15.13|100.00|Unknown|
 
+<img src="{{ 'assets/images/sa-keycaps/Silent-Tension/price.jpg' | relative_url }}" alt="price" class="image featured">
+
 ## Kits
 ### Base  
 **Price(USD):** 163.38	**Price(CNY):** 1080.00	**Quantity:** Unknown  
