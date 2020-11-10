@@ -1,5 +1,5 @@
 {
-    "name": "Silent Tension",
+    "name": "Silent Assassin",
     "cname": "无声刺客",
     "keycapstype": "SA",
     "designer": "Triple Agency",
@@ -23,6 +23,8 @@
         { "name": "Novelties", "price": "", "pic": "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255462;image", "price_cny": "246", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "7u Spacebars", "price": "", "pic": "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255464;image", "price_cny": "100", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
+    "price_pic":"https://enjoykeycap.github.io/assets/images/sa-keycaps/Silent-Tension/price.jpg",
+    "platform": "QQ Group 1140462315",
     "render_pics":[
         "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255452;image"
     ]
