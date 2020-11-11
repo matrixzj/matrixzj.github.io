@@ -18,6 +18,7 @@
         { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
+    "price_pic": ""
     "render_pics":[
         "",
         ""

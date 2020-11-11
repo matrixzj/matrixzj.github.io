@@ -154,6 +154,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Amethyst 紫水晶](docs/gmk-keycaps/Amethyst/)
 * [Fundamentals](docs/gmk-keycaps/Fundamentals/)
 * [Pride](docs/gmk-keycaps/Pride/)
 * [Honor](docs/gmk-keycaps/Honor/)

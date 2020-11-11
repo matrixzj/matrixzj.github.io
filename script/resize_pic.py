@@ -7,6 +7,7 @@ import sys
 import os
 
 def resize_file(source_file):
+    print(source_file)
     source_filename = source_file.split('/')[-1]
     img = Image.open(source_file)
     if img.mode == "RGBA":

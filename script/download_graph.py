@@ -22,6 +22,11 @@ def download_graph(url, path, sub_path, name):
         file_path_name = '{}.{}'.format(os.path.join(path, sub_path, str(name)), file_ext)
         os.rename(TEMP_PIC_FILE, file_path_name)
         return file_path_name
+    elif file_format == 'image/png':
+        file_ext = 'png'
+        file_path_name = '{}.{}'.format(os.path.join(path, sub_path, str(name)), file_ext)
+        os.rename(TEMP_PIC_FILE, file_path_name)
+        return file_path_name
     else:
         print(file_format)
         return False

@@ -1,0 +1,30 @@
+{
+    "name": "Amethyst",
+    "cname": "紫水晶",
+    "keycapstype": "GMK",
+    "designer": "wynects",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-11-11 ~ 2020-12-13",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=109468.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "139.99", "pic": "https://i.imgur.com/JM9CHNF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Base", "price": "149.99", "pic": "https://i.imgur.com/7s29fIz.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "64.99", "pic": "https://i.imgur.com/o5CoDyj.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "69.99", "pic": "https://i.imgur.com/xa9hbO5.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/yTh7W8L.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Pickaxe", "price": "56", "pic": "https://i.imgur.com/zqnI4Li.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Amethyst", "price": "42", "pic": "https://i.imgur.com/hEeOKv4.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/FGzdFXa.png",
+    "render_pics":[
+        "https://i.imgur.com/av9k8dX.jpg"
+    ]
+}
