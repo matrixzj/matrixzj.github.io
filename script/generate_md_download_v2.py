@@ -26,15 +26,20 @@ PROFILES = ['SA', 'GMK', 'DSA', '---']
 
 keycap_raw_info_file = argv[1]
 
-
+# load info form raw file 
 with open(keycap_raw_info_file) as json_file:
     info_dict = json.load(json_file)
 
-keycap_path_name = info_dict['name'].replace(" ","-").replace("/", "-")
-profile_path = info_dict['keycapstype'].lower() + "-keycaps"
-keycap_filename = keycap_path_name + ".md"
-keycap_filename_with_path = os.path.join("docs", profile_path, keycap_filename)
-keycap_assets_with_path = os.path.join("assets/images", profile_path, keycap_path_name)
+# Example: GodSpeed-R2
+KEYCAP_NAME = info_dict['name'].replace(" ","-").replace("/", "-")
+# Example: sa-keycaps
+PROFILE_PATH = info_dict['keycapstype'].lower() + "-keycaps"
+# Example: GodSpeed-R2.md
+KEYCAP_FILENAME = KEYCAP_NAME + ".md"
+# Example: docs/sa-keycaps/GodSpeed-R2.md
+KEYCAP_FILENAME_WITH_PATH = os.path.join("docs", PROFILE_PATH, keycap_filename)
+# Example: assets/images/sa-keycaps/GodSpeed-R2
+KEYCAP_ASSETS_WITH_PATH = os.path.join("assets/images", PROFILE_PATH, KEYCAP_NAME)
 
 info_dict['rate'] = exchange_rate.retrieve_exchange_rate(info_dict['time'].split('~')[0].strip())
 
@@ -95,7 +100,7 @@ def parse_price_info_format():
 
 def generate_keycap_page_start():
     if os.path.isfile(keycap_filename_with_path):
-        tmp_file_name = os.path.join("/tmp", "%s.md" % keycap_path_name)
+        tmp_file_name = os.path.join("/tmp", "%s.md" % KEYCAP_NAME)
         os.rename(keycap_filename_with_path, tmp_file_name)
 
 def generate_keycap_page_header():
@@ -246,7 +251,7 @@ def generate_keycap_page_pics():
 
 def generate_keycap_page_end():
 
-    tmp_file_name = os.path.join("/tmp", "%s.md" % keycap_path_name)
+    tmp_file_name = os.path.join("/tmp", "%s.md" % KEYCAP_NAME)
     if os.path.isfile(tmp_file_name):
 	print bcolors.WARNING + "Diff result:\n" + bcolors.ENDC
         os.system("diff %s %s" % (keycap_filename_with_path, tmp_file_name))
@@ -259,9 +264,9 @@ def generate_keycap_page_end():
         
     print bcolors.OKGREEN + "{} was generated!".format(keycap_filename_with_path) + bcolors.ENDC
     if info_dict['cname']:
-        index_entry = "* [{} {}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'].lower(), keycap_path_name)
+        index_entry = "* [{} {}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'].lower(), KEYCAP_NAME)
     else:
-        index_entry = "* [{}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['keycapstype'].lower(), keycap_path_name)
+        index_entry = "* [{}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['keycapstype'].lower(), KEYCAP_NAME)
 
     print bcolors.OKGREEN + "index entry: " + bcolors.ENDC + index_entry
 
