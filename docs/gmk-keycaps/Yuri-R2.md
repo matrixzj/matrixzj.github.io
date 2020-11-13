@@ -75,12 +75,6 @@ NOTE: USD to CNY exchange rate is 6.61
 * GB Time: 2020-11-13 ~ 2020-12-14  
 * Color Codes:  
 
-| |Base Color     | Legend Color
-| :-------------: | :-------------: | :------------:
-|Alpha|BL2|OR2
-|Skydata Alpha|BL3|OR2
-|Modifiers|BL3|OR2
-|Accents|OR2|BL3
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/rendering_pics/0.jpg' | relative_url }}" alt="0" class="image featured">
