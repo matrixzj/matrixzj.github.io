@@ -154,6 +154,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Yuri R2 尤里R2](docs/gmk-keycaps/Yuri-R2/)
 * [Amethyst 紫水晶](docs/gmk-keycaps/Amethyst/)
 * [Fundamentals](docs/gmk-keycaps/Fundamentals/)
 * [Pride](docs/gmk-keycaps/Pride/)
@@ -380,7 +381,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [Solarized Dark](docs/gmk-keycaps/Solarized-Dark/)
 * [Miami](docs/gmk-keycaps/Miami/)
 * [Miami Nights](docs/gmk-keycaps/Miami-Nights/)
-* [Yuri](docs/gmk-keycaps/Yuri/)
+* [Yuri R1](docs/gmk-keycaps/Yuri-R1/)
 * [Aero](docs/gmk-keycaps/Aero/)
 * [Iris 鸢尾花](docs/gmk-keycaps/Iris/)
 * [Oblivion R1 码农R1](docs/gmk-keycaps/Oblivion-R1/)

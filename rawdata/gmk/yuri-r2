@@ -1,0 +1,36 @@
+{
+    "name": "Yuri R2",
+    "cname": "尤里R2",
+    "keycapstype": "GMK",
+    "designer": "T0mb3ry",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-11-13 ~ 2020-12-14",
+    "colorcodes":[
+        "|Alpha|BL2|OR2",
+        "|Skydata Alpha|BL3|OR2",
+        "|Modifiers|BL3|OR2",
+        "|Accents|OR2|BL3"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/G8oxPeq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Skydata Base", "price": "130", "pic": "https://i.imgur.com/D7XIwVc.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Forties", "price": "50", "pic": "https://i.imgur.com/XdtDFW2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icon Mods", "price": "42", "pic": "https://i.imgur.com/Wqoxycs.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cyrilics", "price": "60", "pic": "https://i.imgur.com/uxWbDZu.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Xtra", "price": "42", "pic": "https://i.imgur.com/YqC2vey.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "32", "pic": "https://i.imgur.com/6alOp1f.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cherry Picker", "price": "32", "pic": "https://i.imgur.com/7x8NoMO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/Iqu9m0w.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://enjoykeycap.github.io/assets/images/gmk-keycaps/yuri/rendering_pics/2.jpg"
+    ]
+}

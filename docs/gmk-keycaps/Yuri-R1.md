@@ -1,14 +1,14 @@
 ---
-title: Yuri
+title: Yuri R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 330905
 ---
 
-# Yuri
+# Yuri R1
 
-ref link: [Yuri MD GB Link](https://www.massdrop.com/buy/massdrop-x-t0mb3ry-gmk-yuri-custom-keycap-set)
+ref link: [Yuri R1 MD GB Link](https://www.massdrop.com/buy/massdrop-x-t0mb3ry-gmk-yuri-custom-keycap-set)
 
 * [Price](#price)
 * [Kits](#kits)
