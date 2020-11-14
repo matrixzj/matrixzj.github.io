@@ -37,7 +37,7 @@ PROFILE_PATH = info_dict['keycapstype'].lower() + "-keycaps"
 # Example: GodSpeed-R2.md
 KEYCAP_FILENAME = KEYCAP_NAME + ".md"
 # Example: docs/sa-keycaps/GodSpeed-R2.md
-KEYCAP_FILENAME_WITH_PATH = os.path.join("docs", PROFILE_PATH, KEYCAP_NAME)
+KEYCAP_FILENAME_WITH_PATH = os.path.join("docs", PROFILE_PATH, KEYCAP_FILENAME)
 # Example: assets/images/sa-keycaps/GodSpeed-R2
 KEYCAP_ASSETS_WITH_PATH = os.path.join("assets/images", PROFILE_PATH, KEYCAP_NAME)
 
@@ -264,7 +264,7 @@ def generate_keycap_page_end():
         
     print bcolors.OKGREEN + "{} was generated!".format(KEYCAP_FILENAME_WITH_PATH) + bcolors.ENDC
     if info_dict['cname']:
-        index_entry = "* [{} {}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'].lower(), KEYCAP_NAME)
+        index_entry = "* [{} {}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'].lower(), KEYCAP_FILENAME)
     else:
         index_entry = "* [{}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['keycapstype'].lower(), KEYCAP_NAME)
 

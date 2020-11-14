@@ -154,7 +154,7 @@ For a well-known reason, this page is always unable to open for my dear China Ma
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
-* [Pixel 像素](docs/gmk-keycaps/Pixel/)
+* [Pixel 像素](docs/gmk-keycaps/Pixel.md/)
 * [Yuri R2 尤里R2](docs/gmk-keycaps/Yuri-R2/)
 * [Amethyst 紫水晶](docs/gmk-keycaps/Amethyst/)
 * [Fundamentals](docs/gmk-keycaps/Fundamentals/)
