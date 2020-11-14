@@ -37,14 +37,14 @@ PROFILE_PATH = info_dict['keycapstype'].lower() + "-keycaps"
 # Example: GodSpeed-R2.md
 KEYCAP_FILENAME = KEYCAP_NAME + ".md"
 # Example: docs/sa-keycaps/GodSpeed-R2.md
-KEYCAP_FILENAME_WITH_PATH = os.path.join("docs", PROFILE_PATH, keycap_filename)
+KEYCAP_FILENAME_WITH_PATH = os.path.join("docs", PROFILE_PATH, KEYCAP_NAME)
 # Example: assets/images/sa-keycaps/GodSpeed-R2
 KEYCAP_ASSETS_WITH_PATH = os.path.join("assets/images", PROFILE_PATH, KEYCAP_NAME)
 
 info_dict['rate'] = exchange_rate.retrieve_exchange_rate(info_dict['time'].split('~')[0].strip())
 
 def write_to_file(string):
-    fd = open(keycap_filename_with_path, 'ab')
+    fd = open(KEYCAP_FILENAME_WITH_PATH, 'ab')
     fd.write(string)
     fd.close()
 
@@ -60,8 +60,8 @@ def cal_nav_order(keycapType):
     index_lines = fd_index.readlines()
     fd_index.close()
 
-    if os.path.isfile(keycap_filename_with_path):
-	info_dict['nav_order'] = read_nav_order(keycap_filename_with_path)
+    if os.path.isfile(KEYCAP_FILENAME_WITH_PATH):
+	info_dict['nav_order'] = read_nav_order(KEYCAP_FILENAME_WITH_PATH)
     else:
         current_profile_marker = '## {} KeyCaps\n'.format(keycapType)
 	current_porfile_index = index_lines.index(current_profile_marker)
@@ -99,9 +99,9 @@ def parse_price_info_format():
             kit['quantity'] = 'Unknown'
 
 def generate_keycap_page_start():
-    if os.path.isfile(keycap_filename_with_path):
+    if os.path.isfile(KEYCAP_FILENAME_WITH_PATH):
         tmp_file_name = os.path.join("/tmp", "%s.md" % KEYCAP_NAME)
-        os.rename(keycap_filename_with_path, tmp_file_name)
+        os.rename(KEYCAP_FILENAME_WITH_PATH, tmp_file_name)
 
 def generate_keycap_page_header():
     keycap_page_header = """---
@@ -115,10 +115,10 @@ nav_order: {}
     write_to_file(keycap_page_header)
 
 def generate_graph_info(url, sub_path, name):
-    path = os.path.join(keycap_assets_with_path, sub_path)
+    path = os.path.join(KEYCAP_ASSETS_WITH_PATH, sub_path)
     if not os.path.isdir(path):
         os.makedirs(path)
-    graph_path = download_graph.download_graph(url, keycap_assets_with_path, sub_path, name)
+    graph_path = download_graph.download_graph(url, KEYCAP_ASSETS_WITH_PATH, sub_path, name)
     resize_pic.resize_file(graph_path)
     graph_info = """<img src=\"{{{{ '{}' | relative_url }}}}\" alt=\"{}\" class=\"image featured\">
 """.format(os.path.relpath(graph_path, os.getcwd()), name)
@@ -254,7 +254,7 @@ def generate_keycap_page_end():
     tmp_file_name = os.path.join("/tmp", "%s.md" % KEYCAP_NAME)
     if os.path.isfile(tmp_file_name):
 	print bcolors.WARNING + "Diff result:\n" + bcolors.ENDC
-        os.system("diff %s %s" % (keycap_filename_with_path, tmp_file_name))
+        os.system("diff %s %s" % (KEYCAP_FILENAME_WITH_PATH, tmp_file_name))
     else:
 	print bcolors.WARNING + "First result:\n" + bcolors.ENDC
         with open(keycap_filename_with_path) as fd:
@@ -262,7 +262,7 @@ def generate_keycap_page_end():
         for line in Lines:
             print("{}".format(line.strip()))
         
-    print bcolors.OKGREEN + "{} was generated!".format(keycap_filename_with_path) + bcolors.ENDC
+    print bcolors.OKGREEN + "{} was generated!".format(KEYCAP_FILENAME_WITH_PATH) + bcolors.ENDC
     if info_dict['cname']:
         index_entry = "* [{} {}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'].lower(), KEYCAP_NAME)
     else:
