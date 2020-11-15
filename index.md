@@ -17,11 +17,11 @@ Just buy it :)
 
 ---
 
-# IMPORTANT NOTES 重要通知
-For a well-known reason, this page is always unable to open for my dear China MainLand friends. In order to solve this issue and url alignment, I will migrate this GH page to:   
-由于众所周知的原因，在墙里面的兄弟经常说这个页面打不开。为解决这个问题，也为了保持网址上的一致性，决定将这个页面迁移到以下：  
-[Github Page GH页面 https://enjoykeycap.github.io/](https://enjoykeycap.github.io/)    
-[Gitee Page 码云页面 https://enjoykeycap.gitee.io/](https://enjoykeycap.gitee.io/)   <---------- recommended for China Users,推荐墙内兄弟用这个   
+Caution 请注意:
+
+Color Codes listed in this page is only players to mix sets reference. Please do NOT copy design via it !!!
+本页面色卡信息只供玩家混搭键帽参考，请勿用于抄袭他人设计！！！
+
 
 <img src="{{ 'assets/images/astro.gif' | relative_url }}" alt="Astro" height="48" width="48">   
 
