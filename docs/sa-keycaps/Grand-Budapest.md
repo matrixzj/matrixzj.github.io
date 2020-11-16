@@ -67,6 +67,10 @@ Note: Novelties of Grand Budapest finally changed as second piture.
     <th></th>
   </tr>
   <tr>
+    <th>Pantone 7422U (Alpha Base Color)</th>
+    <th></th>
+  </tr>
+  <tr>
     <th>RCS</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RCS.png' | relative_url }}" alt="colorRCS" height="75" width="170"></th>
   </tr>
