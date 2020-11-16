@@ -257,7 +257,7 @@ def generate_keycap_page_end():
         os.system("diff %s %s" % (KEYCAP_FILENAME_WITH_PATH, tmp_file_name))
     else:
 	print bcolors.WARNING + "First result:\n" + bcolors.ENDC
-        with open(keycap_filename_with_path) as fd:
+        with open(KEYCAP_FILENAME_WITH_PATH) as fd:
             Lines = fd.readlines()
         for line in Lines:
             print("{}".format(line.strip()))

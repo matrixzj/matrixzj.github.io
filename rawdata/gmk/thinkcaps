@@ -1,0 +1,42 @@
+{
+    "name": "ThinkCaps",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-11-16 ~ 2020-12-13",
+    "colorcodes":[
+        "|Alpha|CR|CP",
+        "|Modifiers|N9|CP",
+        "|Modifiers Accent|Custom Blue|CP",
+        "|RGB Modifiers 1|P3|CP",
+        "|RGB Modifiers 2|N7|CP",
+        "|RGB Modifiers 3|V4|CP",
+        "|Accent|Custom Blue|WS1"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=109588.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Tenkeyless", "price": "110", "pic": "https://i.imgur.com/QX4YlpC.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ortho 40s", "price": "120", "pic": "https://i.imgur.com/xFOnOyB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "40", "pic": "https://i.imgur.com/axvZbuA.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "35", "pic": "https://i.imgur.com/z5ESPYh.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icon Mods", "price": "35", "pic": "https://i.imgur.com/50CzdS1.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RGB Mods", "price": "38", "pic": "https://i.imgur.com/XzVNbxo.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "35", "pic": "https://i.imgur.com/rbvPexH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "28", "pic": "https://i.imgur.com/IG1wYej.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent", "price": "23", "pic": "https://i.imgur.com/oqNNZgw.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "68", "pic": "https://i.imgur.com/0Iuw5ch.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA R1", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/RW-GMK-THINK_R_2_png_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA R4", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/RW-GMK-THINK_R_5_png_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/kcsrd9F.jpg"
+    ]
+}
