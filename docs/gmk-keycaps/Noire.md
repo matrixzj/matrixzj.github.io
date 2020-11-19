@@ -21,32 +21,34 @@ NOTE: USD to CNY exchange rate is 6.79
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|140.00|950.60|Unknown|
-|[Novelties](#novelties)|45.00|305.55|Unknown|
-|[Salvun Alu](#salvun-alu)|45.00|305.55|Unknown|
-|[Salvun Brass](#salvun-brass)|50.00|339.50|Unknown|
-|[Salvun Copper](#salvun-copper)|50.00|339.50|Unknown|
+|[Base](#base)|140.00|950.60|1765|
+|[Novelties](#novelties)|45.00|305.55|1120|
+|[Salvun Alu](#salvun-alu)|45.00|305.55|132|
+|[Salvun Brass](#salvun-brass)|50.00|339.50|261|
+|[Salvun Copper](#salvun-copper)|50.00|339.50|172|
 
+
+<img src="{{ 'assets/images/gmk-keycaps/noire/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 140.00    **Price(CNY):** 950.60    **Quantity:** Unknown  
+**Price(GH):** 140.00    **Price(CNY):** 950.60    **Quantity:** 1765  
 <img src="{{ 'assets/images/gmk-keycaps/noire/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(GH):** 45.00    **Price(CNY):** 305.55    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 305.55    **Quantity:** 1120  
 <img src="{{ 'assets/images/gmk-keycaps/noire/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Salvun Alu  
-**Price(GH):** 45.00    **Price(CNY):** 305.55    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 305.55    **Quantity:** 132  
 <img src="{{ 'assets/images/gmk-keycaps/noire/kits_pics/salvun-alu.jpg' | relative_url }}" alt="salvun-alu" class="image featured">
 
 ### Salvun Brass  
-**Price(GH):** 50.00    **Price(CNY):** 339.50    **Quantity:** Unknown  
+**Price(GH):** 50.00    **Price(CNY):** 339.50    **Quantity:** 261  
 <img src="{{ 'assets/images/gmk-keycaps/noire/kits_pics/salvun-brass.jpg' | relative_url }}" alt="salvun-brass" class="image featured">
 
 ### Salvun Copper  
-**Price(GH):** 50.00    **Price(CNY):** 339.50    **Quantity:** Unknown  
+**Price(GH):** 50.00    **Price(CNY):** 339.50    **Quantity:** 172  
 <img src="{{ 'assets/images/gmk-keycaps/noire/kits_pics/salvun-copper.jpg' | relative_url }}" alt="salvun-copper" class="image featured">
 
 

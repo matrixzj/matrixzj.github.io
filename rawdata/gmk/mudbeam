@@ -10,15 +10,15 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=108983.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/Xnqn8jDW/r-GMKmudbeam-Status201030fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/Cw2Sr3Wq/r-GMKmudbeam-History201030fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "135", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Extension", "price": "65", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelty", "price": "65", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Space", "price": "42", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Ergo", "price": "55", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Functional", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Super", "price": "25", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "135", "price_cny": "", "quantity": "765", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extension", "price": "65", "price_cny": "", "quantity": "103", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelty", "price": "65", "price_cny": "", "quantity": "291", "price_table_format": "","price_kit_format": "" },
+        { "name": "Space", "price": "42", "price_cny": "", "quantity": "198", "price_table_format": "","price_kit_format": "" },
+        { "name": "Ergo", "price": "55", "price_cny": "", "quantity": "84", "price_table_format": "","price_kit_format": "" },
+        { "name": "Functional", "price": "45", "price_cny": "", "quantity": "125", "price_table_format": "","price_kit_format": "" },
+        { "name": "Super", "price": "25", "price_cny": "", "quantity": "150", "price_table_format": "","price_kit_format": "" }
     ]
 }

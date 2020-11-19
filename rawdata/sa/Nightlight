@@ -11,15 +11,15 @@
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=107592.0",
     "currencyunit":"USD",
-    "history_graph":"",
-    "order_graph":"",
+    "history_graph":"https://i.postimg.cc/4JWCBbkZ/SAnightlight-Lines201030fin-YNext1.png",
+    "order_graph":"https://i.postimg.cc/HHYL33qc/SAnightlight-Bars201030fin-Yext.png",
     "price_list":[
-        { "name":"Base", "price":"89.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Numpad", "price":"29.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Alternate", "price":"39.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Ortho", "price":"49.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"Novelties", "price":"27.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name":"ISO", "price":"11.99", "price_cny":"", "quantity":"", "price_table_format":"","price_kit_format":"" },
-        { "name": "Spacebar", "price":"26.99", "price_cny":"", "quantity":"", "price_table_format":"", "price_kit_format":""}
+        { "name":"Base", "price":"89.99", "price_cny":"", "quantity":"436", "price_table_format":"","price_kit_format":"" },
+        { "name":"Numpad", "price":"29.99", "price_cny":"", "quantity":"113", "price_table_format":"","price_kit_format":"" },
+        { "name":"Alternate", "price":"39.99", "price_cny":"", "quantity":"164", "price_table_format":"","price_kit_format":"" },
+        { "name":"Ortho", "price":"49.99", "price_cny":"", "quantity":"81", "price_table_format":"","price_kit_format":"" },
+        { "name":"Novelties", "price":"27.99", "price_cny":"", "quantity":"222", "price_table_format":"","price_kit_format":"" },
+        { "name":"ISO", "price":"11.99", "price_cny":"", "quantity":"40", "price_table_format":"","price_kit_format":"" },
+        { "name": "Spacebar", "price":"26.99", "price_cny":"", "quantity":"97", "price_table_format":"", "price_kit_format":""}
     ]
 }

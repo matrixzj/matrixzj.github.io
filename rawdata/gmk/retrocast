@@ -10,13 +10,13 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=108959.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/Ypqc9ktF/GMKretrocast-History201106fin-YNext.png",
+    "order_graph": "https://i.postimg.cc/QjqGhVZs/GMKretrocast-Status201106fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "61.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Colors", "price": "26.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Cartridges", "price": "49.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Batteries", "price": "31.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "1006", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "61.99", "price_cny": "", "quantity": "720", "price_table_format": "","price_kit_format": "" },
+        { "name": "Colors", "price": "26.99", "price_cny": "", "quantity": "263", "price_table_format": "","price_kit_format": "" },
+        { "name": "Cartridges", "price": "49.99", "price_cny": "", "quantity": "47", "price_table_format": "","price_kit_format": "" },
+        { "name": "Batteries", "price": "31.99", "price_cny": "", "quantity": "187", "price_table_format": "","price_kit_format": "" }
     ]
 }

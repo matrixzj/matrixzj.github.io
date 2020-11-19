@@ -21,42 +21,44 @@ NOTE: USD to CNY exchange rate is 6.78
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|89.99|610.13|Unknown|
-|[Numpad](#numpad)|29.99|203.33|Unknown|
-|[Alternate](#alternate)|39.99|271.13|Unknown|
-|[Ortho](#ortho)|49.99|338.93|Unknown|
-|[Novelties](#novelties)|27.99|189.77|Unknown|
-|[ISO](#iso)|11.99|81.29|Unknown|
-|[Spacebar](#spacebar)|26.99|182.99|Unknown|
+|[Base](#base)|89.99|610.13|436|
+|[Numpad](#numpad)|29.99|203.33|113|
+|[Alternate](#alternate)|39.99|271.13|164|
+|[Ortho](#ortho)|49.99|338.93|81|
+|[Novelties](#novelties)|27.99|189.77|222|
+|[ISO](#iso)|11.99|81.29|40|
+|[Spacebar](#spacebar)|26.99|182.99|97|
 
+<img src="{{ 'assets/images/sa-keycaps/nightlight/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/nightlight/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 89.99    **Price(CNY):** 610.13    **Quantity:** Unknown  
+**Price(GH):** 89.99    **Price(CNY):** 610.13    **Quantity:** 436  
 <img src="{{ 'assets/images/sa-keycaps/nightlight/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Numpad  
-**Price(GH):** 29.99    **Price(CNY):** 203.33    **Quantity:** Unknown  
+**Price(GH):** 29.99    **Price(CNY):** 203.33    **Quantity:** 113  
 <img src="{{ 'assets/images/sa-keycaps/nightlight/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ### Alternate  
-**Price(GH):** 39.99    **Price(CNY):** 271.13    **Quantity:** Unknown  
+**Price(GH):** 39.99    **Price(CNY):** 271.13    **Quantity:** 164  
 <img src="{{ 'assets/images/sa-keycaps/nightlight/kits_pics/alternate.png' | relative_url }}" alt="alternate" class="image featured">
 
 ### Ortho  
-**Price(GH):** 49.99    **Price(CNY):** 338.93    **Quantity:** Unknown  
+**Price(GH):** 49.99    **Price(CNY):** 338.93    **Quantity:** 81  
 <img src="{{ 'assets/images/sa-keycaps/nightlight/kits_pics/ortho.png' | relative_url }}" alt="ortho" class="image featured">
 
 ### Novelties  
-**Price(GH):** 27.99    **Price(CNY):** 189.77    **Quantity:** Unknown  
+**Price(GH):** 27.99    **Price(CNY):** 189.77    **Quantity:** 222  
 <img src="{{ 'assets/images/sa-keycaps/nightlight/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### ISO  
-**Price(GH):** 11.99    **Price(CNY):** 81.29    **Quantity:** Unknown  
+**Price(GH):** 11.99    **Price(CNY):** 81.29    **Quantity:** 40  
 <img src="{{ 'assets/images/sa-keycaps/nightlight/kits_pics/iso.png' | relative_url }}" alt="iso" class="image featured">
 
 ### Spacebar  
-**Price(GH):** 26.99    **Price(CNY):** 182.99    **Quantity:** Unknown  
+**Price(GH):** 26.99    **Price(CNY):** 182.99    **Quantity:** 97  
 <img src="{{ 'assets/images/sa-keycaps/nightlight/kits_pics/spacebar.png' | relative_url }}" alt="spacebar" class="image featured">
 
 

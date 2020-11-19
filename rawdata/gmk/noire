@@ -12,12 +12,12 @@
     "link": "https://geekhack.org/index.php?topic=108890.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/w95WyP6t/GMKnoire-Status201110.png",
     "price_list":[
-        { "name": "Base", "price": "140", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Salvun Alu", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Salvun Brass", "price": "50", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Salvun Copper", "price": "50", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "140", "price_cny": "", "quantity": "1765", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "price_cny": "", "quantity": "1120", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salvun Alu", "price": "45", "price_cny": "", "quantity": "132", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salvun Brass", "price": "50", "price_cny": "", "quantity": "261", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salvun Copper", "price": "50", "price_cny": "", "quantity": "172", "price_table_format": "","price_kit_format": "" }
     ]
 }
