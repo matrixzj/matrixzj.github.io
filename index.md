@@ -154,7 +154,8 @@ Color Codes listed in this page is only players to mix sets reference. Please do
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
- * [ThinkCaps](docs/gmk-keycaps/ThinkCaps/)
+* [Thai Tea](docs/gmk-keycaps/Thai-Tea/)
+* [ThinkCaps](docs/gmk-keycaps/ThinkCaps/)
 * [Pixel 像素](docs/gmk-keycaps/Pixel/)
 * [Yuri R2 尤里R2](docs/gmk-keycaps/Yuri-R2/)
 * [Amethyst 紫水晶](docs/gmk-keycaps/Amethyst/)

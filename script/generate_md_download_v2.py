@@ -236,7 +236,7 @@ def generate_keycap_page_info():
 
     # generate color graph files
     for index in range(0, len(info_dict['color_pics'])):
-        keycap_page_info_color_graph_entry = generate_graph_info(color_pic, '', index)
+        keycap_page_info_color_graph_entry = generate_graph_info(info_dict['color_pics'][index], '', index)
         write_to_file(keycap_page_info_color_graph_entry)
 
     write_to_file(SPACELINE)

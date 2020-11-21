@@ -1,0 +1,30 @@
+{
+    "name": "Thai Tea",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "pyade3",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-11-20 ~ 2020-12-18",
+    "colorcodes":[
+        "|Alpha|RAL 075 90 20|RAL 050 50 60",
+        "|Modifiers|RAL 350 20 15|RAL 050 60 60",
+        "|Accent|RAL 050 50 60|RAL 350 20 15"
+    ],
+    "color_pics": [
+        "https://live.staticflickr.com/65535/50291621888_4ab5c99389_k.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=109700.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/GULrc1a.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alphas", "price": "70", "pic": "https://i.imgur.com/1XKpfJl.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "36", "pic": "https://i.imgur.com/XtZkQfd.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/kF7WRUg.png"
+    ]
+}
