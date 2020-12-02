@@ -1,0 +1,31 @@
+{
+    "name": "Alpine",
+    "cname": "阿尔卑斯山",
+    "keycapstype": "GMK",
+    "designer": "Gregoli",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-12-01 ~ 2021-01-12",
+    "colorcodes":[
+        "|Base|RAL 4012|WS2",
+        "|Modifiers|WS2|RAL 4012",
+        "|Accent|WS2|RAL 7015"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=109910.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "139.99", "pic": "https://i.imgur.com/RvqglFy.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ascents", "price": "39.99", "pic": "https://i.imgur.com/Z82DMxF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "52.99", "pic": "https://i.imgur.com/2bPuaiv.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/1oKaCMq.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUk", "price": "69.99", "pic": "https://i.imgur.com/cECKg2z.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/cAqHmGg.png",
+    "render_pics":[
+        "https://i.imgur.com/c62orFD.jpg"
+    ]
+}

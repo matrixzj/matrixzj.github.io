@@ -1,0 +1,37 @@
+{
+    "name": "Serika R2",
+    "cname": "芹夏R2",
+    "keycapstype": "GMK",
+    "designer": "Zambumon",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-12-03 ~ 2021-01-07",
+    "colorcodes":[
+        "|Alpha|RAL 090 90 10|N9",
+        "|Modifiers|Pantone 116-C|N9",
+        "|Spacebar|N9|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Hiragana Core", "price": "110", "pic": "https://i.imgur.com/0SCVlAj.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Core", "price": "110", "pic": "https://i.imgur.com/FjkLNxU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro Expansion", "price": "60", "pic": "https://i.imgur.com/ye1CeY2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Forties", "price": "50", "pic": "https://i.imgur.com/HBhXw3B.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "80", "pic": "https://i.imgur.com/XDXowL6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Geometries", "price": "45", "pic": "https://i.imgur.com/yyrpcRu.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/eBz7axe.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "42", "pic": "https://i.imgur.com/TeXpwrg.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Grey", "price": "56", "pic": "https://i.imgur.com/ImZXow1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Yellow", "price": "56", "pic": "https://i.imgur.com/yc3dKMM.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "",
+        ""
+    ]
+}

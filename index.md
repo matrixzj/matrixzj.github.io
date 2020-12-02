@@ -19,7 +19,7 @@ Just buy it :)
 
 Caution 请注意:
 
-Color Codes listed in this page is only players to mix sets reference. Please do NOT copy design via it !!!
+Color Codes listed in this page is only for players to mix sets reference. Please do NOT copy design!!!
 本页面色卡信息只供玩家混搭键帽参考，请勿用于抄袭他人设计！！！
 
 
@@ -154,6 +154,8 @@ Color Codes listed in this page is only players to mix sets reference. Please do
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2020
+* [Aurora Polaris 北极光](docs/gmk-keycaps/Aurora-Polaris/)
+* [Alpine 阿尔卑斯山](docs/gmk-keycaps/Alpine/)
 * [Thai Tea](docs/gmk-keycaps/Thai-Tea/)
 * [ThinkCaps](docs/gmk-keycaps/ThinkCaps/)
 * [Pixel 像素](docs/gmk-keycaps/Pixel/)

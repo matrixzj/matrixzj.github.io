@@ -1,0 +1,36 @@
+{
+    "name": "Aurora Polaris",
+    "cname": "北极光",
+    "keycapstype": "GMK",
+    "designer": "S3LQ",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-12-01 ~ 2020-12-31",
+    "colorcodes":[
+        "|Base|CR|Pantone 339 C",
+        "|Accent|Pantone 339 C|CR",
+        "|Alternate Mod 1|CR|MG1",
+        "|Alternate Mod 2|CR|DY",
+        "|Alternate Mod 3|CR|V4",
+        "|Alternate Mod 4|CR|N5",
+        "|Alternate Mod 5|CR|TU2"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/clt2DuH.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=109926.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/jO5nNTQ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/hkdcqoW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alternate Mods", "price": "79.99", "pic": "https://i.imgur.com/9OL6yDS.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/vJTyQ33.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/image1_13c6e20b-3f15-4ad2-b631-0f5b9c356027_1024x1024@2x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/pKQTYPW.jpg"
+    ]
+}

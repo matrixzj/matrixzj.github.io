@@ -264,7 +264,7 @@ def generate_keycap_page_end():
         
     print bcolors.OKGREEN + "{} was generated!".format(KEYCAP_FILENAME_WITH_PATH) + bcolors.ENDC
     if info_dict['cname']:
-        index_entry = "* [{} {}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'].lower(), KEYCAP_FILENAME)
+        index_entry = "* [{} {}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['cname'].encode('utf-8'), info_dict['keycapstype'].lower(), KEYCAP_NAME)
     else:
         index_entry = "* [{}](docs/{}-keycaps/{}/)".format(info_dict['name'], info_dict['keycapstype'].lower(), KEYCAP_NAME)
 
