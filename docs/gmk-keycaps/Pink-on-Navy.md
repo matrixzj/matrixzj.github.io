@@ -8,7 +8,7 @@ nav_order: 300505
 
 # Pink on Navy 
 
-ref link: [Pink on Navy GH GB Link]()
+ref link: [Pink on Navy GH GB Link](https://geekhack.org/index.php?topic=109930.0)
 
 * [Price](#price)
 * [Kits](#kits)

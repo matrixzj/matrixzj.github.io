@@ -10,17 +10,17 @@
     "color_pics":[
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=109930.0",
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://cdn.shopify.com/s/files/1/0238/7342/1376/products/Pon_basekit_updated_v4_540x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "24.99", "pic": "https://cdn.shopify.com/s/files/1/0238/7342/1376/products/final_0_frame_0_0_540x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0238/7342/1376/products/RW-GMK-PKNVY_R.3_540x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://cdn.discordapp.com/attachments/706883566151270483/708376776799289404/Pon_basekit_updated_v4.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "24.99", "pic": "https://cdn.discordapp.com/attachments/701916996387864727/766396080661200906/final_0_frame_0_0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "pic":"https://cdn.discordapp.com/attachments/701916996387864727/767049829036720168/RW-GMK-PKNVY_R.3.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[
-        "https://cdn.shopify.com/s/files/1/0238/7342/1376/products/pon_j02_3_540x.png?v=1606789858"
+        "https://cdn.discordapp.com/attachments/701916996387864727/710122077205561404/pon_j02_3.png"
     ]
 }
