@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
-import urllib
+import wget
 import magic
 import os
 
@@ -9,11 +9,8 @@ TEMP_PIC_FILE = '/tmp/KEYCAP_PIC_FILE'
 
 def download_graph(url, path, sub_path, name):
     # proxies = {'http': 'http://10.0.1.77:443'}
-    response = urllib.urlopen(url)
-    con = response.read()
-    output_file = open(TEMP_PIC_FILE,'wb')
-    output_file.write(con)
-    output_file.close()
+    print(url)
+    TEMP_PIC_FILE = wget.download(url)
 
     file_format = magic.from_file(TEMP_PIC_FILE, mime=True)
 
