@@ -31,7 +31,7 @@ NOTE: USD to CNY exchange rate is 7.16
 
 
 ## Info  
-* Designer:   
+* Designer: sourmk    
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2019-09-23 ~ 2019-10-18  
 * Color Codes:  
