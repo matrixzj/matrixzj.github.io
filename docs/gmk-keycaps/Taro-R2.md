@@ -1,12 +1,12 @@
 ---
-title: Taro R2 香芋奶茶
+title: Taro R2 香芋奶茶R2
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 300895
 ---
 
-# Taro R2 香芋奶茶
+# Taro R2 香芋奶茶R2
 
 ref link: [Taro R2 GH GB Link](https://geekhack.org/index.php?topic=104934.0)  
 * [Price](#price)  
