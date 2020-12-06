@@ -70,7 +70,7 @@ NOTE: USD to CNY exchange rate is 7.00
 ## Info  
 * Designer: pwade3  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2020-03-02 ~ 2020-03-27  
+* GB Time: 2020-03-02  
 * Color Codes:  
 
 | |Base Color     | Legend Color

@@ -21,22 +21,23 @@ NOTE: USD to RMB exchange rate is 6.29
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|155.00|974.95|unknown|
-|[Spacebar](#spacebar)|28.00|176.12|unknown|
-|[Novelties](#novelties)|20.00|125.80|unknown|
+|[Base](#base)|155.00|974.95|321|
+|[Spacebar](#spacebar)|28.00|176.12|190|
+|[Novelties](#novelties)|20.00|125.80|256|
 
+<img src="{{ 'assets/images/gmk-keycaps/taro/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base
-**Price(GH):** 155.00    **Price(RMB):** 974.95    **Quantity:** unknown  
+**Price(GH):** 155.00    **Price(RMB):** 974.95    **Quantity:** 321  
 <img src="{{ 'assets/images/gmk-keycaps/taro/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Spacebar
-**Price(GH):** 28.00    **Price(RMB):** 176.12    **Quantity:** unknown  
+**Price(GH):** 28.00    **Price(RMB):** 176.12    **Quantity:** 190  
 <img src="{{ 'assets/images/gmk-keycaps/taro/kits_pics/spacebar.png' | relative_url }}" alt="Spacebar" class="image featured">
 
 ### Novelties
-**Price(GH):** 20.00    **Price(RMB):** 125.80    **Quantity:** unknown  
+**Price(GH):** 20.00    **Price(RMB):** 125.80    **Quantity:** 256  
 <img src="{{ 'assets/images/gmk-keycaps/taro/kits_pics/novelties.png' | relative_url }}" alt="Novelties" class="image featured">
 
 

@@ -14,11 +14,11 @@
     "link": "https://geekhack.org/index.php?topic=108957.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/hcc0Frhm/GMKrainy-Day201116fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Sidewalks", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Hangul", "price": "39.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Petrichor", "price": "29.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "3124", "price_table_format": "","price_kit_format": "" },
+        { "name": "Sidewalks", "price": "29.99", "price_cny": "", "quantity": "1286", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hangul", "price": "39.99", "price_cny": "", "quantity": "562", "price_table_format": "","price_kit_format": "" },
+        { "name": "Petrichor", "price": "29.99", "price_cny": "", "quantity": "1223", "price_table_format": "","price_kit_format": "" }
     ]
 }

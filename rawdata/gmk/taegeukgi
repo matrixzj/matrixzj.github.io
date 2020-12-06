@@ -14,13 +14,13 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=109183.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/y157h2nG/GMKtaegeukgi-Progress201122fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/sj1Vh3PS/GMKtaegeukgi-Status201122fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "142.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Hangul Mono", "price": "70", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelties", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "40s Spacebars", "price": "45", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Black Day", "price": "15", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "142.99", "price_cny": "", "quantity": "503", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hangul Mono", "price": "70", "price_cny": "", "quantity": "123", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "price_cny": "", "quantity": "252", "price_table_format": "","price_kit_format": "" },
+        { "name": "40s Spacebars", "price": "45", "price_cny": "", "quantity": "106", "price_table_format": "","price_kit_format": "" },
+        { "name": "Black Day", "price": "15", "price_cny": "", "quantity": "200", "price_table_format": "","price_kit_format": "" }
     ]
 }

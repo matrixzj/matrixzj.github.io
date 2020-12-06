@@ -21,32 +21,34 @@ NOTE: USD to CNY exchange rate is 6.71
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|142.99|959.46|Unknown|
-|[Hangul Mono](#hangul-mono)|70.00|469.70|Unknown|
-|[Novelties](#novelties)|45.00|301.95|Unknown|
-|[40s Spacebars](#40s-spacebars)|45.00|301.95|Unknown|
-|[Black Day](#black-day)|15.00|100.65|Unknown|
+|[Base](#base)|142.99|959.46|503|
+|[Hangul Mono](#hangul-mono)|70.00|469.70|123|
+|[Novelties](#novelties)|45.00|301.95|252|
+|[40s Spacebars](#40s-spacebars)|45.00|301.95|106|
+|[Black Day](#black-day)|15.00|100.65|200|
 
+<img src="{{ 'assets/images/gmk-keycaps/taegeukgi/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/taegeukgi/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits  
 ### Base  
-**Price(GH):** 142.99    **Price(CNY):** 959.46    **Quantity:** Unknown  
+**Price(GH):** 142.99    **Price(CNY):** 959.46    **Quantity:** 503  
 <img src="{{ 'assets/images/gmk-keycaps/taegeukgi/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Hangul Mono  
-**Price(GH):** 70.00    **Price(CNY):** 469.70    **Quantity:** Unknown  
+**Price(GH):** 70.00    **Price(CNY):** 469.70    **Quantity:** 123  
 <img src="{{ 'assets/images/gmk-keycaps/taegeukgi/kits_pics/hangul-mono.png' | relative_url }}" alt="hangul-mono" class="image featured">
 
 ### Novelties  
-**Price(GH):** 45.00    **Price(CNY):** 301.95    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 301.95    **Quantity:** 252  
 <img src="{{ 'assets/images/gmk-keycaps/taegeukgi/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### 40s Spacebars  
-**Price(GH):** 45.00    **Price(CNY):** 301.95    **Quantity:** Unknown  
+**Price(GH):** 45.00    **Price(CNY):** 301.95    **Quantity:** 106  
 <img src="{{ 'assets/images/gmk-keycaps/taegeukgi/kits_pics/40s-spacebars.png' | relative_url }}" alt="40s-spacebars" class="image featured">
 
 ### Black Day  
-**Price(GH):** 15.00    **Price(CNY):** 100.65    **Quantity:** Unknown  
+**Price(GH):** 15.00    **Price(CNY):** 100.65    **Quantity:** 200  
 <img src="{{ 'assets/images/gmk-keycaps/taegeukgi/kits_pics/black-day.png' | relative_url }}" alt="black-day" class="image featured">
 
 
