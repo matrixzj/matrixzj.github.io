@@ -21,44 +21,48 @@ NOTE: USD to CNY exchange rate is 6.62
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|163.25|1080.00|Unknown|
-|[Alphas](#alphas)|36.28|240.00|Unknown|
-|[Numpad](#numpad)|41.57|275.00|Unknown|
-|[Extension](#extension)|60.46|400.00|Unknown|
-|[Novelties](#novelties)|37.18|246.00|Unknown|
-|[7u Spacebars](#7u-spacebars)|15.12|100.00|Unknown|
+|[Base](#base)|137.85|912.00|Unknown|
+|[Alphas](#alphas)|50.94|337.00|Unknown|
+|[Numpad](#numpad)|45.04|298.00|Unknown|
+|[Extension](#extension)|66.21|438.00|Unknown|
+|[Novelties](#novelties)|32.65|216.00|Unknown|
+|[7u Spacebars](#7u-spacebars)|17.38|115.00|Unknown|
 
-<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 163.25	**Price(CNY):** 1080.00	**Quantity:** Unknown  
-<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
+**Price(USD):** 137.85	**Price(CNY):** 912.00	**Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Alphas  
-**Price(USD):** 36.28	**Price(CNY):** 240.00	**Quantity:** Unknown  
-<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/alphas.jpg' | relative_url }}" alt="alphas" class="image featured">
+**Price(USD):** 50.94	**Price(CNY):** 337.00	**Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/alphas.png' | relative_url }}" alt="alphas" class="image featured">
 
 ### Numpad  
-**Price(USD):** 41.57	**Price(CNY):** 275.00	**Quantity:** Unknown  
-<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
+**Price(USD):** 45.04	**Price(CNY):** 298.00	**Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ### Extension  
-**Price(USD):** 60.46	**Price(CNY):** 400.00	**Quantity:** Unknown  
-<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/extension.jpg' | relative_url }}" alt="extension" class="image featured">
+**Price(USD):** 66.21	**Price(CNY):** 438.00	**Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/extension.png' | relative_url }}" alt="extension" class="image featured">
 
 ### Novelties  
-**Price(USD):** 37.18	**Price(CNY):** 246.00	**Quantity:** Unknown  
-<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
+**Price(USD):** 32.65	**Price(CNY):** 216.00	**Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### 7u Spacebars  
-**Price(USD):** 15.12	**Price(CNY):** 100.00	**Quantity:** Unknown  
-<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/7u-spacebars.jpg' | relative_url }}" alt="7u-spacebars" class="image featured">
+**Price(USD):** 17.38	**Price(CNY):** 115.00	**Quantity:** Unknown  
+<img src="{{ 'assets/images/sa-keycaps/Silent-Assassin/kits_pics/7u-spacebars.png' | relative_url }}" alt="7u-spacebars" class="image featured">
+
+### Bundle
+**Price(USD):** 314.95	**Price(CNY):** 2085.00	**Quantity:** Unknown  
+All kits are included
+
 
 ## Info
 * Designer: Triple Agency  
 * Profile: SA 1-1-2-3-4-3  
-* GB Time: 2020-11-10 ~ 2020-11-30  
+* GB Time: 2020-11-10 ~ 2020-12-23  
 * Color Codes:  
 
 <table style="width:100%">

@@ -4,7 +4,7 @@
     "keycapstype": "SA",
     "designer": "Triple Agency",
     "profile": "1-1-2-3-4-3",
-    "time": "2020-11-10 ~ 2020-11-30",
+    "time": "2020-11-10 ~ 2020-12-23",
     "colorcodes":[
         "RAC/WCK/NN"
     ],
@@ -16,14 +16,14 @@
     "history_graph": "",
     "order_graph": "",
     "price_list":[
-        { "name": "Base", "price": "", "pic": "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255454;image", "price_cny": "1080", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alphas", "price": "", "pic": "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255456;image", "price_cny": "240", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "", "pic": "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255458;image", "price_cny": "275", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extension", "price": "", "pic": "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255460;image", "price_cny": "400", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "", "pic": "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255462;image", "price_cny": "246", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "7u Spacebars", "price": "", "pic": "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255464;image", "price_cny": "100", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "", "pic": "https://qqadapt.qpic.cn/txdocpic/0/7425bebb99279126dc56d0050f98f4e0/0?w=4096&h=2701", "price_cny": "912", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alphas", "price": "", "pic": "https://qqadapt.qpic.cn/txdocpic/0/7c9a88dbc3239bd2bce6e60aeb09e4d3/0?w=4096&h=1595", "price_cny": "337", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "", "pic": "https://qqadapt.qpic.cn/txdocpic/0/8ec0ab5d2df1d66293acf574d7d4a23c/0?w=484&h=640", "price_cny": "298", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "", "pic": "https://qqadapt.qpic.cn/txdocpic/0/00386d05fff502e51049a7afefddade0/0?w=4096&h=1924", "price_cny": "438", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "", "pic": "https://qqadapt.qpic.cn/txdocpic/0/36bcc08febcacf2220cdcb9b7d838e0c/0?w=4096&h=1924", "price_cny": "216", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "7u Spacebars", "price": "", "pic": "https://qqadapt.qpic.cn/txdocpic/0/bcb984f1a4a1218d047ee2e3dc3b5704/0?w=599&h=415", "price_cny": "115", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
-    "price_pic":"https://enjoykeycap.github.io/assets/images/sa-keycaps/Silent-Tension/price.jpg",
+    "price_pic": "",
     "platform": "QQ Group 1140462315",
     "render_pics":[
         "https://geekhack.org/index.php?action=dlattach;topic=109452.0;attach=255452;image"

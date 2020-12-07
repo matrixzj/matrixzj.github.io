@@ -1,0 +1,38 @@
+{
+    "name": "80082",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-12-06 ~ 2020-12-31",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Standard", "price": "99.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/1_Standard_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "BL00 Standard", "price": "99.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/2_Standard_BL00_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alternate", "price": "64.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/3_Alternate_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Addition", "price": "29.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/4_Addition_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numbers", "price": "34.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/5_Numbers_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "BL00 Numbers", "price": "34.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/6_Numbers_BL00_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Aesthetic", "price": "29.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/7_Aesthetic_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "BL00 Aesthetic", "price": "29.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/8_Aesthetic_BL00_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Modern", "price": "39.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/9_Modern_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "BL00 Modern", "price": "39.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/10_Modern_BL00_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Command", "price": "24.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/11_Command_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Obscure", "price": "39.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/12_Obscure_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "69.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/13_International_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Pink", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/RW-GMK-8008_R2_R.1_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Blue", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/RW-GMK-8008_R2_R.3_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/Bauer2_8008_2_800x.png"
+    ]
+}
