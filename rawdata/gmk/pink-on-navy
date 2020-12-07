@@ -6,6 +6,8 @@
     "profile": "1-1-2-3-4-4",
     "time": "2020-12-01 ~ 2021-01-01",
     "colorcodes":[
+        "|Base|Pantone 289 C|RAL 350 70 35",
+        "|Accent|RAL 350 70 35|Pantone 289 C"
     ],
     "color_pics":[
     ],

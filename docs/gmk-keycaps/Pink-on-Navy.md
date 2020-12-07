@@ -45,6 +45,11 @@ NOTE: USD to CNY exchange rate is 6.57
 * GB Time: 2020-12-01 ~ 2021-01-01  
 * Color Codes:  
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Base|Pantone 289 C|RAL 350 70 35
+|Accent|RAL 350 70 35|Pantone 289 C
+
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/Pink-on-Navy/rendering_pics/0.png' | relative_url }}" alt="0" class="image featured">
