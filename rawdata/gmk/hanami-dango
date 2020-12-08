@@ -1,0 +1,33 @@
+{
+    "name": "Hanami Dango",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "hectellian",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-12-08 ~ 2021-01-26",
+    "colorcodes":[
+        "|Alpha|Ral 9001|Ral 6011",
+        "|Modifiers|Ral 6011|Ral 9001",
+        "|Accent|Ral 3017|Ral 9001"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/MZ2kjzd.png",
+        "https://i.imgur.com/mREExzH.png",
+        "https://i.imgur.com/rerDyik.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=110049.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/5BfPJi9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragana Mono", "price": "84.99", "pic": "https://i.imgur.com/G47HqO6.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/gD98skB.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/3J52QV8.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/HA4Ogj8.png",
+    "render_pics":[
+        "https://i.imgur.com/7WCp3g2.jpg"
+    ]
+}
