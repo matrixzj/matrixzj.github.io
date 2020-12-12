@@ -53,7 +53,7 @@ def read_nav_order(filename):
     file_lines = fd.readlines()
     for line in file_lines:
         if "nav_order" in line:
-	    return int(line.split(":")[1].strip())
+            return int(line.split(":")[1].strip())
 
 def cal_nav_order(keycapType):
     fd_index = open("index.md", "r")
@@ -61,36 +61,36 @@ def cal_nav_order(keycapType):
     fd_index.close()
 
     if os.path.isfile(KEYCAP_FILENAME_WITH_PATH):
-	info_dict['nav_order'] = read_nav_order(KEYCAP_FILENAME_WITH_PATH)
+        info_dict['nav_order'] = read_nav_order(KEYCAP_FILENAME_WITH_PATH)
     else:
         current_profile_marker = '## {} KeyCaps\n'.format(keycapType)
-	current_porfile_index = index_lines.index(current_profile_marker)
+        current_porfile_index = index_lines.index(current_profile_marker)
 
-	year_marker = '### {}\n'.format(info_dict['time'].split('-')[0])
-	year_index = index_lines.index(year_marker, current_porfile_index)
+        year_marker = '### {}\n'.format(info_dict['time'].split('-')[0])
+        year_index = index_lines.index(year_marker, current_porfile_index)
 
-	latest_entry = index_lines[year_index + 1]
-	latest_file_name = '{}.md'.format(re.sub(".*\(", "", latest_entry)[:-3])
-	current_nav_order = read_nav_order(latest_file_name)
-	info_dict['nav_order'] = current_nav_order - 5
+        latest_entry = index_lines[year_index + 1]
+        latest_file_name = '{}.md'.format(re.sub(".*\(", "", latest_entry)[:-3])
+        current_nav_order = read_nav_order(latest_file_name)
+        info_dict['nav_order'] = current_nav_order - 5
 
 def parse_price_info_format():
     for kit in info_dict['price_list']:
-	if kit['price']:
-             kit['price'] = '{:.2f}'.format(float(kit['price']))
-	else:
-	    if kit['price_cny']:
-		kit['price'] = '{:.2f}'.format(float(kit['price_cny']) / float(info_dict['rate']))
-	    else:
-		kit['price'] = 'Unknown'
+        if kit['price']:
+            kit['price'] = '{:.2f}'.format(float(kit['price']))
+        else:
+            if kit['price_cny']:
+                kit['price'] = '{:.2f}'.format(float(kit['price_cny']) / float(info_dict['rate']))
+            else:
+                kit['price'] = 'Unknown'
 
-	if kit['price_cny']:
-             kit['price_cny'] = '{:.2f}'.format(float(kit['price_cny']))
-	else:
-	    if kit['price']:
-		kit['price_cny'] = '{:.2f}'.format(float(kit['price']) * float(info_dict['rate']))
-	    else:
-		kit['price_cny'] = 'Unknown'
+        if kit['price_cny']:
+            kit['price_cny'] = '{:.2f}'.format(float(kit['price_cny']))
+        else:
+            if kit['price']:
+                kit['price_cny'] = '{:.2f}'.format(float(kit['price']) * float(info_dict['rate']))
+            else:
+                kit['price_cny'] = 'Unknown'
 
          # Quantity is Unknown
         if kit['quantity']:
@@ -156,24 +156,24 @@ NOTE: USD to CNY exchange rate is {:.2f}
     write_to_file(keycap_page_price_table_header)
 
     for kit in info_dict['price_list']:
-	keycap_page_price_table_entry = """
+        keycap_page_price_table_entry = """
 |[{}](#{})|{}|{}|{}|""".format(kit['name'], kit['name'].lower().replace(" ", "-").replace(".", ""), kit['price'], kit['price_cny'], kit['quantity'])
-	write_to_file(keycap_page_price_table_entry)
+        write_to_file(keycap_page_price_table_entry)
 
     write_to_file(SPACELINE)
     write_to_file(SPACELINE)
 
     if info_dict["price_pic"]:
-	keycap_page_price_price_graph_info = generate_graph_info(info_dict['price_pic'], '', 'price')
-	write_to_file(keycap_page_price_price_graph_info)	
+        keycap_page_price_price_graph_info = generate_graph_info(info_dict['price_pic'], '', 'price')
+        write_to_file(keycap_page_price_price_graph_info)	
 
     if info_dict["history_graph"]:
-	keycap_page_price_history_graph_info = generate_graph_info(info_dict['history_graph'], '', 'history')
-	write_to_file(keycap_page_price_history_graph_info)	
+        keycap_page_price_history_graph_info = generate_graph_info(info_dict['history_graph'], '', 'history')
+        write_to_file(keycap_page_price_history_graph_info)	
 
     if info_dict["order_graph"]:
-	keycap_page_price_order_graph_info = generate_graph_info(info_dict['order_graph'], '', 'order')
-	write_to_file(keycap_page_price_order_graph_info)	
+        keycap_page_price_order_graph_info = generate_graph_info(info_dict['order_graph'], '', 'order')
+        write_to_file(keycap_page_price_order_graph_info)	
 
     write_to_file(SPACELINE)
 
@@ -182,16 +182,16 @@ def generate_keycap_page_kit():
     write_to_file(keycap_page_kit_title)
 
     for kit in info_dict['price_list']:
-	if kit['pic']:
-	    keycap_page_kit_entry_graph_info = generate_graph_info(kit['pic'], 'kits_pics', kit['name'].lower().replace(' ', '-'))
-	else:
-	    keycap_page_kit_entry_graph_info = ''
+        if kit['pic']:
+            keycap_page_kit_entry_graph_info = generate_graph_info(kit['pic'], 'kits_pics', kit['name'].lower().replace(' ', '-'))
+        else:
+            keycap_page_kit_entry_graph_info = ''
 
-	keycap_page_kit_entry = """### {}  
+        keycap_page_kit_entry = """### {}  
 **Price({}):** {}	**Price(CNY):** {}	**Quantity:** {}  
 {}
 """.format(kit['name'], info_dict['currencyunit'], kit['price'], kit['price_cny'], kit['quantity'], keycap_page_kit_entry_graph_info)
-	write_to_file(keycap_page_kit_entry)
+        write_to_file(keycap_page_kit_entry)
 
 def generate_keycap_page_info():
     keycap_page_info_header = """## Info
@@ -229,8 +229,8 @@ def generate_keycap_page_info():
 """
         write_to_file(keycap_page_info_color_gmk_table_header)
         
-	for color in info_dict['colorcodes']:
-	    write_to_file("{}\n".format(color))
+    for color in info_dict['colorcodes']:
+        write_to_file("{}\n".format(color))
 
     write_to_file(SPACELINE)
 
@@ -253,10 +253,10 @@ def generate_keycap_page_end():
 
     tmp_file_name = os.path.join("/tmp", "%s.md" % KEYCAP_NAME)
     if os.path.isfile(tmp_file_name):
-	print bcolors.WARNING + "Diff result:\n" + bcolors.ENDC
+        print bcolors.WARNING + "Diff result:\n" + bcolors.ENDC
         os.system("diff %s %s" % (KEYCAP_FILENAME_WITH_PATH, tmp_file_name))
     else:
-	print bcolors.WARNING + "First result:\n" + bcolors.ENDC
+        print bcolors.WARNING + "First result:\n" + bcolors.ENDC
         with open(KEYCAP_FILENAME_WITH_PATH) as fd:
             Lines = fd.readlines()
         for line in Lines:

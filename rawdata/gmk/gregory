@@ -1,0 +1,34 @@
+{
+    "name": "Gregory",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Chamelemon_64 & TheMagicPancake",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-12-10 ~ 2021-01-18",
+    "colorcodes":[
+        "|Yellow Base|CV|CR",
+        "|White Base|WS1|CR",
+        "|Black Base|CR|N9",
+        "|Red Accent|RO2|CR",
+        "|Pink Accent|3C|WS1",
+        "|Blue Accent|N5|WS1",
+        "|Yellow Accent|CV|WS1"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=110101.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/FTux4CB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/3Ya0A7v.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "34.99", "pic": "https://i.imgur.com/k2uPRls.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Black on Yellow", "price": "59.99", "pic": "https://i.imgur.com/xATuc1D.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/AYwHHXH.jpg"
+    ]
+}
