@@ -163,6 +163,7 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 * [Pink on Navy](docs/gmk-keycaps/Pink-on-Navy/)
 * [Aurora Polaris 北极光](docs/gmk-keycaps/Aurora-Polaris/)
 * [Alpine 阿尔卑斯山](docs/gmk-keycaps/Alpine/)
+* [Muted Retro](docs/gmk-keycaps/Muted-Retro/)
 * [Thai Tea](docs/gmk-keycaps/Thai-Tea/)
 * [ThinkCaps](docs/gmk-keycaps/ThinkCaps/)
 * [Pixel 像素](docs/gmk-keycaps/Pixel/)

@@ -1,0 +1,24 @@
+{
+    "name": "Muted Retro",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "OCO",
+    "profile": "1-1-2-3-4-4",
+    "time": "2020-11-29 ~ ",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "OCO",
+    "link": "https://www.originativeco.com/products/muted-retro",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Bundle", "price": "180", "pic": "https://cdn.shopify.com/s/files/1/0267/1905/products/ClassicRetroKitv01_1024x1024.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/0267/1905/products/ClassicRetro_Blue_c1v01-1_1024x1024.png"
+    ]
+}
