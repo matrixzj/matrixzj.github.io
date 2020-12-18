@@ -30,6 +30,7 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2020
+* [Recall](docs/sa-keycaps/Recall/)
 * [Silent Assassin 无声刺客](docs/sa-keycaps/Silent-Assassin/)
 * [Angel/Devil Daisy 天使/恶魔雏菊](docs/sa-keycaps/Angel-Devil-Daisy/)
 * [Biso](docs/sa-keycaps/Biso/)
