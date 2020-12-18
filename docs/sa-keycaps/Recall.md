@@ -62,19 +62,19 @@ NOTE: USD to CNY exchange rate is 6.54
     <th>Sample</th>
   </tr>  <tr>
     <th>Pantone 2360 xgc</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_Pantone 2360 xgc.png' | relative_url }}" alt="Color_Pantone 2360 xgc" height="75" width="170"></th>
+    <th style="background-color: rgb(132, 130, 148)">&#160;</th>
   </tr>
   <tr>
     <th>Pantone 7406 xgc</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_Pantone 7406 xgc.png' | relative_url }}" alt="Color_Pantone 7406 xgc" height="75" width="170"></th>
+    <th style="background-color: rgb(245, 205, 0)">&#160;</th>
   </tr>
   <tr>
     <th>Pantone 172 xgc</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_Pantone 172 xgc.png' | relative_url }}" alt="Color_Pantone 172 xgc" height="75" width="170"></th>
+    <th style="background-color: rgb(240, 88, 46)">&#160;</th>
   </tr>
   <tr>
     <th>Pantone 7657 xgc</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_Pantone 7657 xgc.png' | relative_url }}" alt="Color_Pantone 7657 xgc" height="75" width="170"></th>
+    <th style="background-color: rgb(116, 57, 102)">&#160;</th>
   </tr>
   <tr>
     <th>nn</th>
