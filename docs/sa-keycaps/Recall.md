@@ -78,7 +78,7 @@ NOTE: USD to CNY exchange rate is 6.54
   </tr>
   <tr>
     <th>nn</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_nn.png' | relative_url }}" alt="Color_nn" height="75" width="170"></th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="Color_NN" height="75" width="170"></th>
   </tr>
 </table>Pantone 2360 xgc/Pantone 7406 xgc/Pantone 172 xgc/Pantone 7657 xgc/nn
 
