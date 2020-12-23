@@ -12,12 +12,12 @@
     "platform": "MD",
     "link": "https://drop.com/buy/drop-mito-gmk-pixel-custom-keycap-set",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://massdrop-s3.imgix.net/img_comment/1608095973831.185637883027547316569027-GMKpixelHistory201214final2.PNG",
+    "order_graph": "https://massdrop-s3.imgix.net/img_comment/1608095965046.228923622862913510832659-GMKpixelStatus201214final2.PNG",
     "price_list":[
-        { "name": "Base", "price": "120", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-pixel-custom-keycap-set/FP/bxQGlR4ERRGIQ8ZP8hyK_base_pixel.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Decorations", "price": "35", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-pixel-custom-keycap-set/FP/NayJJ3rzQNGSeUTtDNQb_decorations_pixel.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "28", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-pixel-custom-keycap-set/FP/pq3OFI7OQ1eKqfgbl8dK_space_pixel.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "120", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-pixel-custom-keycap-set/FP/bxQGlR4ERRGIQ8ZP8hyK_base_pixel.png", "price_cny": "", "quantity": "949", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Decorations", "price": "35", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-pixel-custom-keycap-set/FP/NayJJ3rzQNGSeUTtDNQb_decorations_pixel.jpg", "price_cny": "", "quantity": "1074", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "28", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-pixel-custom-keycap-set/FP/pq3OFI7OQ1eKqfgbl8dK_space_pixel.jpg", "price_cny": "", "quantity": "567", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

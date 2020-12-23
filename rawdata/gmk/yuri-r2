@@ -14,20 +14,19 @@
     "color_pics":[
     ],
     "platform": "GH",
-    "link": "",
-    "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "link": "https://geekhack.org/index.php?topic=109580.msg2979554",
+    "currencyunit": "USD", "history_graph": "https://i.postimg.cc/7H008Jvm/GMKyuri-R2status201214fin-Next.png",
+    "order_graph": "https://i.postimg.cc/gcpRYcmd/GMKyuri-R2history201214fin-Next.png",
     "price_list":[
-        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/G8oxPeq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Skydata Base", "price": "130", "pic": "https://i.imgur.com/D7XIwVc.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Forties", "price": "50", "pic": "https://i.imgur.com/XdtDFW2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Icon Mods", "price": "42", "pic": "https://i.imgur.com/Wqoxycs.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Cyrilics", "price": "60", "pic": "https://i.imgur.com/uxWbDZu.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Xtra", "price": "42", "pic": "https://i.imgur.com/YqC2vey.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "32", "pic": "https://i.imgur.com/6alOp1f.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Cherry Picker", "price": "32", "pic": "https://i.imgur.com/7x8NoMO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/Iqu9m0w.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/G8oxPeq.png", "price_cny": "", "quantity": "304", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Skydata Base", "price": "130", "pic": "https://i.imgur.com/D7XIwVc.png", "price_cny": "", "quantity": "76", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Forties", "price": "50", "pic": "https://i.imgur.com/XdtDFW2.png", "price_cny": "", "quantity": "42", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icon Mods", "price": "42", "pic": "https://i.imgur.com/Wqoxycs.png", "price_cny": "", "quantity": "28", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cyrilics", "price": "60", "pic": "https://i.imgur.com/uxWbDZu.png", "price_cny": "", "quantity": "70", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Xtra", "price": "42", "pic": "https://i.imgur.com/YqC2vey.png", "price_cny": "", "quantity": "60", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "32", "pic": "https://i.imgur.com/6alOp1f.png", "price_cny": "", "quantity": "137", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cherry Picker", "price": "32", "pic": "https://i.imgur.com/7x8NoMO.png", "price_cny": "", "quantity": "58", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/Iqu9m0w.png", "price_cny": "", "quantity": "98", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

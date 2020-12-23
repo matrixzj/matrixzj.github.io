@@ -21,22 +21,24 @@ NOTE: USD to CNY exchange rate is 6.61
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|792.77|Unknown|
-|[Decorations](#decorations)|35.00|231.22|Unknown|
-|[Spacebars](#spacebars)|28.00|184.98|Unknown|
+|[Base](#base)|120.00|792.77|949|
+|[Decorations](#decorations)|35.00|231.22|1074|
+|[Spacebars](#spacebars)|28.00|184.98|567|
 
+<img src="{{ 'assets/images/gmk-keycaps/Pixel/history.jpg' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Pixel/order.jpg' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 120.00	**Price(CNY):** 792.77	**Quantity:** Unknown  
+**Price(USD):** 120.00	**Price(CNY):** 792.77	**Quantity:** 949  
 <img src="{{ 'assets/images/gmk-keycaps/Pixel/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Decorations  
-**Price(USD):** 35.00	**Price(CNY):** 231.22	**Quantity:** Unknown  
+**Price(USD):** 35.00	**Price(CNY):** 231.22	**Quantity:** 1074  
 <img src="{{ 'assets/images/gmk-keycaps/Pixel/kits_pics/decorations.jpg' | relative_url }}" alt="decorations" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 28.00	**Price(CNY):** 184.98	**Quantity:** Unknown  
+**Price(USD):** 28.00	**Price(CNY):** 184.98	**Quantity:** 567  
 <img src="{{ 'assets/images/gmk-keycaps/Pixel/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ## Info

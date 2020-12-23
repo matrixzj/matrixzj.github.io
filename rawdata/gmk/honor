@@ -9,18 +9,21 @@
     ],
     "color_pics":[
     ],
+    "price_pic": "",
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=109319.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/XnY03wTX/GMKhonor-Progress201130fin-YNext.png",
+    "order_graph": "https://i.postimg.cc/bpTjK6VK/GMKhonor-Status201130fin-Yext.png",
     "price_list":[
-        { "name": "Base Dark", "price": "95", "pic": "https://i.imgur.com/Z66Zfs4.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Base Light", "price": "95", "pic": "https://i.imgur.com/51mMdmD.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Extension Dark", "price": "38", "pic": "https://i.imgur.com/Q60u83u.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Extension Light", "price": "38", "pic": "https://i.imgur.com/1ZeXofl.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Kabuto", "price": "56", "pic": "https://i.imgur.com/JAibJ05.jpg", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Katana", "price": "56", "pic": "https://i.imgur.com/obU5uqt.png", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base Dark", "price": "95", "pic": "https://i.imgur.com/Z66Zfs4.jpg", "price_cny": "", "quantity": "3141", "price_table_format": "","price_kit_format": "" },
+        { "name": "Base Light", "price": "95", "pic": "https://i.imgur.com/51mMdmD.jpg", "price_cny": "", "quantity": "3568", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extension Dark", "price": "38", "pic": "https://i.imgur.com/Q60u83u.jpg", "price_cny": "", "quantity": "1000", "price_table_format": "","price_kit_format": "" },
+        { "name": "Extension Light", "price": "38", "pic": "https://i.imgur.com/1ZeXofl.jpg", "price_cny": "", "quantity": "1235", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Kabuto", "price": "56", "pic": "https://i.imgur.com/JAibJ05.jpg", "price_cny": "", "quantity": "575", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Katana", "price": "56", "pic": "https://i.imgur.com/obU5uqt.png", "price_cny": "", "quantity": "320", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salvun Dark", "price": "56", "pic": "https://i.imgur.com/BXGOuHR.jpg", "price_cny": "", "quantity": "176", "price_table_format": "","price_kit_format": "" },
+        { "name": "Salvun Light", "price": "56", "pic": "https://i.imgur.com/BXGOuHR.jpg", "price_cny": "", "quantity": "200", "price_table_format": "","price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/HWzBEYv.jpg",

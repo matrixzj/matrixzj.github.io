@@ -15,16 +15,17 @@
     "color_pics":[
         "https://i.imgur.com/RdEkx9E.png"
     ],
+    "price_pic": "",
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=109361.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/nZT7hVLC/GMKfundamentals-History201207fin-YNext.png",
+    "order_graph": "https://i.postimg.cc/4ZXVGHsD/GMKfundamentals-Status201207fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "115", "pic": "https://i.imgur.com/24J0xSM.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Additional", "price": "35", "pic": "https://i.imgur.com/7b0IC8k.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Accent", "price": "40", "pic": "https://i.imgur.com/cUhWkmj.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/nvFRaul.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "115", "pic": "https://i.imgur.com/24J0xSM.png", "price_cny": "", "quantity": "647", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Additional", "price": "35", "pic": "https://i.imgur.com/7b0IC8k.png", "price_cny": "", "quantity": "12", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent", "price": "40", "pic": "https://i.imgur.com/cUhWkmj.png", "price_cny": "", "quantity": "594", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/nvFRaul.png", "price_cny": "", "quantity": "105", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/Fne53wJ.jpg"

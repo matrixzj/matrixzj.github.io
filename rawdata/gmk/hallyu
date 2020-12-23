@@ -6,17 +6,22 @@
     "profile": "1-1-2-3-4-4",
     "time": "2020-11-01 ~ 2020-12-01",
     "colorcodes":[
+        "|Base|RAL 290 30 20",
+        "|Legend R1/R4 Blue|RAL 270 70 25", 
+        "|Legend R2|RAL 040 60 60", 
+        "|Legend R3|RAL 050 80 30", 
+        "|Legend R4 Yellow|RAL 080 80 60"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=109307.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/mBVnyDg9/GMKhallyu-History201201fin-YNext.png",
+    "order_graph": "https://i.postimg.cc/pRP7j8Rx/GMKhallyu-Status201201fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "129.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Seoul Nights", "price": "40.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "23.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Gold", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA Rose Gold", "price": "56", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "129.99", "price_cny": "", "quantity": "2188", "price_table_format": "","price_kit_format": "" },
+        { "name": "Seoul Nights", "price": "40.99", "price_cny": "", "quantity": "1078", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "23.99", "price_cny": "", "quantity": "327", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Gold", "price": "56", "price_cny": "", "quantity": "182", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA Rose Gold", "price": "56", "price_cny": "", "quantity": "1165", "price_table_format": "","price_kit_format": "" }
     ]
 }

@@ -13,15 +13,15 @@
     "link": "https://geekhack.org/index.php?topic=109468.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/vYRmX23v/GMKamethyst-Status201213fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "139.99", "pic": "https://i.imgur.com/JM9CHNF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Dark Base", "price": "149.99", "pic": "https://i.imgur.com/7s29fIz.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "64.99", "pic": "https://i.imgur.com/o5CoDyj.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extension", "price": "69.99", "pic": "https://i.imgur.com/xa9hbO5.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/yTh7W8L.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Pickaxe", "price": "56", "pic": "https://i.imgur.com/zqnI4Li.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Amethyst", "price": "42", "pic": "https://i.imgur.com/hEeOKv4.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "139.99", "pic": "https://i.imgur.com/JM9CHNF.jpg", "price_cny": "", "quantity": "1561", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Base", "price": "149.99", "pic": "https://i.imgur.com/7s29fIz.jpg", "price_cny": "", "quantity": "605", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "64.99", "pic": "https://i.imgur.com/o5CoDyj.jpg", "price_cny": "", "quantity": "571", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "69.99", "pic": "https://i.imgur.com/xa9hbO5.jpg", "price_cny": "", "quantity": "160", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/yTh7W8L.jpg", "price_cny": "", "quantity": "579", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Pickaxe", "price": "56", "pic": "https://i.imgur.com/zqnI4Li.png", "price_cny": "", "quantity": "139", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Amethyst", "price": "42", "pic": "https://i.imgur.com/hEeOKv4.png", "price_cny": "", "quantity": "255", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/FGzdFXa.png",
     "render_pics":[

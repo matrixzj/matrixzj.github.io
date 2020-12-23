@@ -8,7 +8,7 @@ nav_order: 300535
 
 # Yuri R2 尤里R2
 
-ref link: [Yuri R2 GH GB Link]()
+ref link: [Yuri R2 GH GB Link](https://geekhack.org/index.php?topic=109580.msg2979554)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -21,52 +21,54 @@ NOTE: USD to CNY exchange rate is 6.61
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|793.25|Unknown|
-|[Skydata Base](#skydata-base)|130.00|859.35|Unknown|
-|[Forties](#forties)|50.00|330.52|Unknown|
-|[Icon Mods](#icon-mods)|42.00|277.64|Unknown|
-|[Cyrilics](#cyrilics)|60.00|396.62|Unknown|
-|[Xtra](#xtra)|42.00|277.64|Unknown|
-|[Novelties](#novelties)|32.00|211.53|Unknown|
-|[Cherry Picker](#cherry-picker)|32.00|211.53|Unknown|
-|[Spacebars](#spacebars)|30.00|198.31|Unknown|
+|[Base](#base)|120.00|792.77|304|
+|[Skydata Base](#skydata-base)|130.00|858.83|76|
+|[Forties](#forties)|50.00|330.32|42|
+|[Icon Mods](#icon-mods)|42.00|277.47|28|
+|[Cyrilics](#cyrilics)|60.00|396.38|70|
+|[Xtra](#xtra)|42.00|277.47|60|
+|[Novelties](#novelties)|32.00|211.40|137|
+|[Cherry Picker](#cherry-picker)|32.00|211.40|58|
+|[Spacebars](#spacebars)|30.00|198.19|98|
 
+<img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 120.00	**Price(CNY):** 793.25	**Quantity:** Unknown  
+**Price(USD):** 120.00	**Price(CNY):** 792.77	**Quantity:** 304  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Skydata Base  
-**Price(USD):** 130.00	**Price(CNY):** 859.35	**Quantity:** Unknown  
+**Price(USD):** 130.00	**Price(CNY):** 858.83	**Quantity:** 76  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/kits_pics/skydata-base.png' | relative_url }}" alt="skydata-base" class="image featured">
 
 ### Forties  
-**Price(USD):** 50.00	**Price(CNY):** 330.52	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 330.32	**Quantity:** 42  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/kits_pics/forties.png' | relative_url }}" alt="forties" class="image featured">
 
 ### Icon Mods  
-**Price(USD):** 42.00	**Price(CNY):** 277.64	**Quantity:** Unknown  
+**Price(USD):** 42.00	**Price(CNY):** 277.47	**Quantity:** 28  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/kits_pics/icon-mods.png' | relative_url }}" alt="icon-mods" class="image featured">
 
 ### Cyrilics  
-**Price(USD):** 60.00	**Price(CNY):** 396.62	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 396.38	**Quantity:** 70  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/kits_pics/cyrilics.png' | relative_url }}" alt="cyrilics" class="image featured">
 
 ### Xtra  
-**Price(USD):** 42.00	**Price(CNY):** 277.64	**Quantity:** Unknown  
+**Price(USD):** 42.00	**Price(CNY):** 277.47	**Quantity:** 60  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/kits_pics/xtra.png' | relative_url }}" alt="xtra" class="image featured">
 
 ### Novelties  
-**Price(USD):** 32.00	**Price(CNY):** 211.53	**Quantity:** Unknown  
+**Price(USD):** 32.00	**Price(CNY):** 211.40	**Quantity:** 137  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Cherry Picker  
-**Price(USD):** 32.00	**Price(CNY):** 211.53	**Quantity:** Unknown  
+**Price(USD):** 32.00	**Price(CNY):** 211.40	**Quantity:** 58  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/kits_pics/cherry-picker.png' | relative_url }}" alt="cherry-picker" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 30.00	**Price(CNY):** 198.31	**Quantity:** Unknown  
+**Price(USD):** 30.00	**Price(CNY):** 198.19	**Quantity:** 98  
 <img src="{{ 'assets/images/gmk-keycaps/Yuri-R2/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ## Info
@@ -74,6 +76,13 @@ NOTE: USD to CNY exchange rate is 6.61
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-11-13 ~ 2020-12-14  
 * Color Codes:  
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|BL2|OR2
+|Skydata Alpha|BL3|OR2
+|Modifiers|BL3|OR2
+|Accents|OR2|BL3
 
 
 ## Pictures  
