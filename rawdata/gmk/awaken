@@ -1,0 +1,30 @@
+{
+    "name": "Awaken",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "biip",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-01-01 ~ 2021-01-31",
+    "colorcodes":[
+        "|Alpha|RAL 280 20 15 or RAL 290 20 10|RAL 090 90 60 or RAL 1018",
+        "|Modifiers|RAL 280 20 15 or RAL 290 20 10|RAL 230 85 20 or RAL 240 70 30",
+        "|Accents|RAL 280 20 15 or RAL 290 20 10|Pantone 1777 C or 1787 C"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=110455.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Mainframe Base", "price": "120", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-kit-mainframe.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Neo Tokyo Base", "price": "120", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-kit-neotokyo.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Corrupted Data", "price": "35", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-kit-data.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "65", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-Rama_01.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "http://media.biipmk.com/gmk_awaken/GMK_Awaken-render-no165rev1_02.jpg"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Cojiro",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "kwerty",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-01-01 ~ 2021-01-31",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/4M23EGw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/srG7MYO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragan", "price": "79.99", "pic": "https://i.imgur.com/dgbTRRe.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "34.99", "pic": "https://i.imgur.com/e668eIZ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "44.99", "pic": "https://i.imgur.com/xVzNtE9.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Niwatori", "price": "42", "pic": "https://i.imgur.com/VL1sQeo.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Nezumi", "price": "42", "pic": "https://i.imgur.com/yjAWrM0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/Qu63YZS.jpg"
+    ]
+}

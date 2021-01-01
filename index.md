@@ -154,6 +154,11 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 ## GMK KeyCaps
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
+### 2021
+* [Shanshui 山水](docs/gmk-keycaps/Shanshui/)
+* [Cojiro](docs/gmk-keycaps/Cojiro/)
+* [Awaken](docs/gmk-keycaps/Awaken/)
+
 ### 2020
 * [Stealth](docs/gmk-keycaps/Stealth/)
 * [Avanguardia](docs/gmk-keycaps/Avanguardia/)

@@ -63,16 +63,17 @@ def cal_nav_order(keycapType):
     if os.path.isfile(KEYCAP_FILENAME_WITH_PATH):
         info_dict['nav_order'] = read_nav_order(KEYCAP_FILENAME_WITH_PATH)
     else:
-        current_profile_marker = '## {} KeyCaps\n'.format(keycapType)
-        current_porfile_index = index_lines.index(current_profile_marker)
-
-        year_marker = '### {}\n'.format(info_dict['time'].split('-')[0])
-        year_index = index_lines.index(year_marker, current_porfile_index)
-
-        latest_entry = index_lines[year_index + 1]
-        latest_file_name = '{}.md'.format(re.sub(".*\(", "", latest_entry)[:-3])
-        current_nav_order = read_nav_order(latest_file_name)
-        info_dict['nav_order'] = current_nav_order - 5
+        info_dict['nav_order'] = '290995'
+#         current_profile_marker = '## {} KeyCaps\n'.format(keycapType)
+#         current_porfile_index = index_lines.index(current_profile_marker)
+# 
+#         year_marker = '### {}\n'.format(info_dict['time'].split('-')[0])
+#         year_index = index_lines.index(year_marker, current_porfile_index)
+# 
+#         latest_entry = index_lines[year_index + 1]
+#         latest_file_name = '{}.md'.format(re.sub(".*\(", "", latest_entry)[:-3])
+#         current_nav_order = read_nav_order(latest_file_name)
+#         info_dict['nav_order'] = current_nav_order - 5
 
 def parse_price_info_format():
     for kit in info_dict['price_list']:
