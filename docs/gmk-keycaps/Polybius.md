@@ -3,7 +3,7 @@ title: Polybius
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
-nav_order: 290995
+nav_order: 290980
 ---
 
 # Polybius 
