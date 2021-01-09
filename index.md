@@ -155,6 +155,9 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Iconographic](docs/gmk-keycaps/Iconographic/)
+* [Baltic](docs/gmk-keycaps/Baltic/)
+* [Polybius](docs/gmk-keycaps/Polybius/)
 * [Shanshui 山水](docs/gmk-keycaps/Shanshui/)
 * [Cojiro](docs/gmk-keycaps/Cojiro/)
 * [Awaken](docs/gmk-keycaps/Awaken/)

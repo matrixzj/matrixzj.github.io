@@ -1,0 +1,29 @@
+{
+    "name": "Baltic",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "kingnestea",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-01-06 ~ 2021-02-03",
+    "colorcodes":[
+        "|Alpha|RAL 190 60 30|RAL 090 80 90",
+        "|Modifiers|RAL 180 70 40|RAL 090 80 90",
+        "|Accents|RAL 090 80 90|RAL 180 70 40"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=110598.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/oJeI0Ox.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Memphis Elements", "price": "64.99", "pic": "https://i.imgur.com/wtWAuQw.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "31.99", "pic": "https://i.imgur.com/ZR0aA0Z.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/gIWzz2T.jpg",
+    "render_pics":[
+        "https://i.imgur.com/iXlzfgH.jpg"
+    ]
+}
