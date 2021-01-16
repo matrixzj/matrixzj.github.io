@@ -155,6 +155,9 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Muted R2 缄默R2](docs/gmk-keycaps/Muted-R2/)
+* [WoB KATAKANA 黑白日文](docs/gmk-keycaps/WoB-KATAKANA/)
+* [Storm 风暴](docs/gmk-keycaps/Storm/)
 * [Iconographic](docs/gmk-keycaps/Iconographic/)
 * [Baltic](docs/gmk-keycaps/Baltic/)
 * [Polybius](docs/gmk-keycaps/Polybius/)

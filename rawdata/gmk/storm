@@ -1,0 +1,37 @@
+{
+    "name": "Storm",
+    "cname": "风暴",
+    "keycapstype": "GMK",
+    "designer": "sp.people",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-01-12 ~ 2021-02-12",
+    "colorcodes":[
+        "|Alpha R1 Fn Row|RAL 7016|GR1",
+        "|Alpha R1|RAL 7015|GR1",
+        "|Alpha R2|RAL 7011|GR1",
+        "|Alpha R3|RAL 7031|GR1",
+        "|Alpha R4|RAL 7000|GR1",
+        "|Alpha R4 Spacebar Row|RAL 7001|GR1",
+        "|Modifiers|RAL 7016|GR1"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/krN4b01.png"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "154.99", "pic": "https://i.imgur.com/txvejFV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/HF0O3kw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Forties", "price": "54.99", "pic": "https://i.imgur.com/nAyhx2h.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/7bj9xWh.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Lighting", "price": "37.99", "pic": "https://i.imgur.com/AuAQDDQ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Hurricane", "price": "37.99", "pic": "https://i.imgur.com/MjlBcRf.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/cjhIQz1.png"
+    ]
+}
