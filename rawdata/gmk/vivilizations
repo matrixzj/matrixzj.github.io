@@ -1,0 +1,30 @@
+{
+    "name": "Civilizations",
+    "cname": "文明",
+    "keycapstype": "GMK",
+    "designer": "twgecko02",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-01-22 ~ 2021-02-28",
+    "colorcodes":[
+        "|Base|RAL 2014|WS1",
+        "|Accents|WS1|RAL 2014"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/IHKT1dz.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Brass Mods", "price": "67", "pic": "https://i.imgur.com/mrTReRO.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/s33blz9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "35", "pic": "https://i.imgur.com/e1F5gKJ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "40", "pic": "https://i.imgur.com/KitU604.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/KAoq3Qa.jpg"
+    ]
+}
