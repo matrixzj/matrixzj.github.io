@@ -1,0 +1,35 @@
+{
+    "name": "Gateway",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "SMOKEY",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-01-26 ~ 2021-02-28",
+    "colorcodes":[
+        "|Alpha 1|WS2|V2|",
+        "|Alpha 2|WS2|N5|",
+        "|Modifiers 1|V2|WS2",
+        "|Modifiers 2|N5|WS2"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/9NwlVlS.png",
+        "https://i.imgur.com/Mvw7PVt.jpg"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "144.99", "pic": "https://i.imgur.com/3vjMgMv.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/tdWrmxA.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/0PjFder.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Brass - Orange", "price": "58", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Salvun_Gateway_ORANGE_1390x927.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Brass - Blue", "price": "58", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Brass", "price": "58", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Salvun_Gateway_BLUE_1390x927.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/ZrTvLj2.png"
+    ]
+}
