@@ -15,14 +15,14 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=109910.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/bzVTMgR2/GMKalpine-Progress210112fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/J1zxPvjL/GMKalpine-Status210112fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "139.99", "pic": "https://i.imgur.com/RvqglFy.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Ascents", "price": "39.99", "pic": "https://i.imgur.com/Z82DMxF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "52.99", "pic": "https://i.imgur.com/2bPuaiv.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/1oKaCMq.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "NorDeUk", "price": "69.99", "pic": "https://i.imgur.com/cECKg2z.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "139.99", "pic": "https://i.imgur.com/RvqglFy.jpg", "price_cny": "", "quantity": "750", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ascents", "price": "39.99", "pic": "https://i.imgur.com/Z82DMxF.jpg", "price_cny": "", "quantity": "367", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "52.99", "pic": "https://i.imgur.com/2bPuaiv.jpg", "price_cny": "", "quantity": "101", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/1oKaCMq.jpg", "price_cny": "", "quantity": "205", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUk", "price": "69.99", "pic": "https://i.imgur.com/cECKg2z.jpg", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/cAqHmGg.png",
     "render_pics":[

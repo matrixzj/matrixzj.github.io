@@ -21,32 +21,34 @@ NOTE: USD to CNY exchange rate is 6.57
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|887.19|Unknown|
-|[Novelties](#novelties)|49.99|328.55|Unknown|
-|[Alternate Mods](#alternate-mods)|79.99|525.72|Unknown|
-|[Spacebars](#spacebars)|29.99|197.10|Unknown|
-|[RAMA](#rama)|56.00|368.05|Unknown|
+|[Base](#base)|134.99|887.19|1515|
+|[Novelties](#novelties)|49.99|328.55|500|
+|[Alternate Mods](#alternate-mods)|79.99|525.72|293|
+|[Spacebars](#spacebars)|29.99|197.10|327|
+|[RAMA](#rama)|56.00|368.05|288|
 
+<img src="{{ 'assets/images/gmk-keycaps/Aurora-Polaris/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Aurora-Polaris/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 134.99	**Price(CNY):** 887.19	**Quantity:** Unknown  
+**Price(USD):** 134.99	**Price(CNY):** 887.19	**Quantity:** 1515  
 <img src="{{ 'assets/images/gmk-keycaps/Aurora-Polaris/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 49.99	**Price(CNY):** 328.55	**Quantity:** Unknown  
+**Price(USD):** 49.99	**Price(CNY):** 328.55	**Quantity:** 500  
 <img src="{{ 'assets/images/gmk-keycaps/Aurora-Polaris/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Alternate Mods  
-**Price(USD):** 79.99	**Price(CNY):** 525.72	**Quantity:** Unknown  
+**Price(USD):** 79.99	**Price(CNY):** 525.72	**Quantity:** 293  
 <img src="{{ 'assets/images/gmk-keycaps/Aurora-Polaris/kits_pics/alternate-mods.png' | relative_url }}" alt="alternate-mods" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 29.99	**Price(CNY):** 197.10	**Quantity:** Unknown  
+**Price(USD):** 29.99	**Price(CNY):** 197.10	**Quantity:** 327  
 <img src="{{ 'assets/images/gmk-keycaps/Aurora-Polaris/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### RAMA  
-**Price(USD):** 56.00	**Price(CNY):** 368.05	**Quantity:** Unknown  
+**Price(USD):** 56.00	**Price(CNY):** 368.05	**Quantity:** 288  
 <img src="{{ 'assets/images/gmk-keycaps/Aurora-Polaris/kits_pics/rama.jpg' | relative_url }}" alt="rama" class="image featured">
 
 ## Info

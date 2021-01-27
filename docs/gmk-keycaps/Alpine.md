@@ -21,33 +21,35 @@ NOTE: USD to CNY exchange rate is 6.57
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|139.99|920.06|Unknown|
-|[Ascents](#ascents)|39.99|262.83|Unknown|
-|[40s](#40s)|52.99|348.27|Unknown|
-|[Spacebars](#spacebars)|29.99|197.10|Unknown|
-|[NorDeUk](#nordeuk)|69.99|460.00|Unknown|
+|[Base](#base)|139.99|920.06|750|
+|[Ascents](#ascents)|39.99|262.83|367|
+|[40s](#40s)|52.99|348.27|101|
+|[Spacebars](#spacebars)|29.99|197.10|205|
+|[NorDeUk](#nordeuk)|69.99|460.00|100|
 
 <img src="{{ 'assets/images/gmk-keycaps/Alpine/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Alpine/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Alpine/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 139.99	**Price(CNY):** 920.06	**Quantity:** Unknown  
+**Price(USD):** 139.99	**Price(CNY):** 920.06	**Quantity:** 750  
 <img src="{{ 'assets/images/gmk-keycaps/Alpine/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Ascents  
-**Price(USD):** 39.99	**Price(CNY):** 262.83	**Quantity:** Unknown  
+**Price(USD):** 39.99	**Price(CNY):** 262.83	**Quantity:** 367  
 <img src="{{ 'assets/images/gmk-keycaps/Alpine/kits_pics/ascents.jpg' | relative_url }}" alt="ascents" class="image featured">
 
 ### 40s  
-**Price(USD):** 52.99	**Price(CNY):** 348.27	**Quantity:** Unknown  
+**Price(USD):** 52.99	**Price(CNY):** 348.27	**Quantity:** 101  
 <img src="{{ 'assets/images/gmk-keycaps/Alpine/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 29.99	**Price(CNY):** 197.10	**Quantity:** Unknown  
+**Price(USD):** 29.99	**Price(CNY):** 197.10	**Quantity:** 205  
 <img src="{{ 'assets/images/gmk-keycaps/Alpine/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### NorDeUk  
-**Price(USD):** 69.99	**Price(CNY):** 460.00	**Quantity:** Unknown  
+**Price(USD):** 69.99	**Price(CNY):** 460.00	**Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/Alpine/kits_pics/nordeuk.jpg' | relative_url }}" alt="nordeuk" class="image featured">
 
 ## Info

@@ -21,22 +21,24 @@ NOTE: USD to CNY exchange rate is 6.56
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|886.01|Unknown|
-|[Alphas](#alphas)|70.00|459.41|Unknown|
-|[Spacebars](#spacebars)|36.00|236.27|Unknown|
+|[Base](#base)|135.00|886.01|573|
+|[Alphas](#alphas)|70.00|459.41|135|
+|[Spacebars](#spacebars)|36.00|236.27|136|
 
+<img src="{{ 'assets/images/gmk-keycaps/Thai-Tea/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Thai-Tea/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 135.00	**Price(CNY):** 886.01	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 886.01	**Quantity:** 573  
 <img src="{{ 'assets/images/gmk-keycaps/Thai-Tea/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Alphas  
-**Price(USD):** 70.00	**Price(CNY):** 459.41	**Quantity:** Unknown  
+**Price(USD):** 70.00	**Price(CNY):** 459.41	**Quantity:** 135  
 <img src="{{ 'assets/images/gmk-keycaps/Thai-Tea/kits_pics/alphas.png' | relative_url }}" alt="alphas" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 36.00	**Price(CNY):** 236.27	**Quantity:** Unknown  
+**Price(USD):** 36.00	**Price(CNY):** 236.27	**Quantity:** 136  
 <img src="{{ 'assets/images/gmk-keycaps/Thai-Tea/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ## Info

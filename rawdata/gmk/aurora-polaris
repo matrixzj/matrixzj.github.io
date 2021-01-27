@@ -20,14 +20,14 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=109926.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/DnC0d3Yg/GMKaurora-Polaris-Progress201231fin-YNext.png",
+    "order_graph": "https://i.postimg.cc/mBZhHgVk/GMKaurora-Polaris-Status201231fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/jO5nNTQ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/hkdcqoW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alternate Mods", "price": "79.99", "pic": "https://i.imgur.com/9OL6yDS.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/vJTyQ33.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/image1_13c6e20b-3f15-4ad2-b631-0f5b9c356027_1024x1024@2x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/jO5nNTQ.png", "price_cny": "", "quantity": "1515", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/hkdcqoW.png", "price_cny": "", "quantity": "500", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alternate Mods", "price": "79.99", "pic": "https://i.imgur.com/9OL6yDS.png", "price_cny": "", "quantity": "293", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/vJTyQ33.png", "price_cny": "", "quantity": "327", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/image1_13c6e20b-3f15-4ad2-b631-0f5b9c356027_1024x1024@2x.jpg", "price_cny": "", "quantity": "288", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

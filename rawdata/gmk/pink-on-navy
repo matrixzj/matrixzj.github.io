@@ -15,11 +15,11 @@
     "link": "https://geekhack.org/index.php?topic=109930.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/XVBQHBqd/GMKpink-On-Navy210101fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://cdn.discordapp.com/attachments/706883566151270483/708376776799289404/Pon_basekit_updated_v4.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "24.99", "pic": "https://cdn.discordapp.com/attachments/701916996387864727/766396080661200906/final_0_frame_0_0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "38", "pic":"https://cdn.discordapp.com/attachments/701916996387864727/767049829036720168/RW-GMK-PKNVY_R.3.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://cdn.discordapp.com/attachments/706883566151270483/708376776799289404/Pon_basekit_updated_v4.png", "price_cny": "", "quantity": "1002", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "24.99", "pic": "https://cdn.discordapp.com/attachments/701916996387864727/766396080661200906/final_0_frame_0_0.png", "price_cny": "", "quantity": "378", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "pic":"https://cdn.discordapp.com/attachments/701916996387864727/767049829036720168/RW-GMK-PKNVY_R.3.png", "price_cny": "", "quantity": "286", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[
