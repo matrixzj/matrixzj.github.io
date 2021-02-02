@@ -29,6 +29,9 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 ## SA KeyCaps
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
+### 2021
+* [Laser R2 激光R2](docs/sa-keycaps/Laser-R2/)
+
 ### 2020
 * [Recall](docs/sa-keycaps/Recall/)
 * [Silent Assassin 无声刺客](docs/sa-keycaps/Silent-Assassin/)

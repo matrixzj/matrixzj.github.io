@@ -1,0 +1,48 @@
+{
+    "name": "Laser R2",
+    "cname": "激光R2",
+    "keycapstype": "SA",
+    "designer": "Mito",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-02-01 ~ 2021-03-02",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "MD",
+    "link": "https://drop.com/buy/drop-mito-sa-laser-custom-keycap-set",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Alpha", "price": "49", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/6Vopq9JPToGLT7KLPuNf_1%20-%20alphas.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Kobe", "price": "49", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/lOanahTCRHOi5447HZR9_3%20-%20kobe.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Gaijin", "price": "49", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/mOOTu0qVR1av20HeUDeF_2%20-%20gaijin.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mods", "price": "70", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/nFaqbPCLTbGI21f2m5E7_4%20-%20mods.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Micons", "price": "70", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/QN9MSLXeSQqYq1qZ3Bfq_5%20-%20micons.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Obnet", "price": "70", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/2TNOiaA9TIeSQxSyFz5L_6%20-%20obnet.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "29", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/6GzfCY4UQeW5fovnoiKa_7%20-%20numpad.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cyberdesk 2", "price": "125", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/BpBV2pXGS2idDS9KJPiQ_23%20-%20cyberdeck%202.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Synthwave M170", "price": "125", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/0mLEGegOQTGAPgQz7gON_24%20-%20synthwave%20M170.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "70", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/09XCTJ4S1GTx7H1NYz6A_9%20-%2040s.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ortho Micons", "price": "35", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/WJyPmv01QR6nvwveEfCl_8%20-%20ortho%20micons.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ortho Text", "price": "35", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/M7VxLOSqRd6CQKuPlqFF_8%20-%20ortho%20text.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ergo Pro", "price": "90", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/XSWlK8IVTmKuuR0NF3Ug_11%20-%20ergo%20pro.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "UK", "price": "42", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/RxpU554GT6ea07Jluued_12%20-%20uk.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDe", "price": "64", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/vJM119oVSBiB93LurNwJ_13%20-%20norde.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "MAC", "price": "28", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/h5LuPVf3RyC8GUglcemj_22%20-%20mac.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Colevrak", "price": "34", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/86d3CnnKQYS0NUOxV5xX_14%20-%20colevrak.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Exotic", "price": "35", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/hQIcOo4ZSZKpsxOvBQJ8_10%20-%20exotic.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mitowaves", "price": "55", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/7rOZzl2cRfuqzR6WBXVO_17%20-%20mitowaves.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mono", "price": "25", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/SOyWG3cxQAmfaDzTLjiC_18%20-%20mono.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Arrows", "price": "8", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/pEPZxNfQmuPEIBOs5qja_16%20-%20arrows.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Turbo", "price": "30", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/Pf83IzsTTmW01Tawm67m_15%20-%20turbo.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "625 Spacebars", "price": "7", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/e7Sh4gJxQh2OifHKsh4g_19%20-%20625.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "7 Spacebars", "price": "7", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/LC1A5ew7SQaPvfkMTzGa_20%20-%20700.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Minibars", "price": "30", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-sa-laser-r2-custom-keycap-set/FP/nYg6HAvUQnGQ4DuEXElv_21%20-%20minibars.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics": [
+        "https://enjoykeycap.github.io/assets/images/sa-keycaps/laser/rendering_pics/1.jpg"
+    ]
+}
