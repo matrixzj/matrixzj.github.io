@@ -16,7 +16,7 @@
         "https://i.imgur.com/Mvw7PVt.jpg"
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=110884.0",
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
@@ -28,7 +28,7 @@
         { "name": "Salvun Brass - Blue", "price": "58", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Salvun Brass", "price": "58", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Salvun_Gateway_BLUE_1390x927.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
-    "price_pic": "",
+    "price_pic": "https://i.imgur.com/UvByNC4.png",
     "render_pics":[
         "https://i.imgur.com/ZrTvLj2.png"
     ]

@@ -1,0 +1,33 @@
+{
+    "name": "Birch",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "break",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-02-01 ~ 2020-02-28",
+    "colorcodes":[
+        "|Alpha|RAL 070 90 05|RAL 240 30 20",
+        "|Modifiers|RAL 070 85 20|RAL 240 30 20",
+        "|Accents|RAL 240 30 20|RAL RAL 070 85 20"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/8kQjuvK.png",
+        "https://i.imgur.com/EPhKppt.png"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/wJEkB6B.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "43.99", "pic": "https://i.imgur.com/sJhfUAc.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "28.99", "pic": "https://i.imgur.com/hSPiVKy.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "27.99", "pic": "https://i.imgur.com/FHlyvKw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "40", "pic": "https://i.imgur.com/gMhg06I.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/6QeUIhi.png"
+    ]
+}

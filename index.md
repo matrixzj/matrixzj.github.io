@@ -155,6 +155,9 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Tuzi 兔子](docs/gmk-keycaps/Tuzi/)
+* [Mr. Sleeves R2](docs/gmk-keycaps/Mr-Sleeves-R2/)
+* [Birch](docs/gmk-keycaps/Birch/)
 * [Gateway](docs/gmk-keycaps/Gateway/)
 * [Civilizations 文明](docs/gmk-keycaps/Civilizations/)
 * [Matcha Mocha](docs/gmk-keycaps/Matcha-Mocha/)
