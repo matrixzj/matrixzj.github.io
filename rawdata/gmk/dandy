@@ -1,0 +1,31 @@
+{
+    "name": "Dandy",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "sourmk",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-02-03 ~ 2021-03-03",
+    "colorcodes":[
+        "|Cream Base|WS4|3B",
+        "|Green Base|3B|WS4",
+        "|Accent|N6|WS4"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111030.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Cream Base", "price": "140", "pic": "https://i.imgur.com/olqMm7l.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Green Base", "price": "140", "pic": "https://i.imgur.com/zLR93Ip.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dandy Novelty", "price": "35", "pic": "https://i.imgur.com/kRXWHmP.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dandy Accent", "price": "25", "pic": "https://i.imgur.com/508tjpH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "pic": "https://i.imgur.com/MajGUL7.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/5GAasoz.jpg",
+    "render_pics":[
+        "https://i.imgur.com/0iFLQEt.jpg"
+    ]
+}

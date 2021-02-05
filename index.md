@@ -158,6 +158,8 @@ Color Codes listed in this page is only for players to mix sets reference. Pleas
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Dots R2](docs/gmk-keycaps/Dots-R2/)
+* [Dandy](docs/gmk-keycaps/Dandy/)
 * [Tuzi 兔子](docs/gmk-keycaps/Tuzi/)
 * [Mr. Sleeves R2](docs/gmk-keycaps/Mr-Sleeves-R2/)
 * [Birch](docs/gmk-keycaps/Birch/)

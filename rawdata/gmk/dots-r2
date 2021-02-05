@@ -1,0 +1,33 @@
+{
+    "name": "Dots R2",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "biip",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-02-05 ~ 2021-02-26",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111031.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Dark Base", "price": "130", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-kits_base-dark.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Light Base", "price": "130", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-kits_base-light.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Nomad Dark", "price": "45", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-kits_nomad-dark.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Nomad Light", "price": "45", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-kits_nomad-light.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Rainbow Dark", "price": "80", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-kits_rainbow-dark.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Rainbow Light", "price": "80", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-kits_rainbow-light.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars Dark", "price": "25", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-kits_space-dark.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars Light", "price": "25", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-kits_space-light.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Colorful Dots", "price": "56", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-rama-01.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Silver Dots", "price": "56", "pic": "http://media.biipmk.com/gmk_dots2/GMK_Dots-rama-02.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "http://media.biipmk.com/gmk_dots2/GMK_Dots-render_alice-02.jpg"
+    ]
+}
