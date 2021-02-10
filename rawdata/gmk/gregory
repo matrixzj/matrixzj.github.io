@@ -19,13 +19,13 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=110101.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/HTYPpQh4/GMKgregory-Status210118fin-Next.png",
+    "order_graph": "https://i.postimg.cc/9Ctn5xJQ/GMKgregory-Status210118fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/FTux4CB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/3Ya0A7v.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "34.99", "pic": "https://i.imgur.com/k2uPRls.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Black on Yellow", "price": "59.99", "pic": "https://i.imgur.com/xATuc1D.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/FTux4CB.jpg", "price_cny": "", "quantity": "1000", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/3Ya0A7v.jpg", "price_cny": "", "quantity": "626", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "34.99", "pic": "https://i.imgur.com/k2uPRls.jpg", "price_cny": "", "quantity": "255", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Black on Yellow", "price": "59.99", "pic": "https://i.imgur.com/xATuc1D.jpg", "price_cny": "", "quantity": "168", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

@@ -21,27 +21,29 @@ NOTE: USD to CNY exchange rate is 6.55
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|883.58|Unknown|
-|[Novelties](#novelties)|54.99|359.94|Unknown|
-|[Spacebars](#spacebars)|34.99|229.03|Unknown|
-|[Black on Yellow](#black-on-yellow)|59.99|392.66|Unknown|
+|[Base](#base)|134.99|883.58|1000|
+|[Novelties](#novelties)|54.99|359.94|626|
+|[Spacebars](#spacebars)|34.99|229.03|255|
+|[Black on Yellow](#black-on-yellow)|59.99|392.66|168|
 
+<img src="{{ 'assets/images/gmk-keycaps/Gregory/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Gregory/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 134.99	**Price(CNY):** 883.58	**Quantity:** Unknown  
+**Price(USD):** 134.99	**Price(CNY):** 883.58	**Quantity:** 1000  
 <img src="{{ 'assets/images/gmk-keycaps/Gregory/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 54.99	**Price(CNY):** 359.94	**Quantity:** Unknown  
+**Price(USD):** 54.99	**Price(CNY):** 359.94	**Quantity:** 626  
 <img src="{{ 'assets/images/gmk-keycaps/Gregory/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 34.99	**Price(CNY):** 229.03	**Quantity:** Unknown  
+**Price(USD):** 34.99	**Price(CNY):** 229.03	**Quantity:** 255  
 <img src="{{ 'assets/images/gmk-keycaps/Gregory/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Black on Yellow  
-**Price(USD):** 59.99	**Price(CNY):** 392.66	**Quantity:** Unknown  
+**Price(USD):** 59.99	**Price(CNY):** 392.66	**Quantity:** 168  
 <img src="{{ 'assets/images/gmk-keycaps/Gregory/kits_pics/black-on-yellow.jpg' | relative_url }}" alt="black-on-yellow" class="image featured">
 
 ## Info

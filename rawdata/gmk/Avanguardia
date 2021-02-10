@@ -13,15 +13,15 @@
     "link": "",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/mbvxszXv/GMKavanguardia-Status210115fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/Gw4huDM.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "50", "pic": "https://i.imgur.com/TKNP1Fw.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alpha", "price": "60", "pic": "https://i.imgur.com/ZLhCIBa.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Love Darkness", "price": "30", "pic": "https://i.imgur.com/lHf4lM3.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "40", "pic": "https://i.imgur.com/wreBzhn.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "50", "pic": "https://i.imgur.com/PSS3zC5.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/CPSfTG7.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/Gw4huDM.jpg", "price_cny": "", "quantity": "736", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "50", "pic": "https://i.imgur.com/TKNP1Fw.jpg", "price_cny": "", "quantity": "319", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alpha", "price": "60", "pic": "https://i.imgur.com/ZLhCIBa.jpg", "price_cny": "", "quantity": "326", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Love Darkness", "price": "30", "pic": "https://i.imgur.com/lHf4lM3.jpg", "price_cny": "", "quantity": "165", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "40", "pic": "https://i.imgur.com/wreBzhn.jpg", "price_cny": "", "quantity": "118", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "50", "pic": "https://i.imgur.com/PSS3zC5.jpg", "price_cny": "", "quantity": "14", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/CPSfTG7.jpg", "price_cny": "", "quantity": "227", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

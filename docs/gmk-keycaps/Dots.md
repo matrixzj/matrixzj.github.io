@@ -25,6 +25,8 @@ NOTE: USD to RMB exchange rate is 6.88
 |[Nomad](#nomad)|35.00|240.80|284|
 |[Ergo](#ergo)|110.00|756.80|274|
 
+<img src="{{ 'assets/images/gmk-keycaps/dots/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/dots/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base
