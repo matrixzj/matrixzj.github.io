@@ -1,0 +1,34 @@
+{
+    "name": "Maestro",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "HungHingDaiLo",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-02-12 ~ 2021-03-14",
+    "colorcodes":[
+        "|Alpha|WS4|CR",
+        "|Modifiers|CR|RAl 1024",
+        "|Accent|RAl 1024|CR"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/7njCnlX.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111106.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.ibb.co/3ydj85n/01-Basekit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "60", "pic": "https://i.imgur.com/B5Bzqj0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Golden Accents", "price": "35", "pic": "https://i.imgur.com/NrlYRGO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Quarter Note", "price": "56", "pic": "https://i.imgur.com/J7QQnHr.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Half Note", "price": "56", "pic": "https://i.imgur.com/qy9JCiy.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Maestro Enter", "price": "68", "pic": "https://i.imgur.com/Rm06AM4.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Bach Insignia", "price": "52", "pic": "https://cdn.discordapp.com/attachments/792070949184864257/810094904423743528/DSC00886.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/VhbpCjH.jpg"
+    ]
+}
