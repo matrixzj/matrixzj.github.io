@@ -6,8 +6,12 @@
     "profile": "1-1-2-3-4-4",
     "time": "2020-12-15 ~ 2021-01-15",
     "colorcodes":[
+        "|Base|Pantone 4280c|Pantone 2725c",
+        "|Number Row|Pantone 2725c|WS1",
+        "|Accent|Pantone 226c|WS1"
     ],
     "color_pics":[
+        "https://i.imgur.com/r1Pl3t8.jpg"
     ],
     "platform": "GH",
     "link": "",

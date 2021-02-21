@@ -6,8 +6,12 @@
     "profile": "1-1-2-3-4-4",
     "time": "2021-01-01 ~ 2021-01-31",
     "colorcodes":[
+        "|Alpha|Pantone 2122|Pantone 2766",
+        "|Modifiers|Pantone 2766|Pantone 2068",
+        "|Accents|Pantone 2068|Pantone 2766"
     ],
     "color_pics":[
+        "https://i.imgur.com/sWXWB19.png"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=110451",

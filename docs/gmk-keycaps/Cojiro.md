@@ -66,6 +66,13 @@ NOTE: USD to CNY exchange rate is 6.53
 * GB Time: 2021-01-01 ~ 2021-01-31  
 * Color Codes:  
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alpha|Pantone 2122|Pantone 2766
+|Modifiers|Pantone 2766|Pantone 2068
+|Accents|Pantone 2068|Pantone 2766
+
+<img src="{{ 'assets/images/gmk-keycaps/Cojiro/0.png' | relative_url }}" alt="0" class="image featured">
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/Cojiro/rendering_pics/0.jpg' | relative_url }}" alt="0" class="image featured">

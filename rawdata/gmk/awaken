@@ -16,12 +16,12 @@
     "link": "https://geekhack.org/index.php?topic=110455.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/LRKcmzLp/GMKawaken-Status210131fin-Yext.png",
     "price_list":[
-        { "name": "Mainframe Base", "price": "120", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-kit-mainframe.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Neo Tokyo Base", "price": "120", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-kit-neotokyo.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Corrupted Data", "price": "35", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-kit-data.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "65", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-Rama_01.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Mainframe Base", "price": "120", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-kit-mainframe.jpg", "price_cny": "", "quantity": "1500", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Neo Tokyo Base", "price": "120", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-kit-neotokyo.jpg", "price_cny": "", "quantity": "3401", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Corrupted Data", "price": "35", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-kit-data.jpg", "price_cny": "", "quantity": "1000", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "65", "pic": "http://media.biipmk.com/gmk_awaken/GMK_Awaken-Rama_01.png", "price_cny": "", "quantity": "1307", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

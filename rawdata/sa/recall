@@ -15,13 +15,13 @@
     "link": "https://geekhack.org/index.php?topic=110207.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/ysg9ZBd9/SArecall-Status210115fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/GfUlxRp.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alts ISO", "price": "55", "pic": "https://i.imgur.com/52TNOsO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "35", "pic": "https://i.imgur.com/GmTbgqW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Ortho", "price": "80", "pic": "https://i.imgur.com/SOx6YNe.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Ergo", "price": "120", "pic": "https://i.imgur.com/fmqJkLS.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/GfUlxRp.png", "price_cny": "", "quantity": "287", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alts ISO", "price": "55", "pic": "https://i.imgur.com/52TNOsO.png", "price_cny": "", "quantity": "60", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "35", "pic": "https://i.imgur.com/GmTbgqW.png", "price_cny": "", "quantity": "92", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ortho", "price": "80", "pic": "https://i.imgur.com/SOx6YNe.png", "price_cny": "", "quantity": "45", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ergo", "price": "120", "pic": "https://i.imgur.com/fmqJkLS.png", "price_cny": "", "quantity": "36", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/3h3KXi7.png",
     "render_pics": [

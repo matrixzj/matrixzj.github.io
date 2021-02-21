@@ -13,17 +13,17 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=110355.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/BJkp020R/GMKshanshui-Status210201fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/x0mRTqj8/GMKshanshui-Status210201fin-Next.png",
     "price_list":[
-        { "name": "Inkstone", "price": "134.99", "pic": "https://i.imgur.com/Sj4yekj.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Old Path", "price": "134.99", "pic": "https://i.imgur.com/ZDCCelT.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Clear Water", "price": "79.99", "pic": "https://i.imgur.com/x8DYdAw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Lijiang", "price": "44.99", "pic": "https://i.imgur.com/27TQRVQ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Negative Space", "price": "27.99", "pic": "https://i.imgur.com/7ff0nzF.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Shan", "price": "38", "pic": "https://i.imgur.com/WGTQZCM.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Shui", "price": "43", "pic": "https://i.imgur.com/OGKJqWd.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Chop", "price": "58", "pic": "https://i.imgur.com/1AMPvoX.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Inkstone", "price": "134.99", "pic": "https://i.imgur.com/Sj4yekj.png", "price_cny": "", "quantity": "633", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Old Path", "price": "134.99", "pic": "https://i.imgur.com/ZDCCelT.png", "price_cny": "", "quantity": "719", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Clear Water", "price": "79.99", "pic": "https://i.imgur.com/x8DYdAw.png", "price_cny": "", "quantity": "355", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Lijiang", "price": "44.99", "pic": "https://i.imgur.com/27TQRVQ.png", "price_cny": "", "quantity": "540", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Negative Space", "price": "27.99", "pic": "https://i.imgur.com/7ff0nzF.png", "price_cny": "", "quantity": "376", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Shan", "price": "38", "pic": "https://i.imgur.com/WGTQZCM.jpeg", "price_cny": "", "quantity": "354", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Shui", "price": "43", "pic": "https://i.imgur.com/OGKJqWd.jpeg", "price_cny": "", "quantity": "404", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Chop", "price": "58", "pic": "https://i.imgur.com/1AMPvoX.jpeg", "price_cny": "", "quantity": "288", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

@@ -26,7 +26,7 @@ NOTE: USD to CNY exchange rate is 6.54
 |[Alpha](#alpha)|60.00|392.36|326|
 |[Love Darkness](#love-darkness)|30.00|196.18|165|
 |[Numpad](#numpad)|40.00|261.57|118|
-|[~~40s~~](#40s)|50.00|326.97|14|
+|[40s](#40s)|50.00|326.97|14|
 |[Spacebars](#spacebars)|30.00|196.18|227|
 
 <img src="{{ 'assets/images/gmk-keycaps/Avanguardia/order.png' | relative_url }}" alt="order" class="image featured">
@@ -52,7 +52,7 @@ NOTE: USD to CNY exchange rate is 6.54
 **Price(USD):** 40.00	**Price(CNY):** 261.57	**Quantity:** 118  
 <img src="{{ 'assets/images/gmk-keycaps/Avanguardia/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
-### ~~40s~~  
+### 40s  
 **Price(USD):** 50.00	**Price(CNY):** 326.97	**Quantity:** 14  
 <img src="{{ 'assets/images/gmk-keycaps/Avanguardia/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
@@ -66,6 +66,13 @@ NOTE: USD to CNY exchange rate is 6.54
 * GB Time: 2020-12-15 ~ 2021-01-15  
 * Color Codes:  
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Base|Pantone 4280c|Pantone 2725c
+|Number Row|Pantone 2725c|WS1
+|Accent|Pantone 226c|WS1
+
+<img src="{{ 'assets/images/gmk-keycaps/Avanguardia/0.jpg' | relative_url }}" alt="0" class="image featured">
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/Avanguardia/rendering_pics/0.jpg' | relative_url }}" alt="0" class="image featured">

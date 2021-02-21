@@ -6,16 +6,17 @@
     "profile": "1-1-2-3-4-4",
     "time": "2021-01-14 ~ 2021-02-16",
     "colorcodes":[
+        "|CR|WS1"
     ],
     "color_pics":[
     ],
     "platform": "MD",
     "link": "https://drop.com/buy/drop-gmk-white-on-black-katakana-custom-keycap-set",
     "currencyunit": "USD",
-    "history_graph": "",
+    "history_graph": "https://i.postimg.cc/L4Xd4hQz/GMKwob-Katakana-GBprog210215fin.png",
     "order_graph": "",
     "price_list":[
-        { "name": "All", "price": "120", "pic": "https://cdn.discordapp.com/attachments/728625679779758190/798315340986843136/WoB-K_Pach_Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "All", "price": "120", "pic": "https://cdn.discordapp.com/attachments/728625679779758190/798315340986843136/WoB-K_Pach_Kit.png", "price_cny": "", "quantity": "750", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

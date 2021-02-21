@@ -13,12 +13,14 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=108028.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/5bfHX7Dq/GMKshoko-R2progress200915fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/rc10FXZw/GMKshoko-R2status200915fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Hiragana", "price": "74.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebar", "price": "26.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" },
-        { "name": "Obscure", "price": "49.99", "price_cny": "", "quantity": "", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "price_cny": "", "quantity": "4142", "price_table_format": "","price_kit_format": "" },
+        { "name": "Hiragana", "price": "74.99", "price_cny": "", "quantity": "312", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebar", "price": "26.99", "price_cny": "", "quantity": "1584", "price_table_format": "","price_kit_format": "" },
+        { "name": "Obscure", "price": "49.99", "price_cny": "", "quantity": "345", "price_table_format": "","price_kit_format": "" }
+    ],
+    "price_pic": [
     ]
 }
