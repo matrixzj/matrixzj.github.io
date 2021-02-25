@@ -32,6 +32,7 @@ NOTE: USD to CNY exchange rate is 6.53
 |[RAMA Matte](#rama-matte)|60.00|391.97|1110|
 
 <img src="{{ 'assets/images/gmk-keycaps/Stealth/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Stealth/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
