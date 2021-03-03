@@ -1,0 +1,28 @@
+{
+    "name": "Strong Spirit R2",
+    "cname": "陆军R2",
+    "keycapstype": "SA",
+    "designer": "Kingnestea",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-03-01 ~ 2021-03-20",
+    "colorcodes":[
+        "YG/RA"
+    ],
+    "color_pics":[
+    ],
+    "platform": "ZF",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "", "pic": "https://cdn.shopify.com/s/files/1/1674/0405/files/Base_95cc1830-419b-49e9-89a3-42ab21f30bb4_2048x2048.png", "price_cny": "1038", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "", "pic": "https://cdn.shopify.com/s/files/1/1674/0405/files/Novelties_5f2155b6-1223-4849-b307-bd1c58ad1a5b_2048x2048.png", "price_cny": "480", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spirit", "price": "", "pic": "https://cdn.shopify.com/s/files/1/1674/0405/files/Spirit_2048x2048.png", "price_cny": "680", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "", "pic": "https://cdn.shopify.com/s/files/1/1674/0405/files/Spacebars_d25b1b0d-2aa6-4a9f-9cdb-30905ac52668_2048x2048.png", "price_cny": "120", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics": [
+        "https://cdn.shopify.com/s/files/1/1674/0405/products/StrongSpirit3_1480x.png"
+    ]
+}

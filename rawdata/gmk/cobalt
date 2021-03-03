@@ -1,0 +1,33 @@
+{
+    "name": "Cobalt",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "fatboycarney",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-03-01 ~ 2021-03-31",
+    "colorcodes":[
+        "|Blue Base|Pantone 2738-C|RAL 7001",
+        "|Pure Base Alpha|RAL 7001|Pantone 2738-C",
+        "|Accent|Pantone 226-C|Pantone 2738-C"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111443.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Blue Glass Base", "price": "140", "pic": "https://i.imgur.com/yOmRkRV.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Pure Base", "price": "140", "pic": "https://i.imgur.com/oSaV90V.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Scholars", "price": "50", "pic": "https://i.imgur.com/yhWR9zJ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Scholars Defined", "price": "50", "pic": "https://i.imgur.com/w58J5oP.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "32", "pic": "https://i.imgur.com/9g0VcpQ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent Spaces", "price": "30", "pic": "https://i.imgur.com/MKKqPHw.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun", "price": "54.99", "pic": "https://i.imgur.com/JRDsh9z.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/8JLaJac.png",
+    "render_pics":[
+        "https://i.imgur.com/2rIWYkM.jpg"
+    ]
+}

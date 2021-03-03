@@ -28,6 +28,7 @@ Happy Chinese New Year!
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Strong Spirit R2 陆军R2](docs/sa-keycaps/Strong-Spirit-R2/)
 * [Laser R2 激光R2](docs/sa-keycaps/Laser-R2/)
 
 ### 2020
@@ -156,6 +157,9 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Yeeti](docs/gmk-keycaps/Yeeti/)
+* [Norse](docs/gmk-keycaps/Norse/)
+* [Cobalt](docs/gmk-keycaps/Cobalt/)
 * [Star](docs/gmk-keycaps/Star/)
 * [Inukuma](docs/gmk-keycaps/Inukuma/)
 * [Iceberg](docs/gmk-keycaps/Iceberg/)
