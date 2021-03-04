@@ -1,0 +1,27 @@
+{
+    "name": "Striker R2",
+    "cname": "前锋R2",
+    "keycapstype": "GMK",
+    "designer": "Zambumon",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-03-03 ~ 2021-04-06",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "Novelkeys",
+    "link": "https://novelkeys.xyz/collections/frontpage/products/gmk-striker-2-gb",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Core", "price": "110", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/ZAMBUMON-GMK_STRIKER_2-KIT_01-CORE-DB_1024x1024@2x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro Expansion", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/ZAMBUMON-GMK_STRIKER_2-KIT_02-MACRO_EXPANSION-DB_1024x1024@2x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "27", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/ZAMBUMON-GMK_STRIKER_2-KIT_03-SPACEBARS-DB_1024x1024@2x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/ZAMBUMON-GMK_STRIKER_2-KIT_04-SALVUN-DB_1024x1024@2x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/3099/8088/products/ZAMBUMON-GMK_STRIKER_2-PRODUCT_04-LB_1024x1024@2x.jpg"
+    ]
+}

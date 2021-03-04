@@ -1,0 +1,26 @@
+{
+    "name": "Nightshade",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "BlindAssassin111",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-03-04 ~ 2021-04-03",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111176.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "140", "pic": "https://i.imgur.com/JbJM8tf.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "31.50", "pic": "https://i.imgur.com/dmfRwIV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "56.50", "pic": "https://i.imgur.com/kpGBw4t.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/BeCI794.jpg"
+    ]
+}

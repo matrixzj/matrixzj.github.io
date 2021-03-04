@@ -157,6 +157,7 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Striker R2 前锋R2](docs/gmk-keycaps/Striker-R2/)
 * [Yeeti](docs/gmk-keycaps/Yeeti/)
 * [Norse](docs/gmk-keycaps/Norse/)
 * [Cobalt](docs/gmk-keycaps/Cobalt/)
