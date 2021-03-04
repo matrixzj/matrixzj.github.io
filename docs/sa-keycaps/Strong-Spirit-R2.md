@@ -62,7 +62,15 @@ NOTE: USD to CNY exchange rate is 6.47
     <th>RA</th>
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RA.png' | relative_url }}" alt="Color_RA" height="75" width="170"></th>
   </tr>
-</table>YG/RA
+  <tr>
+    <th>NN</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_NN.png' | relative_url }}" alt="Color_NN" height="75" width="170"></th>
+  </tr>
+  <tr>
+    <th>WFK</th>
+    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WFK.png' | relative_url }}" alt="Color_WFK" height="75" width="170"></th>
+  </tr>
+</table>YG/RA/NN/WFK
 
 
 ## Pictures  
