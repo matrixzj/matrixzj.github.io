@@ -1,0 +1,50 @@
+{
+    "name": "Colorchrome",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Full",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-03-05 ~ 2021-03-26",
+    "colorcodes":[
+        "|Alpha|WS2|CR",
+        "|Modifiers 1|CR|RO2",
+        "|Modifiers 2|CR|MG1",
+        "|Modifiers 3|CR|CV",
+        "|Modifiers 4|CR|DY",
+        "|Modifiers 5|CR|V4",
+        "|White Mods 1|WS2|RO2",
+        "|White Mods 2|WS2|MG1",
+        "|White Mods 3|WS2|AE",
+        "|White Mods 4|WS2|DY",
+        "|White Mods 5|WS2|N5",
+        "|Accents 1|RO2|CR",
+        "|Accents 2|CV|CR",
+        "|Accents 3|N7|CR",
+        "|Accents 4|V4|CR",
+        "|Modern Accents 1|MG1|CR",
+        "|Modern Accents 2|TU2|CR",
+        "|Modern Accents 3|N5|CR",
+        "|Modern Accents 4|AE|CR"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111504.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/c82mzpL.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "White Modes", "price": "95", "pic": "https://i.imgur.com/Y4TpOV8.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "70", "pic": "https://i.imgur.com/LXB1smL.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accents", "price": "52", "pic": "https://i.imgur.com/D7yhwvp.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Modern Accents", "price": "52", "pic": "https://i.imgur.com/ziP5ynz.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "60", "pic": "https://i.imgur.com/JxsUbNI.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA C", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/RAMA-R1_CLRCHRM_RE-2_1024x1024@2x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA X", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/RAMA-R1_CLRCHRM_RE-1_110x110@2x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://cdn.discordapp.com/attachments/590504893874176032/816622708825128970/Colorchrome_prices_final33344.PNG",
+    "render_pics":[
+        "https://i.imgur.com/xPYLm08.png"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "8010",
+    "cname": "",
+    "keycapstype": "SA",
+    "designer": "Fredington",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-03-05 ~ 2021-04-03",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111547.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Alphas", "price": "60", "pic": "https://i.imgur.com/yKWMuwR.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "TKL", "price": "80", "pic": "https://i.imgur.com/Zo8hFKU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "40", "pic": "https://i.imgur.com/G22szTi.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ISO", "price": "19", "pic": "https://i.imgur.com/W0CSVuj.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Specialities", "price": "38", "pic": "https://i.imgur.com/RD4JPA4.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "38", "pic": "https://i.imgur.com/lnPXY1F.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Split Bars", "price": "38", "pic": "https://i.imgur.com/hWQjuFH.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "PROG", "price": "21", "pic": "https://i.imgur.com/U8V2Hcr.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/DCFlqQB.png",
+    "render_pics": [
+        "https://i.imgur.com/7bcNNqk.png"
+    ]
+}
