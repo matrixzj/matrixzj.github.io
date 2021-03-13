@@ -158,6 +158,8 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Serenity](docs/gmk-keycaps/Serenity/)
+* [Hinokoku](docs/gmk-keycaps/Hinokoku/)
 * [WOB Shinethrough](docs/gmk-keycaps/WOB-Shinethrough/)
 * [Red Alert R2](docs/gmk-keycaps/Red-Alert-R2/)
 * [Colorchrome](docs/gmk-keycaps/Colorchrome/)

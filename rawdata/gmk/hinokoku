@@ -1,0 +1,27 @@
+{
+    "name": "Hinokoku",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "GingGing",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-03-09 ~ 2021-04-09",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "149.99", "pic": "https://i.imgur.com/MECZcZN.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragana", "price": "79.99", "pic": "https://i.imgur.com/4S45URB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "44.99", "pic": "https://i.imgur.com/x8gC6C3.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "34.99", "pic": "https://i.imgur.com/DB9RAE9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/0yrq4hJ.jpg"
+    ]
+}
