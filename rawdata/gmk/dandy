@@ -16,13 +16,14 @@
     "link": "https://geekhack.org/index.php?topic=111030.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/8p9fV6p1/GMKdandy-Status210303fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/KGR3VNyq/GMKdandy-Status210303fin-Next2.png",
     "price_list":[
-        { "name": "Cream Base", "price": "140", "pic": "https://i.imgur.com/olqMm7l.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Green Base", "price": "140", "pic": "https://i.imgur.com/zLR93Ip.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Dandy Novelty", "price": "35", "pic": "https://i.imgur.com/kRXWHmP.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Dandy Accent", "price": "25", "pic": "https://i.imgur.com/508tjpH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "38", "pic": "https://i.imgur.com/MajGUL7.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Cream Base", "price": "140", "pic": "https://i.imgur.com/olqMm7l.jpg", "price_cny": "", "quantity": "1097", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Green Base", "price": "140", "pic": "https://i.imgur.com/zLR93Ip.jpg", "price_cny": "", "quantity": "1097", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dandy Novelty", "price": "35", "pic": "https://i.imgur.com/kRXWHmP.jpg", "price_cny": "", "quantity": "439", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dandy Accent", "price": "25", "pic": "https://i.imgur.com/508tjpH.jpg", "price_cny": "", "quantity": "861", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "pic": "https://i.imgur.com/MajGUL7.jpg", "price_cny": "", "quantity": "448", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/5GAasoz.jpg",
     "render_pics":[

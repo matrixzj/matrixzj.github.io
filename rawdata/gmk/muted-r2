@@ -13,13 +13,13 @@
     "link": "https://geekhack.org/index.php?topic=110686.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/69x7DxKY/GMKmuted2status210215fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/GuQ7kXu.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extension", "price": "55", "pic": "https://i.imgur.com/WigUv9b.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "International", "price": "65", "pic": "https://i.imgur.com/prQh007.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Cyan Purple Accents", "price": "40", "pic": "https://i.imgur.com/2luBjwH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "3A 3C Accents", "price": "40", "pic": "https://i.imgur.com/1z0JO0h.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/GuQ7kXu.jpg", "price_cny": "", "quantity": "3534", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "55", "pic": "https://i.imgur.com/WigUv9b.jpg", "price_cny": "", "quantity": "583", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "65", "pic": "https://i.imgur.com/prQh007.jpg", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cyan Purple Accents", "price": "40", "pic": "https://i.imgur.com/2luBjwH.jpg", "price_cny": "", "quantity": "3000", "price_table_format": "", "price_kit_format": "" },
+        { "name": "3A 3C Accents", "price": "40", "pic": "https://i.imgur.com/1z0JO0h.jpg", "price_cny": "", "quantity": "580", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

@@ -181,7 +181,6 @@ Happy Chinese New Year!
 * [Birch](docs/gmk-keycaps/Birch/)
 * [Gateway](docs/gmk-keycaps/Gateway/)
 * [Civilizations 文明](docs/gmk-keycaps/Civilizations/)
-* [Matcha Mocha](docs/gmk-keycaps/Matcha-Mocha/)
 * [Muted R2 缄默R2](docs/gmk-keycaps/Muted-R2/)
 * [WoB KATAKANA 黑白日文](docs/gmk-keycaps/WoB-KATAKANA/)
 * [Storm 风暴](docs/gmk-keycaps/Storm/)

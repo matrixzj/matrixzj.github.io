@@ -18,13 +18,14 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=110049.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/ChD1mpHp/GMKhanami-Dango-Progress210126fin-YNext.png",
+    "order_graph": "https://i.postimg.cc/zJ4vCGhk/GMKhanami-Dango-Status210126fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/x0XqNzXC/GMKhanami-Dango-Status210126fin-Next.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/5BfPJi9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hiragana Mono", "price": "84.99", "pic": "https://i.imgur.com/G47HqO6.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/gD98skB.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/3J52QV8.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/5BfPJi9.jpg", "price_cny": "", "quantity": "2785", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragana Mono", "price": "84.99", "pic": "https://i.imgur.com/G47HqO6.jpg", "price_cny": "", "quantity": "264", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/gD98skB.png", "price_cny": "", "quantity": "1522", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/3J52QV8.jpg", "price_cny": "", "quantity": "540", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/HA4Ogj8.png",
     "render_pics":[

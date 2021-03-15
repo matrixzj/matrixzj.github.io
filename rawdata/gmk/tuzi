@@ -13,14 +13,14 @@
     "link": "https://geekhack.org/index.php?topic=110981.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/jKZqHz6H/GMKtuzi-Status210228fin-Next.png",
     "price_list":[
-        { "name": "Base", "price": "119.99", "pic": "https://i.imgur.com/J0v0i3Z.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "34.99", "pic": "https://i.imgur.com/uBAWhAL.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/oym5TGX.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extensions", "price": "44.99", "pic": "https://i.imgur.com/z2j6mCC.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Bunny", "price": "38", "pic": "https://i.imgur.com/eXqDJ6z.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Moon", "price": "38", "pic": "https://i.imgur.com/npDzPTZ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "119.99", "pic": "https://i.imgur.com/J0v0i3Z.png", "price_cny": "", "quantity": "3332", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "34.99", "pic": "https://i.imgur.com/uBAWhAL.png", "price_cny": "", "quantity": "2853", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/oym5TGX.png", "price_cny": "", "quantity": "797", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "44.99", "pic": "https://i.imgur.com/z2j6mCC.png", "price_cny": "", "quantity": "254", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Bunny", "price": "38", "pic": "https://i.imgur.com/eXqDJ6z.png", "price_cny": "", "quantity": "1300", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Moon", "price": "38", "pic": "https://i.imgur.com/npDzPTZ.png", "price_cny": "", "quantity": "954", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

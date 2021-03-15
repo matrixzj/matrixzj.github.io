@@ -19,14 +19,13 @@
     "link": "https://geekhack.org/index.php?topic=110884.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/FrsyGvDn/GMKgateway-Status210226fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "144.99", "pic": "https://i.imgur.com/3vjMgMv.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/tdWrmxA.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/0PjFder.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun Brass - Orange", "price": "58", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Salvun_Gateway_ORANGE_1390x927.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun Brass - Blue", "price": "58", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun Brass", "price": "58", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Salvun_Gateway_BLUE_1390x927.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "144.99", "pic": "https://i.imgur.com/3vjMgMv.png", "price_cny": "", "quantity": "387", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/tdWrmxA.jpg", "price_cny": "", "quantity": "310", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/0PjFder.png", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Brass - Orange", "price": "58", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Salvun_Gateway_ORANGE_1390x927.jpg", "price_cny": "", "quantity": "86", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Brass - Blue", "price": "58", "pic": "", "price_cny": "", "quantity": "60", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/UvByNC4.png",
     "render_pics":[

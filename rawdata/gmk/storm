@@ -21,14 +21,14 @@
     "link": "",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/qJpkBk77/GMKstorm-Status210212fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "154.99", "pic": "https://i.imgur.com/txvejFV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/HF0O3kw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Forties", "price": "54.99", "pic": "https://i.imgur.com/nAyhx2h.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/7bj9xWh.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Lighting", "price": "37.99", "pic": "https://i.imgur.com/AuAQDDQ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Hurricane", "price": "37.99", "pic": "https://i.imgur.com/MjlBcRf.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "154.99", "pic": "https://i.imgur.com/txvejFV.png", "price_cny": "", "quantity": "692", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/HF0O3kw.png", "price_cny": "", "quantity": "355", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Forties", "price": "54.99", "pic": "https://i.imgur.com/nAyhx2h.png", "price_cny": "", "quantity": "49", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/7bj9xWh.png", "price_cny": "", "quantity": "116", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Lighting", "price": "37.99", "pic": "https://i.imgur.com/AuAQDDQ.png", "price_cny": "", "quantity": "215", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Hurricane", "price": "37.99", "pic": "https://i.imgur.com/MjlBcRf.png", "price_cny": "", "quantity": "152", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

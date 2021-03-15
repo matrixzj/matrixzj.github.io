@@ -21,28 +21,31 @@ NOTE: USD to CNY exchange rate is 6.53
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|881.92|Unknown|
-|[Hiragana Mono](#hiragana-mono)|84.99|555.26|Unknown|
-|[Novelties](#novelties)|54.99|359.26|Unknown|
-|[Spacebars](#spacebars)|29.99|195.93|Unknown|
+|[Base](#base)|134.99|881.92|2785|
+|[Hiragana Mono](#hiragana-mono)|84.99|555.26|264|
+|[Novelties](#novelties)|54.99|359.26|1522|
+|[Spacebars](#spacebars)|29.99|195.93|540|
 
 <img src="{{ 'assets/images/gmk-keycaps/Hanami-Dango/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Hanami-Dango/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Hanami-Dango/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Hanami-Dango/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 134.99	**Price(CNY):** 881.92	**Quantity:** Unknown  
+**Price(USD):** 134.99	**Price(CNY):** 881.92	**Quantity:** 2785  
 <img src="{{ 'assets/images/gmk-keycaps/Hanami-Dango/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Hiragana Mono  
-**Price(USD):** 84.99	**Price(CNY):** 555.26	**Quantity:** Unknown  
+**Price(USD):** 84.99	**Price(CNY):** 555.26	**Quantity:** 264  
 <img src="{{ 'assets/images/gmk-keycaps/Hanami-Dango/kits_pics/hiragana-mono.jpg' | relative_url }}" alt="hiragana-mono" class="image featured">
 
 ### Novelties  
-**Price(USD):** 54.99	**Price(CNY):** 359.26	**Quantity:** Unknown  
+**Price(USD):** 54.99	**Price(CNY):** 359.26	**Quantity:** 1522  
 <img src="{{ 'assets/images/gmk-keycaps/Hanami-Dango/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 29.99	**Price(CNY):** 195.93	**Quantity:** Unknown  
+**Price(USD):** 29.99	**Price(CNY):** 195.93	**Quantity:** 540  
 <img src="{{ 'assets/images/gmk-keycaps/Hanami-Dango/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ## Info

@@ -21,22 +21,23 @@ NOTE: USD to CNY exchange rate is 6.46
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Carpet](#carpet)|135.00|872.32|Unknown|
-|[Redaction](#redaction)|25.00|161.54|Unknown|
-|[RAMA](#rama)|44.00|284.31|Unknown|
+|[Carpet](#carpet)|135.00|872.32|1515|
+|[Redaction](#redaction)|25.00|161.54|300|
+|[RAMA](#rama)|44.00|284.31|489|
 
+<img src="{{ 'assets/images/gmk-keycaps/Polybius/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Carpet  
-**Price(USD):** 135.00	**Price(CNY):** 872.32	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 872.32	**Quantity:** 1515  
 <img src="{{ 'assets/images/gmk-keycaps/Polybius/kits_pics/carpet.png' | relative_url }}" alt="carpet" class="image featured">
 
 ### Redaction  
-**Price(USD):** 25.00	**Price(CNY):** 161.54	**Quantity:** Unknown  
+**Price(USD):** 25.00	**Price(CNY):** 161.54	**Quantity:** 300  
 <img src="{{ 'assets/images/gmk-keycaps/Polybius/kits_pics/redaction.png' | relative_url }}" alt="redaction" class="image featured">
 
 ### RAMA  
-**Price(USD):** 44.00	**Price(CNY):** 284.31	**Quantity:** Unknown  
+**Price(USD):** 44.00	**Price(CNY):** 284.31	**Quantity:** 489  
 <img src="{{ 'assets/images/gmk-keycaps/Polybius/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 ## Info

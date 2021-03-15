@@ -17,15 +17,15 @@
     "link": "https://geekhack.org/index.php?topic=110451",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "https://i.postimg.cc/rMh2HcLR/GMKcojiro-Status210131fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/jRWkb1Py/GMKcojiro-Status210131fin-Yext2b.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/4M23EGw.png", "price_cny": "", "quantity": "765", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/srG7MYO.png", "price_cny": "", "quantity": "270", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hiragan", "price": "79.99", "pic": "https://i.imgur.com/dgbTRRe.png", "price_cny": "", "quantity": "102", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "34.99", "pic": "https://i.imgur.com/e668eIZ.png", "price_cny": "", "quantity": "112", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "44.99", "pic": "https://i.imgur.com/xVzNtE9.png", "price_cny": "", "quantity": "101", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Niwatori", "price": "42", "pic": "https://i.imgur.com/VL1sQeo.png", "price_cny": "", "quantity": "246", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Nezumi", "price": "42", "pic": "https://i.imgur.com/yjAWrM0.png", "price_cny": "", "quantity": "197", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/4M23EGw.png", "price_cny": "", "quantity": "1000", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/srG7MYO.png", "price_cny": "", "quantity": "274", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragan", "price": "79.99", "pic": "https://i.imgur.com/dgbTRRe.png", "price_cny": "", "quantity": "109", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "34.99", "pic": "https://i.imgur.com/e668eIZ.png", "price_cny": "", "quantity": "109", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "44.99", "pic": "https://i.imgur.com/xVzNtE9.png", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Niwatori", "price": "42", "pic": "https://i.imgur.com/VL1sQeo.png", "price_cny": "", "quantity": "243", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Nezumi", "price": "42", "pic": "https://i.imgur.com/yjAWrM0.png", "price_cny": "", "quantity": "190", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

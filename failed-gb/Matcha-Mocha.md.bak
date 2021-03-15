@@ -2,7 +2,6 @@
 title: Matcha Mocha 
 layout: default
 icon: fa-keyboard-o
-parent: GMK Keycaps
 nav_order: 290950
 ---
 
@@ -21,28 +20,29 @@ NOTE: USD to CNY exchange rate is 6.48
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Dessert](#dessert)|149.99|971.78|Unknown|
-|[Weeb Add-On](#weeb-add-on)|79.99|518.25|Unknown|
-|[Toppings](#toppings)|44.99|291.49|Unknown|
-|[RAMA](#rama)|38.00|246.20|Unknown|
+|[Dessert](#dessert)|149.99|971.78|20|
+|[Weeb Add-On](#weeb-add-on)|79.99|518.25|5|
+|[Toppings](#toppings)|44.99|291.49|8|
+|[RAMA](#rama)|38.00|246.20|12|
 
 <img src="{{ 'assets/images/gmk-keycaps/Matcha-Mocha/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Matcha-Mocha/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Dessert  
-**Price(USD):** 149.99	**Price(CNY):** 971.78	**Quantity:** Unknown  
+**Price(USD):** 149.99	**Price(CNY):** 971.78	**Quantity:** 20  
 <img src="{{ 'assets/images/gmk-keycaps/Matcha-Mocha/kits_pics/dessert.jpg' | relative_url }}" alt="dessert" class="image featured">
 
 ### Weeb Add-On  
-**Price(USD):** 79.99	**Price(CNY):** 518.25	**Quantity:** Unknown  
+**Price(USD):** 79.99	**Price(CNY):** 518.25	**Quantity:** 5  
 <img src="{{ 'assets/images/gmk-keycaps/Matcha-Mocha/kits_pics/weeb-add-on.jpg' | relative_url }}" alt="weeb-add-on" class="image featured">
 
 ### Toppings  
-**Price(USD):** 44.99	**Price(CNY):** 291.49	**Quantity:** Unknown  
+**Price(USD):** 44.99	**Price(CNY):** 291.49	**Quantity:** 8  
 <img src="{{ 'assets/images/gmk-keycaps/Matcha-Mocha/kits_pics/toppings.jpg' | relative_url }}" alt="toppings" class="image featured">
 
 ### RAMA  
-**Price(USD):** 38.00	**Price(CNY):** 246.20	**Quantity:** Unknown  
+**Price(USD):** 38.00	**Price(CNY):** 246.20	**Quantity:** 12  
 <img src="{{ 'assets/images/gmk-keycaps/Matcha-Mocha/kits_pics/rama.jpg' | relative_url }}" alt="rama" class="image featured">
 
 ## Info

@@ -15,12 +15,12 @@
     "link": "https://geekhack.org/index.php?topic=110726.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/QhSQRXSs/GMKmatcha-Mocha-Status210122canc.png",
     "price_list":[
-        { "name": "Dessert", "price": "149.99", "pic": "https://i.imgur.com/DoBVlQk.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Weeb Add-On", "price": "79.99", "pic": "https://i.imgur.com/lSfyKIO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Toppings", "price": "44.99", "pic": "https://i.imgur.com/mClTmLr.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "38", "pic": "https://i.imgur.com/wFKtA6p.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Dessert", "price": "149.99", "pic": "https://i.imgur.com/DoBVlQk.png", "price_cny": "", "quantity": "20", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Weeb Add-On", "price": "79.99", "pic": "https://i.imgur.com/lSfyKIO.png", "price_cny": "", "quantity": "5", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Toppings", "price": "44.99", "pic": "https://i.imgur.com/mClTmLr.png", "price_cny": "", "quantity": "8", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "pic": "https://i.imgur.com/wFKtA6p.png", "price_cny": "", "quantity": "12", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/QzsEI97.png",
     "render_pics":[

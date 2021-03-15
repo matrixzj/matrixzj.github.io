@@ -12,10 +12,10 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=111051.0",
     "currencyunit": "USD",
-    "history_graph": "",
+    "history_graph": "https://i.postimg.cc/2rDdpYYB/GMKumka-Progress210228fin-Next.png",
     "order_graph": "",
     "price_list":[
-        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/L8RyiDE.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/L8RyiDE.jpg", "price_cny": "", "quantity": "173", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

@@ -163,16 +163,24 @@ NOTE: USD to CNY exchange rate is {:.2f}
     write_to_file(SPACELINE)
     write_to_file(SPACELINE)
 
-    if info_dict["price_pic"]:
+    price_pic = info_dict.get('price_pic')
+    if price_pic:
         keycap_page_price_price_graph_info = generate_graph_info(info_dict['price_pic'], '', 'price')
         write_to_file(keycap_page_price_price_graph_info)	
 
-    if info_dict["history_graph"]:
+    history_graph = info_dict.get('history_graph')
+    if history_graph:
         keycap_page_price_history_graph_info = generate_graph_info(info_dict['history_graph'], '', 'history')
         write_to_file(keycap_page_price_history_graph_info)	
 
-    if info_dict["order_graph"]:
+    order_graph = info_dict.get('order_graph')
+    if order_graph:
         keycap_page_price_order_graph_info = generate_graph_info(info_dict['order_graph'], '', 'order')
+        write_to_file(keycap_page_price_order_graph_info)	
+
+    order_graph_without = info_dict.get('order_graph_without')
+    if order_graph_without:
+        keycap_page_price_order_graph_info = generate_graph_info(info_dict['order_graph_without'], '', 'order_no_extra')
         write_to_file(keycap_page_price_order_graph_info)	
 
     write_to_file(SPACELINE)
