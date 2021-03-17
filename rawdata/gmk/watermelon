@@ -1,0 +1,27 @@
+{
+    "name": "Watermelon",
+    "cname": "西瓜",
+    "keycapstype": "GMK",
+    "designer": "ogWalker",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-03-15 ~ 2021-04-11",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111724.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://cdn.discordapp.com/attachments/706883566151270483/731943534789394552/final_0_frame_0_0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "55", "pic": "https://cdn.discordapp.com/attachments/706883566151270483/731919233172111441/final_0_frame_0_0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://cdn.discordapp.com/attachments/706883566151270483/731935733308325998/final_0_frame_0_0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "42", "pic": "https://cdn.shopify.com/s/files/1/0277/8021/8940/products/RW-GMK-WM_R.3_300x300.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://cdn.discordapp.com/attachments/706883566151270483/731936997605769246/watermelonreddit2.jpg"
+    ]
+}

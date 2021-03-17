@@ -158,6 +158,8 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Fuji 富士山](docs/gmk-keycaps/Fuji/)
+* [Watermelon 西瓜](docs/gmk-keycaps/Watermelon/)
 * [Serenity](docs/gmk-keycaps/Serenity/)
 * [Hinokoku](docs/gmk-keycaps/Hinokoku/)
 * [WOB Shinethrough](docs/gmk-keycaps/WOB-Shinethrough/)
