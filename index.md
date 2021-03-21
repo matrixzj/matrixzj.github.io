@@ -28,6 +28,8 @@ Happy Chinese New Year!
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [X-mas Gift 圣诞礼物](docs/sa-keycaps/X-mas-Gift/)
+* [Tatooine 塔图因](docs/sa-keycaps/Tatooine/)
 * [8010](docs/sa-keycaps/8010/)
 * [Strong Spirit R2 陆军R2](docs/sa-keycaps/Strong-Spirit-R2/)
 * [Laser R2 激光R2](docs/sa-keycaps/Laser-R2/)

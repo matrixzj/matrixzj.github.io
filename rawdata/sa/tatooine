@@ -1,0 +1,24 @@
+{
+    "name": "Tatooine",
+    "cname": "塔图因",
+    "keycapstype": "SA",
+    "designer": "",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-03-18 ~ 2021-04-26",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "Novelkeys",
+    "link": "https://novelkeys.xyz/collections/frontpage/products/sa-tatooine-preorder",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "250", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/SA_Tatooine_Kit_1024x1024@2x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics": [
+        "https://cdn.shopify.com/s/files/1/3099/8088/products/Jabba_angle_1024x1024@2x.jpg"
+    ]
+}
