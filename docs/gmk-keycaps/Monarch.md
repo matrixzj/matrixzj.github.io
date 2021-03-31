@@ -8,7 +8,7 @@ nav_order: 290825
 
 # Monarch 
 
-ref link: [Monarch GH GB Link](https://geekhack.org/index.php?topic=110064.0)
+ref link: [Monarch GH GB Link](https://geekhack.org/index.php?topic=111961.0)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -26,6 +26,7 @@ NOTE: USD to CNY exchange rate is 6.54
 |[Extras](#extras)|39.99|261.59|Unknown|
 |[Novelties](#novelties)|54.99|359.72|Unknown|
 
+<img src="{{ 'assets/images/gmk-keycaps/Monarch/price.png' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
 ### Base  

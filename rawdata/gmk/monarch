@@ -10,7 +10,7 @@
     "color_pics":[
     ],
     "platform": "GH",
-    "link": "https://geekhack.org/index.php?topic=110064.0",
+    "link": "https://geekhack.org/index.php?topic=111961.0",
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
@@ -20,7 +20,7 @@
         { "name": "Extras", "price": "39.99", "pic": "https://i.imgur.com/se12gDy.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/88wdbnF.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
-    "price_pic": "",
+    "price_pic": "https://i.imgur.com/eaOaHhB.png",
     "render_pics":[
         "https://i.imgur.com/gyNhLGt.png"
     ]
