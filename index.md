@@ -28,6 +28,7 @@ Happy Chinese New Year!
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Handarbeit](docs/sa-keycaps/Handarbeit/)
 * [X-mas Gift 圣诞礼物](docs/sa-keycaps/X-mas-Gift/)
 * [Tatooine 塔图因](docs/sa-keycaps/Tatooine/)
 * [8010](docs/sa-keycaps/8010/)
@@ -160,6 +161,10 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Boulder 巨石](docs/gmk-keycaps/Boulder/)
+* [Metropolis R2 大都会R2](docs/gmk-keycaps/Metropolis-R2/)
+* [Fox 狐狸](docs/gmk-keycaps/Fox/)
+* [Blueple](docs/gmk-keycaps/Blueple/)
 * [Monarch](docs/gmk-keycaps/Monarch/)
 * [Fuji 富士山](docs/gmk-keycaps/Fuji/)
 * [Watermelon 西瓜](docs/gmk-keycaps/Watermelon/)
@@ -369,7 +374,7 @@ Happy Chinese New Year!
 * [Eclipse 日蚀](docs/gmk-keycaps/Eclipse/)
 * [Nines 九](docs/gmk-keycaps/Nines/)
 * [Wavez 声波](docs/gmk-keycaps/Wavez/)
-* [Metropolis 大都会](docs/gmk-keycaps/Metropolis/)
+* [Metropolis R1 大都会R1](docs/gmk-keycaps/Metropolis-R1/)
 * [SkIIdata 黑橙R2](docs/gmk-keycaps/SkIIdata/)
 * [Lime 青柠](docs/gmk-keycaps/Lime/)
 * [Vice Nights 反夜/副夜](docs/gmk-keycaps/Vice-Nights/)

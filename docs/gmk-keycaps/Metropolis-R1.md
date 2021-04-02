@@ -1,14 +1,14 @@
 ---
-title: Metropolis 大都会
+title: Metropolis R1 大都会R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 310945
 ---
 
-# Metropolis 大都会
+# Metropolis R1 大都会R1
 
-ref link: [Metropolis GH GB Link](https://geekhack.org/index.php?topic=99962.0)
+ref link: [Metropolis R1 GH GB Link](https://geekhack.org/index.php?topic=99962.0)
 * [Price](#price)
 * [Kits](#kits)
 * [Info](#info)

@@ -1,0 +1,35 @@
+{
+    "name": "Metropolis R2",
+    "cname": "大都会R2",
+    "keycapstype": "GMK",
+    "designer": "Nephlock",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-04-02 ~ 2021-04-30",
+    "colorcodes":[
+        "|Alpha|5395C|333C",
+        "|Modifiers 1|5395C|142C",
+        "|Modifiers 2|5395C|179C"
+    ],
+    "color_pics":[
+        "https://enjoykeycap.github.io/assets/images/gmk-keycaps/metropolis/color.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112071.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/ydquxRK.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Blocks", "price": "30", "pic": "https://i.imgur.com/0I6pIhQ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Signs", "price": "40", "pic": "https://i.imgur.com/t78IA1N.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Compact", "price": "40", "pic": "https://i.imgur.com/6Is9BsI.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Turnpike", "price": "75", "pic": "https://i.imgur.com/5qehuaU.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Midnight", "price": "110", "pic": "https://i.imgur.com/CuYUgOe.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Enter", "price": "52", "pic": "https://i.imgur.com/QI4L4xt.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Novelty", "price": "38", "pic": "https://i.imgur.com/0cHbhGX.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://enjoykeycap.github.io/assets/images/gmk-keycaps/metropolis/rendering_pics/2.jpg"
+    ]
+}
