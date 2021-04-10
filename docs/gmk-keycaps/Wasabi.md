@@ -1,14 +1,14 @@
 ---
-title: Wasabi 芥末
+title: Wasabi R1 芥末R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 310770
 ---
 
-# Wasabi 芥末
+# Wasabi R1 芥末R1
 
-ref link: [Wasabi OCO GB Link](https://www.originativeco.com/products/wasabi)  
+ref link: [Wasabi R1 OCO GB Link](https://www.originativeco.com/products/wasabi)  
 
 * [Price](#price)  
 * [Kits](#kits)  

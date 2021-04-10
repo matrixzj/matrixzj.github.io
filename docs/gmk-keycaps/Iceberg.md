@@ -21,38 +21,40 @@ NOTE: USD to CNY exchange rate is 6.46
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|871.90|Unknown|
-|[Inuktitut](#inuktitut)|80.00|516.68|Unknown|
-|[Novelties](#novelties)|50.00|322.93|Unknown|
-|[Spacebar](#spacebar)|30.00|193.76|Unknown|
-|[40s](#40s)|45.00|290.63|Unknown|
-|[Nordeuk](#nordeuk)|74.00|477.93|Unknown|
+|[Base](#base)|135.00|871.86|1500|
+|[Inuktitut](#inuktitut)|80.00|516.66|109|
+|[Novelties](#novelties)|50.00|322.91|671|
+|[Spacebar](#spacebar)|30.00|193.75|275|
+|[40s](#40s)|45.00|290.62|100|
+|[Nordeuk](#nordeuk)|74.00|477.91|62|
 
 <img src="{{ 'assets/images/gmk-keycaps/Iceberg/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Iceberg/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Iceberg/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 135.00	**Price(CNY):** 871.90	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 871.86	**Quantity:** 1500  
 <img src="{{ 'assets/images/gmk-keycaps/Iceberg/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Inuktitut  
-**Price(USD):** 80.00	**Price(CNY):** 516.68	**Quantity:** Unknown  
+**Price(USD):** 80.00	**Price(CNY):** 516.66	**Quantity:** 109  
 <img src="{{ 'assets/images/gmk-keycaps/Iceberg/kits_pics/inuktitut.png' | relative_url }}" alt="inuktitut" class="image featured">
 
 ### Novelties  
-**Price(USD):** 50.00	**Price(CNY):** 322.93	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 322.91	**Quantity:** 671  
 <img src="{{ 'assets/images/gmk-keycaps/Iceberg/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebar  
-**Price(USD):** 30.00	**Price(CNY):** 193.76	**Quantity:** Unknown  
+**Price(USD):** 30.00	**Price(CNY):** 193.75	**Quantity:** 275  
 <img src="{{ 'assets/images/gmk-keycaps/Iceberg/kits_pics/spacebar.jpg' | relative_url }}" alt="spacebar" class="image featured">
 
 ### 40s  
-**Price(USD):** 45.00	**Price(CNY):** 290.63	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 290.62	**Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/Iceberg/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### Nordeuk  
-**Price(USD):** 74.00	**Price(CNY):** 477.93	**Quantity:** Unknown  
+**Price(USD):** 74.00	**Price(CNY):** 477.91	**Quantity:** 62  
 <img src="{{ 'assets/images/gmk-keycaps/Iceberg/kits_pics/nordeuk.png' | relative_url }}" alt="nordeuk" class="image featured">
 
 ## Info

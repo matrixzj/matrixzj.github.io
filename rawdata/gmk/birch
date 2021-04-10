@@ -18,13 +18,13 @@
     "link": "https://geekhack.org/index.php?topic=110992.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/9Wz8qmcz/GMKbirch-Status210301fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/wJEkB6B.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "43.99", "pic": "https://i.imgur.com/sJhfUAc.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "28.99", "pic": "https://i.imgur.com/hSPiVKy.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "27.99", "pic": "https://i.imgur.com/FHlyvKw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "40", "pic": "https://i.imgur.com/gMhg06I.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/wJEkB6B.jpg", "price_cny": "", "quantity": "2374", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "43.99", "pic": "https://i.imgur.com/sJhfUAc.png", "price_cny": "", "quantity": "886", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "28.99", "pic": "https://i.imgur.com/hSPiVKy.png", "price_cny": "", "quantity": "716", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "27.99", "pic": "https://i.imgur.com/FHlyvKw.png", "price_cny": "", "quantity": "124", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "40", "pic": "https://i.imgur.com/gMhg06I.png", "price_cny": "", "quantity": "1041", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

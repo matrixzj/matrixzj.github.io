@@ -8,7 +8,7 @@ nav_order: 290935
 
 # Birch 
 
-ref link: [Birch GH GB Link]()
+ref link: [Birch GH GB Link](https://geekhack.org/index.php?topic=110992.0)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -21,32 +21,33 @@ NOTE: USD to CNY exchange rate is 6.47
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|873.18|Unknown|
-|[Novelties](#novelties)|43.99|284.55|Unknown|
-|[Spacebars](#spacebars)|28.99|187.52|Unknown|
-|[40s](#40s)|27.99|181.05|Unknown|
-|[RAMA](#rama)|40.00|258.74|Unknown|
+|[Base](#base)|134.99|873.18|2374|
+|[Novelties](#novelties)|43.99|284.55|886|
+|[Spacebars](#spacebars)|28.99|187.52|716|
+|[40s](#40s)|27.99|181.05|124|
+|[RAMA](#rama)|40.00|258.74|1041|
 
+<img src="{{ 'assets/images/gmk-keycaps/Birch/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 134.99	**Price(CNY):** 873.18	**Quantity:** Unknown  
+**Price(USD):** 134.99	**Price(CNY):** 873.18	**Quantity:** 2374  
 <img src="{{ 'assets/images/gmk-keycaps/Birch/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 43.99	**Price(CNY):** 284.55	**Quantity:** Unknown  
+**Price(USD):** 43.99	**Price(CNY):** 284.55	**Quantity:** 886  
 <img src="{{ 'assets/images/gmk-keycaps/Birch/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 28.99	**Price(CNY):** 187.52	**Quantity:** Unknown  
+**Price(USD):** 28.99	**Price(CNY):** 187.52	**Quantity:** 716  
 <img src="{{ 'assets/images/gmk-keycaps/Birch/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### 40s  
-**Price(USD):** 27.99	**Price(CNY):** 181.05	**Quantity:** Unknown  
+**Price(USD):** 27.99	**Price(CNY):** 181.05	**Quantity:** 124  
 <img src="{{ 'assets/images/gmk-keycaps/Birch/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### RAMA  
-**Price(USD):** 40.00	**Price(CNY):** 258.74	**Quantity:** Unknown  
+**Price(USD):** 40.00	**Price(CNY):** 258.74	**Quantity:** 1041  
 <img src="{{ 'assets/images/gmk-keycaps/Birch/kits_pics/rama.jpg' | relative_url }}" alt="rama" class="image featured">
 
 ## Info

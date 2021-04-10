@@ -21,33 +21,34 @@ NOTE: USD to CNY exchange rate is 6.47
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|145.00|937.49|Unknown|
-|[Novelties](#novelties)|60.00|387.93|Unknown|
-|[40s](#40s)|50.00|323.27|Unknown|
-|[Spacebars](#spacebars)|30.00|193.96|Unknown|
-|[RAMA](#rama)|38.00|245.69|Unknown|
+|[Base](#base)|145.00|937.49|270|
+|[Novelties](#novelties)|60.00|387.93|167|
+|[~~40s~~](#40s)|50.00|323.27|26|
+|[Spacebars](#spacebars)|30.00|193.96|104|
+|[RAMA](#rama)|38.00|245.69|387|
 
 <img src="{{ 'assets/images/gmk-keycaps/Star/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Star/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 145.00	**Price(CNY):** 937.49	**Quantity:** Unknown  
+**Price(USD):** 145.00	**Price(CNY):** 937.49	**Quantity:** 270  
 <img src="{{ 'assets/images/gmk-keycaps/Star/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 60.00	**Price(CNY):** 387.93	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 387.93	**Quantity:** 167  
 <img src="{{ 'assets/images/gmk-keycaps/Star/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
-### 40s  
-**Price(USD):** 50.00	**Price(CNY):** 323.27	**Quantity:** Unknown  
+### ~~40s~~  
+**Price(USD):** 50.00	**Price(CNY):** 323.27	**Quantity:** 26  
 <img src="{{ 'assets/images/gmk-keycaps/Star/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 30.00	**Price(CNY):** 193.96	**Quantity:** Unknown  
+**Price(USD):** 30.00	**Price(CNY):** 193.96	**Quantity:** 104  
 <img src="{{ 'assets/images/gmk-keycaps/Star/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### RAMA  
-**Price(USD):** 38.00	**Price(CNY):** 245.69	**Quantity:** Unknown  
+**Price(USD):** 38.00	**Price(CNY):** 245.69	**Quantity:** 387  
 <img src="{{ 'assets/images/gmk-keycaps/Star/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 ## Info

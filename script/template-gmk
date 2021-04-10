@@ -14,6 +14,7 @@
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
+    "order_graph_without": "",
     "price_list":[
         { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }

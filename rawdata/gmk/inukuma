@@ -10,15 +10,15 @@
     "color_pics":[
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=111267.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.imgur.com/j2wbEVD.png",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://geekhack.org/index.php?action=dlattach;topic=108300.0;attach=259675;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "45", "pic": "https://geekhack.org/index.php?action=dlattach;topic=108300.0;attach=259677;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "35", "pic": "https://geekhack.org/index.php?action=dlattach;topic=108300.0;attach=259679;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "38", "pic": "https://geekhack.org/index.php?action=dlattach;topic=108300.0;attach=261946;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "135", "pic": "https://geekhack.org/index.php?action=dlattach;topic=108300.0;attach=259675;image", "price_cny": "", "quantity": "828", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "45", "pic": "https://geekhack.org/index.php?action=dlattach;topic=108300.0;attach=259677;image", "price_cny": "", "quantity": "101", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "pic": "https://geekhack.org/index.php?action=dlattach;topic=108300.0;attach=259679;image", "price_cny": "", "quantity": "276", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "pic": "https://geekhack.org/index.php?action=dlattach;topic=108300.0;attach=261946;image", "price_cny": "", "quantity": "399", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

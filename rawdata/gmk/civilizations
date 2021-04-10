@@ -1,0 +1,34 @@
+{
+    "name": "Civilizations",
+    "cname": "文明",
+    "keycapstype": "GMK",
+    "designer": "twgecko02",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-01-22 ~ 2021-02-28",
+    "colorcodes":[
+        "|Base|RAL 2014|WS1",
+        "|Accents|WS1|RAL 2014"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=110816.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "https://i.postimg.cc/7H40xkJj/GMKcivilizations-Status210227fin-Next2.png",
+    "order_graph_without": "https://i.postimg.cc/tXWFQTJh/GMKcivilizations-Status210227fin-Yext2.png",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/IHKT1dz.jpg", "price_cny": "", "quantity": "1192", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Brass Mods", "price": "67", "pic": "https://i.imgur.com/FQphYRY.jpg", "price_cny": "", "quantity": "405", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/s33blz9.jpg", "price_cny": "", "quantity": "304", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "35", "pic": "https://i.imgur.com/GSJGkTH.png", "price_cny": "", "quantity": "82", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "40", "pic": "https://i.imgur.com/KitU604.jpg", "price_cny": "", "quantity": "656", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA White Parthenon", "price": "43", "pic": "https://i.imgur.com/maqwCZo.png", "price_cny": "", "quantity": "258", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Brass Parthenon", "price": "58", "pic": "https://i.imgur.com/FkQBm4D.png", "price_cny": "", "quantity": "417", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Great Wall", "price": "68", "pic": "https://i.imgur.com/9IVdque.png", "price_cny": "", "quantity": "299", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/SqyaKFU.png",
+    "render_pics":[
+        "https://enjoykeycap.github.io/assets/images/gmk-keycaps/Civilizations/rendering_pics/0.jpg"
+    ]
+}

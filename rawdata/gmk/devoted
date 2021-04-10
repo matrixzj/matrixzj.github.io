@@ -9,7 +9,6 @@
         "|Alpha|RAL 280 20 30|RAL 300 80 15",
         "|Modifiers|CR|RAL 300 80 15",
         "|Accent|RAL 300 80 15|RAL 280 20 30"
-
     ],
     "color_pics":[
         "https://i.imgur.com/xUYWacH.png"
@@ -18,13 +17,14 @@
     "link": "https://geekhack.org/index.php?topic=110941.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/zN4N1S7M/GMKdevoted-Status210312fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/DFsTfJYz/GMKdevoted-Status210312fin-Next.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/ZcbtFsR.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "59.99", "pic": "https://i.imgur.com/WEzBZDV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "34.99", "pic": "https://i.imgur.com/SjvSedh.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Penlight", "price": "44.99", "pic": "https://i.imgur.com/vQZt1XE.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Rose", "price": "39.99", "pic": "https://i.imgur.com/xDR6XHy.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/ZcbtFsR.jpg", "price_cny": "", "quantity": "754", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "59.99", "pic": "https://i.imgur.com/WEzBZDV.png", "price_cny": "", "quantity": "322", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "34.99", "pic": "https://i.imgur.com/SjvSedh.png", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Penlight", "price": "44.99", "pic": "https://i.imgur.com/vQZt1XE.png", "price_cny": "", "quantity": "272", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Rose", "price": "39.99", "pic": "https://i.imgur.com/xDR6XHy.png", "price_cny": "", "quantity": "385", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[
