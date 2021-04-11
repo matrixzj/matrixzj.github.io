@@ -161,6 +161,7 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Agent 01](docs/gmk-keycaps/Agent-01/)
 * [Wasabi R2 芥末R2](docs/gmk-keycaps/Wasabi-R2/)
 * [Boulder 巨石](docs/gmk-keycaps/Boulder/)
 * [Metropolis R2 大都会R2](docs/gmk-keycaps/Metropolis-R2/)
