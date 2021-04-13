@@ -66,7 +66,7 @@ NOTE: USD to CNY exchange rate is 6.51
 
 ## Info
 * Designer: Jack  
-* Profile: SA 1-1-2-3-4-4  
+* Profile: SA 1-1-2-3-4-3  
 * GB Time: 2021-03-21 ~ 2021-04-11  
 * Color Codes:  
 

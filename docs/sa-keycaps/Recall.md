@@ -53,7 +53,7 @@ NOTE: USD to CNY exchange rate is 6.54
 
 ## Info
 * Designer: Langelandia  
-* Profile: SA 1-1-2-3-4-4  
+* Profile: SA 1-1-2-3-4-3  
 * GB Time: 2020-12-18 ~ 2021-01-15  
 * Color Codes:  
 

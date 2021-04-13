@@ -28,6 +28,7 @@ Happy Chinese New Year!
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Espresso](docs/sa-keycaps/Espresso/)
 * [Handarbeit](docs/sa-keycaps/Handarbeit/)
 * [X-mas Gift 圣诞礼物](docs/sa-keycaps/X-mas-Gift/)
 * [Tatooine 塔图因](docs/sa-keycaps/Tatooine/)
@@ -161,6 +162,7 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Kouhai](docs/gmk-keycaps/Kouhai/)
 * [Agent 01](docs/gmk-keycaps/Agent-01/)
 * [Wasabi R2 芥末R2](docs/gmk-keycaps/Wasabi-R2/)
 * [Boulder 巨石](docs/gmk-keycaps/Boulder/)

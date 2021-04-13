@@ -46,7 +46,7 @@ NOTE: USD to CNY exchange rate is 6.57
 
 ## Info
 * Designer: cocobrais  
-* Profile: SA 1-1-2-3-4-4  
+* Profile: SA 1-1-2-3-4-3  
 * GB Time: 2021-04-01 ~ 2021-05-01  
 * Color Codes:  
 
