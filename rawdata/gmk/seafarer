@@ -1,0 +1,33 @@
+{
+    "name": "Seafarer",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "iinko_mk",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-04-16 ~ 2021-05-16",
+    "colorcodes":[
+        "|Base|WS1|RAL 5003",
+        "|Accent|RAL 5003|WS1"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/3UQbGWg.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112321.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/6iUCjpS.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "47", "pic": "https://i.imgur.com/c37tUMY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/yxPvMfx.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "37", "pic": "https://i.imgur.com/St8TtbH.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK Sea Dog", "price": "42", "pic": "https://i.imgur.com/0IZR4fD.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK O Rusty", "price": "58", "pic": "https://i.imgur.com/YMMSM8j.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/Km2NiVn.png",
+    "render_pics":[
+        "https://i.imgur.com/r2Bm1yR.jpg"
+    ]
+}

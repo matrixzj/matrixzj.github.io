@@ -81,6 +81,8 @@ NOTE: USD to CNY exchange rate is 6.55
 * GB Time: 2021-04-13 ~ 2021-05-14  
 * Color Codes:  
 
+<img src="{{ 'assets/images/sa-keycaps/Espresso/color.jpg' | relative_url }}" alt="color" class="image featured">
+
 
 ## Pictures  
 <img src="{{ 'assets/images/sa-keycaps/Espresso/rendering_pics/0.jpg' | relative_url }}" alt="0" class="image featured">

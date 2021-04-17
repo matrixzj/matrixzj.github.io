@@ -1,0 +1,37 @@
+{
+    "name": "Ramses",
+    "cname": "",
+    "keycapstype": "SA",
+    "designer": "atlanticise",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-04-16 ~ 2021-05-14",
+    "colorcodes":[
+        "TN/TBT/RAL 6012/RAL 8000"
+    ],
+    "color_pics":[
+        "https://sa-ramses.com/wp-content/uploads/2021/04/brown.png",
+        "https://sa-ramses.com/wp-content/uploads/2021/04/green.png",
+        "https://sa-ramses.com/wp-content/uploads/2021/04/cream.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112324.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Alphas Nile", "price": "54.99", "pic": "https://i.imgur.com/H0R3n9d.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alphas Sand", "price": "54.99", "pic": "https://i.imgur.com/TotaBRI.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Modifiers Nile", "price": "84.99", "pic": "https://i.imgur.com/kNPc4Oc.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Modifiers Sand", "price": "84.99", "pic": "https://i.imgur.com/hEXDDeY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "59.99", "pic": "https://i.imgur.com/AHUF0AV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "44.99", "pic": "https://i.imgur.com/vUrXDjK.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Bars", "price": "39.99", "pic": "https://i.imgur.com/4Dph0G4.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ISO", "price": "29.99", "pic": "https://i.imgur.com/UZOxcy7.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40S Extension", "price": "49.99", "pic": "https://i.imgur.com/js12UN8.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ortho", "price": "44.99", "pic": "https://i.imgur.com/eMOG5gm.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics": [
+        "https://sa-ramses.com/wp-content/uploads/2021/04/nemui-1536x1120.png"
+    ]
+}

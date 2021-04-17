@@ -62,30 +62,9 @@ NOTE: USD to CNY exchange rate is 6.81
 * Designer: HoodrowThrillson   
 * Profile: SA 1-1-2-3-4-3  
 * GB Time: 2020-09-14 ~ 2020-10-16  
-* Color Codes:  
+* Color Codes: SP PBT Color codes VS/VAZ/VCB/WAN
 
-<table style="width:100%">
-  <tr>
-    <th>ColorCodes</th>
-    <th>Sample</th>
-  </tr>
-  <tr>
-    <th>VS</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VS.png' | relative_url }}" alt="Color_VS" height="75" width="170"></th>
-  </tr>
-  <tr>
-    <th>VAZ</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VAZ.png' | relative_url }}" alt="Color_VAZ" height="75" width="170"></th>
-  </tr>
-  <tr>
-    <th>VCB</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_VCB.png' | relative_url }}" alt="Color_VCB" height="75" width="170"></th>
-  </tr>
-  <tr>
-    <th>WAN</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_WAN.png' | relative_url }}" alt="Color_WAN" height="75" width="170"></th>
-  </tr>
-</table>
+<img src="{{ 'assets/images/sa-keycaps/jadeite/color.jpg' | relative_url }}" alt="color" class="image featured">
 
 ## Pictures  
 <img src="{{ 'assets/images/sa-keycaps/jadeite/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">

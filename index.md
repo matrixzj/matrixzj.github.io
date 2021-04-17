@@ -28,6 +28,7 @@ Happy Chinese New Year!
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Ramses](docs/sa-keycaps/Ramses/)
 * [Espresso](docs/sa-keycaps/Espresso/)
 * [Handarbeit](docs/sa-keycaps/Handarbeit/)
 * [X-mas Gift 圣诞礼物](docs/sa-keycaps/X-mas-Gift/)
@@ -162,6 +163,8 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Seafarer](docs/gmk-keycaps/Seafarer/)
+* [Peaches n Create Lite](docs/gmk-keycaps/Peaches-n-Create-Lite/)
 * [Kouhai](docs/gmk-keycaps/Kouhai/)
 * [Agent 01](docs/gmk-keycaps/Agent-01/)
 * [Wasabi R2 芥末R2](docs/gmk-keycaps/Wasabi-R2/)

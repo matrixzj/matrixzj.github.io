@@ -109,8 +109,8 @@ Alphas/Pink Alphas/UwU Alphas/Modifiers/Pink Modifiers/Numpad/Spacebars/UwU Nove
     <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_GC.png' | relative_url }}" alt="Color_GC" height="75" width="170"></th>
   </tr>
   <tr>
-    <th>Pantone 13-1406TCX</th>
-	<th></th>
+    <th>Pantone 13-1406 TCX</th>
+    <th style="background-color: #F5D1C8;">&#160;</th>
   </tr>
 </table>
 

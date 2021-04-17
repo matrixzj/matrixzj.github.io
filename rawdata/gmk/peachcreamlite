@@ -1,0 +1,36 @@
+{
+    "name": "Peaches n Create Lite",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Rensuya",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-04-15 ~ 2021-05-15",
+    "colorcodes":[
+        "|Base Alphas|CP|Pantone PQ-13-1023TCX",
+        "|Modifiers|Pantone PQ-16-1543TCX|Pantone PQ-13-1023TCX",
+        "|Accents|Pantone PQ-13-1023TCX|CP"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/DPcUO7J.jpg"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Base", "price": "110", "pic": "https://i.imgur.com/LJ1t3dP.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Peachy Keen", "price": "110", "pic": "https://i.imgur.com/QXgmT8K.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numbers", "price": "35", "pic": "https://i.imgur.com/Xzi3Cz6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "30", "pic": "https://i.imgur.com/62E8OhX.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "23", "pic": "https://i.imgur.com/whYffyI.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accents", "price": "25", "pic": "https://i.imgur.com/8AQNvPS.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Leaf", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0238/7342/1376/products/RAMA_1_540x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Peach", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0238/7342/1376/products/RAMA_2_540x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/lZIxhAn.png",
+    "render_pics":[
+        "https://i.imgur.com/QhvC5PK.png"
+    ]
+}
