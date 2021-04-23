@@ -1,0 +1,28 @@
+{
+    "name": "Jelly Delights",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "kaysoo1337",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-04-22 ~ 2021-05-28",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112412.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Base", "price": "145", "pic": "https://imgur.com/jaiTPBf.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Mods", "price": "89.99", "pic": "https://imgur.com/OYQuae2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://imgur.com/8bQ13He.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://imgur.com/61dnc82.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/ReZPBfX.png",
+    "render_pics":[
+        "https://i.imgur.com/89gh0Rg.jpg"
+    ]
+}

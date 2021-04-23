@@ -163,6 +163,9 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Jelly Delights](docs/gmk-keycaps/Jelly-Delights/)
+* [Zooted](docs/gmk-keycaps/Zooted/)
+* [Modern Japanese Desko](docs/gmk-keycaps/Modern-Japanese-Desko/)
 * [Seafarer](docs/gmk-keycaps/Seafarer/)
 * [Peaches n Create Lite](docs/gmk-keycaps/Peaches-n-Create-Lite/)
 * [Kouhai](docs/gmk-keycaps/Kouhai/)

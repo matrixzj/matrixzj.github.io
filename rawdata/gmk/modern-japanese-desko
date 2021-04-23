@@ -1,0 +1,35 @@
+{
+    "name": "Modern Japanese Desko",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "EnjoyMyInSec",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-04-19 ~ 2021-05-19",
+    "colorcodes":[
+        "|Alpha|WS1|",
+        "|Modifiers|Pantone 3c|",
+        "|Green Accent|Pantone 2290c|",
+        "|Blue Accent|Pantone 2171c|",
+        "|Red Accent|Pantone 1785c|"
+    ],
+    "color_pics":[
+        "https://i.postimg.cc/rmWwHPnb/PALET-RIGHT.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112364.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.postimg.cc/zG9sGv26/BaseTrue.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HHKB", "price": "55", "pic": "https://i.postimg.cc/x8T74zqJ/Latin2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alpha", "price": "70", "pic": "https://i.postimg.cc/x8T74zqJ/Latin2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "pic": "https://i.postimg.cc/50JD8GVm/Spacebar.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "35", "pic": "https://i.postimg.cc/fy2FnR0H/Numpad.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.postimg.cc/dQb2b9mT/prices.png",
+    "render_pics":[
+        "https://i.postimg.cc/DZs1c5qf/2.jpg"
+    ]
+}
