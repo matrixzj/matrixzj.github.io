@@ -30,6 +30,7 @@ Happy Chinese New Year!
 ### 2021
 * [Ramses](docs/sa-keycaps/Ramses/)
 * [Espresso](docs/sa-keycaps/Espresso/)
+* [Prism 棱镜](docs/sa-keycaps/Prism/)
 * [Handarbeit](docs/sa-keycaps/Handarbeit/)
 * [X-mas Gift 圣诞礼物](docs/sa-keycaps/X-mas-Gift/)
 * [Tatooine 塔图因](docs/sa-keycaps/Tatooine/)
