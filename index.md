@@ -163,6 +163,11 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Parcel](docs/gmk-keycaps/Parcel/)
+* [Hazakura](docs/gmk-keycaps/Hazakura/)
+* [Cyrillic WoB Beige 黑白俄文/灰白俄文](docs/gmk-keycaps/Cyrillic-WoB-Beige/)
+* [Arch](docs/gmk-keycaps/Arch/)
+* [Sunset Surfing](docs/gmk-keycaps/Sunset-Surfing/)
 * [Jelly Delights](docs/gmk-keycaps/Jelly-Delights/)
 * [Zooted](docs/gmk-keycaps/Zooted/)
 * [Modern Japanese Desko](docs/gmk-keycaps/Modern-Japanese-Desko/)

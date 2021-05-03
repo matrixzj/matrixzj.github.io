@@ -1,0 +1,29 @@
+{
+    "name": "Cyrillic WoB Beige",
+    "cname": "黑白俄文/灰白俄文",
+    "keycapstype": "GMK",
+    "designer": "ttom",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-05-01 ~ 2021-06-01",
+    "colorcodes":[
+        "|WoB|CR|WC1",
+        "|Beige Alpha|L9|CR",
+        "|Beige Mod|U9|CR"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112583.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Cyrillic WoB", "price": "119.99", "pic": "https://i.imgur.com/2wMgiTW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cyrillic Beige", "price": "119.99", "pic": "https://i.imgur.com/7FRflFU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/mtWFR8H.jpg"
+    ]
+}

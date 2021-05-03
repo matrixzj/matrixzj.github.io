@@ -1,0 +1,32 @@
+{
+    "name": "Parcel",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "biip",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-05-03 ~ 2021-05-31",
+    "colorcodes":[
+        "|Alpha|WS1|RAL 5002 Ultramarine blue",
+        "|Modifiers|WS1|RO2",
+        "|Accents 1|RO2|RAL 5002 Ultramarine blue",
+        "|Accents 2|RAL 5002 Ultramarine blue|RO2"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Envelop", "price": "120", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_envelope.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Stamps", "price": "55", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_stamps.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Red tape", "price": "30", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_tape-red.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "White tape", "price": "25", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_tape-white.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "http://media.biipmk.com/gmk_parcel/GMK_Parcel-render_M60A-01.jpg"
+    ]
+}

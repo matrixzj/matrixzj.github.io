@@ -1,0 +1,31 @@
+{
+    "name": "Hazakura",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-05-01 ~ 2021-06-01",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112575.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Hiragana Base", "price": "134.99", "pic": "https://i.imgur.com/P0FCIB1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Base", "price": "134.99", "pic": "https://i.imgur.com/E0fgEZb.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/P36Chvs.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "34.99", "pic": "https://i.imgur.com/sVdBryw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Bars", "price": "29.99", "pic": "https://i.imgur.com/JT8scCu.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA HAZAKURA", "price": "45", "pic": "https://i.imgur.com/AYViSrm.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA PINK", "price": "38", "pic": "https://i.imgur.com/aS7OARp.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/ugaA9do.png",
+    "render_pics":[
+        "https://i.imgur.com/2oJjTEq.jpg"
+    ]
+}
