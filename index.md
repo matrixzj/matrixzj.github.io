@@ -164,6 +164,9 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Moai](docs/gmk-keycaps/Moai/)
+* [Deepwell](docs/gmk-keycaps/Deepwell/)
+* [Sparta 斯巴达](docs/gmk-keycaps/Sparta/)
 * [Parcel](docs/gmk-keycaps/Parcel/)
 * [Hazakura](docs/gmk-keycaps/Hazakura/)
 * [Cyrillic WoB Beige 黑白俄文/灰白俄文](docs/gmk-keycaps/Cyrillic-WoB-Beige/)

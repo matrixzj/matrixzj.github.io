@@ -1,0 +1,34 @@
+{
+    "name": "Moai",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "pol139",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-05-04 ~ 2021-06-04",
+    "colorcodes":[
+        "|Alpha|RAL 7022|2B",
+        "|Modifiers|RAL 8022|2B",
+        "|Accents|RAL 1037|RAL 8022"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/gH8a343.jpg"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Base", "price": "149.99", "pic": "https://i.imgur.com/YgMzn1u.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "49.99", "pic": "https://i.imgur.com/i3XgqDe.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/49WsIgZ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/72lLoJh.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alu Artisan", "price": "38", "pic": "https://i.imgur.com/pb1YGhQ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Brass Artisan", "price": "48", "pic": "https://i.imgur.com/O3SOreR.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/1ORqMKP.jpg"
+    ]
+}

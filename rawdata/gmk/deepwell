@@ -1,0 +1,29 @@
+{
+    "name": "Deepwell",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Tyson",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-05-04 ~ 2021-06-04",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112630.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Interstellar", "price": "125", "pic": "https://i.imgur.com/bvGqzm1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Super Nova", "price": "46.5", "pic": "https://i.imgur.com/49IKL3R.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Outer Space", "price": "25", "pic": "https://i.imgur.com/vsJZVFc.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Red", "price": "38", "pic": "https://i.imgur.com/kzWIGaL.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Black", "price": "38", "pic": "https://i.imgur.com/4jMUudZ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/Np2zInK.png",
+    "render_pics":[
+        "https://i.imgur.com/uKm0468.jpg"
+    ]
+}
