@@ -1,26 +1,31 @@
 {
-    "name": "",
+    "name": "Lazurite",
     "cname": "",
     "keycapstype": "GMK",
-    "designer": "",
+    "designer": "jaekid",
     "profile": "1-1-2-3-4-4",
-    "time": "",
+    "time": "2021-05-07 ~ 2021-06-05",
     "colorcodes":[
     ],
     "color_pics":[
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=112710.0",
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
+    "order_graph_without": "",
     "price_list":[
-        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "126", "pic": "https://i.imgur.com/pSkylzv.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alternate Alphas", "price": "63", "pic": "https://i.imgur.com/Lh4u9O3.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Blue Novelties", "price": "60", "pic": "https://i.imgur.com/arJpPsR.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Gold Novelties", "price": "60", "pic": "https://i.imgur.com/TFgb8A9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/pW2BWEu.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "38", "pic": "https://i.imgur.com/eXAW7LA.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "60", "pic": "https://i.imgur.com/kIIPvnk.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
-    "price_pic": "",
+    "price_pic": "https://i.imgur.com/F3ikVxI.png",
     "render_pics":[
-        "",
-        ""
+        "https://i.imgur.com/PU8KXYt.jpg"
     ]
 }

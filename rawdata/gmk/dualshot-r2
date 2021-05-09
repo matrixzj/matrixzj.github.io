@@ -1,0 +1,39 @@
+{
+    "name": "Dualshot R2",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "GarrettSucks",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-05-07 ~ 2021-06-04",
+    "colorcodes":[
+        "|2B|N9",
+        "|2B|RO2",
+        "|2B|N6",
+        "|2B|TU2",
+        "|2B|N5"
+    ],
+    "color_pics":[
+    ],
+    "platform": "OMNI Type",
+    "link": "https://omnitype.com/collections/keycaps/products/gmk-dualshot-2-keycap-set",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Standard Base", "price": "119.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/01_DS2_StandardDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Katakana Base", "price": "119.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/02_DS2_KatakanaDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "29.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/03_DS2_NoveltyDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent", "price": "44.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/04_DS2_AccentDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Addition", "price": "42.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/05_DS2_AdditionDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Aesthetic Spacebars", "price": "32.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/06_DS2_AestheticDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro", "price": "24.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/07_DS2_MacroDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Obscure", "price": "39.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/08_DS2_ObscureDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Command", "price": "26.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/09_DS2_CommandDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "69.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/10_DS2_InternationalDark_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DS2_TGR_Alice_001_dist_800x.jpg"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Handarbeit R2 & Nachtarbeit",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "cocobrais",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-05-07 ~ 2021-06-03",
+    "colorcodes":[
+        "|Handarbeit Base 1|WS1|P3",
+        "|Handarbeit Base 2|WS1|V4",
+        "|Handarbeit Base 3|WS1|3C",
+        "|Handarbeit Base 4|WS1|N6",
+        "|Handarbeit Base 5|WS1|N7",
+        "|Handarbeit Base 6|WS1|AE",
+        "|Handarbeit Base 7|WS1|DY",
+        "|Handarbeit Base 8|WS1|V2",
+        "|Handarbeit Base 9|WS1|3A",
+        "|Handarbeit Base 10|WS1|TU1",
+        "Nachtarbeit Base 1|CR|P3",
+        "Nachtarbeit Base 2|CR|V4",
+        "Nachtarbeit Base 3|CR|3C",
+        "Nachtarbeit Base 4|CR|N6",
+        "Nachtarbeit Base 5|CR|N7",
+        "Nachtarbeit Base 6|CR|AE",
+        "Nachtarbeit Base 7|CR|DY",
+        "Nachtarbeit Base 8|CR|V2",
+        "Nachtarbeit Base 9|CR|3A",
+        "Nachtarbeit Base 10|CR|TU1"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112557",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Handarbeit", "price": "120", "pic": "https://i.imgur.com/dPCIg1i.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Nachtarbeit", "price": "135", "pic": "https://i.imgur.com/K4CMtEx.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Handarbeit International", "price": "72", "pic": "https://i.imgur.com/AnC5Isg.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Handarbeit Schwarz", "price": "50", "pic": "https://i.imgur.com/1RHq0xR.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Handarbeit Bunt", "price": "50", "pic": "https://i.imgur.com/DEP2pK2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/rFhjMzI.png",
+    "render_pics":[
+        "https://i.imgur.com/6aygjJm.png"
+    ]
+}

@@ -28,6 +28,7 @@ Happy Chinese New Year!
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Tang 唐](docs/sa-keycaps/Tang/)
 * [Ramses](docs/sa-keycaps/Ramses/)
 * [Espresso](docs/sa-keycaps/Espresso/)
 * [Prism 棱镜](docs/sa-keycaps/Prism/)
@@ -164,6 +165,9 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Lazurite](docs/gmk-keycaps/Lazurite/)
+* [Dualshot R2](docs/gmk-keycaps/Dualshot-R2/)
+* [Handarbeit R2 & Nachtarbeit](docs/gmk-keycaps/Handarbeit-R2-&-Nachtarbeit/)
 * [Moai](docs/gmk-keycaps/Moai/)
 * [Deepwell](docs/gmk-keycaps/Deepwell/)
 * [Sparta 斯巴达](docs/gmk-keycaps/Sparta/)
@@ -332,7 +336,7 @@ Happy Chinese New Year!
 * [High Voltage](docs/gmk-keycaps/High-Voltage/)
 * [B](docs/gmk-keycaps/B/)
 * [Nautilus Nightmares 噩梦鹦鹉螺](docs/gmk-keycaps/Nautilus-Nightmares/)
-* [DualShot](docs/gmk-keycaps/DualShot/)
+* [DualShot R1](docs/gmk-keycaps/DualShot-R1/)
 * [Rudy 鲁迪](docs/gmk-keycaps/Rudy/)
 * [Olivia++](docs/gmk-keycaps/Olivia++/)
 * [Ursa](docs/gmk-keycaps/Ursa/)

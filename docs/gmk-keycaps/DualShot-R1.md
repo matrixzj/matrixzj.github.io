@@ -1,14 +1,14 @@
 ---
-title: DualShot 
+title: DualShot R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 310640
 ---
 
-# DualShot 
+# DualShot R1
 
-ref link: [DualShot GH GB Link](https://geekhack.org/index.php?topic=103668.0)  
+ref link: [DualShot R1 GH GB Link](https://geekhack.org/index.php?topic=103668.0)  
 
 * [Price](#price)  
 * [Kits](#kits)  
