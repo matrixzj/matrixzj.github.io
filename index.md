@@ -165,6 +165,10 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Moonlight 月光](docs/gmk-keycaps/Moonlight/)
+* [Haku](docs/gmk-keycaps/Haku/)
+* [Patisserie](docs/gmk-keycaps/Patisserie/)
+* [Beige WoB uwu Add-on](docs/gmk-keycaps/Beige-WoB-uwu-Add-on/)
 * [Lazurite](docs/gmk-keycaps/Lazurite/)
 * [Dualshot R2](docs/gmk-keycaps/Dualshot-R2/)
 * [Handarbeit R2 & Nachtarbeit](docs/gmk-keycaps/Handarbeit-R2-&-Nachtarbeit/)

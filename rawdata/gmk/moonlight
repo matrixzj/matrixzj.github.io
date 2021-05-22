@@ -1,0 +1,30 @@
+{
+    "name": "Moonlight",
+    "cname": "月光",
+    "keycapstype": "GMK",
+    "designer": "mkljfox44",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-05-21 ~ 2021-06-26",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112954.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://cdn.discordapp.com/attachments/836916502296789012/837000246763454524/MoonlightBasekitFinal.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Alphas", "price": "75", "pic": "https://i.imgur.com/NcyEoc9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "48", "pic": "https://cdn.discordapp.com/attachments/701916996387864727/807673215005884436/novs.488_1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/FoEztnh.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Fox", "price": "56", "pic": "https://i.imgur.com/Tk7CJt7.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Campfire", "price": "56", "pic": "https://i.imgur.com/fkpO0DS.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://cdn.discordapp.com/attachments/829491967309512754/845334281781772298/moonlight_pricing.png",
+    "render_pics":[
+        "https://cdn.discordapp.com/attachments/701916996387864727/807677538674540625/iron165.517.png"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Patisserie",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Agilr",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-05-17 ~ 2021-06-13",
+    "colorcodes":[
+        "|Alpha|WS1|RAL 040 60 50",
+        "|Modifiers|RAL 030 90 10|RAL 040 60 50"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/zFRlJ8V.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112759.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/jmCFifB.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/DDKjNpW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Nom", "price": "29.99", "pic": "https://i.imgur.com/74P3GG8.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/Dk6GuzU.jpg"
+    ]
+}

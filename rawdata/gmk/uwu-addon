@@ -1,0 +1,26 @@
+{
+    "name": "Beige WoB uwu Add-on",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Qarmaa",
+    "profile": "1-1-2-3-4-5",
+    "time": "2021-05-15 ~ 2021-06-15",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112786.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_list":[
+        { "name": "All", "price": "36.99", "pic": "https://i.imgur.com/gG8b0oM.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics":[
+        "https://i.imgur.com/gG8b0oM.jpg",
+        "https://i.imgur.com/PkKONcH.jpg"
+    ]
+}
