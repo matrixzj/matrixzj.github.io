@@ -1,0 +1,33 @@
+{
+    "name": "Spectra",
+    "cname": "",
+    "keycapstype": "SA",
+    "designer": "NASP",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-05-25 ~ 2021-06-25",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111830.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Alpha", "price": "44.99", "pic": "https://i.imgur.com/w8V7NOg.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "TKL", "price": "96.99", "pic": "https://i.imgur.com/05fUt6D.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "77.99", "pic": "https://i.imgur.com/HIrynsk.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "34.99", "pic": "https://i.imgur.com/iDuP7Cq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Norde", "price": "37.99", "pic": "https://i.imgur.com/HhIOTK7.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Symbols", "price": "19.99", "pic": "https://i.imgur.com/3cMG1rs.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ergo", "price": "66.99", "pic": "https://i.imgur.com/zcm2ywV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "CMYK", "price": "49.99", "pic": "https://i.imgur.com/tiSabhr.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Bars", "price": "24.99", "pic": "https://i.imgur.com/ixY5tft.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro", "price": "12.99", "pic": "https://i.imgur.com/mqUCYjJ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "",
+    "render_pics": [
+        "https://i.imgur.com/8Rj8U3X.png"
+    ]
+}

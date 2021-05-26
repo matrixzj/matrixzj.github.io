@@ -28,6 +28,7 @@ Happy Chinese New Year!
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Spectra](docs/sa-keycaps/Spectra/)
 * [Tang 唐](docs/sa-keycaps/Tang/)
 * [Ramses](docs/sa-keycaps/Ramses/)
 * [Espresso](docs/sa-keycaps/Espresso/)
