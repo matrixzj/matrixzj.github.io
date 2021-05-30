@@ -206,8 +206,9 @@ def generate_keycap_page_info():
 * Designer: {}  
 * Profile: {} {}  
 * GB Time: {}  
+* Estimated Shipping Time: {}  
 * Color Codes:  
-""".format(info_dict['designer'], info_dict['keycapstype'], info_dict['profile'], info_dict['time'])
+""".format(info_dict['designer'], info_dict['keycapstype'], info_dict['profile'], info_dict['time'], info_dict['ets'])
     write_to_file(keycap_page_info_header)
 
     if info_dict['keycapstype'] == "SA" and info_dict['colorcodes']:

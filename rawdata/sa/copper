@@ -1,0 +1,35 @@
+{
+    "name": "Copper",
+    "cname": "铜",
+    "keycapstype": "SA",
+    "designer": "fatboycarney",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-05-28 ~ 2021-06-28",
+    "ets": "2022 Q4",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113048.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_list":[
+        { "name": "Alpha", "price": "40", "pic": "https://i.imgur.com/Z9cbxqj.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "TKL", "price": "80", "pic": "https://i.imgur.com/Q1YcDSS.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "40", "pic": "https://i.imgur.com/R2UkRYH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "35", "pic": "https://i.imgur.com/97lXVvu.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ortho", "price": "80", "pic": "https://i.imgur.com/qi8kqGA.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spaces", "price": "25", "pic": "https://i.imgur.com/3dGMojl.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ISO", "price": "27", "pic": "https://i.imgur.com/DYUFV6J.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Norde", "price": "25", "pic": "https://i.imgur.com/dOE9qnO.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Blank R2", "price": "65", "pic": "https://i.imgur.com/XlK21yL.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Alchemy R3", "price": "65", "pic": "https://i.imgur.com/tvd2rZP.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Element R4", "price": "65", "pic": "https://i.imgur.com/0khLplk.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "price_pic": "https://i.imgur.com/Wz49p6P.png",
+    "render_pics": [
+        "https://i.imgur.com/0UC2SZu.jpg"
+    ]
+}
