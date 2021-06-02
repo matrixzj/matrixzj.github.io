@@ -1,0 +1,31 @@
+{
+    "name": "British Racing Green",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "lewisflude",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-06-01 ~ 2021-06-30",
+    "ets": "",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113137.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "129.99", "pic": "https://i.imgur.com/tA1z7Ir.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Racing Green", "price": "78.99", "pic": "https://i.imgur.com/1MMI9vH.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Exotic", "price": "37.99", "pic": "https://i.imgur.com/BhTokIk.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "38.99", "pic": "https://i.imgur.com/oLy6UYW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Artisan Flag", "price": "47", "pic": "https://i.imgur.com/x3s1yx6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Artisan Car", "price": "55", "pic": "https://i.imgur.com/8M7bhfH.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/qaWkqAJ.jpg"
+    ]
+}

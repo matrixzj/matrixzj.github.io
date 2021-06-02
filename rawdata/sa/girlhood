@@ -1,0 +1,34 @@
+{
+    "name": "Girl Hood",
+    "cname": "粉蜜",
+    "keycapstype": "SA",
+    "designer": "Jack Studio",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-05-20 ~ 2021-06-10",
+    "ets": "October, 2022",
+    "colorcodes":[
+        "GSC/GTA/Pantone 7422U"
+    ],
+    "color_pics":[
+        "https://img.alicdn.com/imgextra/i3/86015913/O1CN010Ak9cE1tYCcEFYyoo_!!86015913.png"
+    ],
+    "platform": "TB",
+    "link": "https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.399f1debLvsGGZ&ft=t&id=645016990833",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "", "pic": "https://img.alicdn.com/imgextra/i1/86015913/O1CN01g85Ho21tYCcKqk1PM_!!86015913.jpg", "price_cny": "699", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "", "pic": "https://img.alicdn.com/imgextra/i2/86015913/O1CN01ek5IXJ1tYCcDj829o_!!86015913.jpg", "price_cny": "210", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "WKL NOV", "price": "", "pic": "https://img.alicdn.com/imgextra/i4/86015913/O1CN01tiHwBM1tYCcGNnVlk_!!86015913.jpg", "price_cny": "429", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Pink Alpha", "price": "", "pic": "https://img.alicdn.com/imgextra/i1/86015913/O1CN01pffIXM1tYCcBkL7Wc_!!86015913.jpg", "price_cny": "569", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Pink Novelties", "price": "", "pic": "https://img.alicdn.com/imgextra/i1/86015913/O1CN01svElCg1tYCcDj96iC_!!86015913.jpg", "price_cny": "429", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ISO", "price": "", "pic": "https://img.alicdn.com/imgextra/i2/86015913/O1CN01XG7x9I1tYCcEFTkI3_!!86015913.jpg", "price_cny": "119", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "BEE-Add", "price": "", "pic": "https://img.alicdn.com/imgextra/i3/86015913/O1CN01AVWCnh1tYCcKqlIQA_!!86015913.jpg", "price_cny": "69", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mystery Boxes", "price": "", "pic": "https://img.alicdn.com/imgextra/i3/86015913/O1CN0118LMdd1tYCcFDPycw_!!86015913.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://img.alicdn.com/imgextra/i2/86015913/O1CN01P6gXxY1tYCcGNpaZY_!!86015913.jpg"
+    ]
+}

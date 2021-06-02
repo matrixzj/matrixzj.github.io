@@ -30,6 +30,7 @@ Happy Chinese New Year!
 ### 2021
 * [Copper 铜](docs/sa-keycaps/Copper/)
 * [Spectra](docs/sa-keycaps/Spectra/)
+* [Girl Hood 粉蜜](docs/sa-keycaps/Girl-Hood/)
 * [Tang 唐](docs/sa-keycaps/Tang/)
 * [Ramses](docs/sa-keycaps/Ramses/)
 * [Espresso](docs/sa-keycaps/Espresso/)
@@ -167,6 +168,9 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Sixes 六](docs/gmk-keycaps/Sixes/)
+* [Lavender](docs/gmk-keycaps/Lavender/)
+* [British Racing Green](docs/gmk-keycaps/British-Racing-Green/)
 * [Moonlight 月光](docs/gmk-keycaps/Moonlight/)
 * [Haku](docs/gmk-keycaps/Haku/)
 * [Patisserie](docs/gmk-keycaps/Patisserie/)
