@@ -63,10 +63,6 @@ Note: Novelties of Grand Budapest finally changed as second piture.
     <th>Sample</th>
   </tr>
   <tr>
-    <th>Pantone 7422U</th>
-    <th></th>
-  </tr>
-  <tr>
     <th>Pantone 7422U (Alpha Base Color)</th>
     <th style="background-color: rgb(244, 205, 212)">&#160;</th>
   </tr>
