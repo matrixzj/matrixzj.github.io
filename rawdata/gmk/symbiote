@@ -1,0 +1,34 @@
+{
+    "name": "Symbiote",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "pikku-allu",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-06-11 ~ 2021-07-09",
+    "ets": "Q3, 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113264.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Central Core", "price": "124.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113264.0;attach=270229;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Standard Galactic", "price": "42.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113264.0;attach=270231;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Membrane", "price": "29.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113264.0;attach=270448;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Containment", "price": "32.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113264.0;attach=270239;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Sequence", "price": "32.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113264.0;attach=270241;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Metamorphosis", "price": "39.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113264.0;attach=270233;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mutation", "price": "24.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113264.0;attach=270237;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Anomaly", "price": "42.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113264.0;attach=270235;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/RW-CHERRY-R1-SYMB_R.3_01_tr_full_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/mtqqrEt.jpg"
+    ]
+}

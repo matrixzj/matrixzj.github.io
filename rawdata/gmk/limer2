@@ -1,0 +1,29 @@
+{
+    "name": "Lime R2",
+    "cname": "青柠R2",
+    "keycapstype": "GMK",
+    "designer": "kingnestea",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-06-08 ~ 2021-07-09",
+    "ets": "2022-04-29",
+    "colorcodes":[
+    ],
+    "color_pics":[
+        "https://matrixzj.github.io/assets/images/gmk-keycaps/lime/color.png"
+    ],
+    "platform": "MD",
+    "link": "https://drop.com/buy/drop-gmk-lime-custom-keycap-set",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "120", "pic": "https://massdrop-s3.imgix.net/product-images/drop-gmk-lime-custom-keycap-set/FP/6MK0pDvSxKfc5iRit5kQ_1%20-%20GMK%20Lime%20-%20Base%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://massdrop-s3.imgix.net/product-images/drop-gmk-lime-custom-keycap-set/FP/dReI00XsTayHGmnRjnhT_2%20-%20GMK%20Lime%20-%20Novelties.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://massdrop-s3.imgix.net/product-images/drop-gmk-lime-custom-keycap-set/FP/1MZDnxmgSEWpYS2vvtqo_3%20-%20GMK%20Lime%20-%20Spacebars.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://matrixzj.github.io/assets/images/gmk-keycaps/lime/rendering_pics/2.jpg"
+    ]
+}

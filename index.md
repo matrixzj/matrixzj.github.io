@@ -168,6 +168,9 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Symbiote](docs/gmk-keycaps/Symbiote/)
+* [Lime R2 青柠R2](docs/gmk-keycaps/Lime-R2/)
+* [Boho](docs/gmk-keycaps/Boho/)
 * [Sixes 六](docs/gmk-keycaps/Sixes/)
 * [Lavender](docs/gmk-keycaps/Lavender/)
 * [British Racing Green](docs/gmk-keycaps/British-Racing-Green/)
@@ -585,7 +588,6 @@ There is still a lot of wrong/missing info in this page. Any suggestions/advice/
 * [Vloshko](https://geekhack.org/index.php?action=profile;u=60892)
 * GodFire 野火
 * [Stepstone](https://old.reddit.com/user/stepstone82)
-* [Saga•江丁](https://geekhack.org/index.php?action=profile;u=66675)
 
 ## About the project
 

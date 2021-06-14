@@ -1,0 +1,31 @@
+{
+    "name": "Boho",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Flazion",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-06-08 ~ 2021-07-09",
+    "ets": "",
+    "colorcodes":[
+        "|Alpha|CP|RAL 7022",
+        "|Modifiers|RAL 7022|CP",
+        "|Accents|RAL 050 50 30|CP"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113244.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://geekhack.org/index.php?action=dlattach;topic=113244.0;attach=270152;image",
+    "price_list":[
+        { "name": "Base", "price": "124.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113244.0;attach=270124;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "44.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113244.0;attach=270126;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "29.99", "pic": "https://geekhack.org/index.php?action=dlattach;topic=113244.0;attach=270128;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://geekhack.org/index.php?action=dlattach;topic=113244.0;attach=270130;image"
+    ]
+}
