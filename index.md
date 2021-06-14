@@ -171,6 +171,7 @@ Happy Chinese New Year!
 * [Symbiote](docs/gmk-keycaps/Symbiote/)
 * [Lime R2 青柠R2](docs/gmk-keycaps/Lime-R2/)
 * [Boho](docs/gmk-keycaps/Boho/)
+* [Analog Dreams R2 模拟梦境R2](docs/gmk-keycaps/Analog-Dreams-R2/)
 * [Sixes 六](docs/gmk-keycaps/Sixes/)
 * [Lavender](docs/gmk-keycaps/Lavender/)
 * [British Racing Green](docs/gmk-keycaps/British-Racing-Green/)

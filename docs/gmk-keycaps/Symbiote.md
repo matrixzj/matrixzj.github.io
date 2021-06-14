@@ -76,6 +76,8 @@ NOTE: USD to CNY exchange rate is 6.40
 * Estimated Shipping Time: Q3, 2022  
 * Color Codes:  
 
+<img src="{{ 'assets/images/gmk-keycaps/Symbiote/0.png' | relative_url }}" alt="0" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Symbiote/1.png' | relative_url }}" alt="1" class="image featured">
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/Symbiote/rendering_pics/0.jpg' | relative_url }}" alt="0" class="image featured">
