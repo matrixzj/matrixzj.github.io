@@ -10,6 +10,7 @@ TEMP_PIC_FILE = '/tmp/KEYCAP_PIC_FILE'
 
 def download_graph(url, path, sub_path, name):
     # proxies = {'http': 'http://10.0.1.77:443'}
+
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
     response = requests.get(url, headers=headers)
     output_file = open(TEMP_PIC_FILE,'wb')
@@ -17,7 +18,7 @@ def download_graph(url, path, sub_path, name):
     output_file.close()
 
     file_format = magic.from_file(TEMP_PIC_FILE, mime=True)
-#
+        
     if file_format == 'image/jpeg':
         file_ext = 'jpg'
         file_path_name = '{}.{}'.format(os.path.join(path, sub_path, str(name)), file_ext)

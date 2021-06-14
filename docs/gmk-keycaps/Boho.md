@@ -21,23 +21,23 @@ NOTE: USD to CNY exchange rate is 6.40
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|124.99|Unknown|Unknown|
-|[Numpad](#numpad)|44.99|Unknown|Unknown|
-|[Spacebar](#spacebar)|29.99|Unknown|Unknown|
+|[Base](#base)|124.99|800.00|Unknown|
+|[Numpad](#numpad)|44.99|287.96|Unknown|
+|[Spacebar](#spacebar)|29.99|191.95|Unknown|
 
 <img src="{{ 'assets/images/gmk-keycaps/Boho/price.jpg' | relative_url }}" alt="price" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 124.99	**Price(CNY):** Unknown	**Quantity:** Unknown  
+**Price(USD):** 124.99	**Price(CNY):** 800.00	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Boho/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Numpad  
-**Price(USD):** 44.99	**Price(CNY):** Unknown	**Quantity:** Unknown  
+**Price(USD):** 44.99	**Price(CNY):** 287.96	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Boho/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
 ### Spacebar  
-**Price(USD):** 29.99	**Price(CNY):** Unknown	**Quantity:** Unknown  
+**Price(USD):** 29.99	**Price(CNY):** 191.95	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Boho/kits_pics/spacebar.jpg' | relative_url }}" alt="spacebar" class="image featured">
 
 ## Info
