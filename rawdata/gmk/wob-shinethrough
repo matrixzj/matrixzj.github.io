@@ -5,6 +5,7 @@
     "designer": "HoodrowThrillson",
     "profile": "0-1-3-4-5",
     "time": "2021-03-05 ~ 2021-04-02",
+    "ets": "",
     "colorcodes":[
     ],
     "color_pics":[
@@ -13,9 +14,9 @@
     "link": "https://geekhack.org/index.php?topic=111537.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/x9vHcd81/GMKwob-Shinethrough210402fin-Yext.png",
     "price_list":[
-        { "name": "All", "price": "35", "pic": "https://i.imgur.com/vFvnB0r.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "All", "price": "35", "pic": "https://i.imgur.com/vFvnB0r.jpg", "price_cny": "", "quantity": "1035", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

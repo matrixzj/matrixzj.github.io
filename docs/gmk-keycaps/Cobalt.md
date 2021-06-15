@@ -21,27 +21,28 @@ NOTE: USD to CNY exchange rate is 6.47
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Blue Glass Base](#blue-glass-base)|140.00|905.21|Unknown|
-|[Pure Base](#pure-base)|140.00|905.21|Unknown|
-|[Scholars](#scholars)|50.00|323.29|Unknown|
+|[~~Blue Glass Base~~](#blue-glass-base)|140.00|905.21|396|
+|[Pure Base](#pure-base)|140.00|905.21|396|
+|[Scholars](#scholars)|50.00|323.29|164|
 |[Scholars Defined](#scholars-defined)|50.00|323.29|Unknown|
-|[Extension](#extension)|32.00|206.91|Unknown|
-|[Accent Spaces](#accent-spaces)|30.00|193.97|Unknown|
-|[Salvun](#salvun)|54.99|355.55|Unknown|
+|[Extension](#extension)|32.00|206.91|100|
+|[Accent Spaces](#accent-spaces)|30.00|193.97|110|
+|[Salvun](#salvun)|54.99|355.55|145|
 
 <img src="{{ 'assets/images/gmk-keycaps/Cobalt/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Cobalt/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
-### Blue Glass Base  
-**Price(USD):** 140.00	**Price(CNY):** 905.21	**Quantity:** Unknown  
+### ~~Blue Glass Base~~  
+**Price(USD):** 140.00	**Price(CNY):** 905.21	**Quantity:** 396  
 <img src="{{ 'assets/images/gmk-keycaps/Cobalt/kits_pics/blue-glass-base.jpg' | relative_url }}" alt="blue-glass-base" class="image featured">
 
 ### Pure Base  
-**Price(USD):** 140.00	**Price(CNY):** 905.21	**Quantity:** Unknown  
+**Price(USD):** 140.00	**Price(CNY):** 905.21	**Quantity:** 396  
 <img src="{{ 'assets/images/gmk-keycaps/Cobalt/kits_pics/pure-base.jpg' | relative_url }}" alt="pure-base" class="image featured">
 
 ### Scholars  
-**Price(USD):** 50.00	**Price(CNY):** 323.29	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 323.29	**Quantity:** 164  
 <img src="{{ 'assets/images/gmk-keycaps/Cobalt/kits_pics/scholars.jpg' | relative_url }}" alt="scholars" class="image featured">
 
 ### Scholars Defined  
@@ -49,21 +50,22 @@ NOTE: USD to CNY exchange rate is 6.47
 <img src="{{ 'assets/images/gmk-keycaps/Cobalt/kits_pics/scholars-defined.jpg' | relative_url }}" alt="scholars-defined" class="image featured">
 
 ### Extension  
-**Price(USD):** 32.00	**Price(CNY):** 206.91	**Quantity:** Unknown  
+**Price(USD):** 32.00	**Price(CNY):** 206.91	**Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/Cobalt/kits_pics/extension.jpg' | relative_url }}" alt="extension" class="image featured">
 
 ### Accent Spaces  
-**Price(USD):** 30.00	**Price(CNY):** 193.97	**Quantity:** Unknown  
+**Price(USD):** 30.00	**Price(CNY):** 193.97	**Quantity:** 110  
 <img src="{{ 'assets/images/gmk-keycaps/Cobalt/kits_pics/accent-spaces.jpg' | relative_url }}" alt="accent-spaces" class="image featured">
 
 ### Salvun  
-**Price(USD):** 54.99	**Price(CNY):** 355.55	**Quantity:** Unknown  
+**Price(USD):** 54.99	**Price(CNY):** 355.55	**Quantity:** 145  
 <img src="{{ 'assets/images/gmk-keycaps/Cobalt/kits_pics/salvun.png' | relative_url }}" alt="salvun" class="image featured">
 
 ## Info
 * Designer: fatboycarney  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2021-03-01 ~ 2021-03-31  
+* Estimated Shipping Time: Q1 2022  
 * Color Codes:  
 
 | |Base Color     | Legend Color

@@ -5,6 +5,7 @@
     "designer": "ttom",
     "profile": "1-1-2-3-4-4",
     "time": "2021-03-15 ~ 2021-04-15",
+    "ets": "Q1 2022",
     "colorcodes":[
         "|Alpha|RAL 260 90 05|RAL 260 30 15",
         "|Modifiers|RAL 260 60 15|RAL 260 30 15",
@@ -17,16 +18,17 @@
     "link": "https://geekhack.org/index.php?topic=111695.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/WssScWrP/GMKfuju-Status210415fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/y7nj1mX3/GMKfuju-Status210415fin-Next2.png",
     "price_list":[
-        { "name": "Katakana Base", "price": "129.99", "pic": "https://i.imgur.com/wnMwGer.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Latin Base", "price": "129.99", "pic": "https://i.imgur.com/9bIOqnN.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Addition", "price": "47.99", "pic": "https://i.imgur.com/Phluo6t.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "44.99", "pic": "https://i.imgur.com/HxOfozG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "International", "price": "61.99", "pic": "https://i.imgur.com/tBbzPdv.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Sakura", "price": "22.99", "pic": "https://i.imgur.com/JCp3aDq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Mount", "price": "40", "pic": "https://i.imgur.com/67yFRDf.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Pagoda", "price": "38", "pic": "https://i.imgur.com/sva9RAA.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Katakana Base", "price": "129.99", "pic": "https://i.imgur.com/wnMwGer.png", "price_cny": "", "quantity": "1450", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Base", "price": "129.99", "pic": "https://i.imgur.com/9bIOqnN.png", "price_cny": "", "quantity": "1266", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Addition", "price": "47.99", "pic": "https://i.imgur.com/Phluo6t.png", "price_cny": "", "quantity": "203", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "44.99", "pic": "https://i.imgur.com/HxOfozG.png", "price_cny": "", "quantity": "1703", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "61.99", "pic": "https://i.imgur.com/tBbzPdv.png", "price_cny": "", "quantity": "78", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Sakura", "price": "22.99", "pic": "https://i.imgur.com/JCp3aDq.png", "price_cny": "", "quantity": "967", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Mount", "price": "40", "pic": "https://i.imgur.com/67yFRDf.jpg", "price_cny": "", "quantity": "1888", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Pagoda", "price": "38", "pic": "https://i.imgur.com/sva9RAA.jpg", "price_cny": "", "quantity": "546", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/LLRYzX8.png",
     "render_pics":[

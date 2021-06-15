@@ -5,6 +5,7 @@
     "designer": "Scucka",
     "profile": "1-1-2-3-4-4",
     "time": "2021-03-27 ~ 2021-04-23",
+    "ets": "",
     "colorcodes":[
     ],
     "color_pics":[
@@ -13,12 +14,12 @@
     "link": "https://geekhack.org/index.php?topic=111961.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/zqbTYhnX/GMKmonarch-Orders210423fin-Yext2.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/HVk5BkL.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Core", "price": "69.99", "pic": "https://i.imgur.com/7sHRbVw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extras", "price": "39.99", "pic": "https://i.imgur.com/se12gDy.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/88wdbnF.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/HVk5BkL.png", "price_cny": "", "quantity": "501", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Core", "price": "69.99", "pic": "https://i.imgur.com/7sHRbVw.png", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extras", "price": "39.99", "pic": "https://i.imgur.com/se12gDy.png", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/88wdbnF.png", "price_cny": "", "quantity": "250", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/eaOaHhB.png",
     "render_pics":[

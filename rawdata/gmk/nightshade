@@ -5,6 +5,7 @@
     "designer": "BlindAssassin111",
     "profile": "1-1-2-3-4-4",
     "time": "2021-03-04 ~ 2021-04-03",
+    "ets": "Q1 2022",
     "colorcodes":[
     ],
     "color_pics":[
@@ -13,11 +14,13 @@
     "link": "https://geekhack.org/index.php?topic=111176.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph_without": "https://i.postimg.cc/Z4z52KP5/GMKnightshade-Status210403fin-Next.png",
+    "order_graph": "https://i.postimg.cc/3YjxT59C/GMKnightshade-Status210403fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "140", "pic": "https://i.imgur.com/JbJM8tf.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "31.50", "pic": "https://i.imgur.com/dmfRwIV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "56.50", "pic": "https://i.imgur.com/kpGBw4t.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "140", "pic": "https://i.imgur.com/JbJM8tf.png", "price_cny": "", "quantity": "686", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "31.50", "pic": "https://i.imgur.com/dmfRwIV.png", "price_cny": "", "quantity": "228", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "56.50", "pic": "https://i.imgur.com/kpGBw4t.png", "price_cny": "", "quantity": "351", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun", "price": "45", "pic": "https://i.imgur.com/DLwClTB.jpg", "price_cny": "", "quantity": "149", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

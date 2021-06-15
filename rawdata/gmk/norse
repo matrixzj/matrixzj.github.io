@@ -5,6 +5,7 @@
     "designer": "Skok",
     "profile": "1-1-2-3-4-4",
     "time": "2021-03-02 ~ 2021-03-30",
+    "ets": "Q1/Q2 2022",
     "colorcodes":[
         "|Alpha|BV|L9",
         "|Modifiers|RAL 220 20 20|L9",
@@ -16,16 +17,16 @@
     "link": "https://geekhack.org/index.php?topic=111473.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/7w6RMy8J/GMKnorse-Status210330fin-Next.png",
     "price_list":[
-        { "name": "Base", "price": "119.99", "pic": "https://i.imgur.com/UWi1jwb.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelty", "price": "44.99", "pic": "https://i.imgur.com/5IPpKCe.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alternate", "price": "39.99", "pic": "https://i.imgur.com/fwBUz3P.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Aesthetic", "price": "29.99", "pic": "https://i.imgur.com/Jyg2fR9.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Obscure", "price": "46.99", "pic": "https://i.imgur.com/vLhWOAQ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "International", "price": "67.99", "pic": "https://i.imgur.com/EmCfNOG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Alu", "price": "38", "pic": "https://i.imgur.com/xVoheb9.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Brass", "price": "58", "pic": "https://i.imgur.com/nCUuDu6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "119.99", "pic": "https://i.imgur.com/UWi1jwb.png", "price_cny": "", "quantity": "2385", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "44.99", "pic": "https://i.imgur.com/5IPpKCe.png", "price_cny": "", "quantity": "1306", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alternate", "price": "39.99", "pic": "https://i.imgur.com/fwBUz3P.png", "price_cny": "", "quantity": "161", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Aesthetic", "price": "29.99", "pic": "https://i.imgur.com/Jyg2fR9.png", "price_cny": "", "quantity": "628", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Obscure", "price": "46.99", "pic": "https://i.imgur.com/vLhWOAQ.png", "price_cny": "", "quantity": "207", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "67.99", "pic": "https://i.imgur.com/EmCfNOG.png", "price_cny": "", "quantity": "107", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Alu", "price": "38", "pic": "https://i.imgur.com/xVoheb9.png", "price_cny": "", "quantity": "353", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Brass", "price": "58", "pic": "https://i.imgur.com/nCUuDu6.png", "price_cny": "", "quantity": "622", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

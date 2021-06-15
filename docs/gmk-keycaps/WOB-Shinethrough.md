@@ -21,18 +21,20 @@ NOTE: USD to CNY exchange rate is 6.50
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[All](#all)|35.00|227.39|Unknown|
+|[All](#all)|35.00|227.39|1035|
 
+<img src="{{ 'assets/images/gmk-keycaps/WOB-Shinethrough/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### All  
-**Price(USD):** 35.00	**Price(CNY):** 227.39	**Quantity:** Unknown  
+**Price(USD):** 35.00	**Price(CNY):** 227.39	**Quantity:** 1035  
 <img src="{{ 'assets/images/gmk-keycaps/WOB-Shinethrough/kits_pics/all.jpg' | relative_url }}" alt="all" class="image featured">
 
 ## Info
 * Designer: HoodrowThrillson  
 * Profile: GMK 0-1-3-4-5  
 * GB Time: 2021-03-05 ~ 2021-04-02  
+* Estimated Shipping Time:   
 * Color Codes:  
 
 

@@ -21,54 +21,56 @@ NOTE: USD to CNY exchange rate is 6.50
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|779.62|Unknown|
-|[White Modes](#white-modes)|95.00|617.20|Unknown|
-|[40s](#40s)|70.00|454.78|Unknown|
-|[Accents](#accents)|52.00|337.83|Unknown|
-|[Modern Accents](#modern-accents)|52.00|337.83|Unknown|
-|[NorDeUK](#nordeuk)|60.00|389.81|Unknown|
-|[RAMA C](#rama-c)|56.00|363.82|Unknown|
-|[RAMA X](#rama-x)|56.00|363.82|Unknown|
+|[Base](#base)|120.00|779.62|1209|
+|[White Modes](#white-modes)|95.00|617.20|263|
+|[40s](#40s)|70.00|454.78|50|
+|[Accents](#accents)|52.00|337.83|208|
+|[Modern Accents](#modern-accents)|52.00|337.83|263|
+|[NorDeUK](#nordeuk)|60.00|389.81|105|
+|[RAMA C](#rama-c)|56.00|363.82|363|
+|[RAMA X](#rama-x)|56.00|363.82|926|
 
 <img src="{{ 'assets/images/gmk-keycaps/Colorchrome/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Colorchrome/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 120.00	**Price(CNY):** 779.62	**Quantity:** Unknown  
+**Price(USD):** 120.00	**Price(CNY):** 779.62	**Quantity:** 1209  
 <img src="{{ 'assets/images/gmk-keycaps/Colorchrome/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### White Modes  
-**Price(USD):** 95.00	**Price(CNY):** 617.20	**Quantity:** Unknown  
+**Price(USD):** 95.00	**Price(CNY):** 617.20	**Quantity:** 263  
 <img src="{{ 'assets/images/gmk-keycaps/Colorchrome/kits_pics/white-modes.jpg' | relative_url }}" alt="white-modes" class="image featured">
 
 ### 40s  
-**Price(USD):** 70.00	**Price(CNY):** 454.78	**Quantity:** Unknown  
+**Price(USD):** 70.00	**Price(CNY):** 454.78	**Quantity:** 50  
 <img src="{{ 'assets/images/gmk-keycaps/Colorchrome/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### Accents  
-**Price(USD):** 52.00	**Price(CNY):** 337.83	**Quantity:** Unknown  
+**Price(USD):** 52.00	**Price(CNY):** 337.83	**Quantity:** 208  
 <img src="{{ 'assets/images/gmk-keycaps/Colorchrome/kits_pics/accents.jpg' | relative_url }}" alt="accents" class="image featured">
 
 ### Modern Accents  
-**Price(USD):** 52.00	**Price(CNY):** 337.83	**Quantity:** Unknown  
+**Price(USD):** 52.00	**Price(CNY):** 337.83	**Quantity:** 263  
 <img src="{{ 'assets/images/gmk-keycaps/Colorchrome/kits_pics/modern-accents.jpg' | relative_url }}" alt="modern-accents" class="image featured">
 
 ### NorDeUK  
-**Price(USD):** 60.00	**Price(CNY):** 389.81	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 389.81	**Quantity:** 105  
 <img src="{{ 'assets/images/gmk-keycaps/Colorchrome/kits_pics/nordeuk.jpg' | relative_url }}" alt="nordeuk" class="image featured">
 
 ### RAMA C  
-**Price(USD):** 56.00	**Price(CNY):** 363.82	**Quantity:** Unknown  
+**Price(USD):** 56.00	**Price(CNY):** 363.82	**Quantity:** 363  
 <img src="{{ 'assets/images/gmk-keycaps/Colorchrome/kits_pics/rama-c.png' | relative_url }}" alt="rama-c" class="image featured">
 
 ### RAMA X  
-**Price(USD):** 56.00	**Price(CNY):** 363.82	**Quantity:** Unknown  
+**Price(USD):** 56.00	**Price(CNY):** 363.82	**Quantity:** 926  
 <img src="{{ 'assets/images/gmk-keycaps/Colorchrome/kits_pics/rama-x.png' | relative_url }}" alt="rama-x" class="image featured">
 
 ## Info
 * Designer: Full  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2021-03-05 ~ 2021-03-26  
+* Estimated Shipping Time: Q1 2022  
 * Color Codes:  
 
 | |Base Color     | Legend Color
