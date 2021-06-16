@@ -5,6 +5,7 @@
     "designer": "biip",
     "profile": "1-1-2-3-4-4",
     "time": "2021-05-03 ~ 2021-05-31",
+    "ets": "Q2 2022",
     "colorcodes":[
         "|Alpha|WS1|RAL 5002 Ultramarine blue",
         "|Modifiers|WS1|RO2",
@@ -14,16 +15,16 @@
     "color_pics":[
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=111819",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/G3n6p7GJ/GMKparcel-Orders210531fin-Yext.png",
     "order_graph_without": "",
     "price_list":[
-        { "name": "Envelop", "price": "120", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_envelope.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Stamps", "price": "55", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_stamps.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Red tape", "price": "30", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_tape-red.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "White tape", "price": "25", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_tape-white.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Envelop", "price": "120", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_envelope.jpg", "price_cny": "", "quantity": "1016", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Stamps", "price": "55", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_stamps.jpg", "price_cny": "", "quantity": "345", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Red tape", "price": "30", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_tape-red.jpg", "price_cny": "", "quantity": "228", "price_table_format": "", "price_kit_format": "" },
+        { "name": "White tape", "price": "25", "pic": "http://media.biipmk.com/gmk_parcel/GMK_Parcel-kit_tape-white.jpg", "price_cny": "", "quantity": "126", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

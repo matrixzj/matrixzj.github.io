@@ -5,6 +5,7 @@
     "designer": "ttom",
     "profile": "1-1-2-3-4-4",
     "time": "2021-05-01 ~ 2021-06-01",
+    "ets": "Q2 2022",
     "colorcodes":[
         "|WoB|CR|WC1",
         "|Beige Alpha|L9|CR",
@@ -16,11 +17,11 @@
     "link": "https://geekhack.org/index.php?topic=112583.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/pWqYgJzC/GMKcyrillic-Wo-Bbeige-Ord210601fin-Yext.png",
     "order_graph_without": "",
     "price_list":[
-        { "name": "Cyrillic WoB", "price": "119.99", "pic": "https://i.imgur.com/2wMgiTW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Cyrillic Beige", "price": "119.99", "pic": "https://i.imgur.com/7FRflFU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Cyrillic WoB", "price": "119.99", "pic": "https://i.imgur.com/2wMgiTW.png", "price_cny": "", "quantity": "540", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cyrillic Beige", "price": "119.99", "pic": "https://i.imgur.com/7FRflFU.png", "price_cny": "", "quantity": "519", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

@@ -5,6 +5,7 @@
     "designer": "Ram",
     "profile": "1-1-2-3-4-4",
     "time": "2021-04-30 ~ 2021-05-30",
+    "ets": "Q2-Q3 2022",
     "colorcodes":[
         "|Shell Alpha|RAL 260 30 05|WS2",
         "|Modifiers|RAL 260 20 05|RAL 190 70 20",
@@ -18,16 +19,16 @@
     "link": "https://geekhack.org/index.php?topic=112566.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/4fnfsXjc/GMKarch-Orders210530fin-Yext2.png",
+    "order_graph_without": "https://i.postimg.cc/4JYPd8Rg/GMKarch-Orders210530fin-Next.png",
     "price_list":[
-        { "name": "Shell", "price": "128", "pic": "https://i.imgur.com/vzdBWDE.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "TTY", "price": "80", "pic": "https://i.imgur.com/L7RAHqR.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Powerline", "price": "40", "pic": "https://i.imgur.com/ZFJ0Ljh.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "GCC", "price": "158", "pic": "https://i.imgur.com/027xfro.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Localization", "price": "67", "pic": "https://cdn.discordapp.com/attachments/809607215890956319/838634668291129365/Localization.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "GUI", "price": "45", "pic": "https://i.imgur.com/C0N6lej.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "AUR", "price": "65", "pic": "https://i.imgur.com/jso6ne2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Shell", "price": "128", "pic": "https://i.imgur.com/vzdBWDE.jpg", "price_cny": "", "quantity": "852", "price_table_format": "", "price_kit_format": "" },
+        { "name": "TTY", "price": "80", "pic": "https://i.imgur.com/L7RAHqR.jpg", "price_cny": "", "quantity": "112", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Powerline", "price": "40", "pic": "https://i.imgur.com/ZFJ0Ljh.jpg", "price_cny": "", "quantity": "190", "price_table_format": "", "price_kit_format": "" },
+        { "name": "GCC", "price": "158", "pic": "https://i.imgur.com/027xfro.jpg", "price_cny": "", "quantity": "118", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Localization", "price": "67", "pic": "https://cdn.discordapp.com/attachments/809607215890956319/838634668291129365/Localization.png", "price_cny": "", "quantity": "70", "price_table_format": "", "price_kit_format": "" },
+        { "name": "GUI", "price": "45", "pic": "https://i.imgur.com/C0N6lej.jpg", "price_cny": "", "quantity": "262", "price_table_format": "", "price_kit_format": "" },
+        { "name": "AUR", "price": "65", "pic": "https://i.imgur.com/jso6ne2.jpg", "price_cny": "", "quantity": "406", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://pro2-bar-s3-cdn-cf1.myportfolio.com/5830541b-0e4c-4baa-b2b7-2e34fdd57440/2cfa39e3-7bd7-423a-b788-36370e8a9460_rw_1920.png",
     "render_pics":[

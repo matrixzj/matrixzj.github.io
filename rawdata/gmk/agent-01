@@ -5,6 +5,7 @@
     "designer": "SxM Designs",
     "profile": "1-1-2-3-4-4",
     "time": "2021-04-09 ~ 2021-05-09",
+    "ets": "Q2 2022",
     "colorcodes":[
         "|Alphas|GMK 2M|RAL 280 30 10",
         "|Modifiers|RAL 280 30 10|GMK 2M",
@@ -17,15 +18,15 @@
     "link": "https://geekhack.org/index.php?topic=112214",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/rMm1V8JD/GMKagent01orders210509fin-Yext.png",
     "order_graph_without": "",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.ibb.co/hDzXQ23/Base-Kit-new.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hiragana Alphas", "price": "65", "pic": "https://i.ibb.co/nkJ8JLQ/Accent-Kit-new.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "63", "pic": "https://i.ibb.co/5shP8yD/Novelties-Final.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "33", "pic": "https://i.ibb.co/YdVwr5M/Space-new.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Fingerprint", "price": "44", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/RW-GMK-AT01_R.2_1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Garrote", "price": "58", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/RW-GMK-AT01_R.3_1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "135", "pic": "https://i.ibb.co/hDzXQ23/Base-Kit-new.jpg", "price_cny": "", "quantity": "1015", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragana Alphas", "price": "65", "pic": "https://i.ibb.co/nkJ8JLQ/Accent-Kit-new.jpg", "price_cny": "", "quantity": "193", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "63", "pic": "https://i.ibb.co/5shP8yD/Novelties-Final.jpg", "price_cny": "", "quantity": "585", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "33", "pic": "https://i.ibb.co/YdVwr5M/Space-new.jpg", "price_cny": "", "quantity": "296", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Fingerprint", "price": "44", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/RW-GMK-AT01_R.2_1.png", "price_cny": "", "quantity": "345", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Garrote", "price": "58", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/RW-GMK-AT01_R.3_1.png", "price_cny": "", "quantity": "182", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.ibb.co/tbBsmZm/Price-List.png",
     "render_pics":[

@@ -21,63 +21,65 @@ NOTE: USD to CNY exchange rate is 6.52
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Alphas Nile](#alphas-nile)|54.99|358.58|Unknown|
-|[Alphas Sand](#alphas-sand)|54.99|358.58|Unknown|
-|[Modifiers Nile](#modifiers-nile)|84.99|554.21|Unknown|
-|[Modifiers Sand](#modifiers-sand)|84.99|554.21|Unknown|
-|[Novelties](#novelties)|59.99|391.19|Unknown|
-|[Numpad](#numpad)|44.99|293.38|Unknown|
-|[Bars](#bars)|39.99|260.77|Unknown|
-|[ISO](#iso)|29.99|195.56|Unknown|
-|[40S Extension](#40s-extension)|49.99|325.98|Unknown|
-|[Ortho](#ortho)|44.99|293.38|Unknown|
+|[Alphas Nile](#alphas-nile)|54.99|358.58|498|
+|[Alphas Sand](#alphas-sand)|54.99|358.58|365|
+|[Modifiers Nile](#modifiers-nile)|84.99|554.21|311|
+|[Modifiers Sand](#modifiers-sand)|84.99|554.21|503|
+|[Novelties](#novelties)|59.99|391.19|469|
+|[Numpad](#numpad)|44.99|293.38|163|
+|[Bars](#bars)|39.99|260.77|96|
+|[ISO](#iso)|29.99|195.56|33|
+|[40S Extension](#40s-extension)|49.99|325.98|36|
+|[Ortho](#ortho)|44.99|293.38|41|
 
+<img src="{{ 'assets/images/sa-keycaps/Ramses/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Alphas Nile  
-**Price(USD):** 54.99	**Price(CNY):** 358.58	**Quantity:** Unknown  
+**Price(USD):** 54.99	**Price(CNY):** 358.58	**Quantity:** 498  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/alphas-nile.png' | relative_url }}" alt="alphas-nile" class="image featured">
 
 ### Alphas Sand  
-**Price(USD):** 54.99	**Price(CNY):** 358.58	**Quantity:** Unknown  
+**Price(USD):** 54.99	**Price(CNY):** 358.58	**Quantity:** 365  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/alphas-sand.png' | relative_url }}" alt="alphas-sand" class="image featured">
 
 ### Modifiers Nile  
-**Price(USD):** 84.99	**Price(CNY):** 554.21	**Quantity:** Unknown  
+**Price(USD):** 84.99	**Price(CNY):** 554.21	**Quantity:** 311  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/modifiers-nile.png' | relative_url }}" alt="modifiers-nile" class="image featured">
 
 ### Modifiers Sand  
-**Price(USD):** 84.99	**Price(CNY):** 554.21	**Quantity:** Unknown  
+**Price(USD):** 84.99	**Price(CNY):** 554.21	**Quantity:** 503  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/modifiers-sand.png' | relative_url }}" alt="modifiers-sand" class="image featured">
 
 ### Novelties  
-**Price(USD):** 59.99	**Price(CNY):** 391.19	**Quantity:** Unknown  
+**Price(USD):** 59.99	**Price(CNY):** 391.19	**Quantity:** 469  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Numpad  
-**Price(USD):** 44.99	**Price(CNY):** 293.38	**Quantity:** Unknown  
+**Price(USD):** 44.99	**Price(CNY):** 293.38	**Quantity:** 163  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ### Bars  
-**Price(USD):** 39.99	**Price(CNY):** 260.77	**Quantity:** Unknown  
+**Price(USD):** 39.99	**Price(CNY):** 260.77	**Quantity:** 96  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/bars.png' | relative_url }}" alt="bars" class="image featured">
 
 ### ISO  
-**Price(USD):** 29.99	**Price(CNY):** 195.56	**Quantity:** Unknown  
+**Price(USD):** 29.99	**Price(CNY):** 195.56	**Quantity:** 33  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/iso.png' | relative_url }}" alt="iso" class="image featured">
 
 ### 40S Extension  
-**Price(USD):** 49.99	**Price(CNY):** 325.98	**Quantity:** Unknown  
+**Price(USD):** 49.99	**Price(CNY):** 325.98	**Quantity:** 36  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/40s-extension.png' | relative_url }}" alt="40s-extension" class="image featured">
 
 ### Ortho  
-**Price(USD):** 44.99	**Price(CNY):** 293.38	**Quantity:** Unknown  
+**Price(USD):** 44.99	**Price(CNY):** 293.38	**Quantity:** 41  
 <img src="{{ 'assets/images/sa-keycaps/Ramses/kits_pics/ortho.png' | relative_url }}" alt="ortho" class="image featured">
 
 ## Info
 * Designer: atlanticise  
 * Profile: SA 1-1-2-3-4-3  
 * GB Time: 2021-04-16 ~ 2021-05-14  
+* Estimated Shipping Time: Q2/Q3 2022  
 * Color Codes:  
 
 <table style="width:100%">

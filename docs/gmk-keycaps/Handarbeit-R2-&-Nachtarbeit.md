@@ -21,39 +21,41 @@ NOTE: USD to CNY exchange rate is 6.43
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Handarbeit](#handarbeit)|120.00|771.90|Unknown|
-|[Nachtarbeit](#nachtarbeit)|135.00|868.39|Unknown|
-|[Handarbeit International](#handarbeit-international)|72.00|463.14|Unknown|
-|[Salvun Handarbeit Schwarz](#salvun-handarbeit-schwarz)|50.00|321.63|Unknown|
-|[Salvun Handarbeit Bunt](#salvun-handarbeit-bunt)|50.00|321.63|Unknown|
+|[Handarbeit](#handarbeit)|120.00|771.90|2181|
+|[Nachtarbeit](#nachtarbeit)|135.00|868.39|524|
+|[Handarbeit International](#handarbeit-international)|72.00|463.14|122|
+|[Salvun Handarbeit Schwarz](#salvun-handarbeit-schwarz)|50.00|321.63|288|
+|[Salvun Handarbeit Bunt](#salvun-handarbeit-bunt)|50.00|321.63|100|
 
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeit-R2-&-Nachtarbeit/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Handarbeit-R2-&-Nachtarbeit/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Handarbeit  
-**Price(USD):** 120.00	**Price(CNY):** 771.90	**Quantity:** Unknown  
+**Price(USD):** 120.00	**Price(CNY):** 771.90	**Quantity:** 2181  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeit-R2-&-Nachtarbeit/kits_pics/handarbeit.png' | relative_url }}" alt="handarbeit" class="image featured">
 
 ### Nachtarbeit  
-**Price(USD):** 135.00	**Price(CNY):** 868.39	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 868.39	**Quantity:** 524  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeit-R2-&-Nachtarbeit/kits_pics/nachtarbeit.png' | relative_url }}" alt="nachtarbeit" class="image featured">
 
 ### Handarbeit International  
-**Price(USD):** 72.00	**Price(CNY):** 463.14	**Quantity:** Unknown  
+**Price(USD):** 72.00	**Price(CNY):** 463.14	**Quantity:** 122  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeit-R2-&-Nachtarbeit/kits_pics/handarbeit-international.png' | relative_url }}" alt="handarbeit-international" class="image featured">
 
 ### Salvun Handarbeit Schwarz  
-**Price(USD):** 50.00	**Price(CNY):** 321.63	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 321.63	**Quantity:** 288  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeit-R2-&-Nachtarbeit/kits_pics/salvun-handarbeit-schwarz.png' | relative_url }}" alt="salvun-handarbeit-schwarz" class="image featured">
 
 ### Salvun Handarbeit Bunt  
-**Price(USD):** 50.00	**Price(CNY):** 321.63	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 321.63	**Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeit-R2-&-Nachtarbeit/kits_pics/salvun-handarbeit-bunt.png' | relative_url }}" alt="salvun-handarbeit-bunt" class="image featured">
 
 ## Info
 * Designer: cocobrais  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2021-05-07 ~ 2021-06-03  
+* Estimated Shipping Time: May 31st, 2022  
 * Color Codes:  
 
 | |Base Color     | Legend Color

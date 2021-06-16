@@ -5,6 +5,7 @@
     "designer": "cocobrais",
     "profile": "1-1-2-3-4-4",
     "time": "2021-05-07 ~ 2021-06-03",
+    "ets": "May 31st, 2022",
     "colorcodes":[
         "|Handarbeit Base 1|WS1|P3",
         "|Handarbeit Base 2|WS1|V4",
@@ -33,14 +34,14 @@
     "link": "https://geekhack.org/index.php?topic=112557",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/X4YJQrSc/GMKhandarbeit-R2orders210603fin-Yext.png",
     "order_graph_without": "",
     "price_list":[
-        { "name": "Handarbeit", "price": "120", "pic": "https://i.imgur.com/dPCIg1i.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Nachtarbeit", "price": "135", "pic": "https://i.imgur.com/K4CMtEx.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Handarbeit International", "price": "72", "pic": "https://i.imgur.com/AnC5Isg.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun Handarbeit Schwarz", "price": "50", "pic": "https://i.imgur.com/1RHq0xR.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun Handarbeit Bunt", "price": "50", "pic": "https://i.imgur.com/DEP2pK2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Handarbeit", "price": "120", "pic": "https://i.imgur.com/dPCIg1i.png", "price_cny": "", "quantity": "2181", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Nachtarbeit", "price": "135", "pic": "https://i.imgur.com/K4CMtEx.png", "price_cny": "", "quantity": "524", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Handarbeit International", "price": "72", "pic": "https://i.imgur.com/AnC5Isg.png", "price_cny": "", "quantity": "122", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Handarbeit Schwarz", "price": "50", "pic": "https://i.imgur.com/1RHq0xR.png", "price_cny": "", "quantity": "288", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Handarbeit Bunt", "price": "50", "pic": "https://i.imgur.com/DEP2pK2.png", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/rFhjMzI.png",
     "render_pics":[
