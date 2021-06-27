@@ -1,0 +1,34 @@
+{
+    "name": "Lychee",
+    "cname": "荔枝",
+    "keycapstype": "GMK",
+    "designer": "NovaRMK",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-06-18 ~ 2021-07-17",
+    "ets": "Q3 2022",
+    "colorcodes":[
+        "|Alpha|WS1|RAL 3018",
+        "|Modifiers|RAL 3018|WS1",
+        "|Accents|RAL 3004|WS1"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/zudR8JK.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113412.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/5wfqh2k.png",
+    "price_list":[
+        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/7mOIB7V.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alternate Alphas", "price": "73", "pic": "https://i.imgur.com/BD04xYq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://i.imgur.com/5fFZABm.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "pic": "https://i.imgur.com/CtCP092.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Artisan", "price": "60", "pic": "https://cdn.discordapp.com/attachments/798321957178572802/853802047530205204/lychee1.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/XdDEarA.png"
+    ]
+}

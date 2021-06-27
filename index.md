@@ -28,6 +28,7 @@ Happy Chinese New Year!
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Reload Novelties](docs/sa-keycaps/Reload-Novelties/)
 * [Copper 铜](docs/sa-keycaps/Copper/)
 * [Spectra](docs/sa-keycaps/Spectra/)
 * [Girl Hood 粉蜜](docs/sa-keycaps/Girl-Hood/)
@@ -168,6 +169,8 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Lychee 荔枝](docs/gmk-keycaps/Lychee/)
+* [Twilight](docs/gmk-keycaps/Twilight/)
 * [Symbiote](docs/gmk-keycaps/Symbiote/)
 * [Lime R2 青柠R2](docs/gmk-keycaps/Lime-R2/)
 * [Boho](docs/gmk-keycaps/Boho/)
