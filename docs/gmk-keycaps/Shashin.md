@@ -58,7 +58,7 @@ NOTE: USD to CNY exchange rate is 6.47
 * Designer: S3LQ  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2021-07-01 ~ 2021-08-01  
-* Estimated Shipping Time:   
+* Estimated Shipping Time: Q3 2022  
 * Color Codes:  
 
 | |Base Color     | Legend Color

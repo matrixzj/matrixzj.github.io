@@ -1,0 +1,39 @@
+{
+    "name": "Oblivion R3.1",
+    "cname": "码农 R3.1",
+    "keycapstype": "GMK",
+    "designer": "Oblotzky",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-02 ~ 2021-08-04",
+    "ets": "Q2 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+        "https://enjoykeycap.github.io/assets/images/gmk-keycaps/oblivionr2/color.jpeg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113224.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Regular Base", "price": "120", "pic": "https://i.imgur.com/BDP2m4M.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Git Base", "price": "120", "pic": "https://i.imgur.com/siJorZk.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monochrome Base", "price": "120", "pic": "https://i.imgur.com/oAyA1Qw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40bit Base", "price": "120", "pic": "https://i.imgur.com/i6pV5Sr.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "35", "pic": "https://i.imgur.com/H1jb5IP.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ASCII", "price": "42", "pic": "https://i.imgur.com/NoFBdMi.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macros", "price": "30", "pic": "https://i.imgur.com/Mo8JgPD.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "VIM", "price": "26", "pic": "https://i.imgur.com/BmtRmRd.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/jLBsogq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Colevrak", "price": "68", "pic": "https://i.imgur.com/aSXEHva.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "77", "pic": "https://i.imgur.com/ubMuACQ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Git", "price": "56", "pic": "https://i.imgur.com/q0yr76A.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Git Sprinkled", "price": "56", "pic": "https://i.imgur.com/tPl4TS3.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://enjoykeycap.github.io/assets/images/gmk-keycaps/oblivionr2/rendering_pics/1.png"
+    ]
+}

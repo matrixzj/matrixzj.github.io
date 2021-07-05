@@ -169,6 +169,8 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Oblivion R3.1 码农 R3.1](docs/gmk-keycaps/Oblivion-R3.1/)
+* [Aegyptus](docs/gmk-keycaps/Aegyptus/)
 * [Shashin](docs/gmk-keycaps/Shashin/)
 * [Foundation](docs/gmk-keycaps/Foundation/)
 * [Monochrome R2 黑白R2](docs/gmk-keycaps/Monochrome-R2/)

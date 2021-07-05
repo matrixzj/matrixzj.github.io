@@ -1,0 +1,31 @@
+{
+    "name": "Aegyptus",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "savageastr0naut",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-02 ~ 2021-08-02",
+    "ets": "Q2 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113633.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/zDALKTb.png",
+    "price_list":[
+        { "name": "Base", "price": "140", "pic": "https://i.imgur.com/OGHfriC.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "53", "pic": "https://i.imgur.com/Fk4gaCz.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "32", "pic": "https://i.imgur.com/PIJphqt.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Esc", "price": "56", "pic": "https://i.imgur.com/CeeYJ9h.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Enter", "price": "68", "pic": "https://i.imgur.com/PvExKBB.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Tray", "price": "55", "pic": "https://i.imgur.com/F6WGukD.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/BQDMYss.png"
+    ]
+}
