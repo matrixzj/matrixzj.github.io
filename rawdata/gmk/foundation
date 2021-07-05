@@ -1,0 +1,40 @@
+{
+    "name": "Foundation",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "HungHingDaiLo",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-01 ~ 2021-08-01",
+    "ets": "Q3 2022",
+    "colorcodes":[
+        "|Alpha|CP|BJ|",
+        "|Modifiers|BJ|CP|",
+        "|Accents|BV|CP|",
+        "|Novelties 1|3A|CP|",
+        "|Novelties 2|P3|CP|",
+        "|Novelties 3|V2|CP|",
+        "|Novelties 4|3C|CP|",
+        "|Novelties 5|TU1|CP|"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/2XDKNxE.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113538.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/ubSPqyv.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Relegendables", "price": "27.99", "pic": "https://i.imgur.com/c1PS8iY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "61.99", "pic": "https://i.imgur.com/03fCazn.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NordeUK", "price": "69.99", "pic": "https://i.imgur.com/JVxoIZ1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "43", "pic": "https://i.imgur.com/SUGzsVO.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Metal", "price": "50", "pic": "https://i.imgur.com/2d0mBtG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/FkJ57Po.png"
+    ]
+}

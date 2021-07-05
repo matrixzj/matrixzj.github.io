@@ -169,6 +169,10 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Shashin](docs/gmk-keycaps/Shashin/)
+* [Foundation](docs/gmk-keycaps/Foundation/)
+* [Monochrome R2 黑白R2](docs/gmk-keycaps/Monochrome-R2/)
+* [Poker](docs/gmk-keycaps/Poker/)
 * [Lychee 荔枝](docs/gmk-keycaps/Lychee/)
 * [Twilight](docs/gmk-keycaps/Twilight/)
 * [Symbiote](docs/gmk-keycaps/Symbiote/)

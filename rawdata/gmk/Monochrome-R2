@@ -1,0 +1,37 @@
+{
+    "name": "Monochrome R2",
+    "cname": "黑白R2",
+    "keycapstype": "GMK",
+    "designer": "Full",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-06-30 ~ 2021-08-05",
+    "ets": "Q2 2022",
+    "colorcodes":[
+        "|Alpha|WS2|CR|",
+        "|Modifiers|CR|WS2|",
+        "|Accents|RO2|WS2|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113119",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/dXFqWS5.png",
+    "price_list":[
+        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/XufsIHD.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Chrome", "price": "89", "pic": "https://i.imgur.com/EAalyKE.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Comrad", "price": "93", "pic": "https://i.imgur.com/BJx8ha3.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "39", "pic": "https://i.imgur.com/ptRFSmD.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Commando", "price": "38", "pic": "https://i.imgur.com/SWJHmVZ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NordeUK", "price": "63", "pic": "https://i.imgur.com/PhA8kmt.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Wave", "price": "40", "pic": "https://i.imgur.com/jzTFRHg.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA O", "price": "56", "pic": "https://i.imgur.com/JTAo6uy.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA M6-c", "price": "125", "pic": "https://i.imgur.com/PMtrvT2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/14Gzblu.jpg"
+    ]
+}
