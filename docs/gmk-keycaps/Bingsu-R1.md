@@ -1,14 +1,14 @@
 ---
-title: Bingsu 红豆刨冰
+title: Bingsu R1 红豆刨冰R1
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 310720
 ---
 
-# Bingsu 红豆刨冰
+# Bingsu R1 红豆刨冰R1
 
-ref link: [Bingsu GH GB Link](https://geekhack.org/index.php?topic=102936.0)  
+ref link: [Bingsu R1 GH GB Link](https://geekhack.org/index.php?topic=102936.0)  
 
 * [Price](#price)  
 * [Kits](#kits)  

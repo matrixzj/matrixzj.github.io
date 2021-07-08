@@ -1,0 +1,40 @@
+{
+    "name": "Bingsu R2",
+    "cname": "红豆刨冰R2",
+    "keycapstype": "GMK",
+    "designer": "Rise",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-07 ~ 2021-08-08",
+    "ets": "Q3 2022",
+    "colorcodes":[
+        "|Alpha|RAL 360 30 10|CP",
+        "|Mod|RAL 360 50 20|CP",
+        "|Accents|CP|RAL 360 50 20"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/PCu3CrJ.jpg",
+        "https://i.imgur.com/ubU4DlQ.jpg",
+        "https://i.imgur.com/verJoZM.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113322.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/S8VCFa4.jpg",
+    "price_list":[
+        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/WZZIgh2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mod", "price": "79", "pic": "https://i.imgur.com/S0INAKm.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Aesthetic", "price": "45", "pic": "https://i.imgur.com/54YYQmd.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hangul", "price": "45", "pic": "https://i.imgur.com/enkRWD9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://i.imgur.com/uu7ioWx.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Row 5", "price": "55", "pic": "https://i.imgur.com/uWBZIbc.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "32", "pic": "https://i.imgur.com/5PapEqs.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Fourties", "price": "45", "pic": "https://i.imgur.com/9NHSaSC.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "60", "pic": "https://i.imgur.com/h0SuR7M.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/dVpHxZl.jpg"
+    ]
+}

@@ -169,6 +169,9 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Bingsu R2 红豆刨冰R2](docs/gmk-keycaps/Bingsu-R2/)
+* [Shadow](docs/gmk-keycaps/Shadow/)
+* [Stargaze](docs/gmk-keycaps/Stargaze/)
 * [Oblivion R3.1 码农 R3.1](docs/gmk-keycaps/Oblivion-R3.1/)
 * [Aegyptus](docs/gmk-keycaps/Aegyptus/)
 * [Shashin](docs/gmk-keycaps/Shashin/)
@@ -375,7 +378,7 @@ Happy Chinese New Year!
 * [Delta](docs/gmk-keycaps/Delta/)
 * [DMG R2](docs/gmk-keycaps/DMG-R2/)
 * [Alter](docs/gmk-keycaps/Alter/)
-* [Bingsu 红豆刨冰](docs/gmk-keycaps/Bingsu/)
+* [Bingsu R1 红豆刨冰R1](docs/gmk-keycaps/Bingsu-R1/)
 * [Greek Beige Add-on 米色希腊文增补](docs/gmk-keycaps/Greek-Beige-Add-on/)
 * [Coral 珊瑚](docs/gmk-keycaps/Coral/)
 * [Honeywell & Co.](docs/gmk-keycaps/Honeywell-Co/)
