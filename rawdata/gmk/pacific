@@ -1,0 +1,29 @@
+{
+    "name": "Pacific",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "yoniwolf1202",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-06 ~ 2021-08-02",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113661.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/qCOrOW6.png",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/d3QHmVt.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "40", "pic": "https://i.imgur.com/lBx36VA.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "23", "pic": "https://i.imgur.com/HrvfXRW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun", "price": "56", "pic": "https://i.imgur.com/Ieqv8tg.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/1n7IS0t.png"
+    ]
+}

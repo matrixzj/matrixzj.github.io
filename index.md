@@ -171,9 +171,11 @@ Happy Chinese New Year!
 ### 2021
 * [Bingsu R2 红豆刨冰R2](docs/gmk-keycaps/Bingsu-R2/)
 * [Shadow](docs/gmk-keycaps/Shadow/)
+* [Pacific](docs/gmk-keycaps/Pacific/)
 * [Stargaze](docs/gmk-keycaps/Stargaze/)
 * [Oblivion R3.1 码农 R3.1](docs/gmk-keycaps/Oblivion-R3.1/)
 * [Aegyptus](docs/gmk-keycaps/Aegyptus/)
+* [Trader](docs/gmk-keycaps/Trader/)
 * [Shashin](docs/gmk-keycaps/Shashin/)
 * [Foundation](docs/gmk-keycaps/Foundation/)
 * [Monochrome R2 黑白R2](docs/gmk-keycaps/Monochrome-R2/)
