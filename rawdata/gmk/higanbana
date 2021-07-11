@@ -1,0 +1,35 @@
+{
+    "name": "Higanbana",
+    "cname": "彼岸花",
+    "keycapstype": "GMK",
+    "designer": "shenshendei",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-09 ~ 2021-08-10",
+    "ets": "",
+    "colorcodes":[
+        "|Alpha|RAL 9004|RAL 3003|",
+        "|Modifiers|RAL 3003|RAL 9004|",
+        "|Modifiers Accents|RAL 3003|RAL 1021|"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/uNvypLB.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113690",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/CQaoJF2.png",
+    "price_list":[
+        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/cik5iYH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "59", "pic": "https://i.imgur.com/dkwqAOV.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "49", "pic": "https://i.imgur.com/BEo8rob.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "29", "pic": "https://i.imgur.com/8yHPXWZ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Mods", "price": "99", "pic": "https://i.imgur.com/GogecQI.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "79", "pic": "https://i.imgur.com/koR3ndx.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/UMSYimt.png"
+    ]
+}

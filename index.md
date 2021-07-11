@@ -169,6 +169,8 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Higanbana 彼岸花](docs/gmk-keycaps/Higanbana/)
+* [Art](docs/gmk-keycaps/Art/)
 * [Bingsu R2 红豆刨冰R2](docs/gmk-keycaps/Bingsu-R2/)
 * [Shadow](docs/gmk-keycaps/Shadow/)
 * [Pacific](docs/gmk-keycaps/Pacific/)

@@ -1,0 +1,34 @@
+{
+    "name": "Art",
+    "cname": "艺术",
+    "keycapstype": "GMK",
+    "designer": "Afresh",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-09 ~ 2021-08-09",
+    "ets": "Q3 2022",
+    "colorcodes":[
+        "|Alpha|RAL 9001|",
+        "|Accents Red|Pantone Rubine Red|",
+        "|Accents Blue|Pantone 7453|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113664.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/041Kfud.jpg",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/uBBayFl.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "36", "pic": "https://i.imgur.com/jQ2JxrX.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Street Art Novelties", "price": "36", "pic": "https://i.imgur.com/0tFwKI7.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/jH445EZ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent", "price": "32", "pic": "https://i.imgur.com/mLtZlUx.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK", "price": "58", "pic": "https://i.imgur.com/p63sY63.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/MFZ9MVZ.png"
+    ]
+}
