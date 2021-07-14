@@ -17,14 +17,15 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=106874.0",
     "currencyunit": "USD",
-    "history_graph": "https://i.postimg.cc/XYmq9qgG/GMKnord-Progress200708b.png",
-    "order_graph": "https://i.postimg.cc/Vkd5SnXP/GMKnord-Status200708b.png",
+    "history_graph": "https://i.postimg.cc/Pf5V0rn9/GMKnord-History210710fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/NB4XnfPQ/GMKnord-Status200710fin-Yext1.png",
+    "order_graph_without": "https://i.postimg.cc/Hpmfkz9w/GMKnord-Status200710fin-Next1.png"
     "price_list":[
-        { "name": "Base", "price": "125", "price_cny": "", "quantity": "1040", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebar", "price": "20", "price_cny": "", "quantity": "165", "price_table_format": "","price_kit_format": "" },
-        { "name": "Novelty", "price": "50", "price_cny": "", "quantity": "435", "price_table_format": "","price_kit_format": "" },
-        { "name": "NorDE", "price": "55", "price_cny": "", "quantity": "214", "price_table_format": "","price_kit_format": "" },
-        { "name": "Assembly", "price": "150", "price_cny": "", "quantity": "112", "price_table_format": "","price_kit_format": "" },
-        { "name": "Numpad", "price": "35", "price_cny": "", "quantity": "182", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "125", "price_cny": "", "quantity": "1452", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebar", "price": "20", "price_cny": "", "quantity": "250", "price_table_format": "","price_kit_format": "" },
+        { "name": "Novelty", "price": "50", "price_cny": "", "quantity": "618", "price_table_format": "","price_kit_format": "" },
+        { "name": "NorDE", "price": "55", "price_cny": "", "quantity": "167", "price_table_format": "","price_kit_format": "" },
+        { "name": "Assembly", "price": "150", "price_cny": "", "quantity": "173", "price_table_format": "","price_kit_format": "" },
+        { "name": "Numpad", "price": "35", "price_cny": "", "quantity": "256", "price_table_format": "","price_kit_format": "" }
     ]
 }

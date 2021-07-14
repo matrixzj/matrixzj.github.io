@@ -21,28 +21,30 @@ NOTE: USD to CNY exchange rate is 6.44
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|869.23|Unknown|
-|[Novelties](#novelties)|54.99|354.09|Unknown|
-|[Nom](#nom)|29.99|193.11|Unknown|
+|[Base](#base)|134.99|869.23|1066|
+|[Novelties](#novelties)|54.99|354.09|617|
+|[Nom](#nom)|29.99|193.11|260|
 
+<img src="{{ 'assets/images/gmk-keycaps/Patisserie/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 134.99	**Price(CNY):** 869.23	**Quantity:** Unknown  
+**Price(USD):** 134.99	**Price(CNY):** 869.23	**Quantity:** 1066  
 <img src="{{ 'assets/images/gmk-keycaps/Patisserie/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 54.99	**Price(CNY):** 354.09	**Quantity:** Unknown  
+**Price(USD):** 54.99	**Price(CNY):** 354.09	**Quantity:** 617  
 <img src="{{ 'assets/images/gmk-keycaps/Patisserie/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Nom  
-**Price(USD):** 29.99	**Price(CNY):** 193.11	**Quantity:** Unknown  
+**Price(USD):** 29.99	**Price(CNY):** 193.11	**Quantity:** 260  
 <img src="{{ 'assets/images/gmk-keycaps/Patisserie/kits_pics/nom.png' | relative_url }}" alt="nom" class="image featured">
 
 ## Info
 * Designer: Agilr  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2021-05-17 ~ 2021-06-13  
+* Estimated Shipping Time: Q2 2022  
 * Color Codes:  
 
 | |Base Color     | Legend Color

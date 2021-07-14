@@ -5,7 +5,7 @@
     "designer": "Emir",
     "profile": "1-1-2-3-4-4",
     "time": "2021-06-01 ~ 2021-06-30",
-    "ets": "",
+    "ets": "May 2022",
     "colorcodes":[
     ],
     "color_pics":[
@@ -14,18 +14,18 @@
     "link": "https://geekhack.org/index.php?topic=113126.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/bz44LTcW/GMKsixes-Orders210701fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "https://i.imgur.com/TnOx0eQ.png",
     "price_list":[
-        { "name": "Base", "price": "110", "pic": "https://i.imgur.com/MKbcsD8.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "42", "pic": "https://i.imgur.com/gEeVpEl.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "ISO", "price": "27", "pic": "https://i.imgur.com/T2xitnP.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "43", "pic": "https://i.imgur.com/wZOj72p.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Accents", "price": "45", "pic": "https://i.imgur.com/HF2gVAC.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "19", "pic": "https://i.imgur.com/bRPmvtS.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Ergo", "price": "49", "pic": "https://i.imgur.com/2L5UzWF.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Nines 40s", "price": "53", "pic": "https://i.imgur.com/N1reed5.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "110", "pic": "https://i.imgur.com/MKbcsD8.jpg", "price_cny": "", "quantity": "500", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "42", "pic": "https://i.imgur.com/gEeVpEl.jpg", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ISO", "price": "27", "pic": "https://i.imgur.com/T2xitnP.jpg", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "43", "pic": "https://i.imgur.com/wZOj72p.jpg", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accents", "price": "45", "pic": "https://i.imgur.com/HF2gVAC.jpg", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "19", "pic": "https://i.imgur.com/bRPmvtS.jpg", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ergo", "price": "49", "pic": "https://i.imgur.com/2L5UzWF.png", "price_cny": "", "quantity": "250", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Nines 40s", "price": "53", "pic": "https://i.imgur.com/N1reed5.jpg", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/E2suzpK.jpg"
