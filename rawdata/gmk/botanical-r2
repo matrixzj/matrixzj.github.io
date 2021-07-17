@@ -1,0 +1,34 @@
+{
+    "name": "Botanical R2",
+    "cname": "植物园R2",
+    "keycapstype": "GMK",
+    "designer": "Hazzy",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-12 ~ 2021-08-13",
+    "ets": "Q3 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Standard Base", "price": "124.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/01_Standard_V3_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Desert Base", "price": "124.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/02_Desert_V3_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "29.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/03_Novelty_V2_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Addition", "price": "39.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/04_Addition_V2_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Aesthetic", "price": "24.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/05_Aesthetic_V2_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Command", "price": "26.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/06_Command_V2_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro", "price": "24.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/07_Macro_V2_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Obscure", "price": "43.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/08_Obscure_V3_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "64.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/09_International_V2_800x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_Botanical_2_OMNI_Bauer_X_001V2_dist_800x.jpg"
+    ]
+}
