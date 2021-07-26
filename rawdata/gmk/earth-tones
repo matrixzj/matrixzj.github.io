@@ -1,0 +1,32 @@
+{
+    "name": "Earth Tones",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "zionsped",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-19 ~ 2021-08-19",
+    "ets": "Q3 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113859.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/PG9Qr5J.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Oxidane", "price": "60", "pic": "https://i.imgur.com/NPqNzLu.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Baybayin", "price": "50", "pic": "https://i.imgur.com/NikX0Cv.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "33", "pic": "https://i.imgur.com/PS7nznE.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "47", "pic": "https://i.imgur.com/fAJq4ko.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Eh", "price": "56", "pic": "https://i.imgur.com/zZXdHoL.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Enter", "price": "68", "pic": "https://i.imgur.com/UxjwKCI.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/aC3ucsp.jpg"
+    ]
+}

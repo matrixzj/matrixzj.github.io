@@ -1,0 +1,32 @@
+{
+    "name": "Jags",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "illusixn",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-24 ~ 2021-08-24",
+    "ets": "Q3 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113937.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/tupUNLK.png",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/2ETwM3f.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hangul", "price": "85.99", "pic": "https://i.imgur.com/IZxnl1l.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "22.99", "pic": "https://i.imgur.com/kaM1sVe.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "45.99", "pic": "https://i.imgur.com/4zL9zRm.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "R5", "price": "38.99", "pic": "https://i.imgur.com/xyZUaC6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA X", "price": "38", "pic": "https://i.imgur.com/tQhIHRN.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA O", "price": "38", "pic": "https://i.imgur.com/ThRHhME.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://live.staticflickr.com/65535/51330002202_96f1d79d26_o.png"
+    ]
+}

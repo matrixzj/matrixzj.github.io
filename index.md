@@ -169,6 +169,10 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Hanok](docs/gmk-keycaps/Hanok/)
+* [Jags](docs/gmk-keycaps/Jags/)
+* [Earth Tones](docs/gmk-keycaps/Earth-Tones/)
+* [Moomin](docs/gmk-keycaps/Moomin/)
 * [Botanical R2 植物园R2](docs/gmk-keycaps/Botanical-R2/)
 * [Higanbana 彼岸花](docs/gmk-keycaps/Higanbana/)
 * [Art](docs/gmk-keycaps/Art/)

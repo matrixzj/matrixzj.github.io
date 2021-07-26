@@ -1,0 +1,34 @@
+{
+    "name": "Hanok",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "JKKEEBS",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-26 ~ 2021-08-23",
+    "ets": "Q3 2022",
+    "colorcodes":[
+        "|Alpha|L9|N9",
+        "|Modifiers|RAL 8028|L9",
+        "|Accents|N9|L9"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=110801.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/qSXQQOd.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Gray Mods", "price": "82", "pic": "https://i.imgur.com/0ZZLZvT.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "44", "pic": "https://i.imgur.com/F0y9QJd.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "32", "pic": "https://i.imgur.com/nJHJOHY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "CasperKeys Novelty", "price": "60", "pic": "https://i.imgur.com/7dhDZoj.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Novelty", "price": "54", "pic": "https://i.imgur.com/712ChFX.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/QHXpW3F.jpg"
+    ]
+}
