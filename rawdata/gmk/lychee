@@ -18,15 +18,15 @@
     "link": "https://geekhack.org/index.php?topic=113412.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/19PRVDgp/GMKlychee-Orders210717fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/R4Fd6D4Y/GMKlychee-Orders210717fin-Next.png",
     "price_pic": "https://i.imgur.com/5wfqh2k.png",
     "price_list":[
-        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/7mOIB7V.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alternate Alphas", "price": "73", "pic": "https://i.imgur.com/BD04xYq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "45", "pic": "https://i.imgur.com/5fFZABm.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "35", "pic": "https://i.imgur.com/CtCP092.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Artisan", "price": "60", "pic": "https://cdn.discordapp.com/attachments/798321957178572802/853802047530205204/lychee1.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/7mOIB7V.png", "price_cny": "", "quantity": "251", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alternate Alphas", "price": "73", "pic": "https://i.imgur.com/BD04xYq.png", "price_cny": "", "quantity": "63", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://i.imgur.com/5fFZABm.png", "price_cny": "", "quantity": "130", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "pic": "https://i.imgur.com/CtCP092.png", "price_cny": "", "quantity": "65", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Artisan", "price": "60", "pic": "https://cdn.discordapp.com/attachments/798321957178572802/853802047530205204/lychee1.jpg", "price_cny": "", "quantity": "53", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/XdDEarA.png"

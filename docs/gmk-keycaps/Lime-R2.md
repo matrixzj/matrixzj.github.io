@@ -21,22 +21,23 @@ NOTE: USD to CNY exchange rate is 6.40
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|768.06|Unknown|
-|[Novelties](#novelties)|45.00|288.02|Unknown|
-|[Spacebars](#spacebars)|25.00|160.01|Unknown|
+|[Base](#base)|120.00|768.06|143|
+|[Novelties](#novelties)|45.00|288.02|70|
+|[Spacebars](#spacebars)|25.00|160.01|79|
 
+<img src="{{ 'assets/images/gmk-keycaps/Lime-R2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 120.00	**Price(CNY):** 768.06	**Quantity:** Unknown  
+**Price(USD):** 120.00	**Price(CNY):** 768.06	**Quantity:** 143  
 <img src="{{ 'assets/images/gmk-keycaps/Lime-R2/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 45.00	**Price(CNY):** 288.02	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 288.02	**Quantity:** 70  
 <img src="{{ 'assets/images/gmk-keycaps/Lime-R2/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 25.00	**Price(CNY):** 160.01	**Quantity:** Unknown  
+**Price(USD):** 25.00	**Price(CNY):** 160.01	**Quantity:** 79  
 <img src="{{ 'assets/images/gmk-keycaps/Lime-R2/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ## Info

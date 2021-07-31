@@ -12,24 +12,24 @@
         "https://i.imgur.com/a3nSacM.png"
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=109363",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/YrRvXn51/GMKlavender-History210630b.png",
+    "order_graph": "https://i.postimg.cc/pRTFSvXy/GMKlavender-Orders210630fin-Yext2.png",
     "order_graph_without": "",
     "price_pic": "https://i.imgur.com/3SECPPR.jpg",
     "price_list":[
-        { "name": "Lavender Base", "price": "110", "pic": "https://i.imgur.com/4DUVr9T.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Rabenda Base", "price": "110", "pic": "https://i.imgur.com/sHTgV4Y.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Bouquet Novelties", "price": "40", "pic": "https://i.imgur.com/Nf0SXfu.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Trimmings 40s", "price": "40", "pic": "https://i.imgur.com/mPDmedb.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Roots International", "price": "60", "pic": "https://i.imgur.com/YKQ0Vg7.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Petals Numpad", "price": "40", "pic": "https://i.imgur.com/vAzprm7.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Sprigs Spacebars", "price": "25", "pic": "https://i.imgur.com/gAjfGjH.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Enter", "price": "50", "pic": "https://i.imgur.com/Jm0jidh.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA 01 SEQ2 Round Tray", "price": "55", "pic": "https://i.imgur.com/uHq0vdO.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA 02 SEQ2 Round Tray", "price": "55", "pic": "https://i.imgur.com/g2YJvHH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun Artisan", "price": "53", "pic": "https://i.imgur.com/mZTkBPR.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Lavender Base", "price": "110", "pic": "https://i.imgur.com/4DUVr9T.png", "price_cny": "", "quantity": "2692", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Rabenda Base", "price": "110", "pic": "https://i.imgur.com/sHTgV4Y.png", "price_cny": "", "quantity": "1151", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Bouquet Novelties", "price": "40", "pic": "https://i.imgur.com/Nf0SXfu.png", "price_cny": "", "quantity": "1507", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Trimmings 40s", "price": "40", "pic": "https://i.imgur.com/mPDmedb.png", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Roots International", "price": "60", "pic": "https://i.imgur.com/YKQ0Vg7.png", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Petals Numpad", "price": "40", "pic": "https://i.imgur.com/vAzprm7.png", "price_cny": "", "quantity": "260", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Sprigs Spacebars", "price": "25", "pic": "https://i.imgur.com/gAjfGjH.png", "price_cny": "", "quantity": "1005", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Enter", "price": "50", "pic": "https://i.imgur.com/Jm0jidh.jpg", "price_cny": "", "quantity": "580", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA 01 SEQ2 Round Tray", "price": "55", "pic": "https://i.imgur.com/uHq0vdO.jpg", "price_cny": "", "quantity": "449", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA 02 SEQ2 Round Tray", "price": "55", "pic": "https://i.imgur.com/g2YJvHH.jpg", "price_cny": "", "quantity": "449", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Artisan", "price": "53", "pic": "https://i.imgur.com/mZTkBPR.jpg", "price_cny": "", "quantity": "494", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/B02BSO1.jpg"

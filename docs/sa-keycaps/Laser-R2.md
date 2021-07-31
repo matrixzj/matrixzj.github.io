@@ -154,6 +154,7 @@ NOTE: USD to CNY exchange rate is 6.47
 * Designer: Mito  
 * Profile: SA 1-1-2-3-4-3  
 * GB Time: 2021-02-01 ~ 2021-03-02  
+* Estimated Shipping Time: Apr 11, 2022  
 * Color Codes:  
 
 

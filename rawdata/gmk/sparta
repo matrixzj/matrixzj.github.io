@@ -5,6 +5,7 @@
     "designer": "crusader_alex",
     "profile": "1-1-2-3-4-4",
     "time": "2021-05-03 ~ 2021-06-05",
+    "ets": "Mar 23, 2022",
     "colorcodes":[
         "|Alpha|RAL 9001|RAL 1011",
         "|Modifiers|RAL 3011|RAL 1011",
@@ -17,14 +18,14 @@
     "link": "https://geekhack.org/index.php?topic=112621.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/663f8gPK/GMKsparta-Orders210604final2.png",
     "order_graph_without": "",
     "price_list":[
-        { "name": "Base", "price": "120", "pic": "https://i.postimg.cc/59n7pc1T/1-base-kit-3.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Mono Greek", "price": "22", "pic": "https://i.postimg.cc/nVdbFznW/3-greek-add-on-mono.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Dual Greek", "price": "22", "pic": "https://i.postimg.cc/pXpNpHTL/2-greek-add-on-dual.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "45", "pic": "https://i.postimg.cc/Pqn03vMC/4-novelties.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "22", "pic": "https://i.postimg.cc/7hq2m95K/5-space-bars-1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "120", "pic": "https://i.postimg.cc/59n7pc1T/1-base-kit-3.png", "price_cny": "", "quantity": "469", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mono Greek", "price": "22", "pic": "https://i.postimg.cc/nVdbFznW/3-greek-add-on-mono.png", "price_cny": "", "quantity": "62", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dual Greek", "price": "22", "pic": "https://i.postimg.cc/pXpNpHTL/2-greek-add-on-dual.png", "price_cny": "", "quantity": "165", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://i.postimg.cc/Pqn03vMC/4-novelties.png", "price_cny": "", "quantity": "341", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "22", "pic": "https://i.postimg.cc/7hq2m95K/5-space-bars-1.png", "price_cny": "", "quantity": "189", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

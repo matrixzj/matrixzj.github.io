@@ -21,38 +21,40 @@ NOTE: USD to CNY exchange rate is 6.47
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|776.86|Unknown|
-|[Mono Greek](#mono-greek)|22.00|142.42|Unknown|
-|[Dual Greek](#dual-greek)|22.00|142.42|Unknown|
-|[Novelties](#novelties)|45.00|291.32|Unknown|
-|[Spacebars](#spacebars)|22.00|142.42|Unknown|
+|[Base](#base)|120.00|776.86|469|
+|[Mono Greek](#mono-greek)|22.00|142.42|62|
+|[Dual Greek](#dual-greek)|22.00|142.42|165|
+|[Novelties](#novelties)|45.00|291.32|341|
+|[Spacebars](#spacebars)|22.00|142.42|189|
 
+<img src="{{ 'assets/images/gmk-keycaps/Sparta/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 120.00	**Price(CNY):** 776.86	**Quantity:** Unknown  
+**Price(USD):** 120.00	**Price(CNY):** 776.86	**Quantity:** 469  
 <img src="{{ 'assets/images/gmk-keycaps/Sparta/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Mono Greek  
-**Price(USD):** 22.00	**Price(CNY):** 142.42	**Quantity:** Unknown  
+**Price(USD):** 22.00	**Price(CNY):** 142.42	**Quantity:** 62  
 <img src="{{ 'assets/images/gmk-keycaps/Sparta/kits_pics/mono-greek.png' | relative_url }}" alt="mono-greek" class="image featured">
 
 ### Dual Greek  
-**Price(USD):** 22.00	**Price(CNY):** 142.42	**Quantity:** Unknown  
+**Price(USD):** 22.00	**Price(CNY):** 142.42	**Quantity:** 165  
 <img src="{{ 'assets/images/gmk-keycaps/Sparta/kits_pics/dual-greek.png' | relative_url }}" alt="dual-greek" class="image featured">
 
 ### Novelties  
-**Price(USD):** 45.00	**Price(CNY):** 291.32	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 291.32	**Quantity:** 341  
 <img src="{{ 'assets/images/gmk-keycaps/Sparta/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 22.00	**Price(CNY):** 142.42	**Quantity:** Unknown  
+**Price(USD):** 22.00	**Price(CNY):** 142.42	**Quantity:** 189  
 <img src="{{ 'assets/images/gmk-keycaps/Sparta/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ## Info
 * Designer: crusader_alex  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2021-05-03 ~ 2021-06-05  
+* Estimated Shipping Time: Mar 23, 2022  
 * Color Codes:  
 
 | |Base Color     | Legend Color

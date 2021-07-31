@@ -5,13 +5,14 @@
     "designer":"Oblotzky",
     "profile":"1-1-2-3-4-3",
     "time":"2020-08-03 ~ 2020-08-31",
+    "ets": "March, 2021",
     "colorcodes":[
     ],
     "platform":"GH",
     "link":"https://geekhack.org/index.php?topic=107884.0",
     "currencyunit":"USD",
     "history_graph":"https://i.postimg.cc/JrhvHDC1/SAoblivion-V2progress200830fin.png",
-    "order_graph":"https://i.postimg.cc/VYg2N9TG/SAoblivion-V2status200830fin.png",
+    "order_graph":"https://i.postimg.cc/y1zL8sjW/SAoblivion-V2status200830fin3.png",
     "price_list":[
         { "name": "Oblivion Alphas", "price":"45", "price_cny":"", "quantity":"872", "price_table_format":"","price_kit_format":"" },
         { "name": "Hagoromo Alphas", "price":"45", "price_cny":"", "quantity":"1061", "price_table_format":"","price_kit_format":"" },
