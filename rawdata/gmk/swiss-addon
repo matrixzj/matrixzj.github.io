@@ -1,0 +1,30 @@
+{
+    "name": "Swiss Addon",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Bregoli",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-08-01 ~ 2021-08-31",
+    "ets": "End of Q4, 2022",
+    "colorcodes":[
+        "|Black on White|CR|WS1|",
+        "|White on Black|WS1|CR|"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/KGRgVbb.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114029.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Black on White", "price": "80", "pic": "https://i.imgur.com/uNp500L.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "White on Black", "price": "80", "pic": "https://i.imgur.com/SJgnQxI.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/jsM7LBR.jpg"
+    ]
+}

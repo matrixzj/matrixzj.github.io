@@ -1,0 +1,32 @@
+{
+    "name": "Houhai",
+    "cname": "后海",
+    "keycapstype": "GMK",
+    "designer": "grundlemere",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-08-01 ~ 2021-09-01",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113986.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Capital Swallows Base", "price": "139.99", "pic": "https://i.imgur.com/e2Emcm2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Culture Street Base", "price": "139.99", "pic": "https://i.imgur.com/kRTGu3P.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Little Snacks Novelties", "price": "94.99", "pic": "https://i.imgur.com/sQhVXKn.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cangjie Monolegend Alphas", "price": "64.99", "pic": "https://i.imgur.com/RvnY4UO.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Taikonaut Spacebars", "price": "36.99", "pic": "https://i.imgur.com/SXEOy0l.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Duck", "price": "38", "pic": "https://i.imgur.com/tV6gPUZ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA ChuanR Run", "price": "38", "pic": "https://i.imgur.com/5UBJD5Q.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/e9qDaPj.jpeg"
+    ]
+}

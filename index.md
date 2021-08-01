@@ -169,6 +169,14 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Retrowave](docs/gmk-keycaps/Retrowave/)
+* [Houhai 后海](docs/gmk-keycaps/Houhai/)
+* [Diner](docs/gmk-keycaps/Diner/)
+* [a](docs/gmk-keycaps/a/)
+* [Swiss Addon](docs/gmk-keycaps/Swiss-Addon/)
+* [Harvest 丰收](docs/gmk-keycaps/Harvest/)
+* [Daifuku](docs/gmk-keycaps/Daifuku/)
+* [Retrotrip](docs/gmk-keycaps/Retrotrip/)
 * [Hanok](docs/gmk-keycaps/Hanok/)
 * [Jags](docs/gmk-keycaps/Jags/)
 * [Earth Tones](docs/gmk-keycaps/Earth-Tones/)

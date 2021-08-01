@@ -1,0 +1,33 @@
+{
+    "name": "Daifuku",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "vndytran",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-07-30 ~ 2021-09-03",
+    "ets": "Q3 2022",
+    "colorcodes":[
+        "|Alpha|RAL 020 90 10|Pantone 2342U",
+        "|Modifiers|Pantone 2342U|RAL 020 90 10",
+        "|Accents|RAL 020 70 30|RAL 020 90 10"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/5sFmRw3.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114008.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/Rsidrsf.jpg",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/HXI4kF3.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alphas", "price": "60", "pic": "https://i.imgur.com/LMCpawf.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "37.5", "pic": "https://i.imgur.com/pqOTRep.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "40", "pic": "https://i.imgur.com/0p5vAzv.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/0064/2560/8282/products/F.003_1024x1024@2x.png"
+    ]
+}

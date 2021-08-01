@@ -1,0 +1,33 @@
+{
+    "name": "Retrowave",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "SwitchKeys",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-08-01 ~ 2021-09-01",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113905.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/TuRq0vw.png",
+    "price_list":[
+        { "name": "Base", "price": "130", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Katakana Alphas", "price": "59", "pic": "https://i.imgur.com/dfYMGKl.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/rrlOQNd.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Small", "price": "39", "pic": "https://i.imgur.com/6ye2N24.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/3NqPhHd.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Sun Purple", "price": "40", "pic": "https://i.imgur.com/vgZmKVx.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Sun Pin", "price": "40", "pic": "https://i.imgur.com/AP4vqe6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Shoe", "price": "60", "pic": "https://i.imgur.com/bPmYsfe.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/huzP09n.jpg"
+    ]
+}

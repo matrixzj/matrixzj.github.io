@@ -1,0 +1,35 @@
+{
+    "name": "Diner",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "mvkb",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-08-01 ~ 2021-09-01",
+    "ets": "",
+    "colorcodes":[
+        "|Alpha|RAL 5000|RAL 1023",
+        "|Num Row|RAL 5007|RAL 1023",
+        "|Modifiers|RAL 3028|RAL 1023",
+        "|Accents|RAL 1023|RAL 3028"
+    ],
+    "color_pics":[
+        "https://geekhack.org/index.php?action=dlattach;topic=114034.0;attach=273259;image"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114034.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "130", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114034.0;attach=273281;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Modifier Novelties", "price": "51", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114034.0;attach=273283;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro Novelties", "price": "49", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114034.0;attach=273285;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDe", "price": "51", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114034.0;attach=273287;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114034.0;attach=273289;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/0399/1879/6958/products/21-tmo_615e4c54-2e27-4d0d-8d8d-e05a1d1d696a_540x.png"
+    ]
+}
