@@ -169,6 +169,7 @@ Happy Chinese New Year!
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Purple Night](docs/gmk-keycaps/Purple-Night/)
 * [Retrowave](docs/gmk-keycaps/Retrowave/)
 * [Houhai 后海](docs/gmk-keycaps/Houhai/)
 * [Diner](docs/gmk-keycaps/Diner/)

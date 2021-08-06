@@ -1,0 +1,36 @@
+{
+    "name": "Truffelschwein",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "jmsp0511",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-08-06 ~ 2021-09-03",
+    "ets": "",
+    "colorcodes":[
+        "|Alpha|RAL 5004|Pantone 2337C|",
+        "|Modifiers|Pantone 2337C|RAL 5004",
+        "|Accents|WS1|Pantone 2337C"
+    ],
+    "color_pics":[
+        "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273394;image"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "127", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273373;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alternate Mods", "price": "85", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273375;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "38", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273377;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "53", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273379;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "53", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273381;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "53", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273383;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "53", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273385;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273399;image"
+    ]
+}

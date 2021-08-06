@@ -1,0 +1,28 @@
+{
+    "name": "Purple Night",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Zambumon",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-08-03 ~ 2021-09-03",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "115", "pic": "https://cdn.shopify.com/s/files/1/0351/4577/7289/products/ZAMBUMON-GMK_PURPLE_NIGHT-KIT_01-CORE_1024x1024.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro Expansion", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/0351/4577/7289/products/ZAMBUMON-GMK_PURPLE_NIGHT-KIT_02-MACRO_EXPANSION_1024x1024.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/0351/4577/7289/products/ZAMBUMON-GMK_PURPLE_NIGHT-KIT_03-SALVUN_FINGER_HEART_1024x1024.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/0351/4577/7289/products/ZAMBUMON-GMK_PURPLE_NIGHT-PRODUCT_PAGE_GALLERY_06_1024x1024.jpg"
+    ]
+}
