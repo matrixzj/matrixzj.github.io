@@ -5,6 +5,7 @@
     "designer": "break",
     "profile": "1-1-2-3-4-5",
     "time": "2021-03-05 ~ 2021-04-09",
+    "ets": "Q1 2022",
     "colorcodes":[
     ],
     "color_pics":[
@@ -13,14 +14,14 @@
     "link": "https://geekhack.org/index.php?topic=111535.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/syC55gC8/GMKred-Alert-Status210409fin-Next.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/Bw5cJoC.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "0G Number", "price": "34.99", "pic": "https://i.imgur.com/QOwqmxH.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Classic Compute", "price": "71.99", "pic": "https://i.imgur.com/7NyVLSu.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Crimson Cyrillic", "price": "77.99", "pic": "https://i.imgur.com/mb177Hq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Brass", "price": "59.99", "pic": "https://i.imgur.com/mZVjeLG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA White-on-Red", "price": "37.99", "pic": "https://i.imgur.com/LMvjWSO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/Bw5cJoC.png", "price_cny": "", "quantity": "444", "price_table_format": "", "price_kit_format": "" },
+        { "name": "0G Number", "price": "34.99", "pic": "https://i.imgur.com/QOwqmxH.png", "price_cny": "", "quantity": "302", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Classic Compute", "price": "71.99", "pic": "https://i.imgur.com/7NyVLSu.png", "price_cny": "", "quantity": "174", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Crimson Cyrillic", "price": "77.99", "pic": "https://i.imgur.com/mb177Hq.png", "price_cny": "", "quantity": "121", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Brass", "price": "59.99", "pic": "https://i.imgur.com/mZVjeLG.png", "price_cny": "", "quantity": "362", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA White-on-Red", "price": "37.99", "pic": "https://i.imgur.com/LMvjWSO.png", "price_cny": "", "quantity": "297", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

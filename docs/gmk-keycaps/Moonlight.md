@@ -21,30 +21,31 @@ NOTE: USD to CNY exchange rate is 6.43
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|868.62|Unknown|
-|[Alt Alphas](#alt-alphas)|75.00|482.57|Unknown|
-|[Novelties](#novelties)|48.00|308.84|Unknown|
-|[Spacebars](#spacebars)|30.00|193.03|Unknown|
+|[Base](#base)|135.00|868.62|1048|
+|[Alt Alphas](#alt-alphas)|75.00|482.57|150|
+|[Novelties](#novelties)|48.00|308.84|552|
+|[Spacebars](#spacebars)|30.00|193.03|256|
 |[RAMA Fox](#rama-fox)|56.00|360.32|Unknown|
 |[RAMA Campfire](#rama-campfire)|56.00|360.32|Unknown|
 
 <img src="{{ 'assets/images/gmk-keycaps/Moonlight/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Moonlight/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 135.00	**Price(CNY):** 868.62	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 868.62	**Quantity:** 1048  
 <img src="{{ 'assets/images/gmk-keycaps/Moonlight/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Alt Alphas  
-**Price(USD):** 75.00	**Price(CNY):** 482.57	**Quantity:** Unknown  
+**Price(USD):** 75.00	**Price(CNY):** 482.57	**Quantity:** 150  
 <img src="{{ 'assets/images/gmk-keycaps/Moonlight/kits_pics/alt-alphas.jpg' | relative_url }}" alt="alt-alphas" class="image featured">
 
 ### Novelties  
-**Price(USD):** 48.00	**Price(CNY):** 308.84	**Quantity:** Unknown  
+**Price(USD):** 48.00	**Price(CNY):** 308.84	**Quantity:** 552  
 <img src="{{ 'assets/images/gmk-keycaps/Moonlight/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 30.00	**Price(CNY):** 193.03	**Quantity:** Unknown  
+**Price(USD):** 30.00	**Price(CNY):** 193.03	**Quantity:** 256  
 <img src="{{ 'assets/images/gmk-keycaps/Moonlight/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### RAMA Fox  
@@ -59,6 +60,7 @@ NOTE: USD to CNY exchange rate is 6.43
 * Designer: mkljfox44  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2021-05-21 ~ 2021-06-26  
+* Estimated Shipping Time: Q2 2022  
 * Color Codes:  
 
 

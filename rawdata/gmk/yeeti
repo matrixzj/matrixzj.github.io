@@ -5,6 +5,7 @@
     "designer": "Fannie_w",
     "profile": "1-1-2-3-4-4",
     "time": "2021-03-02 ~ 2021-04-02",
+    "ets": "",
     "colorcodes":[
     ],
     "color_pics":[
@@ -14,14 +15,14 @@
     "link": "https://geekhack.org/index.php?topic=111509.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/7wtf1w58/GMKyeeti-Status210402fin-Yext.png",
     "price_list":[
-        { "name": "Base", "price": "139.99", "pic": "https://i.ibb.co/87KwmqW/finalbaseyeeti-sign.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Icon", "price": "29.99", "pic": "https://i.ibb.co/0qTdXdw/icon-sign.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "49.99", "pic": "https://i.ibb.co/VpxnYXj/novelities-sign.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebar", "price": "29.99", "pic": "https://i.ibb.co/WcHpNQF/sapcebar-sign.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "34.99", "pic": "https://i.ibb.co/wC9C4Vz/40-sign.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "46", "pic": "https://i.ibb.co/7NTRP3R/yeetirama.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "139.99", "pic": "https://i.ibb.co/87KwmqW/finalbaseyeeti-sign.jpg", "price_cny": "", "quantity": "2554", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icon", "price": "29.99", "pic": "https://i.ibb.co/0qTdXdw/icon-sign.jpg", "price_cny": "", "quantity": "182", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://i.ibb.co/VpxnYXj/novelities-sign.jpg", "price_cny": "", "quantity": "1563", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "29.99", "pic": "https://i.ibb.co/WcHpNQF/sapcebar-sign.jpg", "price_cny": "", "quantity": "283", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "34.99", "pic": "https://i.ibb.co/wC9C4Vz/40-sign.jpg", "price_cny": "", "quantity": "102", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "46", "pic": "https://i.ibb.co/7NTRP3R/yeetirama.jpg", "price_cny": "", "quantity": "482", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",
     "render_pics":[

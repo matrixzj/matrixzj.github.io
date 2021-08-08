@@ -14,16 +14,16 @@
     "link": "https://geekhack.org/index.php?topic=113641.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/LmdjH462/GMKstargaze-Orders210804fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "https://i.imgur.com/HndgMdP.jpg",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/KEummmF.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "55", "pic": "https://i.imgur.com/IF0KCVY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "35", "pic": "https://i.imgur.com/DnNeZoT.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alt Alphas", "price": "75", "pic": "https://i.imgur.com/EDkIhFU.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "60", "pic": "https://i.imgur.com/3rUAyvV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "THOK", "price": "60", "pic": "https://i.imgur.com/RAnrGyW.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/KEummmF.png", "price_cny": "", "quantity": "3630", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "55", "pic": "https://i.imgur.com/IF0KCVY.png", "price_cny": "", "quantity": "3001", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "pic": "https://i.imgur.com/DnNeZoT.jpg", "price_cny": "", "quantity": "1225", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Alphas", "price": "75", "pic": "https://i.imgur.com/EDkIhFU.jpg", "price_cny": "", "quantity": "500", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "60", "pic": "https://i.imgur.com/3rUAyvV.png", "price_cny": "", "quantity": "632", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK", "price": "60", "pic": "https://i.imgur.com/RAnrGyW.jpg", "price_cny": "", "quantity": "1351", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/lSjsq8f.png"
