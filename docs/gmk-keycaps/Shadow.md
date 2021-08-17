@@ -21,28 +21,29 @@ NOTE: USD to CNY exchange rate is 6.48
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Marshalgrade](#marshalgrade)|144.99|939.45|Unknown|
-|[Commander Grade](#commander-grade)|154.99|1004.24|Unknown|
-|[Elite Knight Grade](#elite-knight-grade)|59.99|388.70|Unknown|
-|[Knight Grade](#knight-grade)|29.99|194.32|Unknown|
+|[Marshalgrade](#marshalgrade)|144.99|939.45|252|
+|[Commander Grade](#commander-grade)|154.99|1004.24|276|
+|[Elite Knight Grade](#elite-knight-grade)|59.99|388.70|289|
+|[Knight Grade](#knight-grade)|29.99|194.32|116|
 
 <img src="{{ 'assets/images/gmk-keycaps/Shadow/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Shadow/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Marshalgrade  
-**Price(USD):** 144.99	**Price(CNY):** 939.45	**Quantity:** Unknown  
+**Price(USD):** 144.99	**Price(CNY):** 939.45	**Quantity:** 252  
 <img src="{{ 'assets/images/gmk-keycaps/Shadow/kits_pics/marshalgrade.jpg' | relative_url }}" alt="marshalgrade" class="image featured">
 
 ### Commander Grade  
-**Price(USD):** 154.99	**Price(CNY):** 1004.24	**Quantity:** Unknown  
+**Price(USD):** 154.99	**Price(CNY):** 1004.24	**Quantity:** 276  
 <img src="{{ 'assets/images/gmk-keycaps/Shadow/kits_pics/commander-grade.jpg' | relative_url }}" alt="commander-grade" class="image featured">
 
 ### Elite Knight Grade  
-**Price(USD):** 59.99	**Price(CNY):** 388.70	**Quantity:** Unknown  
+**Price(USD):** 59.99	**Price(CNY):** 388.70	**Quantity:** 289  
 <img src="{{ 'assets/images/gmk-keycaps/Shadow/kits_pics/elite-knight-grade.png' | relative_url }}" alt="elite-knight-grade" class="image featured">
 
 ### Knight Grade  
-**Price(USD):** 29.99	**Price(CNY):** 194.32	**Quantity:** Unknown  
+**Price(USD):** 29.99	**Price(CNY):** 194.32	**Quantity:** 116  
 <img src="{{ 'assets/images/gmk-keycaps/Shadow/kits_pics/knight-grade.png' | relative_url }}" alt="knight-grade" class="image featured">
 
 ## Info

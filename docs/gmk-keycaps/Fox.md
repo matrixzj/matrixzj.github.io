@@ -21,39 +21,41 @@ NOTE: USD to CNY exchange rate is 6.57
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|139.99|919.09|Unknown|
-|[Novelties](#novelties)|59.99|393.86|Unknown|
-|[Alt-Mod](#alt-mod)|104.99|689.30|Unknown|
-|[Space Bars](#space-bars)|34.99|229.72|Unknown|
-|[Salvun](#salvun)|59.99|393.86|Unknown|
+|[Base](#base)|139.99|919.09|430|
+|[Novelties](#novelties)|59.99|393.86|272|
+|[Alt-Mod](#alt-mod)|104.99|689.30|30|
+|[Space Bars](#space-bars)|34.99|229.72|128|
+|[Salvun](#salvun)|59.99|393.86|111|
 
 <img src="{{ 'assets/images/gmk-keycaps/Fox/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Fox/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 139.99	**Price(CNY):** 919.09	**Quantity:** Unknown  
+**Price(USD):** 139.99	**Price(CNY):** 919.09	**Quantity:** 430  
 <img src="{{ 'assets/images/gmk-keycaps/Fox/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 59.99	**Price(CNY):** 393.86	**Quantity:** Unknown  
+**Price(USD):** 59.99	**Price(CNY):** 393.86	**Quantity:** 272  
 <img src="{{ 'assets/images/gmk-keycaps/Fox/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Alt-Mod  
-**Price(USD):** 104.99	**Price(CNY):** 689.30	**Quantity:** Unknown  
+**Price(USD):** 104.99	**Price(CNY):** 689.30	**Quantity:** 30  
 <img src="{{ 'assets/images/gmk-keycaps/Fox/kits_pics/alt-mod.jpg' | relative_url }}" alt="alt-mod" class="image featured">
 
 ### Space Bars  
-**Price(USD):** 34.99	**Price(CNY):** 229.72	**Quantity:** Unknown  
+**Price(USD):** 34.99	**Price(CNY):** 229.72	**Quantity:** 128  
 <img src="{{ 'assets/images/gmk-keycaps/Fox/kits_pics/space-bars.jpg' | relative_url }}" alt="space-bars" class="image featured">
 
 ### Salvun  
-**Price(USD):** 59.99	**Price(CNY):** 393.86	**Quantity:** Unknown  
+**Price(USD):** 59.99	**Price(CNY):** 393.86	**Quantity:** 111  
 <img src="{{ 'assets/images/gmk-keycaps/Fox/kits_pics/salvun.jpg' | relative_url }}" alt="salvun" class="image featured">
 
 ## Info
 * Designer: boneandbee  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2021-04-01 ~ 2021-04-30  
+* Estimated Shipping Time: Q1 2022  
 * Color Codes:  
 
 | |Base Color     | Legend Color

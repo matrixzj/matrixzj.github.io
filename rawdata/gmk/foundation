@@ -23,15 +23,15 @@
     "link": "https://geekhack.org/index.php?topic=113538.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/y79mLcw5/GMKfoundation-Orders210801fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/ubSPqyv.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Relegendables", "price": "27.99", "pic": "https://i.imgur.com/c1PS8iY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "61.99", "pic": "https://i.imgur.com/03fCazn.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "NordeUK", "price": "69.99", "pic": "https://i.imgur.com/JVxoIZ1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "43", "pic": "https://i.imgur.com/SUGzsVO.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/ubSPqyv.png", "price_cny": "", "quantity": "680", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Relegendables", "price": "27.99", "pic": "https://i.imgur.com/c1PS8iY.png", "price_cny": "", "quantity": "353", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "61.99", "pic": "https://i.imgur.com/03fCazn.png", "price_cny": "", "quantity": "594", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NordeUK", "price": "69.99", "pic": "https://i.imgur.com/JVxoIZ1.png", "price_cny": "", "quantity": "61", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA", "price": "43", "pic": "https://i.imgur.com/SUGzsVO.jpg", "price_cny": "", "quantity": "208", "price_table_format": "", "price_kit_format": "" },
         { "name": "Monokei Metal", "price": "50", "pic": "https://i.imgur.com/2d0mBtG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[

@@ -21,40 +21,41 @@ NOTE: USD to CNY exchange rate is 6.47
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|873.26|Unknown|
-|[Relegendables](#relegendables)|27.99|181.07|Unknown|
-|[Novelties](#novelties)|61.99|401.02|Unknown|
-|[NordeUK](#nordeuk)|69.99|452.77|Unknown|
-|[RAMA](#rama)|43.00|278.17|Unknown|
+|[Base](#base)|134.99|873.26|680|
+|[Relegendables](#relegendables)|27.99|181.07|353|
+|[Novelties](#novelties)|61.99|401.02|594|
+|[NordeUK](#nordeuk)|69.99|452.77|61|
+|[RAMA](#rama)|43.00|278.17|208|
 |[Monokei Metal](#monokei-metal)|50.00(SGD)|239.50|Unknown|
 |[Monokei Metal All](#monokei-metal)|240.00(SGD)|1149.60|Unknown|
 
+<img src="{{ 'assets/images/gmk-keycaps/Foundation/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 134.99	**Price(CNY):** 873.26	**Quantity:** Unknown  
+**Price(USD):** 134.99	**Price(CNY):** 873.26	**Quantity:** 680  
 <img src="{{ 'assets/images/gmk-keycaps/Foundation/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Relegendables  
-**Price(USD):** 27.99	**Price(CNY):** 181.07	**Quantity:** Unknown  
+**Price(USD):** 27.99	**Price(CNY):** 181.07	**Quantity:** 353  
 <img src="{{ 'assets/images/gmk-keycaps/Foundation/kits_pics/relegendables.png' | relative_url }}" alt="relegendables" class="image featured">
 
 ### Novelties  
-**Price(USD):** 61.99	**Price(CNY):** 401.02	**Quantity:** Unknown  
+**Price(USD):** 61.99	**Price(CNY):** 401.02	**Quantity:** 594  
 <img src="{{ 'assets/images/gmk-keycaps/Foundation/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### NordeUK  
-**Price(USD):** 69.99	**Price(CNY):** 452.77	**Quantity:** Unknown  
+**Price(USD):** 69.99	**Price(CNY):** 452.77	**Quantity:** 61  
 <img src="{{ 'assets/images/gmk-keycaps/Foundation/kits_pics/nordeuk.png' | relative_url }}" alt="nordeuk" class="image featured">
 
 ### RAMA  
-**Price(USD):** 43.00	**Price(CNY):** 278.17	**Quantity:** Unknown  
+**Price(USD):** 43.00	**Price(CNY):** 278.17	**Quantity:** 208  
 <img src="{{ 'assets/images/gmk-keycaps/Foundation/kits_pics/rama.jpg' | relative_url }}" alt="rama" class="image featured">
 
 ### Monokei Metal  
-**Price(SGD):** 50.00	**Price(CNY):** 239.50	**Quantity:** Unknown  
-### Monokei Metal All 
-**Price(SGD):** 240.00	**Price(CNY):** 1149.60	**Quantity:** Unknown  
+**Price(SGD):** 50.00   **Price(CNY):** 239.50  **Quantity:** Unknown
+### Monokei Metal All
+**Price(SGD):** 240.00  **Price(CNY):** 1149.60 **Quantity:** Unknown
 <img src="{{ 'assets/images/gmk-keycaps/Foundation/kits_pics/monokei-metal.png' | relative_url }}" alt="monokei-metal" class="image featured">
 
 ## Info

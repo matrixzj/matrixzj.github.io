@@ -21,37 +21,38 @@ NOTE: USD to CNY exchange rate is 6.47
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Hiragana Base](#hiragana-base)|135.00|873.33|Unknown|
-|[Latin Base](#latin-base)|135.00|873.33|Unknown|
-|[Novelty](#novelty)|45.00|291.11|Unknown|
-|[Spacebar](#spacebar)|25.00|161.73|Unknown|
-|[Salvun Miraresu](#salvun-miraresu)|60.00|388.15|Unknown|
-|[Salvun Senko](#salvun-senko)|60.00|388.15|Unknown|
+|[Hiragana Base](#hiragana-base)|135.00|873.33|1112|
+|[Latin Base](#latin-base)|135.00|873.33|1060|
+|[Novelty](#novelty)|45.00|291.11|1063|
+|[Spacebar](#spacebar)|25.00|161.73|505|
+|[Salvun Miraresu](#salvun-miraresu)|60.00|388.15|144|
+|[Salvun Senko](#salvun-senko)|60.00|388.15|97|
 
+<img src="{{ 'assets/images/gmk-keycaps/Shashin/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Hiragana Base  
-**Price(USD):** 135.00	**Price(CNY):** 873.33	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 873.33	**Quantity:** 1112  
 <img src="{{ 'assets/images/gmk-keycaps/Shashin/kits_pics/hiragana-base.jpg' | relative_url }}" alt="hiragana-base" class="image featured">
 
 ### Latin Base  
-**Price(USD):** 135.00	**Price(CNY):** 873.33	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 873.33	**Quantity:** 1060  
 <img src="{{ 'assets/images/gmk-keycaps/Shashin/kits_pics/latin-base.jpg' | relative_url }}" alt="latin-base" class="image featured">
 
 ### Novelty  
-**Price(USD):** 45.00	**Price(CNY):** 291.11	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 291.11	**Quantity:** 1063  
 <img src="{{ 'assets/images/gmk-keycaps/Shashin/kits_pics/novelty.png' | relative_url }}" alt="novelty" class="image featured">
 
 ### Spacebar  
-**Price(USD):** 25.00	**Price(CNY):** 161.73	**Quantity:** Unknown  
+**Price(USD):** 25.00	**Price(CNY):** 161.73	**Quantity:** 505  
 <img src="{{ 'assets/images/gmk-keycaps/Shashin/kits_pics/spacebar.png' | relative_url }}" alt="spacebar" class="image featured">
 
 ### Salvun Miraresu  
-**Price(USD):** 60.00	**Price(CNY):** 388.15	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 388.15	**Quantity:** 144  
 <img src="{{ 'assets/images/gmk-keycaps/Shashin/kits_pics/salvun-miraresu.jpg' | relative_url }}" alt="salvun-miraresu" class="image featured">
 
 ### Salvun Senko  
-**Price(USD):** 60.00	**Price(CNY):** 388.15	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 388.15	**Quantity:** 97  
 <img src="{{ 'assets/images/gmk-keycaps/Shashin/kits_pics/salvun-senko.jpg' | relative_url }}" alt="salvun-senko" class="image featured">
 
 ## Info

@@ -17,16 +17,16 @@
     "link": "https://geekhack.org/index.php?topic=113603.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/FN5SS0Ww/GMKshashin-Orders210801fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Hiragana Base", "price": "135", "pic": "https://i.imgur.com/TLGUdRP.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Latin Base", "price": "135", "pic": "https://i.imgur.com/9vLn3y4.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelty", "price": "45", "pic": "https://i.imgur.com/XalvOwa.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebar", "price": "25", "pic": "https://i.imgur.com/DHIscqU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun Miraresu", "price": "60", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Shashin-Keycaps-Mechanical-Keyboard-Vala-Supply-S3LQ-Salvun-Artisan-Miraresu_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun Senko", "price": "60", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Shashin-Keycaps-Mechanical-Keyboard-Vala-Supply-S3LQ-Salvun-Artisan-Senko_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Hiragana Base", "price": "135", "pic": "https://i.imgur.com/TLGUdRP.jpg", "price_cny": "", "quantity": "1112", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Base", "price": "135", "pic": "https://i.imgur.com/9vLn3y4.jpg", "price_cny": "", "quantity": "1060", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "45", "pic": "https://i.imgur.com/XalvOwa.png", "price_cny": "", "quantity": "1063", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "25", "pic": "https://i.imgur.com/DHIscqU.png", "price_cny": "", "quantity": "505", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Miraresu", "price": "60", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Shashin-Keycaps-Mechanical-Keyboard-Vala-Supply-S3LQ-Salvun-Artisan-Miraresu_900x.jpg", "price_cny": "", "quantity": "144", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Senko", "price": "60", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Shashin-Keycaps-Mechanical-Keyboard-Vala-Supply-S3LQ-Salvun-Artisan-Senko_900x.jpg", "price_cny": "", "quantity": "97", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/1vaE6nE.jpg"

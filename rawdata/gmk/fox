@@ -5,6 +5,7 @@
     "designer": "boneandbee",
     "profile": "1-1-2-3-4-4",
     "time": "2021-04-01 ~ 2021-04-30",
+    "ets": "Q1 2022",
     "colorcodes":[
         "|Alpha|RAL 180 80 05|RAL 6004",
         "|Modifiers|RAL 6004|RAL 180 80 05",
@@ -17,13 +18,13 @@
     "link": "https://geekhack.org/index.php?topic=112013.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/VY4BzFfh/GMKfox-Orders210430final.png",
     "price_list":[
-        { "name": "Base", "price": "139.99", "pic": "https://i.imgur.com/6ZmqOhc.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "59.99", "pic": "https://i.imgur.com/Hnj4rqo.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alt-Mod", "price": "104.99", "pic": "https://i.imgur.com/eHl7c3T.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Space Bars", "price": "34.99", "pic": "https://i.imgur.com/iHkGBTq.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun", "price": "59.99", "pic": "https://i.imgur.com/PXVyJyW.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "139.99", "pic": "https://i.imgur.com/6ZmqOhc.jpg", "price_cny": "", "quantity": "430", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "59.99", "pic": "https://i.imgur.com/Hnj4rqo.jpg", "price_cny": "", "quantity": "272", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt-Mod", "price": "104.99", "pic": "https://i.imgur.com/eHl7c3T.jpg", "price_cny": "", "quantity": "30", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Space Bars", "price": "34.99", "pic": "https://i.imgur.com/iHkGBTq.jpg", "price_cny": "", "quantity": "128", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun", "price": "59.99", "pic": "https://i.imgur.com/PXVyJyW.jpg", "price_cny": "", "quantity": "111", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "https://i.imgur.com/SatFynx.png",
     "render_pics":[
