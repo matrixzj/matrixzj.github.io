@@ -9,7 +9,7 @@ permalink: /
 # Enjoy Beautiful KeyCaps 
 {: .fs-9 }
 
-<img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="48" width="48">   
+<img src="{{ 'assets/images/pictures3.png' | relative_url }}" alt="Matrix" height="480" width="480">   
 Just buy it :) 
 {: .fs-6 .fw-300 }
 
