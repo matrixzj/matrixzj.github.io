@@ -9,7 +9,7 @@ permalink: /
 # Enjoy Beautiful KeyCaps 
 {: .fs-9 }
 
-<img src="{{ 'assets/images/pictures3.png' | relative_url }}" alt="Matrix" height="480" width="480">   
+<img src="{{ 'assets/images/avatar.jpg' | relative_url }}" alt="Matrix" height="48" width="48">
 Just buy it :) 
 {: .fs-6 .fw-300 }
 
@@ -17,11 +17,8 @@ Just buy it :)
 
 ---
 
-Happy Chinese New Year!
-牛年大吉！
-
-
-<img src="{{ 'assets/images/astro.gif' | relative_url }}" alt="Astro" height="48" width="48">   
+[zFrontier - a Thief](https://old.reddit.com/r/MechanicalKeyboards/comments/p8ajk1/zfrontier_a_thief/)
+<img src="{{ 'assets/images/pictures3.png' | relative_url }}" alt="Thief" height="240" width="240">
 
 
 ## SA KeyCaps
