@@ -17,8 +17,8 @@ Just buy it :)
 
 ---
 
-[zFrontier - a Thief](https://old.reddit.com/r/MechanicalKeyboards/comments/p8ajk1/zfrontier_a_thief/)
-<img src="{{ 'assets/images/picture3.png' | relative_url }}" alt="Thief" height="240" width="240">
+[zFrontier - a Thief](https://old.reddit.com/r/MechanicalKeyboards/comments/p8ajk1/zfrontier_a_thief/)   
+<img src="{{ 'assets/images/picture3.png' | relative_url }}" alt="Thief" height="480" width="480">
 
 
 ## SA KeyCaps
