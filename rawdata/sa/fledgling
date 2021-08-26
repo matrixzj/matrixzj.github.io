@@ -1,0 +1,35 @@
+{
+    "name": "Fledgling",
+    "cname": "雏鸟",
+    "keycapstype": "SA",
+    "designer": "andromache",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-08-25 ~ 2021-09-25",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+        "https://i.imgur.com/k5Nrmx1.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111683.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "https://i.imgur.com/PvorWGr.png",
+    "price_list":[
+        { "name": "Alphas", "price": "50", "pic": "https://i.imgur.com/QF2N8wH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "TKL Mods", "price": "80", "pic": "https://i.imgur.com/odrPKK0.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ortho Mods", "price": "85", "pic": "https://i.imgur.com/eX3Ipst.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "45", "pic": "https://i.imgur.com/xYlL03D.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "45", "pic": "https://i.imgur.com/GeiLqOr.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/016eHv9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ISO", "price": "20", "pic": "https://i.imgur.com/h0xbfWC.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "40", "pic": "https://i.imgur.com/SuEdRcJ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ASERO Artisan", "price": "69", "pic": "https://i.imgur.com/9xLTrtb.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Artisan", "price": "59", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/SA-Fledgling-Salvun-Metal-Artisan-Keycap-Mechanical-Keyboard-Vala-Supply-Andromache-1920x1080_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://i.imgur.com/YMiyXcG.png"
+    ]
+}

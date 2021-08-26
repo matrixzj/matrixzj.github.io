@@ -25,6 +25,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Fledgling 雏鸟](docs/sa-keycaps/Fledgling/)
 * [Reload Novelties](docs/sa-keycaps/Reload-Novelties/)
 * [Copper 铜](docs/sa-keycaps/Copper/)
 * [Spectra](docs/sa-keycaps/Spectra/)
@@ -166,6 +167,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Classic Arabic 经典阿拉伯文](docs/gmk-keycaps/Classic-Arabic/)
+* [Pharaoh 法老王](docs/gmk-keycaps/Pharaoh/)
+* [Slasher](docs/gmk-keycaps/Slasher/)
 * [Purple Night](docs/gmk-keycaps/Purple-Night/)
 * [Retrowave](docs/gmk-keycaps/Retrowave/)
 * [Houhai 后海](docs/gmk-keycaps/Houhai/)

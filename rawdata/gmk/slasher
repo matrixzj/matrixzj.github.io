@@ -1,0 +1,34 @@
+{
+    "name": "Slasher",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "DALExSNAIL",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-08-13 ~ 2021-09-13",
+    "ets": "Q3 2022",
+    "colorcodes":[
+        "|Alphas|RAL 9011|RAL 3029|",
+        "|Modifiers|CR|RAL 3029|",
+        "|Accents|RAL 3029|CR|"
+    ],
+    "color_pics":[
+        "https://geekhack.org/index.php?action=dlattach;topic=114282.0;attach=274611;image"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114282.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/bQCVlRh.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "25", "pic": "https://i.imgur.com/gFGsqNX.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Splatter", "price": "45", "pic": "https://i.imgur.com/WsiJ7tO.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "39", "pic": "https://i.imgur.com/dOtDLXT.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Slavun Artisan", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/0012/3374/8043/products/Salvun-Slasher-01_1800x1200.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/As82TB2.jpg"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Pharaoh",
+    "cname": "法老王",
+    "keycapstype": "GMK",
+    "designer": "SxM Designs",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-08-20 ~ 2021-09-21",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114245.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/6izTVGz.jpg",
+    "price_list":[
+        { "name": "Base", "price": "124", "pic": "https://i.imgur.com/45vTxmp.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "46", "pic": "https://i.imgur.com/UJbiIrf.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "40", "pic": "https://i.imgur.com/zlJl7gx.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "46", "pic": "https://i.imgur.com/FiKfOGa.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "65", "pic": "https://i.imgur.com/67WIUMb.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "46", "pic": "https://i.imgur.com/ilpiAPC.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ankh RAMA", "price": "58", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Eye of Horus RAMA", "price": "58", "pic": "https://i.imgur.com/Hto2O7s.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Thok", "price": "58", "pic": "https://i.imgur.com/5fylSLe.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.ibb.co/nsmT4ww/Iron165-2.jpg"
+    ]
+}
