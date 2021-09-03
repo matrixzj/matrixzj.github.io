@@ -25,6 +25,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Bubble R2 泡泡R2](docs/sa-keycaps/Bubble-R2/)
 * [Fledgling 雏鸟](docs/sa-keycaps/Fledgling/)
 * [Reload Novelties](docs/sa-keycaps/Reload-Novelties/)
 * [Copper 铜](docs/sa-keycaps/Copper/)
@@ -167,6 +168,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Originative Cyrillic R2 黑俄文R2](docs/gmk-keycaps/Originative-Cyrillic-R2/)
+* [Classic Black on White 经典白黑](docs/gmk-keycaps/Classic-Black-on-White/)
+* [Terror Below](docs/gmk-keycaps/Terror-Below/)
 * [Classic Arabic 经典阿拉伯文](docs/gmk-keycaps/Classic-Arabic/)
 * [Pharaoh 法老王](docs/gmk-keycaps/Pharaoh/)
 * [Slasher](docs/gmk-keycaps/Slasher/)

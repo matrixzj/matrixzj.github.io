@@ -1,0 +1,26 @@
+{
+    "name": "Panels",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Bub",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-09-03 ~ 2021-10-01",
+    "ets": "Q2 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114447.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/WIjBkMM.png",
+    "price_list":[
+        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/RCxIXsB.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/dBrmWwq.png"
+    ]
+}

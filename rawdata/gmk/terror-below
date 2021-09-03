@@ -1,0 +1,36 @@
+{
+    "name": "Terror Below",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Afresh",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-09-01 ~ 2021-09-30",
+    "ets": "Q4 2022",
+    "colorcodes":[
+        "|Base Alphas|Pantone PQ-3375C|Pantone PQ-569C|",
+        "|Modifiers/Alphas|Pantone PQ-5467C|Pantone PQ-569C|",
+        "|Accents|Pantone PQ-305C|Pantone PQ-5467C|"
+    ],
+    "color_pics":[
+        "https://cdn.discordapp.com/attachments/813465384493645834/876572103166554152/unknown.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114355.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/hFL7QlL.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alphas", "price": "70", "pic": "https://cdn.discordapp.com/attachments/831224534581510194/880836861868785714/TerrorBelowAlphas0002.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://i.imgur.com/gw1bfVp.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/MRbHs0v.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK ULU Artisan", "price": "59", "pic": "https://cdn.discordapp.com/attachments/832314724368252984/883331189358866472/TB_top.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "KeyRelic Argentin Alloy Artisan", "price": "62", "pic": "https://cdn.discordapp.com/attachments/821109644168265818/879920214022717440/image0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "KeyRelic Sterline Silver Artisan", "price": "125", "pic": "https://cdn.discordapp.com/attachments/821109644168265818/879920214022717440/image0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/CK2cS4G.png"
+    ]
+}

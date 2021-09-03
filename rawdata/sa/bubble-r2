@@ -1,0 +1,29 @@
+{
+    "name": "Bubble R2",
+    "cname": "泡泡R2",
+    "keycapstype": "SA",
+    "designer": "Yayoi",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-08-31 ~ 2021-09-28",
+    "ets": "Q1 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "99.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/SABUBBLEBASEKIT_695x243.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "59.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/novelties-labeled-new_697x198.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Non-standard", "price": "59.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/zf61289afb69cb5_696x306.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "37.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/numpad_15ee1b72-82c2-4b0c-a0c1-75d7af5f394f_697x198.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ISO", "price": "29.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/ISO_c4929edf-1f43-4873-a67b-055c9b27838c_697x198.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://cdn.shopify.com/s/files/1/1994/3097/products/20210827154331_696x391.png"
+    ]
+}
