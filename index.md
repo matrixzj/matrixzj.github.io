@@ -168,6 +168,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Momo Yume](docs/gmk-keycaps/Momo-Yume/)
+* [Electric 电工](docs/gmk-keycaps/Electric/)
+* [The Mandalorian 曼达洛人](docs/gmk-keycaps/The-Mandalorian/)
 * [Originative Cyrillic R2 黑俄文R2](docs/gmk-keycaps/Originative-Cyrillic-R2/)
 * [Classic Black on White 经典白黑](docs/gmk-keycaps/Classic-Black-on-White/)
 * [Terror Below](docs/gmk-keycaps/Terror-Below/)

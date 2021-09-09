@@ -1,0 +1,37 @@
+{
+    "name": "Electric",
+    "cname": "电工",
+    "keycapstype": "GMK",
+    "designer": "Vala",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-09-06 ~ 2021-10-06",
+    "ets": "Early Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114501.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "109", "pic": "https://i.imgur.com/0o0D4xT.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Alphas", "price": "59", "pic": "https://i.imgur.com/xJvKMRO.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Symbol Row", "price": "39", "pic": "https://i.imgur.com/E4yokjq.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/O8dBktY.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "49", "pic": "https://i.imgur.com/aFfQ1em.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "49", "pic": "https://i.imgur.com/p8XUNoO.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "25", "pic": "https://i.imgur.com/4NepeMt.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "59", "pic": "https://i.imgur.com/VLEBdLW.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Colerak", "price": "59", "pic": "https://i.imgur.com/Di0p2rJ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Electric Flux Capacitor", "price": "88", "pic": "https://i.imgur.com/J1tpV5C.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Foundry Artisans 1", "price": "59", "pic": "https://i.imgur.com/QAKt65J.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Foundry Artisans 2", "price": "59", "pic": "https://i.imgur.com/fN9dn5K.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/a9rlAM6.jpg"
+    ]
+}

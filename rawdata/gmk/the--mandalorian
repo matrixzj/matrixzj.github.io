@@ -1,0 +1,27 @@
+{
+    "name": "The Mandalorian",
+    "cname": "曼达洛人",
+    "keycapstype": "GMK",
+    "designer": "",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-09-02 ~ 2021-10-01",
+    "ets": "Q2 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "Novelkeys",
+    "link": "https://novelkeys.com/products/the-mandalorian",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "The Mandalorian", "price": "225", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_Mandalorian_Base_KIT_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "The Child", "price": "125", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_Mandalorian_Child_KIT_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/3099/8088/products/GMKMandalorian-076_1512x.jpg"
+    ]
+}
