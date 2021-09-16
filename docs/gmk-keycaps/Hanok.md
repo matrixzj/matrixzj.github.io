@@ -21,37 +21,39 @@ NOTE: USD to CNY exchange rate is 6.48
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|875.18|Unknown|
-|[Gray Mods](#gray-mods)|82.00|531.59|Unknown|
-|[Novelties](#novelties)|44.00|285.24|Unknown|
-|[Spacebars](#spacebars)|32.00|207.45|Unknown|
-|[CasperKeys Novelty](#casperkeys-novelty)|60.00|388.97|Unknown|
-|[Monokei Novelty](#monokei-novelty)|54.00|350.07|Unknown|
+|[Base](#base)|135.00|875.18|578|
+|[Gray Mods](#gray-mods)|82.00|531.59|136|
+|[Novelties](#novelties)|44.00|285.24|252|
+|[Spacebars](#spacebars)|32.00|207.45|100|
+|[~~CasperKeys Novelty~~](#casperkeys-novelty)|60.00|388.97|Unknown|
+|[Monokei Novelty](#monokei-novelty)|54.00|350.07|116|
 
+<img src="{{ 'assets/images/gmk-keycaps/Hanok/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Hanok/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 135.00	**Price(CNY):** 875.18	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 875.18	**Quantity:** 578  
 <img src="{{ 'assets/images/gmk-keycaps/Hanok/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Gray Mods  
-**Price(USD):** 82.00	**Price(CNY):** 531.59	**Quantity:** Unknown  
+**Price(USD):** 82.00	**Price(CNY):** 531.59	**Quantity:** 136  
 <img src="{{ 'assets/images/gmk-keycaps/Hanok/kits_pics/gray-mods.png' | relative_url }}" alt="gray-mods" class="image featured">
 
 ### Novelties  
-**Price(USD):** 44.00	**Price(CNY):** 285.24	**Quantity:** Unknown  
+**Price(USD):** 44.00	**Price(CNY):** 285.24	**Quantity:** 252  
 <img src="{{ 'assets/images/gmk-keycaps/Hanok/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 32.00	**Price(CNY):** 207.45	**Quantity:** Unknown  
+**Price(USD):** 32.00	**Price(CNY):** 207.45	**Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/Hanok/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
-### CasperKeys Novelty  
+### ~~CasperKeys Novelty~~  
 **Price(USD):** 60.00	**Price(CNY):** 388.97	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Hanok/kits_pics/casperkeys-novelty.jpg' | relative_url }}" alt="casperkeys-novelty" class="image featured">
 
 ### Monokei Novelty  
-**Price(USD):** 54.00	**Price(CNY):** 350.07	**Quantity:** Unknown  
+**Price(USD):** 54.00	**Price(CNY):** 350.07	**Quantity:** 116  
 <img src="{{ 'assets/images/gmk-keycaps/Hanok/kits_pics/monokei-novelty.png' | relative_url }}" alt="monokei-novelty" class="image featured">
 
 ## Info

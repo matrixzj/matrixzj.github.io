@@ -14,17 +14,17 @@
     "link": "https://geekhack.org/index.php?topic=113859.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/npZWk6LX/GMKearth-Tones-Orders210819fin-Yext2.png",
+    "order_graph_without": "https://i.postimg.cc/Gbb144DS/GMKearth-Tones-Orders210819fin-Next2.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/PG9Qr5J.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Oxidane", "price": "60", "pic": "https://i.imgur.com/NPqNzLu.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Baybayin", "price": "50", "pic": "https://i.imgur.com/NikX0Cv.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebar", "price": "33", "pic": "https://i.imgur.com/PS7nznE.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "47", "pic": "https://i.imgur.com/fAJq4ko.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Eh", "price": "56", "pic": "https://i.imgur.com/zZXdHoL.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Enter", "price": "68", "pic": "https://i.imgur.com/UxjwKCI.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/PG9Qr5J.jpg", "price_cny": "", "quantity": "1500", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Oxidane", "price": "60", "pic": "https://i.imgur.com/NPqNzLu.jpg", "price_cny": "", "quantity": "287", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Baybayin", "price": "50", "pic": "https://i.imgur.com/NikX0Cv.jpg", "price_cny": "", "quantity": "370", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "33", "pic": "https://i.imgur.com/PS7nznE.jpg", "price_cny": "", "quantity": "330", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "47", "pic": "https://i.imgur.com/fAJq4ko.png", "price_cny": "", "quantity": "548", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Eh", "price": "56", "pic": "https://i.imgur.com/zZXdHoL.png", "price_cny": "", "quantity": "228", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Enter", "price": "68", "pic": "https://i.imgur.com/UxjwKCI.png", "price_cny": "", "quantity": "241", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/aC3ucsp.jpg"

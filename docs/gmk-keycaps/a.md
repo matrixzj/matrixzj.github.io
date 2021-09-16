@@ -21,42 +21,43 @@ NOTE: USD to CNY exchange rate is 6.46
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Latin Base](#latin-base)|134.99|872.24|Unknown|
-|[Hiragana Base](#hiragana-base)|134.99|872.24|Unknown|
-|[a Alphas](#a-alphas)|44.99|290.70|Unknown|
-|[Extensions](#extensions)|46.99|303.63|Unknown|
-|[Novelties](#novelties)|61.99|400.55|Unknown|
-|[Rawr](#rawr)|18.99|122.70|Unknown|
-|[RAMA](#rama)|38.00|245.54|Unknown|
+|[Latin Base](#latin-base)|134.99|872.24|757|
+|[Hiragana Base](#hiragana-base)|134.99|872.24|1137|
+|[a Alphas](#a-alphas)|44.99|290.70|523|
+|[Extensions](#extensions)|46.99|303.63|175|
+|[Novelties](#novelties)|61.99|400.55|1208|
+|[Rawr](#rawr)|18.99|122.70|354|
+|[RAMA](#rama)|38.00|245.54|485|
 
+<img src="{{ 'assets/images/gmk-keycaps/a/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Latin Base  
-**Price(USD):** 134.99	**Price(CNY):** 872.24	**Quantity:** Unknown  
+**Price(USD):** 134.99	**Price(CNY):** 872.24	**Quantity:** 757  
 <img src="{{ 'assets/images/gmk-keycaps/a/kits_pics/latin-base.png' | relative_url }}" alt="latin-base" class="image featured">
 
 ### Hiragana Base  
-**Price(USD):** 134.99	**Price(CNY):** 872.24	**Quantity:** Unknown  
+**Price(USD):** 134.99	**Price(CNY):** 872.24	**Quantity:** 1137  
 <img src="{{ 'assets/images/gmk-keycaps/a/kits_pics/hiragana-base.png' | relative_url }}" alt="hiragana-base" class="image featured">
 
 ### a Alphas  
-**Price(USD):** 44.99	**Price(CNY):** 290.70	**Quantity:** Unknown  
+**Price(USD):** 44.99	**Price(CNY):** 290.70	**Quantity:** 523  
 <img src="{{ 'assets/images/gmk-keycaps/a/kits_pics/a-alphas.png' | relative_url }}" alt="a-alphas" class="image featured">
 
 ### Extensions  
-**Price(USD):** 46.99	**Price(CNY):** 303.63	**Quantity:** Unknown  
+**Price(USD):** 46.99	**Price(CNY):** 303.63	**Quantity:** 175  
 <img src="{{ 'assets/images/gmk-keycaps/a/kits_pics/extensions.png' | relative_url }}" alt="extensions" class="image featured">
 
 ### Novelties  
-**Price(USD):** 61.99	**Price(CNY):** 400.55	**Quantity:** Unknown  
+**Price(USD):** 61.99	**Price(CNY):** 400.55	**Quantity:** 1208  
 <img src="{{ 'assets/images/gmk-keycaps/a/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Rawr  
-**Price(USD):** 18.99	**Price(CNY):** 122.70	**Quantity:** Unknown  
+**Price(USD):** 18.99	**Price(CNY):** 122.70	**Quantity:** 354  
 <img src="{{ 'assets/images/gmk-keycaps/a/kits_pics/rawr.png' | relative_url }}" alt="rawr" class="image featured">
 
 ### RAMA  
-**Price(USD):** 38.00	**Price(CNY):** 245.54	**Quantity:** Unknown  
+**Price(USD):** 38.00	**Price(CNY):** 245.54	**Quantity:** 485  
 <img src="{{ 'assets/images/gmk-keycaps/a/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 ## Info

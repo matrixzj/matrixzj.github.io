@@ -21,37 +21,38 @@ NOTE: USD to CNY exchange rate is 6.46
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Latin Base](#latin-base)|135.00|872.30|Unknown|
-|[Hiragana Base](#hiragana-base)|135.00|872.30|Unknown|
-|[Novelties](#novelties)|50.00|323.08|Unknown|
-|[Spacebars](#spacebars)|35.00|226.15|Unknown|
-|[40s](#40s)|45.00|290.77|Unknown|
-|[RAMA](#rama)|56.00|361.84|Unknown|
+|[~~Latin Base~~](#latin-base)|135.00|872.30|Unknown|
+|[Hiragana Base](#hiragana-base)|135.00|872.30|535|
+|[Novelties](#novelties)|50.00|323.07|525|
+|[Spacebars](#spacebars)|35.00|226.15|159|
+|[~~40s~~](#40s)|45.00|290.77|Unknown|
+|[RAMA](#rama)|56.00|361.84|122|
 
+<img src="{{ 'assets/images/gmk-keycaps/Harvest/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
-### Latin Base  
+### ~~Latin Base~~  
 **Price(USD):** 135.00	**Price(CNY):** 872.30	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/kits_pics/latin-base.jpg' | relative_url }}" alt="latin-base" class="image featured">
 
 ### Hiragana Base  
-**Price(USD):** 135.00	**Price(CNY):** 872.30	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 872.30	**Quantity:** 535  
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/kits_pics/hiragana-base.jpg' | relative_url }}" alt="hiragana-base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 50.00	**Price(CNY):** 323.08	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 323.07	**Quantity:** 525  
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 35.00	**Price(CNY):** 226.15	**Quantity:** Unknown  
+**Price(USD):** 35.00	**Price(CNY):** 226.15	**Quantity:** 159  
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
-### 40s  
+### ~~40s~~  
 **Price(USD):** 45.00	**Price(CNY):** 290.77	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### RAMA  
-**Price(USD):** 56.00	**Price(CNY):** 361.84	**Quantity:** Unknown  
+**Price(USD):** 56.00	**Price(CNY):** 361.84	**Quantity:** 122  
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/kits_pics/rama.png' | relative_url }}" alt="rama" class="image featured">
 
 ## Info

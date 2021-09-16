@@ -21,28 +21,29 @@ NOTE: USD to CNY exchange rate is 6.46
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|125.00|807.69|Unknown|
-|[Alphas](#alphas)|60.00|387.69|Unknown|
-|[Novelties](#novelties)|37.50|242.31|Unknown|
-|[Numpad](#numpad)|40.00|258.46|Unknown|
+|[Base](#base)|125.00|807.69|1820|
+|[Alphas](#alphas)|60.00|387.69|280|
+|[Novelties](#novelties)|37.50|242.31|853|
+|[Numpad](#numpad)|40.00|258.46|243|
 
 <img src="{{ 'assets/images/gmk-keycaps/Daifuku/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Daifuku/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 125.00	**Price(CNY):** 807.69	**Quantity:** Unknown  
+**Price(USD):** 125.00	**Price(CNY):** 807.69	**Quantity:** 1820  
 <img src="{{ 'assets/images/gmk-keycaps/Daifuku/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Alphas  
-**Price(USD):** 60.00	**Price(CNY):** 387.69	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 387.69	**Quantity:** 280  
 <img src="{{ 'assets/images/gmk-keycaps/Daifuku/kits_pics/alphas.png' | relative_url }}" alt="alphas" class="image featured">
 
 ### Novelties  
-**Price(USD):** 37.50	**Price(CNY):** 242.31	**Quantity:** Unknown  
+**Price(USD):** 37.50	**Price(CNY):** 242.31	**Quantity:** 853  
 <img src="{{ 'assets/images/gmk-keycaps/Daifuku/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Numpad  
-**Price(USD):** 40.00	**Price(CNY):** 258.46	**Quantity:** Unknown  
+**Price(USD):** 40.00	**Price(CNY):** 258.46	**Quantity:** 243  
 <img src="{{ 'assets/images/gmk-keycaps/Daifuku/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ## Info

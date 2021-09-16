@@ -18,14 +18,14 @@
     "link": "https://geekhack.org/index.php?topic=114008.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/yBFj0SNL/GMKdaifuku-Orders210903fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "https://i.imgur.com/Rsidrsf.jpg",
     "price_list":[
-        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/HXI4kF3.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alphas", "price": "60", "pic": "https://i.imgur.com/LMCpawf.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "37.5", "pic": "https://i.imgur.com/pqOTRep.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "40", "pic": "https://i.imgur.com/0p5vAzv.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/HXI4kF3.png", "price_cny": "", "quantity": "1820", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alphas", "price": "60", "pic": "https://i.imgur.com/LMCpawf.png", "price_cny": "", "quantity": "280", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "37.5", "pic": "https://i.imgur.com/pqOTRep.png", "price_cny": "", "quantity": "853", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "40", "pic": "https://i.imgur.com/0p5vAzv.png", "price_cny": "", "quantity": "243", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://cdn.shopify.com/s/files/1/0064/2560/8282/products/F.003_1024x1024@2x.png"

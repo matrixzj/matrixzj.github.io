@@ -17,16 +17,16 @@
     "link": "https://geekhack.org/index.php?topic=110801.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/mbQxRHRf/GMKhanok-Orders210823fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/69DsxfFh/GMKhanok-Orders210823fin-Next2.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/qSXQQOd.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Gray Mods", "price": "82", "pic": "https://i.imgur.com/0ZZLZvT.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "44", "pic": "https://i.imgur.com/F0y9QJd.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "32", "pic": "https://i.imgur.com/nJHJOHY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/qSXQQOd.png", "price_cny": "", "quantity": "578", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Gray Mods", "price": "82", "pic": "https://i.imgur.com/0ZZLZvT.png", "price_cny": "", "quantity": "136", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "44", "pic": "https://i.imgur.com/F0y9QJd.png", "price_cny": "", "quantity": "252", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "32", "pic": "https://i.imgur.com/nJHJOHY.png", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
         { "name": "CasperKeys Novelty", "price": "60", "pic": "https://i.imgur.com/7dhDZoj.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Monokei Novelty", "price": "54", "pic": "https://i.imgur.com/712ChFX.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Monokei Novelty", "price": "54", "pic": "https://i.imgur.com/712ChFX.png", "price_cny": "", "quantity": "116", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/QHXpW3F.jpg"

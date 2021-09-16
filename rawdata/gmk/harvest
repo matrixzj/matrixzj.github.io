@@ -18,16 +18,16 @@
     "link": "",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/ssTtRY1Y/GMKharvest-Orders210831fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
         { "name": "Latin Base", "price": "135", "pic": "https://i.imgur.com/Rn0lOmR.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hiragana Base", "price": "135", "pic": "https://i.imgur.com/vOLIfhQ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "50", "pic": "https://i.imgur.com/4aDaASi.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "35", "pic": "https://i.imgur.com/covhmhE.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragana Base", "price": "135", "pic": "https://i.imgur.com/vOLIfhQ.jpg", "price_cny": "", "quantity": "535", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "50", "pic": "https://i.imgur.com/4aDaASi.png", "price_cny": "", "quantity": "525", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "35", "pic": "https://i.imgur.com/covhmhE.jpg", "price_cny": "", "quantity": "159", "price_table_format": "", "price_kit_format": "" },
         { "name": "40s", "price": "45", "pic": "https://i.imgur.com/Tuy4eQd.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA", "price": "56", "pic": "https://i.imgur.com/lFEPzq6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "RAMA", "price": "56", "pic": "https://i.imgur.com/lFEPzq6.png", "price_cny": "", "quantity": "122", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/P4i80Rp.jpg"

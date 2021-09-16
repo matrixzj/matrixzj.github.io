@@ -14,16 +14,16 @@
     "link": "https://drop.com/buy/drop-mito-gmk-trader-custom-keycap-set",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/tykDs08h/GMKtrader-Orders210731final-VSpop.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Compact", "price": "115", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/EUkVqFVS96T5gPjjmmRP_2%20-%20Compact%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extended", "price": "130", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/i050ZDiRXOKFAg5C0SW9_1%20-%20Extended%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hobbyist", "price": "42", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/ONuqdlJeSsyMlaf3QMJy_3%20-%20Hobbyist%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Cmd", "price": "27", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/OCrv7VxiRYSrNMyCPtjK_4%20-%20Cmd%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Boomer", "price": "65", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/NJwLV5rFQl66IoBult5O_6%20-%20Boomer%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Zoomer", "price": "65", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/EDaE7Ln9RueK8qs5suVa_5%20-%20Zoomer%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Compact", "price": "115", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/EUkVqFVS96T5gPjjmmRP_2%20-%20Compact%20Kit.png", "price_cny": "", "quantity": "128", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extended", "price": "130", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/i050ZDiRXOKFAg5C0SW9_1%20-%20Extended%20Kit.png", "price_cny": "", "quantity": "141", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hobbyist", "price": "42", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/ONuqdlJeSsyMlaf3QMJy_3%20-%20Hobbyist%20Kit.png", "price_cny": "", "quantity": "50", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cmd", "price": "27", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/OCrv7VxiRYSrNMyCPtjK_4%20-%20Cmd%20Kit.png", "price_cny": "", "quantity": "19", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Boomer", "price": "65", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/NJwLV5rFQl66IoBult5O_6%20-%20Boomer%20Kit.png", "price_cny": "", "quantity": "270", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Zoomer", "price": "65", "pic": "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/EDaE7Ln9RueK8qs5suVa_5%20-%20Zoomer%20Kit.png", "price_cny": "", "quantity": "186", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://massdrop-s3.imgix.net/product-images/drop-mito-gmk-trader-custom-keycap-set/FP/HQFFKBNT2SxBMJtPC6c4_87_2.png"

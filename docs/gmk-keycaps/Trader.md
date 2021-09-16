@@ -21,37 +21,38 @@ NOTE: USD to CNY exchange rate is 6.47
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Compact](#compact)|115.00|744.40|Unknown|
-|[Extended](#extended)|130.00|841.50|Unknown|
-|[Hobbyist](#hobbyist)|42.00|271.87|Unknown|
-|[Cmd](#cmd)|27.00|174.77|Unknown|
-|[Boomer](#boomer)|65.00|420.75|Unknown|
-|[Zoomer](#zoomer)|65.00|420.75|Unknown|
+|[Compact](#compact)|115.00|744.40|128|
+|[Extended](#extended)|130.00|841.50|141|
+|[Hobbyist](#hobbyist)|42.00|271.87|50|
+|[Cmd](#cmd)|27.00|174.77|19|
+|[Boomer](#boomer)|65.00|420.75|270|
+|[Zoomer](#zoomer)|65.00|420.75|186|
 
+<img src="{{ 'assets/images/gmk-keycaps/Trader/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Compact  
-**Price(USD):** 115.00	**Price(CNY):** 744.40	**Quantity:** Unknown  
+**Price(USD):** 115.00	**Price(CNY):** 744.40	**Quantity:** 128  
 <img src="{{ 'assets/images/gmk-keycaps/Trader/kits_pics/compact.jpg' | relative_url }}" alt="compact" class="image featured">
 
 ### Extended  
-**Price(USD):** 130.00	**Price(CNY):** 841.50	**Quantity:** Unknown  
+**Price(USD):** 130.00	**Price(CNY):** 841.50	**Quantity:** 141  
 <img src="{{ 'assets/images/gmk-keycaps/Trader/kits_pics/extended.jpg' | relative_url }}" alt="extended" class="image featured">
 
 ### Hobbyist  
-**Price(USD):** 42.00	**Price(CNY):** 271.87	**Quantity:** Unknown  
+**Price(USD):** 42.00	**Price(CNY):** 271.87	**Quantity:** 50  
 <img src="{{ 'assets/images/gmk-keycaps/Trader/kits_pics/hobbyist.jpg' | relative_url }}" alt="hobbyist" class="image featured">
 
 ### Cmd  
-**Price(USD):** 27.00	**Price(CNY):** 174.77	**Quantity:** Unknown  
+**Price(USD):** 27.00	**Price(CNY):** 174.77	**Quantity:** 19  
 <img src="{{ 'assets/images/gmk-keycaps/Trader/kits_pics/cmd.jpg' | relative_url }}" alt="cmd" class="image featured">
 
 ### Boomer  
-**Price(USD):** 65.00	**Price(CNY):** 420.75	**Quantity:** Unknown  
+**Price(USD):** 65.00	**Price(CNY):** 420.75	**Quantity:** 270  
 <img src="{{ 'assets/images/gmk-keycaps/Trader/kits_pics/boomer.jpg' | relative_url }}" alt="boomer" class="image featured">
 
 ### Zoomer  
-**Price(USD):** 65.00	**Price(CNY):** 420.75	**Quantity:** Unknown  
+**Price(USD):** 65.00	**Price(CNY):** 420.75	**Quantity:** 186  
 <img src="{{ 'assets/images/gmk-keycaps/Trader/kits_pics/zoomer.jpg' | relative_url }}" alt="zoomer" class="image featured">
 
 ## Info

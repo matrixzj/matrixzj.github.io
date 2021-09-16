@@ -21,42 +21,44 @@ NOTE: USD to CNY exchange rate is 6.49
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|125.00|811.31|Unknown|
-|[Oxidane](#oxidane)|60.00|389.43|Unknown|
-|[Baybayin](#baybayin)|50.00|324.52|Unknown|
-|[Spacebar](#spacebar)|33.00|214.19|Unknown|
-|[Novelties](#novelties)|47.00|305.05|Unknown|
-|[RAMA Eh](#rama-eh)|56.00|363.47|Unknown|
-|[RAMA Enter](#rama-enter)|68.00|441.35|Unknown|
+|[Base](#base)|125.00|811.31|1500|
+|[Oxidane](#oxidane)|60.00|389.43|287|
+|[Baybayin](#baybayin)|50.00|324.52|370|
+|[Spacebar](#spacebar)|33.00|214.19|330|
+|[Novelties](#novelties)|47.00|305.05|548|
+|[RAMA Eh](#rama-eh)|56.00|363.47|228|
+|[RAMA Enter](#rama-enter)|68.00|441.35|241|
 
+<img src="{{ 'assets/images/gmk-keycaps/Earth-Tones/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Earth-Tones/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 125.00	**Price(CNY):** 811.31	**Quantity:** Unknown  
+**Price(USD):** 125.00	**Price(CNY):** 811.31	**Quantity:** 1500  
 <img src="{{ 'assets/images/gmk-keycaps/Earth-Tones/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Oxidane  
-**Price(USD):** 60.00	**Price(CNY):** 389.43	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 389.43	**Quantity:** 287  
 <img src="{{ 'assets/images/gmk-keycaps/Earth-Tones/kits_pics/oxidane.jpg' | relative_url }}" alt="oxidane" class="image featured">
 
 ### Baybayin  
-**Price(USD):** 50.00	**Price(CNY):** 324.52	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 324.52	**Quantity:** 370  
 <img src="{{ 'assets/images/gmk-keycaps/Earth-Tones/kits_pics/baybayin.jpg' | relative_url }}" alt="baybayin" class="image featured">
 
 ### Spacebar  
-**Price(USD):** 33.00	**Price(CNY):** 214.19	**Quantity:** Unknown  
+**Price(USD):** 33.00	**Price(CNY):** 214.19	**Quantity:** 330  
 <img src="{{ 'assets/images/gmk-keycaps/Earth-Tones/kits_pics/spacebar.jpg' | relative_url }}" alt="spacebar" class="image featured">
 
 ### Novelties  
-**Price(USD):** 47.00	**Price(CNY):** 305.05	**Quantity:** Unknown  
+**Price(USD):** 47.00	**Price(CNY):** 305.05	**Quantity:** 548  
 <img src="{{ 'assets/images/gmk-keycaps/Earth-Tones/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### RAMA Eh  
-**Price(USD):** 56.00	**Price(CNY):** 363.47	**Quantity:** Unknown  
+**Price(USD):** 56.00	**Price(CNY):** 363.47	**Quantity:** 228  
 <img src="{{ 'assets/images/gmk-keycaps/Earth-Tones/kits_pics/rama-eh.png' | relative_url }}" alt="rama-eh" class="image featured">
 
 ### RAMA Enter  
-**Price(USD):** 68.00	**Price(CNY):** 441.35	**Quantity:** Unknown  
+**Price(USD):** 68.00	**Price(CNY):** 441.35	**Quantity:** 241  
 <img src="{{ 'assets/images/gmk-keycaps/Earth-Tones/kits_pics/rama-enter.png' | relative_url }}" alt="rama-enter" class="image featured">
 
 ## Info
