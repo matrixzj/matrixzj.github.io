@@ -1,0 +1,31 @@
+{
+    "name": "Modern Ink",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "FaKe_VirTual",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-09-15 ~ 2021-10-15",
+    "ets": "Q1 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114591.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/AMyu56D.png",
+    "price_list":[
+        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/rtTduwi.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mono Hiragana", "price": "65", "pic": "https://i.imgur.com/mB8G3H1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "44", "pic": "https://i.imgur.com/kXavLJC.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "32", "pic": "https://i.imgur.com/iLxVzH1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "49", "pic": "https://i.imgur.com/OhZeL9Z.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "70", "pic": "https://i.imgur.com/Ajltg0B.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/9aUSejV.jpg"
+    ]
+}

@@ -168,6 +168,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Modern Ink](docs/gmk-keycaps/Modern-Ink/)
+* [Tako](docs/gmk-keycaps/Tako/)
+* [Mika](docs/gmk-keycaps/Mika/)
 * [Momo Yume](docs/gmk-keycaps/Momo-Yume/)
 * [Electric 电工](docs/gmk-keycaps/Electric/)
 * [The Mandalorian 曼达洛人](docs/gmk-keycaps/The-Mandalorian/)

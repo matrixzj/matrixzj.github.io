@@ -1,0 +1,32 @@
+{
+    "name": "Mika",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "waynexu",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-09-10 ~ 2021-10-10",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114547.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/tl9YJeq.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "39", "pic": "https://i.imgur.com/OVvlEcZ.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/RyeJiAZ.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "39", "pic": "https://i.imgur.com/zTeixUI.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Thok Artisan", "price": "59", "pic": "https://i.imgur.com/PZstIWv.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "39", "pic": "https://i.imgur.com/MozYyJO.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "59", "pic": "https://cdn.discordapp.com/attachments/850232134534299688/885795260167487488/GMK-Mika-Asero-Foundry-Artisan-Mechanical-Keyboard-Keycaps-PL23-Vala-Supply-1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/qw974zI.jpeg"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Tako",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Izeri",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-09-13 ~ 2021-10-13",
+    "ets": "Q3 2022",
+    "colorcodes":[
+        "|Alpha|WS1|RAL 300 30 25",
+        "|Modifiers|RAL 300 30 25|RAL 075 80 60",
+        "|Accents|RAL 075 80 60|RAL 300 30 25"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114584.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "128", "pic": "https://i.imgur.com/8lkS42H.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54", "pic": "https://i.imgur.com/FsmYZ4H.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/EBJmLAu.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "66", "pic": "https://i.imgur.com/ST6zoQT.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "54", "pic": "https://i.imgur.com/WGgZOks.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/SrHFyG4.jpg"
+    ]
+}
