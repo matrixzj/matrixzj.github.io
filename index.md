@@ -25,6 +25,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Polyclear 透明](docs/sa-keycaps/Polyclear/)
 * [Bubble R2 泡泡R2](docs/sa-keycaps/Bubble-R2/)
 * [Fledgling 雏鸟](docs/sa-keycaps/Fledgling/)
 * [Reload Novelties](docs/sa-keycaps/Reload-Novelties/)
@@ -168,6 +169,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Pepperoni](docs/gmk-keycaps/Pepperoni/)
+* [Firefly R2 萤火虫R2](docs/gmk-keycaps/Firefly-R2/)
+* [Nightlight](docs/gmk-keycaps/Nightlight/)
 * [Modern Ink](docs/gmk-keycaps/Modern-Ink/)
 * [Tako](docs/gmk-keycaps/Tako/)
 * [Mika](docs/gmk-keycaps/Mika/)

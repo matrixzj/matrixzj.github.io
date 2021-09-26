@@ -1,0 +1,30 @@
+{
+    "name": "Firefly R2",
+    "cname": "萤火虫R2",
+    "keycapstype": "GMK",
+    "designer": "Emir",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-09-16 ~ 2021-10-22",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "KONO",
+    "link": "https://kono.store/products/gmk-firefly",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "119.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Basekit_696x391.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "44.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/40s_696x391.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent", "price": "32.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Accent_696x391.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icon", "price": "37.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Icon_696x391.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "39.99", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Numpad_ca8d46e3-c093-48f7-b8d7-d77fd57073ce_696x391.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/1994/3097/products/Firefly_696x391.jpg"
+    ]
+}

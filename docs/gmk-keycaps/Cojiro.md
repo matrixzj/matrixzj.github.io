@@ -68,9 +68,9 @@ NOTE: USD to CNY exchange rate is 6.53
 
 | |Base Color     | Legend Color
 | :-------------: | :-------------: | :------------:
-|Alpha|Pantone 2122|Pantone 2766
-|Modifiers|Pantone 2766|Pantone 2068
-|Accents|Pantone 2068|Pantone 2766
+|Alpha|Pantone 2120C|Pantone 2766C
+|Modifiers|Pantone 2766C|Pantone 2068C
+|Accents|Pantone 2068C|Pantone 2766C
 
 <img src="{{ 'assets/images/gmk-keycaps/Cojiro/0.png' | relative_url }}" alt="0" class="image featured">
 
