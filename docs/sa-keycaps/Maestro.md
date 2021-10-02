@@ -71,9 +71,9 @@ NOTE: USD to CNY exchange rate is 6.45
   </tr>
   <tr>
     <th>RAL 1024</th>
-    <th><img src="{{ 'assets/images/sa-keycaps/SP_ColorCodes/abs/SP_Abs_ColorCodes_RAL 1024.png' | relative_url }}" alt="Color_RAL 1024" height="75" width="170"></th>
+    <th style="background-color: rgb(186, 143, 76)">&#160;</th>
   </tr>
-</table>NN/WCK/RAL 1024
+</table>
 
 <img src="{{ 'assets/images/sa-keycaps/Maestro/0.png' | relative_url }}" alt="0" class="image featured">
 
