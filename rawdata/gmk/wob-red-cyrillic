@@ -1,0 +1,29 @@
+{
+    "name": "WoB Red Cyrillic",
+    "cname": "黑白红俄文",
+    "keycapstype": "GMK",
+    "designer": "Qarmaa",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-10-01 ~ 2021-10-31",
+    "ets": "Q4 2022",
+    "colorcodes":[
+        "|Alphas|CR|WS1/P3|",
+        "|Modifiers|CR|WS1|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113956.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/GPER1Yd.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icon Mods", "price": "26", "pic": "https://i.imgur.com/40VBMU1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/viZfCHx.png"
+    ]
+}

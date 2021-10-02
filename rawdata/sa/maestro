@@ -1,0 +1,31 @@
+{
+    "name": "Maestro",
+    "cname": "大师",
+    "keycapstype": "SA",
+    "designer": "HungHingDaiLo",
+    "profile": "1-1-2-3-4-3/Uniform R3",
+    "time": "2021-09-30 ~ 2021-10-31",
+    "ets": "Q1 2023",
+    "colorcodes":[
+        "NN/WCK/RAL 1024"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/Q0p5Dzz.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114740.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "https://i.imgur.com/dJqVkQS.jpg",
+    "price_list":[
+        { "name": "Uniform R3 Base", "price": "165", "pic": "https://i.imgur.com/Xu9wCcO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Sculpted TKL", "price": "145", "pic": "https://i.imgur.com/pq3ppoS.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "39", "pic": "https://i.imgur.com/SFM9aO9.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Arrows", "price": "19", "pic": "https://i.imgur.com/IcgGLfH.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Pedals", "price": "29", "pic": "https://i.imgur.com/svQUXpx.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://i.imgur.com/wkgXZil.png"
+    ]
+}

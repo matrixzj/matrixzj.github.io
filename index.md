@@ -25,6 +25,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Maestro 大师](docs/sa-keycaps/Maestro/)
 * [Polyclear 透明](docs/sa-keycaps/Polyclear/)
 * [Bubble R2 泡泡R2](docs/sa-keycaps/Bubble-R2/)
 * [Fledgling 雏鸟](docs/sa-keycaps/Fledgling/)
@@ -169,6 +170,11 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [WoB Red Cyrillic 黑白红俄文](docs/gmk-keycaps/WoB-Red-Cyrillic/)
+* [Soyamilk 豆奶](docs/gmk-keycaps/Soyamilk/)
+* [Rudy R2](docs/gmk-keycaps/Rudy-R2/)
+* [ReForged](docs/gmk-keycaps/ReForged/)
+* [GMK R3](docs/gmk-keycaps/GMK-R3/)
 * [Pepperoni](docs/gmk-keycaps/Pepperoni/)
 * [Firefly R2 萤火虫R2](docs/gmk-keycaps/Firefly-R2/)
 * [Nightlight](docs/gmk-keycaps/Nightlight/)

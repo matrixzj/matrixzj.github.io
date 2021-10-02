@@ -1,0 +1,38 @@
+{
+    "name": "Soyamilk",
+    "cname": "豆奶",
+    "keycapstype": "GMK",
+    "designer": "STUDIOBLB",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-10-01 ~ 2021-11-01",
+    "ets": "Q4 2022",
+    "colorcodes":[
+        "|Alphas|WS1|RAL 260 50 25",
+        "|Modifiers|RAL 1015|RAL 260 50 25",
+        "|Accents 1|RAL 260 50 25|RAL 1015",
+        "|Accents 2|P3|RAL 1015"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/NZsQ7gQ.png",
+        "https://i.imgur.com/i88SYIq.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114810.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "130.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "51.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "49.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent", "price": "29.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "32.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "KEI Artisan", "price": "40", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Artisan", "price": "42", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/wmqxB28.jpg"
+    ]
+}

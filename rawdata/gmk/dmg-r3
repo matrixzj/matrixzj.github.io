@@ -1,0 +1,37 @@
+{
+    "name": "GMK R3",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "futurecrime",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-09-27 ~ 2021-10-24",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "OMNITYPE",
+    "link": "https://omnitype.com/collections/gmk-dmg-3/",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Standard Base", "price": "124.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/01_Standard_60476bb8-19df-4787-a34c-308dc053ad2a_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragana Base", "price": "124.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/02_Hiragana_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "39.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/03_Novelty_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Addition", "price": "39.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/04_Addition_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Aesthetic", "price": "24.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/05_Aesthetic_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Command", "price": "26.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/06_Command_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro", "price": "24.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/07_Macro_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Obscure", "price": "43.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/08_Obscure_8e0d52dc-c99b-4546-8e60-4028822488c0_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "64.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/09_International_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Speaker HIBI Artisan", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/dmg_005_qtr_grill_0_160x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Button R1 HIBI Artisan", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/dmg_005_qtr_butt_r1_0_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Button R4 HIBI Artisan", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/dmg_005_qtr_butt_r4_0_700x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DMG3_Thermal__002V2_3-2_dist_700x.jpg"
+    ]
+}
