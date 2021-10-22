@@ -7,22 +7,28 @@
     "time": "2021-08-23 ~ 2021-09-17",
     "ets": "Q3 2022",
     "colorcodes":[
+        "|Alphas|L9|CR/N7",
+        "|Modifiers|U9|CR",
+        "|Accent 1|N7|CR",
+        "|Accent 2|V4|CR"
     ],
     "color_pics":[
+        "https://i.imgur.com/Ly8zgZv.png"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=114308.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/J1Ch4DYX/GMKclassic-Arabic-Orders210917final2.png",
     "order_graph_without": "",
     "price_pic": "https://i.imgur.com/UBhIecK.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/NgbF83x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "39.99", "pic": "https://i.imgur.com/V0hhDX4.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "45.99", "pic": "https://i.imgur.com/iwzcXXm.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Greek Addon", "price": "85.99", "pic": "https://i.imgur.com/GYQMH9O.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Blue Accents", "price": "39.99", "pic": "https://i.imgur.com/Dmg0n0o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/NgbF83x.jpg", "price_cny": "", "quantity": "500", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "39.99", "pic": "https://i.imgur.com/V0hhDX4.png", "price_cny": "", "quantity": "109", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "45.99", "pic": "https://i.imgur.com/iwzcXXm.png", "price_cny": "", "quantity": "25", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Greek Addon", "price": "85.99", "pic": "https://i.imgur.com/GYQMH9O.png", "price_cny": "", "quantity": "183", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Blue Accents", "price": "39.99", "pic": "https://i.imgur.com/Dmg0n0o.png", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun", "price": "60", "pic": "https://i.imgur.com/45prT6O.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/xVS5mrY.jpg"

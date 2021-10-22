@@ -21,17 +21,18 @@ NOTE: USD to CNY exchange rate is 6.46
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Black on White](#black-on-white)|80.00|516.92|Unknown|
-|[White on Black](#white-on-black)|80.00|516.92|Unknown|
+|[Black on White](#black-on-white)|80.00|516.92|150|
+|[White on Black](#white-on-black)|80.00|516.92|150|
 
+<img src="{{ 'assets/images/gmk-keycaps/Swiss-Addon/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Black on White  
-**Price(USD):** 80.00	**Price(CNY):** 516.92	**Quantity:** Unknown  
+**Price(USD):** 80.00	**Price(CNY):** 516.92	**Quantity:** 150  
 <img src="{{ 'assets/images/gmk-keycaps/Swiss-Addon/kits_pics/black-on-white.jpg' | relative_url }}" alt="black-on-white" class="image featured">
 
 ### White on Black  
-**Price(USD):** 80.00	**Price(CNY):** 516.92	**Quantity:** Unknown  
+**Price(USD):** 80.00	**Price(CNY):** 516.92	**Quantity:** 150  
 <img src="{{ 'assets/images/gmk-keycaps/Swiss-Addon/kits_pics/white-on-black.jpg' | relative_url }}" alt="white-on-black" class="image featured">
 
 ## Info

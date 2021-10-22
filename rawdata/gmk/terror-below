@@ -18,17 +18,17 @@
     "link": "https://geekhack.org/index.php?topic=114355.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/1SMkjXm3/GMKterror-Below-Orders211003fin-Next2.png",
+    "order_graph_without": "https://i.postimg.cc/DF4K4Fhf/GMKterror-Below-Orders211003fin-Yext.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/hFL7QlL.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alphas", "price": "70", "pic": "https://cdn.discordapp.com/attachments/831224534581510194/880836861868785714/TerrorBelowAlphas0002.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "45", "pic": "https://i.imgur.com/gw1bfVp.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/MRbHs0v.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "THOK ULU Artisan", "price": "59", "pic": "https://cdn.discordapp.com/attachments/832314724368252984/883331189358866472/TB_top.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "KeyRelic Argentin Alloy Artisan", "price": "62", "pic": "https://cdn.discordapp.com/attachments/821109644168265818/879920214022717440/image0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "KeyRelic Sterline Silver Artisan", "price": "125", "pic": "https://cdn.discordapp.com/attachments/821109644168265818/879920214022717440/image0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/hFL7QlL.jpg", "price_cny": "", "quantity": "1483", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alphas", "price": "70", "pic": "https://cdn.discordapp.com/attachments/831224534581510194/880836861868785714/TerrorBelowAlphas0002.jpg", "price_cny": "", "quantity": "217", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://i.imgur.com/gw1bfVp.jpg", "price_cny": "", "quantity": "1076", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/MRbHs0v.jpg", "price_cny": "", "quantity": "466", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK ULU Artisan", "price": "59", "pic": "https://cdn.discordapp.com/attachments/832314724368252984/883331189358866472/TB_top.png", "price_cny": "", "quantity": "235", "price_table_format": "", "price_kit_format": "" },
+        { "name": "KeyRelic Argentin Alloy Artisan", "price": "62", "pic": "https://cdn.discordapp.com/attachments/821109644168265818/879920214022717440/image0.png", "price_cny": "", "quantity": "279", "price_table_format": "", "price_kit_format": "" },
+        { "name": "KeyRelic Sterline Silver Artisan", "price": "125", "pic": "https://cdn.discordapp.com/attachments/821109644168265818/879920214022717440/image0.png", "price_cny": "", "quantity": "112", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/CK2cS4G.png"

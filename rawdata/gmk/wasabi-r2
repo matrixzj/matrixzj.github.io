@@ -5,6 +5,7 @@
     "designer": "sourmk",
     "profile": "1-1-2-3-4-4",
     "time": "2021-04-04 ~ 2021-05-04",
+    "ets": "Q1 2022",
     "colorcodes":[
         "|Base|CR|3A",
         "|Accent|3A|CR"
@@ -15,13 +16,14 @@
     "link": "https://geekhack.org/index.php?topic=111528.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/D22Y3MXM/GMKwasabi-V2orders210413nofinal.png",
     "price_list":[
         { "name": "Base", "price": "125", "pic": "https://i.imgur.com/ib9VFXy.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Latin", "price": "60", "pic": "https://i.imgur.com/IsJ6GB3.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Horseradish", "price": "45", "pic": "https://i.imgur.com/4iEkZDt.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Palate CLeanser", "price": "30", "pic": "https://i.imgur.com/AU2ykEh.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Space", "price": "25", "pic": "https://i.imgur.com/G8ttB5K.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "", "pic": "https://i.postimg.cc/92LsCC1t/06-Nor-De-UK-added-210519-Bxl4sg-E.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "RAMA Green", "price": "38", "pic": "https://i.imgur.com/18IzzV1.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "RAMA Pink", "price": "38", "pic": "https://i.imgur.com/Irqwtd2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],

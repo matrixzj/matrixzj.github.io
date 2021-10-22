@@ -87,7 +87,7 @@ def parse_price_info_format():
         if kit['price_cny']:
             kit['price_cny'] = '{:.2f}'.format(float(kit['price_cny']))
         else:
-            if kit['price']:
+            if kit['price'] and kit['price'] != 'Unknown':
                 kit['price_cny'] = '{:.2f}'.format(float(kit['price']) * float(info_dict['rate']))
             else:
                 kit['price_cny'] = 'Unknown'

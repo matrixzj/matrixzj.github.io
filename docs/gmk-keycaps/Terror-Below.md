@@ -21,42 +21,44 @@ NOTE: USD to CNY exchange rate is 6.46
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|872.09|Unknown|
-|[Alphas](#alphas)|70.00|452.19|Unknown|
-|[Novelties](#novelties)|45.00|290.70|Unknown|
-|[Spacebars](#spacebars)|25.00|161.50|Unknown|
-|[THOK ULU Artisan](#thok-ulu-artisan)|59.00|381.13|Unknown|
-|[KeyRelic Argentin Alloy Artisan](#keyrelic-argentin-alloy-artisan)|62.00|400.51|Unknown|
-|[KeyRelic Sterline Silver Artisan](#keyrelic-sterline-silver-artisan)|125.00|807.49|Unknown|
+|[Base](#base)|135.00|872.09|1483|
+|[Alphas](#alphas)|70.00|452.19|217|
+|[Novelties](#novelties)|45.00|290.70|1076|
+|[Spacebars](#spacebars)|25.00|161.50|466|
+|[THOK ULU Artisan](#thok-ulu-artisan)|59.00|381.13|235|
+|[KeyRelic Argentin Alloy Artisan](#keyrelic-argentin-alloy-artisan)|62.00|400.51|279|
+|[KeyRelic Sterline Silver Artisan](#keyrelic-sterline-silver-artisan)|125.00|807.49|112|
 
+<img src="{{ 'assets/images/gmk-keycaps/Terror-Below/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Terror-Below/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 135.00	**Price(CNY):** 872.09	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 872.09	**Quantity:** 1483  
 <img src="{{ 'assets/images/gmk-keycaps/Terror-Below/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Alphas  
-**Price(USD):** 70.00	**Price(CNY):** 452.19	**Quantity:** Unknown  
+**Price(USD):** 70.00	**Price(CNY):** 452.19	**Quantity:** 217  
 <img src="{{ 'assets/images/gmk-keycaps/Terror-Below/kits_pics/alphas.jpg' | relative_url }}" alt="alphas" class="image featured">
 
 ### Novelties  
-**Price(USD):** 45.00	**Price(CNY):** 290.70	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 290.70	**Quantity:** 1076  
 <img src="{{ 'assets/images/gmk-keycaps/Terror-Below/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 25.00	**Price(CNY):** 161.50	**Quantity:** Unknown  
+**Price(USD):** 25.00	**Price(CNY):** 161.50	**Quantity:** 466  
 <img src="{{ 'assets/images/gmk-keycaps/Terror-Below/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### THOK ULU Artisan  
-**Price(USD):** 59.00	**Price(CNY):** 381.13	**Quantity:** Unknown  
+**Price(USD):** 59.00	**Price(CNY):** 381.13	**Quantity:** 235  
 <img src="{{ 'assets/images/gmk-keycaps/Terror-Below/kits_pics/thok-ulu-artisan.png' | relative_url }}" alt="thok-ulu-artisan" class="image featured">
 
 ### KeyRelic Argentin Alloy Artisan  
-**Price(USD):** 62.00	**Price(CNY):** 400.51	**Quantity:** Unknown  
+**Price(USD):** 62.00	**Price(CNY):** 400.51	**Quantity:** 279  
 <img src="{{ 'assets/images/gmk-keycaps/Terror-Below/kits_pics/keyrelic-argentin-alloy-artisan.png' | relative_url }}" alt="keyrelic-argentin-alloy-artisan" class="image featured">
 
 ### KeyRelic Sterline Silver Artisan  
-**Price(USD):** 125.00	**Price(CNY):** 807.49	**Quantity:** Unknown  
+**Price(USD):** 125.00	**Price(CNY):** 807.49	**Quantity:** 112  
 <img src="{{ 'assets/images/gmk-keycaps/Terror-Below/kits_pics/keyrelic-sterline-silver-artisan.png' | relative_url }}" alt="keyrelic-sterline-silver-artisan" class="image featured">
 
 ## Info

@@ -26,9 +26,11 @@ NOTE: USD to CNY exchange rate is 6.57
 |[Horseradish](#horseradish)|45.00|295.54|Unknown|
 |[Palate CLeanser](#palate-cleanser)|30.00|197.03|Unknown|
 |[Space](#space)|25.00|164.19|Unknown|
+|[NorDeUK](#nordeuk)|Unknown|Unknown|Unknown|
 |[RAMA Green](#rama-green)|38.00|249.57|Unknown|
 |[RAMA Pink](#rama-pink)|38.00|249.57|Unknown|
 
+<img src="{{ 'assets/images/gmk-keycaps/Wasabi-R2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
@@ -51,6 +53,10 @@ NOTE: USD to CNY exchange rate is 6.57
 **Price(USD):** 25.00	**Price(CNY):** 164.19	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Wasabi-R2/kits_pics/space.png' | relative_url }}" alt="space" class="image featured">
 
+### NorDeUK  
+**Price(USD):** Unknown	**Price(CNY):** Unknown	**Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/Wasabi-R2/kits_pics/nordeuk.png' | relative_url }}" alt="nordeuk" class="image featured">
+
 ### RAMA Green  
 **Price(USD):** 38.00	**Price(CNY):** 249.57	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Wasabi-R2/kits_pics/rama-green.jpg' | relative_url }}" alt="rama-green" class="image featured">
@@ -63,6 +69,7 @@ NOTE: USD to CNY exchange rate is 6.57
 * Designer: sourmk  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2021-04-04 ~ 2021-05-04  
+* Estimated Shipping Time: Q1 2022  
 * Color Codes:  
 
 | |Base Color     | Legend Color

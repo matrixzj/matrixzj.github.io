@@ -17,12 +17,12 @@
     "link": "https://geekhack.org/index.php?topic=114029.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/HYqTfN6y/GMKsw-iss-Addon-Orders210831fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Black on White", "price": "80", "pic": "https://i.imgur.com/uNp500L.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "White on Black", "price": "80", "pic": "https://i.imgur.com/SJgnQxI.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Black on White", "price": "80", "pic": "https://i.imgur.com/uNp500L.jpg", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "White on Black", "price": "80", "pic": "https://i.imgur.com/SJgnQxI.jpg", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/jsM7LBR.jpg"

@@ -19,7 +19,7 @@ def download_graph(url, path, sub_path, name):
 
     # proxies = {'http': 'http://10.0.1.77:443'}
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
-    response = requests.get(url, headers=headers)
+    response = requests.get(url, headers=headers, verify=False)
     output_file = open(TEMP_PIC_FILE,'wb')
     output_file.write(response.content)
     output_file.close()

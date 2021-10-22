@@ -18,16 +18,19 @@
     "link": "https://geekhack.org/index.php?topic=113690",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/vbdQPKhz/GMKhiganbana-Orders210809fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "https://i.imgur.com/CQaoJF2.png",
     "price_list":[
-        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/cik5iYH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "59", "pic": "https://i.imgur.com/dkwqAOV.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "49", "pic": "https://i.imgur.com/BEo8rob.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebar", "price": "29", "pic": "https://i.imgur.com/8yHPXWZ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alt Mods", "price": "99", "pic": "https://i.imgur.com/GogecQI.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Latin Alphas", "price": "79", "pic": "https://i.imgur.com/koR3ndx.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/cik5iYH.jpg", "price_cny": "", "quantity": "589", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "59", "pic": "https://i.imgur.com/dkwqAOV.jpg", "price_cny": "", "quantity": "339", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "49", "pic": "https://i.imgur.com/BEo8rob.png", "price_cny": "", "quantity": "50", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "29", "pic": "https://i.imgur.com/8yHPXWZ.png", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Mods", "price": "99", "pic": "https://i.imgur.com/GogecQI.png", "price_cny": "", "quantity": "116", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "79", "pic": "https://i.imgur.com/koR3ndx.png", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Artisan", "price": "56", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/RAMA-Artisan-GMK-Higanbana-Mechanical-Keyboard-Keycaps-Vala-Supply-shenshendei_900x.png", "price_cny": "", "quantity": "104", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Artisan", "price": "59", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Higanbana-Mechanical-Keyboard-Keycaps-Vala-Supply-shenshendei-Salvun-Metal-Artisan_300x300.jpg", "price_cny": "", "quantity": "244", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "59", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Higanbana-Mechanical-Keyboard-Keycaps-Vala-Supply-shenshendei-Asero-Artisan_15e104f5-8796-4865-b27e-cee55fd19bc0_900x.png", "price_cny": "", "quantity": "90", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/UMSYimt.png"
