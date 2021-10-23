@@ -1,0 +1,35 @@
+{
+    "name": "Chaos Theory",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Dotnick",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-10-08 ~ 2021-11-08",
+    "ets": "Q4-2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114642.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Order Base", "price": "120", "pic": "https://i.imgur.com/NPxdCxV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Chaos Base", "price": "120", "pic": "https://i.imgur.com/iCmrmSf.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Stochasm Novelties", "price": "55", "pic": "https://i.imgur.com/JGDJ8wk.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Fractal Spacebars", "price": "35", "pic": "https://i.imgur.com/O4VYbEW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Oscillations Alt Mods", "price": "50", "pic": "https://i.imgur.com/isPafE7.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Periodicity Numpad", "price": "35", "pic": "https://i.imgur.com/CkplmbX.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Antireality Macros", "price": "25", "pic": "https://i.imgur.com/9qDpGiE.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Branches NorDeUK", "price": "60", "pic": "https://i.imgur.com/aPVOxmj.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Butterfly Artisan", "price": "57", "pic": "https://cdn.shopify.com/s/files/1/0277/8021/8940/products/choas_001_qtr_0_590x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Keylabs Chaos Artisan", "price": "38", "pic": "https://cdn.shopify.com/s/files/1/0277/8021/8940/products/keylabs-chaos-theory-chaos-pink-purple-corner_590x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/ioSCIii.jpg"
+    ]
+}

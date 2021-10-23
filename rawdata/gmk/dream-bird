@@ -1,0 +1,38 @@
+{
+    "name": "Dream Bird",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "arq1999",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-10-08 ~ 2021-11-08",
+    "ets": "Q1 2023",
+    "colorcodes":[
+        "|Alphas|Pantone Dark Blue C|CV",
+        "|Modifiers|Pantone 2766 C|CV",
+        "|Accents|CV|Pantone 2766 C"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/BU3BAgX.jpg",
+        "https://i.imgur.com/xuWGbPO.jpg",
+        "https://i.imgur.com/sCrTGv7.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114898.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/PkgFR6h.png",
+    "price_list":[
+        { "name": "Base", "price": "118", "pic": "https://i.imgur.com/sOjfAV1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Alphas", "price": "84", "pic": "https://i.imgur.com/PBktF9P.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "67", "pic": "https://i.imgur.com/qfKFGpl.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "40", "pic": "https://i.imgur.com/PqSDyAp.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/6ZtG6tk.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Eye", "price": "40", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/drea_001_02_top_0_1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Egg", "price": "40", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/drea_001_01_top_0.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/P03W3j7.png"
+    ]
+}

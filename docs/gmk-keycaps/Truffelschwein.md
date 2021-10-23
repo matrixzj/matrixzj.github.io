@@ -25,9 +25,9 @@ NOTE: USD to CNY exchange rate is 6.48
 |[Alternate Mods](#alternate-mods)|85.00|551.11|102|
 |[Spacebars](#spacebars)|38.00|246.38|155|
 |[Novelties](#novelties)|53.00|343.63|295|
-|[RAMA Pig](#rama-pig)|56.00|363.08|Unknown|
-|[RAMA Money](#rama-money)|56.00|363.08|Unknown|
-|[RAMA Oink Enter](#rama-oink-enter)|68.00|440.89|Unknown|
+|[RAMA Pig](#rama-pig)|56.00|363.08|252|
+|[RAMA Money](#rama-money)|56.00|363.08|216|
+|[RAMA Oink Enter](#rama-oink-enter)|68.00|440.89|172|
 
 <img src="{{ 'assets/images/gmk-keycaps/Truffelschwein/order.png' | relative_url }}" alt="order" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/Truffelschwein/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
@@ -50,15 +50,15 @@ NOTE: USD to CNY exchange rate is 6.48
 <img src="{{ 'assets/images/gmk-keycaps/Truffelschwein/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### RAMA Pig  
-**Price(USD):** 56.00	**Price(CNY):** 363.08	**Quantity:** Unknown  
+**Price(USD):** 56.00	**Price(CNY):** 363.08	**Quantity:** 252  
 <img src="{{ 'assets/images/gmk-keycaps/Truffelschwein/kits_pics/rama-pig.png' | relative_url }}" alt="rama-pig" class="image featured">
 
 ### RAMA Money  
-**Price(USD):** 56.00	**Price(CNY):** 363.08	**Quantity:** Unknown  
+**Price(USD):** 56.00	**Price(CNY):** 363.08	**Quantity:** 216  
 <img src="{{ 'assets/images/gmk-keycaps/Truffelschwein/kits_pics/rama-money.png' | relative_url }}" alt="rama-money" class="image featured">
 
 ### RAMA Oink Enter  
-**Price(USD):** 68.00	**Price(CNY):** 440.89	**Quantity:** Unknown  
+**Price(USD):** 68.00	**Price(CNY):** 440.89	**Quantity:** 172  
 <img src="{{ 'assets/images/gmk-keycaps/Truffelschwein/kits_pics/rama-oink-enter.png' | relative_url }}" alt="rama-oink-enter" class="image featured">
 
 ## Info

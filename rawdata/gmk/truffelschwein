@@ -26,9 +26,9 @@
         { "name": "Alternate Mods", "price": "85", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273375;image", "price_cny": "", "quantity": "102", "price_table_format": "", "price_kit_format": "" },
         { "name": "Spacebars", "price": "38", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273377;image", "price_cny": "", "quantity": "155", "price_table_format": "", "price_kit_format": "" },
         { "name": "Novelties", "price": "53", "pic": "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273379;image", "price_cny": "", "quantity": "295", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Pig", "price": "56", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114101.0;attach=273624;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Money", "price": "56", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114101.0;attach=273626;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "RAMA Oink Enter", "price": "68", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114101.0;attach=273628;image", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "RAMA Pig", "price": "56", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114101.0;attach=273624;image", "price_cny": "", "quantity": "252", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Money", "price": "56", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114101.0;attach=273626;image", "price_cny": "", "quantity": "216", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Oink Enter", "price": "68", "pic": "https://geekhack.org/index.php?action=dlattach;topic=114101.0;attach=273628;image", "price_cny": "", "quantity": "172", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://geekhack.org/index.php?action=dlattach;topic=106466.0;attach=273399;image"

@@ -1,0 +1,34 @@
+{
+    "name": "EDC Every Day Carry",
+    "cname": "随身物",
+    "keycapstype": "GMK",
+    "designer": "OmNomNitty",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-10-12 ~ 2021-11-12",
+    "ets": "Q4 2022",
+    "colorcodes":[
+        "|Alphas|Pantone 428 C|Pantone 4160 C",
+        "|Modifiers|Pantone 4160 C|Pantone 2436 C",
+        "|Accents|Pantone 2436 C|Pantone 4160 C"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/xvt7x5N.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111870.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "129.99", "pic": "https://i.imgur.com/SvHXWcG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "44.99", "pic": "https://i.imgur.com/s7k2v0N.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Alphas", "price": "74.99", "pic": "https://i.imgur.com/9oAFXLO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "24.99", "pic": "https://i.imgur.com/pobA8Q8.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Thok Artisan", "price": "48", "pic": "https://cdn.shopify.com/s/files/1/1994/3097/products/Lit_EDC_top_695x695.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/i2MsQE1.png"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Green Screen R2",
+    "cname": "绿屏R2",
+    "keycapstype": "SA",
+    "designer": "admgc/Harlw/Oblotzky",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-10-21 ~ 2021-11-21",
+    "ets": "May 30, 2023",
+    "colorcodes":[
+        "GTT/GQM/TBN/VAT/YBP"
+    ],
+    "color_pics":[
+    ],
+    "platform": "MD",
+    "link": "https://www.massdrop.com/buy/massdrop-x-admgc-sa-green-screen-custom-keycap-set",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Phosphor Base", "price": "140", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/gX5lDznYSO2RzdozW5Tc_1%20-%20Phosphor%20Base%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Amber Base", "price": "140", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/KS0oqbQQeSEYSURTNgU8_2%20-%20Amber%20Base%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Phosphor Ortho", "price": "65", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/2qZ3ZgPmR4uq3G6HnQT9_3%20-%20Phosphor%20Ortho%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Amber Ortho", "price": "65", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/lLvYAiWRQv6CpdsX80j9_4%20-%20Amber%20Ortho%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Phosphor Numpad", "price": "35", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/XZ1UHlgnTh2JgaBR2PTr_5%20-%20Phosphor%20Numpad%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Amber Numpad", "price": "35", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/gki336xhSDW5LhOuRho2_6%20-%20Amber%20Numpad%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "40", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/cm1s5TcHRBaAWdnCDuq0_7%20-%20Novelties%20Kit.png?auto=format&fm=jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Arrows", "price": "15", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/Gn997K3nSlSr5zedSjrY_8%20-%20Arrows%20Kit.png?auto=format&fm=jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "LED", "price": "25", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/43ESBo7CTNCN2ON4ZKDd_9%20-%20LED%20Keys%20Kit.png?auto=format&fm=jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "15", "pic": "https://massdrop-s3.imgix.net/product-images/drop-admgc-sa-green-screen-custom-keycap-set/FP/bSHmyFuST8GaIYwfk1Dk_10%20-%20Spacebars%20Kit.png?auto=format&fm=jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://i.imgur.com/n1bOqqW.jpg"
+    ]
+}

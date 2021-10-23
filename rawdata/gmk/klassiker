@@ -1,0 +1,28 @@
+{
+    "name": "Klassiker",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Oblotzky",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-10-15 ~ 2021-11-15",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114792.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Basis", "price": "119.99", "pic": "https://i.imgur.com/CWZ0nOI.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Farben Accent", "price": "39.99", "pic": "https://i.imgur.com/7Mn4o3R.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "64.99", "pic": "https://i.imgur.com/kO4mtTE.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/bIvNWNJ.jpg"
+    ]
+}
