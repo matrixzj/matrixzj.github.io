@@ -1,0 +1,38 @@
+{
+    "name": "November Fog",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "krugerlive",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-11-01 ~ 2021-11-30",
+    "ets": "Q4 2022",
+    "colorcodes":[
+       "|Alphas|Pantone 7541 C|Pantone 4191 C", 
+       "|Modifiers|Pantone 4230 C|Pantone 4191 C", 
+       "|Accents|Pantone 4191 C|Pantone 4230 C" 
+    ],
+    "color_pics":[
+        "https://i.imgur.com/aiaDgnO.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115180.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/JZdV2N6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "64.99", "pic": "https://i.imgur.com/vCmPcde.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Space Bars", "price": "31.99", "pic": "https://i.imgur.com/87OIFgU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "42.99", "pic": "https://i.imgur.com/JmpqKwp.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "74.99", "pic": "https://i.imgur.com/IjugfGJ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Owl Artisan", "price": "60", "pic": "https://i.imgur.com/BJmk7bu.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Tree Artisan", "price": "38", "pic": "https://i.imgur.com/dH9Akem.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "KeyLabs 1U Artisan", "price": "43", "pic": "https://i.imgur.com/fUX9zpG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "KeyLabs 2.25U Artisan", "price": "53", "pic": "https://i.imgur.com/u1jrUU6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/CjqPpmP.jpg"
+    ]
+}

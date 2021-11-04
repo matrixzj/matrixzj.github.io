@@ -1,0 +1,36 @@
+{
+    "name": "Infernal",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Blamby",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-10-22 ~ 2021-11-21",
+    "ets": "Q4 2022",
+    "colorcodes":[
+       "|Base|RAL 3005|RAL 3028",
+       "|Alt Mods|RAL 9005|RAL 3028"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/p4JYncs.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115050.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/RZLMep7.png",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/BzeRguB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Modes", "price": "90", "pic": "https://i.imgur.com/INHfQmX.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin", "price": "52", "pic": "https://i.imgur.com/IEoBOrB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "44", "pic": "https://i.imgur.com/h7gsJBD.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Symbol", "price": "53", "pic": "https://i.imgur.com/DsljDOI.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent", "price": "29", "pic": "https://i.imgur.com/IkRpnUw.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "70", "pic": "https://i.imgur.com/GA5QvCJ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "50", "pic": "https://i.imgur.com/20Pv0NF.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/1CHECZH.jpg"
+    ]
+}

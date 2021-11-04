@@ -1,0 +1,31 @@
+{
+    "name": "Hooty",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "sourmk",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-11-01 ~ 2021-12-01",
+    "ets": "Q4 2022 - Q1 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115059",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/UJmeXi2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/RK59Z8o.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accents", "price": "39.99", "pic": "https://i.imgur.com/sfT0BJM.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Expansion", "price": "39.99", "pic": "https://i.imgur.com/NoADqXG.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Hooty Artisan", "price": "38.00", "pic": "https://i.imgur.com/9ynDbpl.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Hoot Artisan", "price": "58.00", "pic": "https://i.imgur.com/tYKb5lX.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/rrz0D0o.jpg"
+    ]
+}

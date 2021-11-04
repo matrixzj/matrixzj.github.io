@@ -171,6 +171,12 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Tiramisu 提拉米苏](docs/gmk-keycaps/Tiramisu/)
+* [Hooty](docs/gmk-keycaps/Hooty/)
+* [November Fog](docs/gmk-keycaps/November-Fog/)
+* [Panda 熊猫](docs/gmk-keycaps/Panda/)
+* [Terror](docs/gmk-keycaps/Terror/)
+* [Infernal](docs/gmk-keycaps/Infernal/)
 * [Klassiker](docs/gmk-keycaps/Klassiker/)
 * [Harderbeige](docs/gmk-keycaps/Harderbeige/)
 * [Chaos Theory](docs/gmk-keycaps/Chaos-Theory/)

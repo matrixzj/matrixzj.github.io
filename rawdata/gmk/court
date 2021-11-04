@@ -1,0 +1,29 @@
+{
+    "name": "Court",
+    "cname": "球场",
+    "keycapstype": "GMK",
+    "designer": "tovbeast",
+    "profile": "1-1-2-3-4-4",
+    "time": "",
+    "ets": "",
+    "colorcodes":[
+    ],
+    "color_pics":[
+        "https://i.imgur.com/Z44AMBd.png"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "",
+        ""
+    ]
+}
