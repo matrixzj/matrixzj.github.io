@@ -1,0 +1,35 @@
+{
+    "name": "Geoma",
+    "cname": "",
+    "keycapstype": "SA",
+    "designer": "olihaimar",
+    "profile": "Uniform R3",
+    "time": "2021-11-04 ~ 2021-12-09",
+    "ets": "Q4 2022",
+    "colorcodes":[
+        "RAL 000 90 00/RAL 190 80 25/RAL 000 30 00"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112332.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Light Alphas", "price": "55", "pic": "https://olivermartin.com.au/media/2021/08/1.-Light-Alphas-scaled.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Alphas", "price": "55", "pic": "https://olivermartin.com.au/media/2021/08/2.-Dark-Alphas-scaled.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Light Mods", "price": "89", "pic": "https://olivermartin.com.au/media/2021/08/3.-Light-TKL-scaled.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Mods", "price": "89", "pic": "https://olivermartin.com.au/media/2021/08/4.-Dark-TKL-scaled.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "55", "pic": "https://olivermartin.com.au/media/2021/08/6.-Novelties-scaled.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "55", "pic": "https://olivermartin.com.au/media/2021/08/9.-Numpad-scaled.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "45", "pic": "https://olivermartin.com.au/media/2021/08/10.-Spacebar-scaled.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "39", "pic": "https://olivermartin.com.au/media/2021/08/5.-NorDeUK-scaled.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Dark Artisan", "price": "45", "pic": "https://olivermartin.com.au/media/2021/11/RW-SA-GEOMA.125-BG.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Teal Artisan", "price": "45", "pic": "https://olivermartin.com.au/media/2021/11/RW-SA-GEOMA.124-BG.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://olivermartin.com.au/media/2020/10/SA-Geoma-R3-Case-Klippe-S-HHKB-DiagLow-01.jpg"
+    ]
+}

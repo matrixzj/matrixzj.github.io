@@ -25,6 +25,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Geoma](docs/sa-keycaps/Geoma/)
 * [Green Screen R2 绿屏R2](docs/sa-keycaps/Green-Screen-R2/)
 * [Maestro 大师](docs/sa-keycaps/Maestro/)
 * [Polyclear 透明](docs/sa-keycaps/Polyclear/)
