@@ -14,14 +14,14 @@
     "link": "https://geekhack.org/index.php?topic=114787.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/wgftZTZ8/GMKre-Forged-Orders211029fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/OUeh3yZ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "39.99", "pic": "https://i.imgur.com/sS7mEhQ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Molten White Alphas", "price": "39.99", "pic": "https://i.imgur.com/jfgKwg7.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Salvun Artisan", "price": "50", "pic": "https://i.imgur.com/WQzDuPq.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/OUeh3yZ.jpg", "price_cny": "", "quantity": "549", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "39.99", "pic": "https://i.imgur.com/sS7mEhQ.jpg", "price_cny": "", "quantity": "336", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Molten White Alphas", "price": "39.99", "pic": "https://i.imgur.com/jfgKwg7.jpg", "price_cny": "", "quantity": "218", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Artisan", "price": "50", "pic": "https://i.imgur.com/WQzDuPq.jpg", "price_cny": "", "quantity": "133", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/rShl8B6.jpg"

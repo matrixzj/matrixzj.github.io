@@ -9,20 +9,21 @@
     "colorcodes":[
     ],
     "color_pics":[
+        "https://i.postimg.cc/sycLRGLM/color-comparison-210324-FRFHrul.png"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=114594.0",
     "currencyunit": "USD",
-    "history_graph": "",
+    "history_graph": "https://i.postimg.cc/HH7zjPdP/GMKnightlight-Orders211015fin-Yext.png",
     "order_graph": "",
     "order_graph_without": "",
     "price_pic": "https://i.imgur.com/MKJ3Fkh.png",
     "price_list":[
-        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/8ylgYyP.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelty", "price": "43.99", "pic": "https://i.imgur.com/9M4llqF.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebar", "price": "29.99", "pic": "https://i.imgur.com/3gOFObl.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Brass Artisan", "price": "58.99", "pic": "https://i.imgur.com/6Lj9ivG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alu Artisan", "price": "43", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/8ylgYyP.png", "price_cny": "", "quantity": "617", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "43.99", "pic": "https://i.imgur.com/9M4llqF.png", "price_cny": "", "quantity": "335", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "29.99", "pic": "https://i.imgur.com/3gOFObl.png", "price_cny": "", "quantity": "235", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Brass Artisan", "price": "58.99", "pic": "https://i.imgur.com/6Lj9ivG.png", "price_cny": "", "quantity": "89", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alu Artisan", "price": "43", "pic": "", "price_cny": "", "quantity": "131", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/4vLEFbZ.png"

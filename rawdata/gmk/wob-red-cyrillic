@@ -16,12 +16,12 @@
     "link": "https://geekhack.org/index.php?topic=113956.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/YrZjrqmk/GMKwob-Red-Cyrillic-Orders211031fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/q47ZVJxg/GMKwob-Red-Cyrillic-Orders211031fin-Next.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/GPER1Yd.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Icon Mods", "price": "26", "pic": "https://i.imgur.com/40VBMU1.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/GPER1Yd.png", "price_cny": "", "quantity": "1007", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icon Mods", "price": "26", "pic": "https://i.imgur.com/40VBMU1.png", "price_cny": "", "quantity": "530", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/viZfCHx.png"

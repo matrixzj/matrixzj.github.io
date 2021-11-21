@@ -21,17 +21,19 @@ NOTE: USD to CNY exchange rate is 6.45
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|130.00|838.07|Unknown|
-|[Icon Mods](#icon-mods)|26.00|167.61|Unknown|
+|[Base](#base)|130.00|838.07|1007|
+|[Icon Mods](#icon-mods)|26.00|167.61|530|
 
+<img src="{{ 'assets/images/gmk-keycaps/WoB-Red-Cyrillic/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/WoB-Red-Cyrillic/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 130.00	**Price(CNY):** 838.07	**Quantity:** Unknown  
+**Price(USD):** 130.00	**Price(CNY):** 838.07	**Quantity:** 1007  
 <img src="{{ 'assets/images/gmk-keycaps/WoB-Red-Cyrillic/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Icon Mods  
-**Price(USD):** 26.00	**Price(CNY):** 167.61	**Quantity:** Unknown  
+**Price(USD):** 26.00	**Price(CNY):** 167.61	**Quantity:** 530  
 <img src="{{ 'assets/images/gmk-keycaps/WoB-Red-Cyrillic/kits_pics/icon-mods.png' | relative_url }}" alt="icon-mods" class="image featured">
 
 ## Info

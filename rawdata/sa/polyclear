@@ -14,15 +14,16 @@
     "link": "https://geekhack.org/index.php?topic=114643.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/9mzPV1yS/SApolyclear-Orders211020fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/jThBjjP4/SApolyclear-Orders211020fin-Next.png",
     "price_pic": "https://i.imgur.com/EuqhkFY.png",
     "price_list":[
-        { "name": "Alphas", "price": "39", "pic": "https://i.imgur.com/agUatMH.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Mods", "price": "69", "pic": "https://i.imgur.com/QWTc6XV.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "39", "pic": "https://i.imgur.com/WA9I8ts.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "F Row", "price": "19", "pic": "https://i.imgur.com/MpXbHq4.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "29", "pic": "https://i.imgur.com/SSY8ac2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Bars", "price": "19", "pic": "https://i.imgur.com/YDQ8xEl.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Alphas", "price": "39", "pic": "https://i.imgur.com/agUatMH.jpg", "price_cny": "", "quantity": "1464", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mods", "price": "69", "pic": "https://i.imgur.com/QWTc6XV.jpg", "price_cny": "", "quantity": "1329", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "39", "pic": "https://i.imgur.com/WA9I8ts.jpg", "price_cny": "", "quantity": "576", "price_table_format": "", "price_kit_format": "" },
+        { "name": "F Row", "price": "19", "pic": "https://i.imgur.com/MpXbHq4.jpg", "price_cny": "", "quantity": "931", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "29", "pic": "https://i.imgur.com/SSY8ac2.jpg", "price_cny": "", "quantity": "681", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Bars", "price": "19", "pic": "https://i.imgur.com/YDQ8xEl.jpg", "price_cny": "", "quantity": "553", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics": [
         "https://i.imgur.com/lyKSzQo.jpg"
