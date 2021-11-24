@@ -1,0 +1,31 @@
+{
+    "name": "JIS",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "2Moons",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-11-14 ~ 2021-12-14",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115306.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/qw0JVfJ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alphas", "price": "62.99", "pic": "https://cdn.shopify.com/s/files/1/0277/8021/8940/products/alphas_590x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "49.99", "pic": "https://i.imgur.com/NfPEWxS.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/tg0fdQd.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "JIS Screwdriver Artisan", "price": "40", "pic": "https://i.imgur.com/swLaxuY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "JIS Emergency Exit Artisan", "price": "45", "pic": "https://i.imgur.com/fhf4HUw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/ISvUvT5.jpg"
+    ]
+}

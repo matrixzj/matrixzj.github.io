@@ -1,0 +1,37 @@
+{
+    "name": "Dracula R2",
+    "cname": "德古拉R2",
+    "keycapstype": "GMK",
+    "designer": "pikku-allu",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-11-08 ~ 2021-12-08",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "://geekhack.org/index.php?topic=115268.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Main Core", "price": "114.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_01_Main_CORE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Nightmode Core", "price": "114.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_02_Nightmode_CORE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Git Core", "price": "114.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_03_Git_CORE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "42.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_04_Extension_MODULE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ligature", "price": "39.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_05_Ligature_MODULE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hightlight", "price": "36.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_06_Highlight_MODULE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Whitespace", "price": "26.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_07_Whitespace_MODULE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ERR", "price": "43.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_08_ERR__MODULE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Minify", "price": "43.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_09_Minify_MODULE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Command", "price": "27.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_10_Command_MODULE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro", "price": "27.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_11_Macro_MODULE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Localization", "price": "64.99", "pic": "https://cdn.shopify.com/s/files/1/0054/0878/4458/products/GMK_DRACV2_12_Localization_MODULE_dist_V1.1_800x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/PWWqIHw.jpg"
+    ]
+}

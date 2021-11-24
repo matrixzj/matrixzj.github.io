@@ -1,0 +1,38 @@
+{
+    "name": "Relegendables",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Surostu",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-11-16 ~ 2021-12-17",
+    "ets": "Q1 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115312.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/aRVLLFr.jpg",
+    "price_list":[
+        { "name": "CR Black-10", "price": "14", "pic": "https://i.imgur.com/tOTbUDk.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "CR Black-20", "price": "22", "pic": "https://i.imgur.com/6JrIWBL.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "WS1 White-10", "price": "14", "pic": "https://i.imgur.com/iqInXSK.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "WS1 White-20", "price": "22", "pic": "https://i.imgur.com/u7rs3gC.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "N9 Dolch-10", "price": "14", "pic": "https://i.imgur.com/J1IiO79.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "N9 Dolch-20", "price": "22", "pic": "https://i.imgur.com/btlAXYI.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "U9 Beige-10", "price": "14", "pic": "https://i.imgur.com/PZ4fRxy.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "U9 Beige-20", "price": "22", "pic": "https://i.imgur.com/Gsh08JK.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "L9 Beige-10", "price": "14", "pic": "https://i.imgur.com/rNoQCuz.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "L9 Beige-20", "price": "22", "pic": "https://i.imgur.com/2bJeLpU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Front Print CR Black", "price": "35", "pic": "https://i.imgur.com/So8vVP8.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Front Print U9 Beige", "price": "35", "pic": "https://i.imgur.com/zIsZTd2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Metal Artisan", "price": "50", "pic": "https://i.imgur.com/Ki73Vbx.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/f5cz6pS.jpg"
+    ]
+}

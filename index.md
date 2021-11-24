@@ -172,6 +172,11 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Relegendables](docs/gmk-keycaps/Relegendables/)
+* [Villanelle](docs/gmk-keycaps/Villanelle/)
+* [JIS](docs/gmk-keycaps/JIS/)
+* [Matsu](docs/gmk-keycaps/Matsu/)
+* [Dracula R2 德古拉R2](docs/gmk-keycaps/Dracula-R2/)
 * [Tiramisu 提拉米苏](docs/gmk-keycaps/Tiramisu/)
 * [Hooty](docs/gmk-keycaps/Hooty/)
 * [November Fog](docs/gmk-keycaps/November-Fog/)
