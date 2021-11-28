@@ -1,0 +1,25 @@
+{
+    "name": "X-Wing",
+    "cname": "",
+    "keycapstype": "SA",
+    "designer": "",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-11-01 ~ 2021-11-30",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "NovelKeys",
+    "link": "https://novelkeys.com/products/x-wing",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "All", "price": "250", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/X-WING_Kit_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://cdn.shopify.com/s/files/1/3099/8088/products/X-WING_Tile_1512x.jpg"
+    ]
+}
