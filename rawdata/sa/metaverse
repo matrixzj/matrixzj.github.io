@@ -1,0 +1,30 @@
+{
+    "name": "Metaverse",
+    "cname": "",
+    "keycapstype": "SA",
+    "designer": "Dead Encryption",
+    "profile": "1-1-2-3-4-3",
+    "time": "2021-12-02 ~ 2022-01-02",
+    "ets": "Aug 9, 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "MD",
+    "link": "https://drop.com/buy/drop-sa-metaverse-keycap-set",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Latin Base", "price": "140", "pic": "https://massdrop-s3.imgix.net/product-images/drop-sa-metaverse-keycap-set/FP/58UeKwS2a0xRhB9h5CWA_1%20-%20Latin%20Base%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Gaijin Base", "price": "140", "pic": "https://massdrop-s3.imgix.net/product-images/drop-sa-metaverse-keycap-set/FP/BFG4dxXqRCKjrXaSMj7A_2%20-%20Gaijin%20Base%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Ortho", "price": "65", "pic": "https://massdrop-s3.imgix.net/product-images/drop-sa-metaverse-keycap-set/FP/VXKJlSeOQjWG3n2qUW64_4%20-%20Orho%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "30", "pic": "https://massdrop-s3.imgix.net/product-images/drop-sa-metaverse-keycap-set/FP/mQsynz6xRAmqF0z4qCGY_3%20-%20Numpad%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://massdrop-s3.imgix.net/product-images/drop-sa-metaverse-keycap-set/FP/Sd3WB416RWqgHMUVOBjf_5%20-%20Novelty%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "15", "pic": "https://massdrop-s3.imgix.net/product-images/drop-sa-metaverse-keycap-set/FP/NeHphbQReGxuTCBIW4ZA_6%20-%20Space%20Bars%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://massdrop-s3.imgix.net/product-images/drop-sa-metaverse-keycap-set/FP/uHUNjdWTe2mIcepjqPOz_SA%20Metaverse%20-%20GMMK%20Pro.png"
+    ]
+}

@@ -25,6 +25,8 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Metaverse](docs/sa-keycaps/Metaverse/)
+* [Calculator 计算器](docs/sa-keycaps/Calculator/)
 * [X-Wing](docs/sa-keycaps/X-Wing/)
 * [Geoma](docs/sa-keycaps/Geoma/)
 * [Green Screen R2 绿屏R2](docs/sa-keycaps/Green-Screen-R2/)
@@ -173,6 +175,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Camping R3 野营R3](docs/gmk-keycaps/Camping-R3/)
+* [Trash Friends](docs/gmk-keycaps/Trash-Friends/)
+* [Night Runner R2 夜跑R2](docs/gmk-keycaps/Night-Runner-R2/)
 * [Relegendables](docs/gmk-keycaps/Relegendables/)
 * [Villanelle](docs/gmk-keycaps/Villanelle/)
 * [JIS](docs/gmk-keycaps/JIS/)
