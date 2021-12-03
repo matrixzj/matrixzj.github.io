@@ -2,7 +2,7 @@
     "name": "Calculator",
     "cname": "计算器",
     "keycapstype": "SA",
-    "designer": "",
+    "designer": "Triple Tension",
     "profile": "1-1-2-3-4-3",
     "time": "2021-12-01 ~ 2022-01-10",
     "ets": "Q2 2023",
@@ -12,21 +12,21 @@
     "color_pics":[
         "https://img.zfrontier.com/post/20211129/Fp46OprIP5WhnRcf1FJqgen6tZrQ"
     ],
-    "platform": "ZF",
-    "link": "",
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=114945.0",
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Latin Alphas", "price": "", "pic": "https://img.zfrontier.com/post/20211129/FsUTJhCIquIw_yAhfw4QeChw58VY", "price_cny": "295", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "ASCII Alphas", "price": "", "pic": "https://img.zfrontier.com/post/20211129/FioMJzywk9vINDk9LzjbeXCTWWTV", "price_cny": "425", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Modifiers", "price": "", "pic": "https://img.zfrontier.com/post/20211129/Fn3zLYtS9XUT_4kvzpe14x21E2LY", "price_cny": "810", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "", "pic": "https://img.zfrontier.com/post/20211129/FuNsBUD4K5__4EP9iqjYYnUkfSsK", "price_cny": "315", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "", "pic": "https://img.zfrontier.com/post/20211129/FrwC3ZusibDUEYQ0Pc7vdwT14ag6", "price_cny": "485", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "", "pic": "https://img.zfrontier.com/post/20211129/FmQqLpeE0Yo_Az7eC8rgJA2oc9iW", "price_cny": "145", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Forties", "price": "", "pic": "https://img.zfrontier.com/post/20211129/FnH3nIrwMuSFqd0qsii6iyMz4Yzp", "price_cny": "505", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hibi R1 Artisan", "price": "", "pic": "https://img.zfrontier.com/post/20211129/FmJ3xkXvbrtUlRmMt8wrj_3bJJXI", "price_cny": "359", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Latin Alphas", "price": "42.99", "pic": "https://img.zfrontier.com/post/20211129/FsUTJhCIquIw_yAhfw4QeChw58VY", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ASCII Alphas", "price": "66.99", "pic": "https://img.zfrontier.com/post/20211129/FioMJzywk9vINDk9LzjbeXCTWWTV", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Modifiers", "price": "124.99", "pic": "https://img.zfrontier.com/post/20211129/Fn3zLYtS9XUT_4kvzpe14x21E2LY", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "49.99", "pic": "https://img.zfrontier.com/post/20211129/FuNsBUD4K5__4EP9iqjYYnUkfSsK", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "74.99", "pic": "https://img.zfrontier.com/post/20211129/FrwC3ZusibDUEYQ0Pc7vdwT14ag6", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "21.99", "pic": "https://img.zfrontier.com/post/20211129/FmQqLpeE0Yo_Az7eC8rgJA2oc9iW", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Forties", "price": "74.99", "pic": "https://img.zfrontier.com/post/20211129/FnH3nIrwMuSFqd0qsii6iyMz4Yzp", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi R1 Artisan", "price": "49.99", "pic": "https://img.zfrontier.com/post/20211129/FmJ3xkXvbrtUlRmMt8wrj_3bJJXI", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics": [
         "https://img.zfrontier.com/post/20211129/lvnBCAFVtlzjM653WLKaWFp0AjRI"
