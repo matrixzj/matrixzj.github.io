@@ -1,0 +1,37 @@
+{
+    "name": "Olive R2",
+    "cname": "橄榄R2",
+    "keycapstype": "GMK",
+    "designer": "olivia",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-12-03 ~ 2022-01-01",
+    "ets": "Q1 2023",
+    "colorcodes":[
+        "|Blanc Alphas|RAL 100 90 10|RAL 110 60 20",
+        "|Noir Alphas/Modifiers|RAL 100 30 05|RAL 110 60 20",
+        "|Accents|RAL 110 60 20|RAL 10 30 05"
+    ],
+    "color_pics":[
+        "https://matrixzj.github.io/assets/images/gmk-keycaps/olive/color.png"
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Blanc", "price": "99", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_OliveR2_Blanc_KIT_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Noir", "price": "99", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_OliveR2_Noir_KIT_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ISO", "price": "30", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_OliveR2_Iso_KIT_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_OliveR2_Extension_KIT_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "15", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_OliveR2_Novelties_KIT_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "18", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_OliveR2_Spacebars_KIT_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Enter Artisan", "price": "52", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/HIBI_OliveR2_Enter_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi R1 Artisan", "price": "40", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/HIBI_OliveR2_1U_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/3099/8088/products/Cypher1_5416886a-bee4-4d50-93ca-19a093ce88d2_1512x.png"
+    ]
+}

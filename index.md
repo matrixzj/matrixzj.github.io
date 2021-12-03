@@ -175,6 +175,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Olive R2 橄榄R2](docs/gmk-keycaps/Olive-R2/)
 * [Camping R3 野营R3](docs/gmk-keycaps/Camping-R3/)
 * [Trash Friends](docs/gmk-keycaps/Trash-Friends/)
 * [Night Runner R2 夜跑R2](docs/gmk-keycaps/Night-Runner-R2/)
