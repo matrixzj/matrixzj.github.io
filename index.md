@@ -27,6 +27,7 @@ Just buy it :)
 ### 2021
 * [Metaverse](docs/sa-keycaps/Metaverse/)
 * [Calculator 计算器](docs/sa-keycaps/Calculator/)
+* [Ming 明](docs/sa-keycaps/Ming/)
 * [X-Wing](docs/sa-keycaps/X-Wing/)
 * [Geoma](docs/sa-keycaps/Geoma/)
 * [Green Screen R2 绿屏R2](docs/sa-keycaps/Green-Screen-R2/)
@@ -175,6 +176,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Power Chord](docs/gmk-keycaps/Power-Chord/)
 * [Olive R2 橄榄R2](docs/gmk-keycaps/Olive-R2/)
 * [Camping R3 野营R3](docs/gmk-keycaps/Camping-R3/)
 * [Trash Friends](docs/gmk-keycaps/Trash-Friends/)
