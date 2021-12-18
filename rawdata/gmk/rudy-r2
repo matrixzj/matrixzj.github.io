@@ -14,15 +14,15 @@
     "link": "https://geekhack.org/index.php?topic=114814.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/wgNKdfc3/GMKrudy-R2orders211101fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Standard Base", "price": "134.99", "pic": "https://cdn.discordapp.com/attachments/337783518434164743/883850480336388096/GMK_Rudy_R2_Standard_Base_full_V2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Dark Horse Base", "price": "134.99", "pic": "https://cdn.discordapp.com/attachments/337783518434164743/883850472740507658/GMK_Rudy_R2_Dark_Horse_Base_full_V2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "37.99", "pic": "https://cdn.discordapp.com/attachments/337783518434164743/883850473768103946/GMK_Rudy_R2_Spacebars_full_V2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Navy Alu Kei Artisan", "price": "37", "pic": "https://cdn.discordapp.com/attachments/575424854967189539/888565206614167592/Navy_Front.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Gold Brass Kei Artisan", "price": "47", "pic": "https://cdn.discordapp.com/attachments/575424854967189539/888565202029785148/Brass_Front.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Standard Base", "price": "134.99", "pic": "https://cdn.discordapp.com/attachments/337783518434164743/883850480336388096/GMK_Rudy_R2_Standard_Base_full_V2.png", "price_cny": "", "quantity": "1778", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Horse Base", "price": "134.99", "pic": "https://cdn.discordapp.com/attachments/337783518434164743/883850472740507658/GMK_Rudy_R2_Dark_Horse_Base_full_V2.png", "price_cny": "", "quantity": "355", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "37.99", "pic": "https://cdn.discordapp.com/attachments/337783518434164743/883850473768103946/GMK_Rudy_R2_Spacebars_full_V2.png", "price_cny": "", "quantity": "688", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Navy Alu Kei Artisan", "price": "37", "pic": "https://cdn.discordapp.com/attachments/575424854967189539/888565206614167592/Navy_Front.png", "price_cny": "", "quantity": "82", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Gold Brass Kei Artisan", "price": "47", "pic": "https://cdn.discordapp.com/attachments/575424854967189539/888565202029785148/Brass_Front.png", "price_cny": "", "quantity": "180", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://cdn.discordapp.com/attachments/337783518434164743/883527231866019921/1.jpg"

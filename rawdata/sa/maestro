@@ -16,14 +16,15 @@
     "link": "https://geekhack.org/index.php?topic=114740.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/gzpX6dMw/SAmaestro-Orders211108fin-Yext.png",
     "price_pic": "https://i.imgur.com/dJqVkQS.jpg",
     "price_list":[
-        { "name": "Uniform R3 Base", "price": "165", "pic": "https://i.imgur.com/Xu9wCcO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Sculpted TKL", "price": "145", "pic": "https://i.imgur.com/pq3ppoS.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "39", "pic": "https://i.imgur.com/SFM9aO9.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Arrows", "price": "19", "pic": "https://i.imgur.com/IcgGLfH.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Pedals", "price": "29", "pic": "https://i.imgur.com/svQUXpx.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Uniform R3 Base", "price": "165", "pic": "https://i.imgur.com/Xu9wCcO.png", "price_cny": "", "quantity": "263", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Sculpted TKL", "price": "145", "pic": "https://i.imgur.com/pq3ppoS.png", "price_cny": "", "quantity": "226", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "39", "pic": "https://i.imgur.com/SFM9aO9.png", "price_cny": "", "quantity": "75", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Arrows", "price": "19", "pic": "https://i.imgur.com/IcgGLfH.png", "price_cny": "", "quantity": "259", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Pedals", "price": "29", "pic": "https://i.imgur.com/svQUXpx.jpg", "price_cny": "", "quantity": "133", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei R3 Artisan", "price": "50", "pic": "https://i.imgur.com/Evwix8n.png", "price_cny": "", "quantity": "196", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics": [
         "https://i.imgur.com/wkgXZil.png"

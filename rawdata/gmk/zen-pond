@@ -14,18 +14,18 @@
     "link": "https://geekhack.org/index.php?topic=114820.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/CMLnyzvn/GMKzen-Pond-Orders211115fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "https://i.ibb.co/YWp2s0Q/price-list-02-01.jpg",
     "price_list":[
-        { "name": "Base Hiragana", "price": "125", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/1-GMK-Zen-Pond-Keycaps-Hiragana-Base-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Base Latin", "price": "125", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/2-GMK-Zen-Pond-Keycaps-Latin-Base-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "49", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/3-GMK-Zen-Pond-Keycaps-Novelties-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "39", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/4-GMK-Zen-Pond-Keycaps-Numpad-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebar", "price": "39", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/5-GMK-Zen-Pond-Keycaps-Spacebars-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "40s", "price": "44", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/6-GMK-Zen-Pond-Keycaps-40s-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hibi Zen Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/1-GMK-Zen-Pond-HIBI-Zen-Metal-Artisan-Keycap-Mechanical-Keyboard-Vala-Supply-SxM-Designs_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hibi Koi Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/2-GMK-Zen-Pond-HIBI-Koi-Metal-Artisan-Keycap-Mechanical-Keyboard-Vala-Supply-SxM-Designs_jpg_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base Hiragana", "price": "125", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/1-GMK-Zen-Pond-Keycaps-Hiragana-Base-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "1735", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Base Latin", "price": "125", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/2-GMK-Zen-Pond-Keycaps-Latin-Base-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "500", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/3-GMK-Zen-Pond-Keycaps-Novelties-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "1820", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "39", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/4-GMK-Zen-Pond-Keycaps-Numpad-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "196", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "39", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/5-GMK-Zen-Pond-Keycaps-Spacebars-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "412", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "44", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/6-GMK-Zen-Pond-Keycaps-40s-Vala-Supply-SxM-Designs-Mechanical-Keyboard_900x.jpg", "price_cny": "", "quantity": "29", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Zen Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/1-GMK-Zen-Pond-HIBI-Zen-Metal-Artisan-Keycap-Mechanical-Keyboard-Vala-Supply-SxM-Designs_900x.jpg", "price_cny": "", "quantity": "589", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Koi Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/2-GMK-Zen-Pond-HIBI-Koi-Metal-Artisan-Keycap-Mechanical-Keyboard-Vala-Supply-SxM-Designs_jpg_900x.jpg", "price_cny": "", "quantity": "518", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/9-GMK-Zen-Pond-Keycaps-Sayantan-x-Mechanix-Designs-Iron180-Vala-Supply-Smith-and-Rune-Mechanical-Keyboard-4_900x.jpg"

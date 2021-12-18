@@ -25,7 +25,7 @@ NOTE: USD to CNY exchange rate is 6.48
 |[Hangul](#hangul)|85.99|557.34|Unknown|
 |[Spacebars](#spacebars)|22.99|149.01|Unknown|
 |[Extension](#extension)|45.99|298.08|Unknown|
-|[R5](#r5)|38.99|252.71|Unknown|
+|[~~R5~~](#r5)|38.99|252.71|Unknown|
 |[RAMA X](#rama-x)|38.00|246.29|Unknown|
 |[RAMA O](#rama-o)|38.00|246.29|Unknown|
 
@@ -48,7 +48,7 @@ NOTE: USD to CNY exchange rate is 6.48
 **Price(USD):** 45.99	**Price(CNY):** 298.08	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Jags/kits_pics/extension.png' | relative_url }}" alt="extension" class="image featured">
 
-### R5  
+### ~~R5~~  
 **Price(USD):** 38.99	**Price(CNY):** 252.71	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Jags/kits_pics/r5.png' | relative_url }}" alt="r5" class="image featured">
 

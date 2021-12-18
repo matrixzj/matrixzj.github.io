@@ -21,48 +21,49 @@ NOTE: USD to CNY exchange rate is 6.45
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base Hiragana](#base-hiragana)|125.00|805.84|Unknown|
-|[Base Latin](#base-latin)|125.00|805.84|Unknown|
-|[Novelties](#novelties)|49.00|315.89|Unknown|
-|[Numpad](#numpad)|39.00|251.42|Unknown|
-|[Spacebar](#spacebar)|39.00|251.42|Unknown|
-|[40s](#40s)|44.00|283.65|Unknown|
-|[Hibi Zen Artisan](#hibi-zen-artisan)|45.00|290.10|Unknown|
-|[Hibi Koi Artisan](#hibi-koi-artisan)|45.00|290.10|Unknown|
+|[Base Hiragana](#base-hiragana)|125.00|805.84|1735|
+|[Base Latin](#base-latin)|125.00|805.84|500|
+|[Novelties](#novelties)|49.00|315.89|1820|
+|[Numpad](#numpad)|39.00|251.42|196|
+|[Spacebar](#spacebar)|39.00|251.42|412|
+|[~~40s~~](#40s)|44.00|283.65|29|
+|[Hibi Zen Artisan](#hibi-zen-artisan)|45.00|290.10|589|
+|[Hibi Koi Artisan](#hibi-koi-artisan)|45.00|290.10|518|
 
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base Hiragana  
-**Price(USD):** 125.00	**Price(CNY):** 805.84	**Quantity:** Unknown  
+**Price(USD):** 125.00	**Price(CNY):** 805.84	**Quantity:** 1735  
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/base-hiragana.jpg' | relative_url }}" alt="base-hiragana" class="image featured">
 
 ### Base Latin  
-**Price(USD):** 125.00	**Price(CNY):** 805.84	**Quantity:** Unknown  
+**Price(USD):** 125.00	**Price(CNY):** 805.84	**Quantity:** 500  
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/base-latin.jpg' | relative_url }}" alt="base-latin" class="image featured">
 
 ### Novelties  
-**Price(USD):** 49.00	**Price(CNY):** 315.89	**Quantity:** Unknown  
+**Price(USD):** 49.00	**Price(CNY):** 315.89	**Quantity:** 1820  
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Numpad  
-**Price(USD):** 39.00	**Price(CNY):** 251.42	**Quantity:** Unknown  
+**Price(USD):** 39.00	**Price(CNY):** 251.42	**Quantity:** 196  
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
 ### Spacebar  
-**Price(USD):** 39.00	**Price(CNY):** 251.42	**Quantity:** Unknown  
+**Price(USD):** 39.00	**Price(CNY):** 251.42	**Quantity:** 412  
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/spacebar.jpg' | relative_url }}" alt="spacebar" class="image featured">
 
-### 40s  
-**Price(USD):** 44.00	**Price(CNY):** 283.65	**Quantity:** Unknown  
+### ~~40s~~  
+**Price(USD):** 44.00	**Price(CNY):** 283.65	**Quantity:** 29  
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### Hibi Zen Artisan  
-**Price(USD):** 45.00	**Price(CNY):** 290.10	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 290.10	**Quantity:** 589  
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/hibi-zen-artisan.jpg' | relative_url }}" alt="hibi-zen-artisan" class="image featured">
 
 ### Hibi Koi Artisan  
-**Price(USD):** 45.00	**Price(CNY):** 290.10	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 290.10	**Quantity:** 518  
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/hibi-koi-artisan.jpg' | relative_url }}" alt="hibi-koi-artisan" class="image featured">
 
 ## Info

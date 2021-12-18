@@ -23,8 +23,8 @@ NOTE: USD to CNY exchange rate is 6.38
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|126.00|804.28|Unknown|
 |[Addition](#addition)|34.00|217.03|Unknown|
-|[International](#international)|76.00|485.12|Unknown|
-|[HIBI Artisan](#hibi-artisan)|41.00|261.71|Unknown|
+|[~~International~~](#international)|76.00|485.12|Unknown|
+|[HIBI Artisan](#hibi-artisan)|40.00|255.33|Unknown|
 
 
 ## Kits
@@ -36,12 +36,12 @@ NOTE: USD to CNY exchange rate is 6.38
 **Price(USD):** 34.00	**Price(CNY):** 217.03	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Villanelle/kits_pics/addition.png' | relative_url }}" alt="addition" class="image featured">
 
-### International  
+### ~~International~~  
 **Price(USD):** 76.00	**Price(CNY):** 485.12	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Villanelle/kits_pics/international.png' | relative_url }}" alt="international" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** 41.00	**Price(CNY):** 261.71	**Quantity:** Unknown  
+**Price(USD):** 40.00	**Price(CNY):** 255.33	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Villanelle/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info
@@ -50,6 +50,11 @@ NOTE: USD to CNY exchange rate is 6.38
 * GB Time: 2021-11-15 ~ 2022-12-15  
 * Estimated Shipping Time: Q1 2023  
 * Color Codes:  
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Base|RAL 010 20 25|
+|Accents|RAL 010 20 25|RAL 330 85 15
 
 
 ## Pictures  

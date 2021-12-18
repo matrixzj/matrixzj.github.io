@@ -20,17 +20,17 @@
     "link": "https://geekhack.org/index.php?topic=114810.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/cxCdkQBT/GMKsoyamilk-Orders211101fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/Td0TCtbK/GMKsoyamilk-Orders211101fin-Next.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "130.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "51.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Latin Alphas", "price": "49.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Accent", "price": "29.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extensions", "price": "32.99", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "KEI Artisan", "price": "40", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hibi Artisan", "price": "42", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "130.99", "pic": "https://i.imgur.com/bWpBqCz.jpg", "price_cny": "", "quantity": "1884", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "51.99", "pic": "https://i.imgur.com/vCr2oyg.jpg", "price_cny": "", "quantity": "1206", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "49.99", "pic": "https://i.imgur.com/vSDpZ3A.jpg", "price_cny": "", "quantity": "227", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent", "price": "29.99", "pic": "https://i.imgur.com/qMFDmsA.jpg", "price_cny": "", "quantity": "532", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "32.99", "pic": "https://i.imgur.com/pbMyaNt.jpg", "price_cny": "", "quantity": "110", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "40", "pic": "https://i.imgur.com/hPmUWdD.jpg", "price_cny": "", "quantity": "233", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Artisan", "price": "42", "pic": "https://i.imgur.com/iR8wAhx.png", "price_cny": "", "quantity": "459", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/wmqxB28.jpg"

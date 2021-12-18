@@ -21,36 +21,45 @@ NOTE: USD to CNY exchange rate is 6.45
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|130.99|844.45|Unknown|
-|[Novelties](#novelties)|51.99|335.16|Unknown|
-|[Latin Alphas](#latin-alphas)|49.99|322.27|Unknown|
-|[Accent](#accent)|29.99|193.34|Unknown|
-|[Extensions](#extensions)|32.99|212.68|Unknown|
-|[KEI Artisan](#kei-artisan)|40.00|257.87|Unknown|
-|[Hibi Artisan](#hibi-artisan)|42.00|270.76|Unknown|
+|[Base](#base)|130.99|844.45|1884|
+|[Novelties](#novelties)|51.99|335.16|1206|
+|[Latin Alphas](#latin-alphas)|49.99|322.27|227|
+|[Accent](#accent)|29.99|193.34|532|
+|[Extensions](#extensions)|32.99|212.68|110|
+|[Monokei Artisan](#monokei-artisan)|40.00|257.87|233|
+|[Hibi Artisan](#hibi-artisan)|42.00|270.76|459|
 
+<img src="{{ 'assets/images/gmk-keycaps/Soyamilk/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Soyamilk/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 130.99	**Price(CNY):** 844.45	**Quantity:** Unknown  
+**Price(USD):** 130.99	**Price(CNY):** 844.45	**Quantity:** 1884  
+<img src="{{ 'assets/images/gmk-keycaps/Soyamilk/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 51.99	**Price(CNY):** 335.16	**Quantity:** Unknown  
+**Price(USD):** 51.99	**Price(CNY):** 335.16	**Quantity:** 1206  
+<img src="{{ 'assets/images/gmk-keycaps/Soyamilk/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Latin Alphas  
-**Price(USD):** 49.99	**Price(CNY):** 322.27	**Quantity:** Unknown  
+**Price(USD):** 49.99	**Price(CNY):** 322.27	**Quantity:** 227  
+<img src="{{ 'assets/images/gmk-keycaps/Soyamilk/kits_pics/latin-alphas.jpg' | relative_url }}" alt="latin-alphas" class="image featured">
 
 ### Accent  
-**Price(USD):** 29.99	**Price(CNY):** 193.34	**Quantity:** Unknown  
+**Price(USD):** 29.99	**Price(CNY):** 193.34	**Quantity:** 532  
+<img src="{{ 'assets/images/gmk-keycaps/Soyamilk/kits_pics/accent.jpg' | relative_url }}" alt="accent" class="image featured">
 
 ### Extensions  
-**Price(USD):** 32.99	**Price(CNY):** 212.68	**Quantity:** Unknown  
+**Price(USD):** 32.99	**Price(CNY):** 212.68	**Quantity:** 110  
+<img src="{{ 'assets/images/gmk-keycaps/Soyamilk/kits_pics/extensions.jpg' | relative_url }}" alt="extensions" class="image featured">
 
-### KEI Artisan  
-**Price(USD):** 40.00	**Price(CNY):** 257.87	**Quantity:** Unknown  
+### Monokei Artisan  
+**Price(USD):** 40.00	**Price(CNY):** 257.87	**Quantity:** 233  
+<img src="{{ 'assets/images/gmk-keycaps/Soyamilk/kits_pics/monokei-artisan.jpg' | relative_url }}" alt="monokei-artisan" class="image featured">
 
 ### Hibi Artisan  
-**Price(USD):** 42.00	**Price(CNY):** 270.76	**Quantity:** Unknown  
+**Price(USD):** 42.00	**Price(CNY):** 270.76	**Quantity:** 459  
+<img src="{{ 'assets/images/gmk-keycaps/Soyamilk/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info
 * Designer: STUDIOBLB  
