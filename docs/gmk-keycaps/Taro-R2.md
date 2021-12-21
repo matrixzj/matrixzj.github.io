@@ -28,7 +28,7 @@ NOTE: USD to CNY exchange rate is 7.00
 |[Extra Straws](#extra-straws)|25.00|175.00|255|
 |[Extra Toppings](#extra-toppings)|45.00|315.00|330|
 |[Small Portion](#small-portion)|45.00|315.00|330|
-|[Extra Sugar](#extra-sugar)|60.00|420.00|152|
+|[~~Extra Sugar~~](#extra-sugar)|60.00|420.00|152|
 
 <img src="{{ 'assets/images/gmk-keycaps/taror2/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/taror2/order.png' | relative_url }}" alt="order" class="image featured">
@@ -62,7 +62,7 @@ NOTE: USD to CNY exchange rate is 7.00
 **Price(GH):** 45.00    **Price(CNY):** 315.00    **Quantity:** 330  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/small-portion.jpg' | relative_url }}" alt="small-portion" class="image featured">
 
-### Extra Sugar  
+### ~~Extra Sugar~~  
 **Price(GH):** 60.00    **Price(CNY):** 420.00    **Quantity:** 152  
 <img src="{{ 'assets/images/gmk-keycaps/taror2/kits_pics/extra-sugar.jpg' | relative_url }}" alt="extra-sugar" class="image featured">
 

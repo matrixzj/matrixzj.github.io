@@ -20,28 +20,33 @@ ref link: [OCO Purchase Link](https://www.originativeco.com/products/sa-penumbra
 NOTE: USD to RMB exchange rate is 6.07 during 2014-01  
 OCO Price was 260 USD.
 
-| Name          | Price(USD)    |  Price(RMB) |  Price(ZF) | Quantity |
-| ------------- | ------------- |  ---------- |  --------- | -------- |
-|[Base](#base)|unknown|unknown|unknown|unknown|
-|[Solarized Alphas](#solarizedalphas)|unknown|unknown|unknown|unknown|
-|[Tsangan](#tsangan)|unknown|unknown|unknown|unknown|
-|[Numpad](#numpad)|unknown|unknown|unknown|unknown|
-|[SolarISO](#solariso)|unknown|unknown|unknown|unknown|
+| Name          | Price(USD)    |  Price(RMB) | Quantity |
+| ------------- | ------------- |  ---------- | -------- |
+|[Base](#base)|85.00|515.95|unknown|
+|[Solarized Alphas](#solarizedalphas)|45.00|273.15|unknown|
+|[Tsangan](#tsangan)|25.00|151.75|unknown|
+|[Numpad](#numpad)|20.00|121.40|unknown|
+|[SolarISO](#solariso)|15.00|91.05|unknown|
 
 ## Kits
 ### Base
+**Price(USD):** 85.00  **Price(RMB):** 515.95 **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Solarized Alphas
+**Price(USD):** 45.00  **Price(RMB):** 273.15 **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/solarizedalphas.png' | relative_url }}" alt="SolarizedAlphas" class="image featured">
 
 ### Tsangan
+**Price(USD):** 25.00  **Price(RMB):** 151.75 **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/tsangan.png' | relative_url }}" alt="Tsangan" class="image featured">
 
 ### Numpad
+**Price(USD):** 20.00  **Price(RMB):** 121.40 **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/numpad.png' | relative_url }}" alt="Numpad" class="image featured">
 
 ### SolarISO
+**Price(USD):** 15.00  **Price(RMB):** 91.05 **Quantity:** Unknown  
 <img src="{{ 'assets/images/sa-keycaps/penumbra/kits_pics/solariso.png' | relative_url }}" alt="SolarISO" class="image featured">
 
 ## Info
