@@ -22,7 +22,9 @@ NOTE: USD to CNY exchange rate is 6.44
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|134.99|869.23|1066|
+|[Origins Base](#origins-base)|134.99|869.23|Canceled|
 |[Novelties](#novelties)|54.99|354.09|617|
+|[Extension](#extension)|34.99|225.31|Canceled|
 |[Nom](#nom)|29.99|193.11|260|
 
 <img src="{{ 'assets/images/gmk-keycaps/Patisserie/order.png' | relative_url }}" alt="order" class="image featured">
@@ -32,9 +34,17 @@ NOTE: USD to CNY exchange rate is 6.44
 **Price(USD):** 134.99	**Price(CNY):** 869.23	**Quantity:** 1066  
 <img src="{{ 'assets/images/gmk-keycaps/Patisserie/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
+### Origins Base  
+**Price(USD):** 134.99	**Price(CNY):** 869.23	**Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/Patisserie/kits_pics/origins-base.png' | relative_url }}" alt="origins-base" class="image featured">
+
 ### Novelties  
 **Price(USD):** 54.99	**Price(CNY):** 354.09	**Quantity:** 617  
 <img src="{{ 'assets/images/gmk-keycaps/Patisserie/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
+
+### Extension  
+**Price(USD):** 34.99	**Price(CNY):** 225.31	**Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/Patisserie/kits_pics/extension.png' | relative_url }}" alt="extension" class="image featured">
 
 ### Nom  
 **Price(USD):** 29.99	**Price(CNY):** 193.11	**Quantity:** 260  

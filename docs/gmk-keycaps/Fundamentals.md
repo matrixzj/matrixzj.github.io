@@ -22,7 +22,7 @@ NOTE: USD to CNY exchange rate is 6.65
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|115.00|765.15|647|
-|[~~Additional~~](#additional)|35.00|232.87|12|
+|[~~Additional~~](#additional)|35.00|232.87|Canceled|
 |[Accent](#accent)|40.00|266.14|594|
 |[Spacebars](#spacebars)|25.00|166.34|105|
 
@@ -35,7 +35,7 @@ NOTE: USD to CNY exchange rate is 6.65
 <img src="{{ 'assets/images/gmk-keycaps/Fundamentals/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### ~~Additional~~  
-**Price(USD):** 35.00	**Price(CNY):** 232.87	**Quantity:** 12  
+**Price(USD):** 35.00	**Price(CNY):** 232.87	**Quantity:** Canceled  
 <img src="{{ 'assets/images/gmk-keycaps/Fundamentals/kits_pics/additional.png' | relative_url }}" alt="additional" class="image featured">
 
 ### Accent  

@@ -25,6 +25,7 @@ NOTE: USD to CNY exchange rate is 7.00
 |[Ghost](#ghost)|66.00|462.00|262|
 |[Caldera](#caldera)|38.00|266.00|291|
 |[Lahar](#lahar)|32.00|224.00|162|
+|[~~Basalt~~](#Basalt)|35.00|245.00|Canceled|
 
 <img src="{{ 'assets/images/gmk-keycaps/ashes/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/ashes/order.png' | relative_url }}" alt="order" class="image featured">
@@ -46,6 +47,9 @@ NOTE: USD to CNY exchange rate is 7.00
 **Price(GH):** 32.00    **Price(CNY):** 224.00    **Quantity:** 162  
 <img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/lahar.jpg' | relative_url }}" alt="lahar" class="image featured">
 
+### ~~Basalt~~  
+**Price(GH):** 35.00    **Price(CNY):** 245.00    **Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/basalt.jpg' | relative_url }}" alt="basalt" class="image featured">
 
 ## Info  
 * Designer: Tyson  

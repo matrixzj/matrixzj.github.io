@@ -26,7 +26,7 @@ NOTE: USD to CNY exchange rate is 6.45
 |[Novelties](#novelties)|49.00|315.89|1820|
 |[Numpad](#numpad)|39.00|251.42|196|
 |[Spacebar](#spacebar)|39.00|251.42|412|
-|[~~40s~~](#40s)|44.00|283.65|29|
+|[~~40s~~](#40s)|44.00|283.65|Canceled|
 |[Hibi Zen Artisan](#hibi-zen-artisan)|45.00|290.10|589|
 |[Hibi Koi Artisan](#hibi-koi-artisan)|45.00|290.10|518|
 
@@ -55,7 +55,7 @@ NOTE: USD to CNY exchange rate is 6.45
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/spacebar.jpg' | relative_url }}" alt="spacebar" class="image featured">
 
 ### ~~40s~~  
-**Price(USD):** 44.00	**Price(CNY):** 283.65	**Quantity:** 29  
+**Price(USD):** 44.00	**Price(CNY):** 283.65	**Quantity:** Canceled  
 <img src="{{ 'assets/images/gmk-keycaps/Zen-Pond/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### Hibi Zen Artisan  

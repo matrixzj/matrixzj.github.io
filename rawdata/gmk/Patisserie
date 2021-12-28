@@ -21,7 +21,9 @@
     "order_graph_without": "",
     "price_list":[
         { "name": "Base", "price": "134.99", "pic": "https://i.imgur.com/jmCFifB.png", "price_cny": "", "quantity": "1066", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Origins Base", "price": "134.99", "pic": "https://i.postimg.cc/7HztWgR3/03b-GMKpatisserie-Origins-Base-Canceled.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Novelties", "price": "54.99", "pic": "https://i.imgur.com/DDKjNpW.png", "price_cny": "", "quantity": "617", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "34.99", "pic": "https://i.postimg.cc/rscfSPC8/02b-GMKpatisserie-Extension-Canceled.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Nom", "price": "29.99", "pic": "https://i.imgur.com/74P3GG8.png", "price_cny": "", "quantity": "260", "price_table_format": "", "price_kit_format": "" }
     ],
     "price_pic": "",

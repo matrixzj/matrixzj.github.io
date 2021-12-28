@@ -23,7 +23,7 @@ NOTE: USD to CNY exchange rate is 6.48
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|134.99|874.94|500|
 |[Spacebars](#spacebars)|39.99|259.20|109|
-|[40s](#40s)|45.99|298.08|25|
+|[~~40s~~](#40s)|45.99|298.08|Canceled|
 |[Greek Addon](#greek-addon)|85.99|557.34|183|
 |[Blue Accents](#blue-accents)|39.99|259.20|150|
 |[Salvun](#salvun)|60.00|388.89|Unknown|
@@ -40,8 +40,8 @@ NOTE: USD to CNY exchange rate is 6.48
 **Price(USD):** 39.99	**Price(CNY):** 259.20	**Quantity:** 109  
 <img src="{{ 'assets/images/gmk-keycaps/Classic-Arabic/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
-### 40s  
-**Price(USD):** 45.99	**Price(CNY):** 298.08	**Quantity:** 25  
+### ~~40s~~ 
+**Price(USD):** 45.99	**Price(CNY):** 298.08	**Quantity:** Canceled  
 <img src="{{ 'assets/images/gmk-keycaps/Classic-Arabic/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Greek Addon  

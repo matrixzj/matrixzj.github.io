@@ -21,18 +21,18 @@ NOTE: USD to CNY exchange rate is 6.46
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[~~Latin Base~~](#latin-base)|135.00|872.30|Unknown|
+|[~~Latin Base~~](#latin-base)|135.00|872.30|Canceled|
 |[Hiragana Base](#hiragana-base)|135.00|872.30|535|
 |[Novelties](#novelties)|50.00|323.07|525|
 |[Spacebars](#spacebars)|35.00|226.15|159|
-|[~~40s~~](#40s)|45.00|290.77|Unknown|
+|[~~40s~~](#40s)|45.00|290.77|Canceled|
 |[RAMA](#rama)|56.00|361.84|122|
 
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### ~~Latin Base~~  
-**Price(USD):** 135.00	**Price(CNY):** 872.30	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 872.30	**Quantity:** Canceled  
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/kits_pics/latin-base.jpg' | relative_url }}" alt="latin-base" class="image featured">
 
 ### Hiragana Base  
@@ -48,7 +48,7 @@ NOTE: USD to CNY exchange rate is 6.46
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### ~~40s~~  
-**Price(USD):** 45.00	**Price(CNY):** 290.77	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 290.77	**Quantity:** Canceled  
 <img src="{{ 'assets/images/gmk-keycaps/Harvest/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### RAMA  
