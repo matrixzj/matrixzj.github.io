@@ -47,6 +47,7 @@ NOTE: USD to CNY exchange rate is 6.37
 
 ### Hibi Artisan  
 **Price(USD):** 28.00	**Price(CNY):** 178.36	**Quantity:** Unknown  
+<img src="{{ 'assets/images/gmk-keycaps/Mercury/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi" class="image featured">
 
 ## Info
 * Designer: kekaiyo  
