@@ -25,6 +25,7 @@ Just buy it :)
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
 ### 2021
+* [Ambassador](docs/sa-keycaps/Ambassador/)
 * [Metaverse](docs/sa-keycaps/Metaverse/)
 * [Calculator 计算器](docs/sa-keycaps/Calculator/)
 * [Ming 明](docs/sa-keycaps/Ming/)
@@ -176,6 +177,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2021
+* [Mercury 汞](docs/gmk-keycaps/Mercury/)
 * [Power Chord](docs/gmk-keycaps/Power-Chord/)
 * [Olive R2 橄榄R2](docs/gmk-keycaps/Olive-R2/)
 * [Camping R3 野营R3](docs/gmk-keycaps/Camping-R3/)

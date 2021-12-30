@@ -1,0 +1,26 @@
+{
+    "name": "Ambassador",
+    "cname": "",
+    "keycapstype": "SA",
+    "designer": "Trashman",
+    "profile": "1-2-3-4-3",
+    "time": "2021-12-29 ~ 2022-01-15",
+    "ets": "Q3 2022",
+    "colorcodes":[
+        "GTL/NN/VBV/RCJ"
+    ],
+    "color_pics":[
+    ],
+    "platform": "Trashman Club",
+    "link": "https://trashman.club/page/dxx-ambassador",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "All", "price": "135", "pic": "https://trashman.club/static/media/SA_Ambassador_Kit_4k.327b348c.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://trashman.club/static/media/SA_Ambassador_MV_4K.831db91c.png"
+    ]
+}

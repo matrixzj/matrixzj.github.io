@@ -1,0 +1,34 @@
+{
+    "name": "Mercury",
+    "cname": "汞",
+    "keycapstype": "GMK",
+    "designer": "kekaiyo",
+    "profile": "1-1-2-3-4-4",
+    "time": "2021-12-22 ~ 2022-01-22",
+    "ets": "Q4 2022 - Q1 2023",
+    "colorcodes":[
+        "|Alphas|Pantone 428C|N9",
+        "|Modifiers|N9|WS2|",
+        "|Aceents|N9|WS2|"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/oF99Tp5.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112000.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://imgur.com/lCGHK4R.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/wf7HH40.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://i.imgur.com/K316xa1.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NordeUK", "price": "64", "pic": "https://i.imgur.com/4BCNJqd.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Artisan", "price": "28", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/akD5Ylz.jpg"
+    ]
+}
