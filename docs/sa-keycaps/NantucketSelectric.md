@@ -21,19 +21,20 @@ NOTE: USD to RMB exchange rate is 6.58
 
 | Name          | Price(USD)    |  Price(RMB) |  Quantity |
 | ------------- | ------------- |  ---------- |  -------- |
-|[TKL](#tkl)|85.00|559.30|unknown|
-|[Planck](#planck)|37.00|243.46|unknown|
-|[Ergodox](#ergodox)|88.00|579.04|unknown|
-|[Numpad](#numpad)|24.00|157.92|unknown|
-|[Homing](#homing)|7.00|46.06|unknown|
-|[DC](#dc)|30.00|197.40|unknown|
-|[ISO](#iso)|22.00|144.76|unknown|
-|[EU](#eu)|55.00|361.90|unknown|
-|[MAC](#mac)|19.00|125.02|unknown|
-|[Specialty](#specialty)|32.00|210.56|unknown|
-|[Cape Cod](#capecod)|13.00|85.54|unknown|
-|[Amity Island](#amityisland)|20.00|131.60|unknown|
+|[TKL](#tkl)|85.00|559.30|550|
+|[Planck](#planck)|37.00|243.46|150|
+|[Ergodox](#ergodox)|88.00|579.04|75|
+|[Numpad](#numpad)|24.00|157.92|250|
+|[Homing](#homing)|7.00|46.06|350|
+|[DC](#dc)|30.00|197.40|40|
+|[ISO](#iso)|22.00|144.76|50|
+|[EU](#eu)|55.00|361.90|25|
+|[MAC](#mac)|19.00|125.02|75|
+|[Specialty](#specialty)|32.00|210.56|200|
+|[Cape Cod](#capecod)|13.00|85.54|300|
+|[Amity Island](#amityisland)|20.00|131.60|425|
 
+<img src="{{ 'assets/images/sa-keycaps/nantucketselectric/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 <img src="{{ 'assets/images/sa-keycaps/nantucketselectric/kits_pics/1.jpg' | relative_url }}" alt="Kits" class="image featured">

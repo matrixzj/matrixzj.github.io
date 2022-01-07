@@ -14,17 +14,17 @@
     "link": "https://geekhack.org/index.php?topic=115076.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/FNT6ZpBY/GMKterror-Orders211123fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "https://i.imgur.com/OubeVQu.png",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/f155aEk.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alt Alphas", "price": "70", "pic": "https://i.imgur.com/NfA75yT.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "65", "pic": "https://i.imgur.com/k7w5tCB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "65", "pic": "https://i.imgur.com/xPtGO9w.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/f155aEk.jpg", "price_cny": "", "quantity": "500", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Alphas", "price": "70", "pic": "https://i.imgur.com/NfA75yT.jpg", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "65", "pic": "https://i.imgur.com/k7w5tCB.jpg", "price_cny": "", "quantity": "156", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "65", "pic": "https://i.imgur.com/xPtGO9w.jpg", "price_cny": "", "quantity": "106", "price_table_format": "", "price_kit_format": "" },
         { "name": "Asero 3D Artisan", "price": "95", "pic": "https://i.imgur.com/H3HG6BI.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hibi Scratch Artisan", "price": "40", "pic": "https://i.imgur.com/zjqz1IF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hibi Goopy Artisan", "price": "45", "pic": "https://i.imgur.com/zjqz1IF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Hibi Scratch Artisan", "price": "40", "pic": "https://i.imgur.com/zjqz1IF.jpg", "price_cny": "", "quantity": "102", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Goopy Artisan", "price": "45", "pic": "https://i.imgur.com/zjqz1IF.jpg", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/d3CaVkR.jpg"

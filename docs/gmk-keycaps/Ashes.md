@@ -49,7 +49,7 @@ NOTE: USD to CNY exchange rate is 7.00
 
 ### ~~Basalt~~  
 **Price(GH):** 35.00    **Price(CNY):** 245.00    **Quantity:** Canceled  
-<img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/basalt.jpg' | relative_url }}" alt="basalt" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/ashes/kits_pics/basalt.png' | relative_url }}" alt="basalt" class="image featured">
 
 ## Info  
 * Designer: Tyson  

@@ -35,7 +35,7 @@ NOTE: USD to RMB exchange rate is 7.00
 |[Numpad](#numpad)|25.99|181.93|838|
 |[BoneNumpad](#bonenumpad)|29.99|209.93|144|
 |[BeigeNordeUK](#beigenordeuk)|54.99|384.93|116|
-|~~[OrangeNordeUK](#orangenordeuk)~~|~~69.99~~|~~489.93~~|~~16(COQ 25)~~|
+|[OrangeNordeUK](#orangenordeuk)|69.99|489.93|16(COQ 25)|
 |[Exotic](#exotic)|44.99|314.93|100|
 |[OrangeAlphas](#orangealphas)|54.99|384.93|357|
 |[HalfLifeLambda](#halflifelambda)|8.99|62.93|759|
@@ -56,6 +56,8 @@ NOTE: USD to RMB exchange rate is 7.00
 
 <img src="{{ 'assets/images/sa-keycaps/carbonr2/price.jpg' | relative_url }}" atl="price" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/carbonr2/progress1.png' | relative_url }}" atl="progress1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/carbonr2/order1.png' | relative_url }}" atl="order1" class="image featured">
+<img src="{{ 'assets/images/sa-keycaps/carbonr2/order2.png' | relative_url }}" atl="order2" class="image featured">
 
 ## Kits
 ### Alphas
@@ -114,8 +116,8 @@ NOTE: USD to RMB exchange rate is 7.00
 **Price(USD):** 54.99   **Price(RMB):** 384.93  **Quantity:** 116
 <img src="{{ 'assets/images/sa-keycaps/carbonr2/kits_pics/beigenordeuk.jpg' | relative_url }}" atl="BeigeNordeUK" class="image featured">
 
-### ~~OrangeNordeUK~~
-~~**Price(USD):** 69.99~~   ~~**Price(RMB):** 489.93~~  ~~**Quantity:** 16(COQ 25)~~
+### OrangeNordeUK
+**Price(USD):** 69.99   **Price(RMB):** 489.93  **Quantity:** 16(COQ 25)
 NOTE: less than COQ(25)
 <img src="{{ 'assets/images/sa-keycaps/carbonr2/kits_pics/orangenordeuk.jpg' | relative_url }}" atl="OrangeNordeUK" class="image featured">
 

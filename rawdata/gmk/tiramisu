@@ -14,16 +14,16 @@
     "link": "https://geekhack.org/index.php?topic=115181.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/SyY6xxZH/GMKtiramisu-Orders211205fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "127", "pic": "https://i.imgur.com/W9u307f.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/5kwOrzT.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/cRF81br.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "THOK Artisan", "price": "60", "pic": "https://i.imgur.com/jowtK9J.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hibi CatChef Artisan", "price": "58", "pic": "https://i.imgur.com/RRXL4ot.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hibi Enter Artisan", "price": "68", "pic": "https://i.imgur.com/819WEIb.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "127", "pic": "https://i.imgur.com/W9u307f.jpg", "price_cny": "", "quantity": "2000", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/5kwOrzT.jpg", "price_cny": "", "quantity": "1103", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/cRF81br.jpg", "price_cny": "", "quantity": "373", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK Artisan", "price": "60", "pic": "https://i.imgur.com/jowtK9J.png", "price_cny": "", "quantity": "478", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi CatChef Artisan", "price": "58", "pic": "https://i.imgur.com/RRXL4ot.png", "price_cny": "", "quantity": "392", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Enter Artisan", "price": "68", "pic": "https://i.imgur.com/819WEIb.png", "price_cny": "", "quantity": "205", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/axW9aLw.jpg"
