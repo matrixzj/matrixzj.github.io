@@ -61,6 +61,7 @@ def cal_nav_order(keycapType):
     fd_index.close()
 
     if os.path.isfile(KEYCAP_FILENAME_WITH_PATH):
+        print KEYCAP_FILENAME_WITH_PATH
         info_dict['nav_order'] = read_nav_order(KEYCAP_FILENAME_WITH_PATH)
     else:
         current_profile_marker = '## {} KeyCaps\n'.format(keycapType)
