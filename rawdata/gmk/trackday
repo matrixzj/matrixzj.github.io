@@ -1,0 +1,29 @@
+{
+    "name": "Trackday",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "biip",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-01-03 ~ 2022-01-31",
+    "ets": "Q1 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115844.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "130", "pic": "https://media.biipmk.com/gmk_trackday/GMK_Trackday-kit_base.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "55", "pic": "https://media.biipmk.com/gmk_trackday/GMK_Trackday-kit_novelties.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Whale Tail Artisan", "price": "45", "pic": "https://media.biipmk.com/gmk_trackday/GMK_Trackday-artisan_whale-tail.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Red Head Artisan", "price": "50", "pic": "https://media.biipmk.com/gmk_trackday/GMK_Trackday-artisan_red-head.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://media.biipmk.com/gmk_trackday/GMK_Trackday-render_Jane-02.jpg"
+    ]
+}

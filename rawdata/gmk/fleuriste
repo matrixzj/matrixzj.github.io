@@ -1,0 +1,37 @@
+{
+    "name": "Fleuriste",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "https://geekhack.org/index.php?topic=116070.0",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-01-25 ~ 2022-02-25",
+    "ets": "Q1 2023",
+    "colorcodes":[
+        "|Alphas|RAL 1005|RAL 6036",
+        "|Mods|RAL 9001|RAL 4006",
+        "|Accents 1|RAL 4006|RAL 1005",
+        "|Accents 2|RAL 6036|RAL 1005"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/VazukMs.jpg",
+        "https://i.imgur.com/gf0kZ5a.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=116070.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.gyazo.com/551ae526f3725e23aaf2dfd05eb9ba44.png",
+    "price_list":[
+        { "name": "Core", "price": "119.99", "pic": "https://i.imgur.com/J2xWPQs.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "54.99", "pic": "https://i.imgur.com/rvGsRT3.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accent", "price": "46.99", "pic": "https://i.imgur.com/rmoGsqG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "46.99", "pic": "https://i.imgur.com/y4qCRCO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40", "price": "44.99", "pic": "https://i.imgur.com/oG2ReNC.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "62.99", "pic": "https://i.imgur.com/6KHrfrC.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/TNPYuyX.jpg"
+    ]
+}

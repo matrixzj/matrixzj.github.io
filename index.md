@@ -177,7 +177,12 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Fleuriste](docs/gmk-keycaps/Fleuriste/)
+* [TeraDrive](docs/gmk-keycaps/TeraDrive/)
+* [Liftoff](docs/gmk-keycaps/Liftoff/)
+* [Grey on Black](docs/gmk-keycaps/Grey-on-Black/)
 * [Arctic 北极圈](docs/gmk-keycaps/Arctic/)
+* [Trackday](docs/gmk-keycaps/Trackday/)
 
 ### 2021
 * [Mercury 汞](docs/gmk-keycaps/Mercury/)

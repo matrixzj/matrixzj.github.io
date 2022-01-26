@@ -1,0 +1,33 @@
+{
+    "name": "Grey on Black",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Skok",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-01-11 ~ 2022-02-1",
+    "ets": "Q1 2023",
+    "colorcodes":[
+        "|Accent 1|TU2||",
+        "|Accent 2|MG1||",
+        "|Accent 3|CV||"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115935.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/iZc0aNw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "39", "pic": "https://i.imgur.com/w9zeHmn.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "R5", "price": "29", "pic": "https://i.imgur.com/3B2oqVe.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/zzMgSfG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accents", "price": "49", "pic": "https://i.imgur.com/Eo3l5Oq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/OEficxG.jpg"
+    ]
+}

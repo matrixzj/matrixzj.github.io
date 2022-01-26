@@ -8,7 +8,7 @@ nav_order: 290330
 
 # Mercury 汞
 
-ref link: [Mercury GH GB Link](https://geekhack.org/index.php?topic=112000.0)
+ref link: [Mercury GH GB Link](https://geekhack.org/index.php?topic=115826.0)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -47,12 +47,12 @@ NOTE: USD to CNY exchange rate is 6.37
 
 ### Hibi Artisan  
 **Price(USD):** 28.00	**Price(CNY):** 178.36	**Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/Mercury/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Mercury/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info
 * Designer: kekaiyo  
 * Profile: GMK 1-1-2-3-4-4  
-* GB Time: 2021-12-22 ~ 2022-01-22  
+* GB Time: 2021-12-22 ~ 2022-03-22  
 * Estimated Shipping Time: Q4 2022 - Q1 2023  
 * Color Codes:  
 

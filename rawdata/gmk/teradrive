@@ -1,0 +1,30 @@
+{
+    "name": "TeraDrive",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Kingk22/Yuzu",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-01-21 ~ 2022-02-22",
+    "ets": "Q2 2023",
+    "colorcodes":[
+        "|Alphas|RAL 000 15 00|CP",
+        "|Mods|RAL 7010|CP"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115983.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/fAR7E2G.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "35", "pic": "https://i.imgur.com/kt3i9zm.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "JIS Mod", "price": "52", "pic": "https://i.imgur.com/zXPUcrU.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/6zS6WjF.jpg"
+    ]
+}
