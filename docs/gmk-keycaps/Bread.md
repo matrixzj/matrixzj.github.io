@@ -19,13 +19,16 @@ ref link: [Bread GH GB Link](https://geekhack.org/index.php?topic=107200.0)
 
 NOTE: USD to CNY exchange rate is 7.07
 
-| Name          | Price(GH)    |  Price(CNY) | Quantity |
-| ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|134.99|954.38|Unknown|
-|[Alt Alphas](#alt-alphas)|83.99|593.81|Unknown|
-|[Extensions](#extensions)|39.99|282.73|Unknown|
-|[Novelties](#novelties)|42.99|303.94|Unknown|
+| Name          | Price(GH)    |  Price(CNY) |
+| ------------- | ------------ |  ---------- |
+|[Base](#base)|134.99|954.38|
+|[Alt Alphas](#alt-alphas)|83.99|593.81|
+|[Extensions](#extensions)|39.99|282.73|
+|[Novelties](#novelties)|42.99|303.94|
 
+## Quantities
+
+<img src = "{{ 'assets/images/gmk-keycaps/bread/quantity/quantity.jpg' | relative_url }} " alt="quantity" class="image featured">
 
 ## Kits  
 ### Base  
