@@ -1,0 +1,36 @@
+{
+    "name": "Evil Eye",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-02-02 ~ 2022-03-03",
+    "ets": "Q2 2023",
+    "colorcodes":[
+        "|Alphas|WS1|CR",
+        "|Modifiers|V4|WS1",
+        "|Accents|N5|WS1"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/rdqd2VU.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=116164.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/gm0b6vn.png",
+    "price_list":[
+        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/jrQob47.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "30", "pic": "https://i.imgur.com/XvHyjnI.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://i.imgur.com/163z4i3.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Non-Accent", "price": "30", "pic": "https://i.imgur.com/9sqYqb6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "45", "pic": "https://i.imgur.com/StJmaLT.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI V4 Artisan", "price": "45", "pic": "https://i.imgur.com/qZHnI6S.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI N5 Artisan", "price": "45", "pic": "https://i.imgur.com/5HFwZ2f.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/COcID5V.jpg"
+    ]
+}

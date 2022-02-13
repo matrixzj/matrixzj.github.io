@@ -1,0 +1,36 @@
+{
+    "name": "NTD",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "ZLightningZAP",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-01-28 ~ 2022-02-27",
+    "ets": "",
+    "colorcodes":[
+        "|Alpha|Pantone 421C|Pantone 3555C|",
+        "|Modifiers|Pantone 7024|Pantone 2705C|",
+        "|Accents|Pantone 3555C|Pantone 2705C|"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/y9BKw3K.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=116109.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/TzSWBYB.png",
+    "price_list":[
+        { "name": "Base", "price": "128", "pic": "https://i.imgur.com/Nl2gOWf.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "33", "pic": "https://i.imgur.com/HokqzXi.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "34", "pic": "https://i.imgur.com/MbjTdzF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro", "price": "42", "pic": "https://i.imgur.com/Msm7bX6.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "50", "pic": "https://i.imgur.com/BnTDNWb.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "44", "pic": "https://i.imgur.com/MwzAZno.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "58", "pic": "https://i.imgur.com/XUGvddu.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/lQa4zbp.jpg"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "WoBBoW Hangul",
+    "cname": "黑白韩文",
+    "keycapstype": "GMK",
+    "designer": "AbrotherThatIsUnderecover",
+    "profile": "1-1-2-3-4-5",
+    "time": "2022-02-01 ~ 2022-03-04",
+    "ets": "Q1 2023",
+    "colorcodes":[
+        "|WoB|CR|WS1",
+        "|BoW|WS1|CR"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=111006.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "White on Black", "price": "135", "pic": "https://cdn.discordapp.com/attachments/587723094555361282/806840778223517706/GMK_WoB_Hangul_Base.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Black on White", "price": "135", "pic": "https://cdn.discordapp.com/attachments/587723094555361282/806840788872200199/GMK_Hangul_BoW_Base.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.discordapp.com/attachments/587723094555361282/805943436279939103/GMK_WoB_OGR.png"
+    ]
+}

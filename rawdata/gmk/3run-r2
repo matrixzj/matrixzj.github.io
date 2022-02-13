@@ -1,0 +1,28 @@
+{
+    "name": "3Run R2",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Mito",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-02-03 ~ 2022-02-28",
+    "ets": "Nov. 15, 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "MD",
+    "link": "https://drop.com/buy/gmk-3run-keycap-set",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://massdrop-s3.imgix.net/product-images/gmk-3run-keycap-set/FP/lYdpugeqSEOo3xUsaSXF_GMK%203run%20R2%20-%20Base%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mitolit", "price": "110", "pic": "https://massdrop-s3.imgix.net/product-images/gmk-3run-keycap-set/FP/Pw844YkYQA2YIKbDi3hT_GMK%203run%20R2%20-%20Mitolit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Keycombs", "price": "40", "pic": "https://massdrop-s3.imgix.net/product-images/gmk-3run-keycap-set/FP/5OWaah1dS5i6k1B7tYLy_GMK%203run%20R2%20-%20Keycombs.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://massdrop-s3.imgix.net/product-images/gmk-3run-keycap-set/FP/F3QvBRtUT9GX902ICiDo_87.png"
+    ]
+}

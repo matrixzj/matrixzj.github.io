@@ -177,6 +177,12 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Galaxy 银河](docs/gmk-keycaps/Galaxy/)
+* [3Run R2](docs/gmk-keycaps/3Run-R2/)
+* [Evil Eye](docs/gmk-keycaps/Evil-Eye/)
+* [WoBBoW Hangul 黑白韩文](docs/gmk-keycaps/WoBBoW-Hangul/)
+* [NTD](docs/gmk-keycaps/NTD/)
+* [Blossom](docs/gmk-keycaps/Blossom/)
 * [Fleuriste](docs/gmk-keycaps/Fleuriste/)
 * [TeraDrive](docs/gmk-keycaps/TeraDrive/)
 * [Liftoff](docs/gmk-keycaps/Liftoff/)

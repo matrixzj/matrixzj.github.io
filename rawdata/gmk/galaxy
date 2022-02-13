@@ -1,0 +1,36 @@
+{
+    "name": "Galaxy",
+    "cname": "银河",
+    "keycapstype": "GMK",
+    "designer": "edwyn",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-02-04 ~ 2022-03-04",
+    "ets": "Q2 2023",
+    "colorcodes":[
+        "|Alphas|RAL 260 30 20|WS1",
+        "|Modifiers|CR|WS1",
+        "|Accents|WS1|CR"
+    ],
+    "color_pics":[
+        "https://i.imgur.com/5sTU2YG.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=116189.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/SJrMD5p.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/sHoZ4IK.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "34", "pic": "https://i.imgur.com/LY1qiZP.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Aesthetics", "price": "34", "pic": "https://i.imgur.com/f4mDWMU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Galaxy-HIBI-Metal-Artisan-Keycap-Vala-Supply-1_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Galaxy-THOK-Metal-Artisan-Keycap-Vala-Supply-1_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Keebee Artisan", "price": "59", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Galaxy-KeyBee-Metal-Artisan-Keycap-Vala-Supply-1_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/BbbLUKK.png"
+    ]
+}
