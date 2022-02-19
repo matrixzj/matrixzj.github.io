@@ -23,7 +23,7 @@ NOTE: USD to CNY exchange rate is 6.46
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|154.99|1001.85|692|
 |[Novelties](#novelties)|54.99|355.45|355|
-|[~~Forties~~](#forties)|54.99|355.45|49|
+|[~~Forties~~](#forties)|54.99|355.45|Canceled|
 |[Spacebars](#spacebars)|29.99|193.85|116|
 |[RAMA Lighting](#rama-lighting)|37.99|245.57|215|
 |[RAMA Hurricane](#rama-hurricane)|37.99|245.57|152|
@@ -40,7 +40,7 @@ NOTE: USD to CNY exchange rate is 6.46
 <img src="{{ 'assets/images/gmk-keycaps/Storm/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### ~~Forties~~  
-**Price(USD):** 54.99	**Price(CNY):** 355.45	**Quantity:** 49  
+**Price(USD):** 54.99	**Price(CNY):** 355.45	**Quantity:** Canceled  
 <img src="{{ 'assets/images/gmk-keycaps/Storm/kits_pics/forties.png' | relative_url }}" alt="forties" class="image featured">
 
 ### Spacebars  

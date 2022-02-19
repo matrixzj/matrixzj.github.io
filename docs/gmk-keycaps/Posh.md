@@ -24,7 +24,7 @@ NOTE: USD to CNY exchange rate is 6.83
 |[Base](#base)|139.99|956.13|760|
 |[Alt Alphas](#alt-alphas)|84.99|580.48|154|
 |[Alt Mods](#alt-mods)|104.99|717.08|152|
-|[~~Forties~~](#forties)|49.99|341.43|20|
+|[~~Forties~~](#forties)|49.99|341.43|Canceled|
 |[Spacebars](#spacebars)|43.99|300.45|248|
 |[Novelties](#novelties)|47.99|327.77|223|
 
@@ -45,8 +45,8 @@ NOTE: USD to CNY exchange rate is 6.83
 <img src="{{ 'assets/images/gmk-keycaps/posh/kits_pics/alt-mods.jpg' | relative_url }}" alt="alt-mods" class="image featured">
 
 ### ~~Forties~~  
-**Price(GH):** 49.99    **Price(CNY):** 341.43    **Quantity:** 20  
-<img src="{{ 'assets/images/gmk-keycaps/posh/kits_pics/forties.jpg' | relative_url }}" alt="forties" class="image featured">
+**Price(GH):** 49.99    **Price(CNY):** 341.43    **Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/posh/kits_pics/forties.png' | relative_url }}" alt="forties" class="image featured">
 
 ### Spacebars  
 **Price(GH):** 43.99    **Price(CNY):** 300.45    **Quantity:** 248  

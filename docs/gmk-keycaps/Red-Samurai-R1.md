@@ -27,7 +27,7 @@ NOTE: USD to RMB exchange rate is 6.29
 |[Novelties](#novelties)|74.99|471.69|unknown|346|
 |[Ergoplanck](#ergoplanck)|59.99|377.34|unknown|43|
 |[NorDe](#norde)|59.99|377.34|unknown|26|
-|[DC](#dc)|42.99|270.41|unknown|12|
+|[~~DC~~](#dc)|42.99|270.41|unknown|Canceled|
 |[Spacebars](#spacebars)|24.99|157.19|unknown|236|
 
 <img src="{{ 'assets/images/gmk-keycaps/redsamurai/price.jpg' | relative_url }}" alt="price" class="image featured">
@@ -58,9 +58,9 @@ NOTE: USD to RMB exchange rate is 6.29
 **Price(USD):** 59.99    **Price(RMB):** 377.34    **Price(ZF):** unknown    **Quantity:** 26  
 <img src="{{ 'assets/images/gmk-keycaps/redsamurai/kits_pics/norde.jpg' | relative_url }}" alt="NorDe" class="image featured">
 
-### DC
-**Price(USD):** 42.99    **Price(RMB):** 270.41    **Price(ZF):** unknown    **Quantity:** 12  
-<img src="{{ 'assets/images/gmk-keycaps/redsamurai/kits_pics/dc.jpg' | relative_url }}" alt="DC" class="image featured">
+### ~~DC~~
+**Price(USD):** 42.99    **Price(RMB):** 270.41    **Price(ZF):** unknown    **Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/redsamurai/kits_pics/dc.png' | relative_url }}" alt="DC" class="image featured">
 
 ### Spacebars
 **Price(USD):** 24.99    **Price(RMB):** 157.19    **Price(ZF):** unknown    **Quantity:** 236  

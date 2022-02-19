@@ -23,7 +23,7 @@ NOTE: USD to CNY exchange rate is 6.48
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|149.99|972.40|537|
 |[Mono Alphas](#mono-alphas)|69.99|453.75|108|
-|[~~40s~~](#40s)|49.99|324.09|Unknown|
+|[~~40s~~](#40s)|49.99|324.09|Canceled|
 |[Spacebars](#spacebars)|24.99|162.01|109|
 |[Novelties](#novelties)|34.99|226.84|154|
 
@@ -39,8 +39,8 @@ NOTE: USD to CNY exchange rate is 6.48
 <img src="{{ 'assets/images/gmk-keycaps/Sunset-Surfing/kits_pics/mono-alphas.jpg' | relative_url }}" alt="mono-alphas" class="image featured">
 
 ### ~~40s~~  
-**Price(USD):** 49.99	**Price(CNY):** 324.09	**Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/Sunset-Surfing/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
+**Price(USD):** 49.99	**Price(CNY):** 324.09	**Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/Sunset-Surfing/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Spacebars  
 **Price(USD):** 24.99	**Price(CNY):** 162.01	**Quantity:** 109  

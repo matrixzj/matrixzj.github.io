@@ -21,7 +21,7 @@ NOTE: USD to CNY exchange rate is 7.03
 
 | Name          | Price(GH)    |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|~~[B Alpha](#b-alpha)~~|69.00|485.07|62(cancelled)|
+|~~[B Alpha](#b-alpha)~~|69.00|485.07|62(Canceled)|
 |[Beta](#beta)|19.50|137.09|282|
 |[Single Key](#single-key)|5.50|38.66|353|
 |[RAMA](#rama)|56.00|393.68|50|
@@ -30,7 +30,7 @@ NOTE: USD to CNY exchange rate is 7.03
 
 ## Kits  
 ### ~~B Alpha~~  
-**Price(GH):** 69.00    **Price(CNY):** 485.07    **Quantity:** 62(cancelled)  
+**Price(GH):** 69.00    **Price(CNY):** 485.07    **Quantity:** 62(Canceled)  
 <img src="{{ 'assets/images/gmk-keycaps/b/kits_pics/b-alpha.png' | relative_url }}" alt="b-alpha" class="image featured">
 
 ### Beta  

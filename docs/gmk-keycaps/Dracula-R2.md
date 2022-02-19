@@ -8,7 +8,7 @@ nav_order: 290380
 
 # Dracula R2 德古拉R2
 
-ref link: [Dracula R2 GH GB Link](://geekhack.org/index.php?topic=115268.0)
+ref link: [Dracula R2 GH GB Link](https://geekhack.org/index.php?topic=115268.0)
 
 * [Price](#price)
 * [Kits](#kits)

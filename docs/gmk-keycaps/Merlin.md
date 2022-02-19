@@ -23,7 +23,7 @@ NOTE: USD to RMB exchange rate is 6.92
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|139.99|968.73|203|
 |[Wizardry](#wizardry)|49.99|345.93|137|
-|[40s](#40s)|39.99|276.73|33|
+|[~~40s~~](#40s)|39.99|276.73|Canceled|
 
 <img src="{{ 'assets/images/gmk-keycaps/merlin/progress1.png' | relative_url }}" alt="1" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/merlin/order.png' | relative_url }}" alt="order" class="image featured">
@@ -35,9 +35,9 @@ NOTE: USD to RMB exchange rate is 6.92
 ### Wizardry
 **Price(kono):** 49.99    **Price(RMB):** 345.93    **Quantity:** 137
 
-### 40s
-**Price(kono):** 39.99    **Price(RMB):** 276.73    **Quantity:** 33
-<img src="{{ 'assets/images/gmk-keycaps/merlin/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
+### ~~40s~~
+**Price(kono):** 39.99    **Price(RMB):** 276.73    **Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/merlin/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 
 ## Info
