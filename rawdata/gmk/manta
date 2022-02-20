@@ -1,0 +1,34 @@
+{
+    "name": "Manta",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "wynects",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-02-15 ~ 2022-03-15",
+    "ets": "Q2 2023",
+    "colorcodes":[
+        "|Alphas|RAL 230 70 30|RAL 000 90 00",
+        "|Modifiers|RAL 240 30 25|RAL 000 90 00",
+        "|Accents|RAL 000 90 00|RAL 240 30 25"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=116276.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "109.99", "pic": "https://i.imgur.com/jEabtMx.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/zXJ0eyX.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "49.99", "pic": "https://i.imgur.com/6KMgd0E.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "29.99", "pic": "https://i.imgur.com/prw1xzX.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "44.99", "pic": "https://i.imgur.com/cujAxb1.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/jfos7kI.jpg"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Indigo",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Fredington",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-02-18 ~ 2022-03-18",
+    "ets": "Q1 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=116307.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/eG3H7cI.png",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/tDVV5Xn.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragana", "price": "80", "pic": "https://i.imgur.com/aHwvC7z.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "28.50", "pic": "https://i.imgur.com/rb4eAzf.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "28.50", "pic": "https://i.imgur.com/yJJXiGZ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "42", "pic": "https://i.imgur.com/8oeMETS.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "42", "pic": "https://i.imgur.com/Yha5voG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Artisan", "price": "55", "pic": "https://i.imgur.com/IPKXoDA.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "75", "pic": "https://i.imgur.com/mk45051.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/Ofpwn4R.jpg"
+    ]
+}

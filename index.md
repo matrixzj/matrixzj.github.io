@@ -177,6 +177,8 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Indigo](docs/gmk-keycaps/Indigo/)
+* [Manta](docs/gmk-keycaps/Manta/)
 * [Galaxy 银河](docs/gmk-keycaps/Galaxy/)
 * [3Run R2](docs/gmk-keycaps/3Run-R2/)
 * [Evil Eye](docs/gmk-keycaps/Evil-Eye/)
