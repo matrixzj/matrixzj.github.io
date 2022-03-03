@@ -27,7 +27,7 @@ NOTE: USD to RMB exchange rate is 6.29
 |[Novelties](#novelties)|74.99|471.69|unknown|346|
 |[Ergoplanck](#ergoplanck)|59.99|377.34|unknown|43|
 |[NorDe](#norde)|59.99|377.34|unknown|26|
-|[~~DC~~](#dc)|42.99|270.41|unknown|Canceled|
+|[~~DC~~](#dc)|42.99|270.41|unknown|Cancelled|
 |[Spacebars](#spacebars)|24.99|157.19|unknown|236|
 
 <img src="{{ 'assets/images/gmk-keycaps/redsamurai/price.jpg' | relative_url }}" alt="price" class="image featured">
@@ -59,7 +59,7 @@ NOTE: USD to RMB exchange rate is 6.29
 <img src="{{ 'assets/images/gmk-keycaps/redsamurai/kits_pics/norde.jpg' | relative_url }}" alt="NorDe" class="image featured">
 
 ### ~~DC~~
-**Price(USD):** 42.99    **Price(RMB):** 270.41    **Price(ZF):** unknown    **Quantity:** Canceled  
+**Price(USD):** 42.99    **Price(RMB):** 270.41    **Price(ZF):** unknown    **Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/redsamurai/kits_pics/dc.png' | relative_url }}" alt="DC" class="image featured">
 
 ### Spacebars

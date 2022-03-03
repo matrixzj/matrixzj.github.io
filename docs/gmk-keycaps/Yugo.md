@@ -23,9 +23,9 @@ NOTE: USD to CNY exchange rate is 7.03
 | ------------- | ------------ |  ---------- | -------- |
 |[Yugo 45](#yugo-45)|119.99|843.53|258|
 |[Capitalism](#capitalism)|29.99|210.83|141|
-|[~~Yugo 55~~](#yugo-55)|49.99|351.43|Canceled|
+|[~~Yugo 55~~](#yugo-55)|49.99|351.43|Cancelled|
 |[Cabrio](#cabrio)|34.99|245.98|108|
-|[~~Zastava~~](#zastava)|59.99|421.73|Canceled|
+|[~~Zastava~~](#zastava)|59.99|421.73|Cancelled|
 
 <img src="{{ 'assets/images/gmk-keycaps/yugo/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/yugo/order.png' | relative_url }}" alt="order" class="image featured">
@@ -40,7 +40,7 @@ NOTE: USD to CNY exchange rate is 7.03
 <img src="{{ 'assets/images/gmk-keycaps/yugo/kits_pics/capitalism.png' | relative_url }}" alt="capitalism" class="image featured">
 
 ### ~~Yugo 55~~  
-**Price(GH):** 49.99    **Price(CNY):** 351.43    **Quantity:** Canceled  
+**Price(GH):** 49.99    **Price(CNY):** 351.43    **Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/yugo/kits_pics/yugo-55.png' | relative_url }}" alt="yugo-55" class="image featured">
 
 ### Cabrio  
@@ -48,7 +48,7 @@ NOTE: USD to CNY exchange rate is 7.03
 <img src="{{ 'assets/images/gmk-keycaps/yugo/kits_pics/cabrio.png' | relative_url }}" alt="cabrio" class="image featured">
 
 ### ~~Zastava~~  
-**Price(GH):** 59.99    **Price(CNY):** 421.73    **Quantity:** Canceled  
+**Price(GH):** 59.99    **Price(CNY):** 421.73    **Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/yugo/kits_pics/zastava.png' | relative_url }}" alt="zastava" class="image featured">
 
 

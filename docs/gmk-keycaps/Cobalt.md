@@ -21,7 +21,7 @@ NOTE: USD to CNY exchange rate is 6.47
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[~~Blue Glass Base~~](#blue-glass-base)|140.00|905.21|Canceled|
+|[~~Blue Glass Base~~](#blue-glass-base)|140.00|905.21|Cancelled|
 |[Pure Base](#pure-base)|140.00|905.21|396|
 |[Scholars](#scholars)|50.00|323.29|164|
 |[Scholars Defined](#scholars-defined)|50.00|323.29|Unknown|
@@ -34,7 +34,7 @@ NOTE: USD to CNY exchange rate is 6.47
 
 ## Kits
 ### ~~Blue Glass Base~~  
-**Price(USD):** 140.00	**Price(CNY):** 905.21	**Quantity:** Canceled  
+**Price(USD):** 140.00	**Price(CNY):** 905.21	**Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/Cobalt/kits_pics/blue-glass-base.png' | relative_url }}" alt="blue-glass-base" class="image featured">
 
 ### Pure Base  

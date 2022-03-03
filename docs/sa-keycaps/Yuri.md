@@ -29,10 +29,10 @@ NOTE: USD to CNY exchange rate is 7.15
 |[Cyrillic Modifiers](#cyrillic-modifiers)|110.00|786.50|59|
 |[Dual Modifiers](#dual-modifiers)|110.00|786.50|109|
 |[Numpad](#numpad)|45.00|321.75|75|
-|[~~Ergodox~~](#ergodox)|110.00|786.50|Canceled|
+|[~~Ergodox~~](#ergodox)|110.00|786.50|Cancelled|
 |[40%](#40%)|55.00|393.25|55|
 |[Novelties](#novelties)|75.00|536.25|102|
-|[~~ISO UK~~](#iso-uk)|25.00|178.75|Canceled|
+|[~~ISO UK~~](#iso-uk)|25.00|178.75|Cancelled|
 |[6.25u Spacebars](#625u-spacebars)|13.00|92.95|23|
 |[7u Spacebars](#7u-spacebars)|13.00|92.95|23|
 |[Spacekeys](#spacekeys)|40.00|286.00|40|
@@ -76,7 +76,7 @@ NOTE: USD to CNY exchange rate is 7.15
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/numpad.png' | relative_url }}" alt="numpad" class="image featured">
 
 ### ~~Ergodox~~  
-**Price(MD):** 110.00    **Price(CNY):** 786.50    **Quantity:** Canceled   
+**Price(MD):** 110.00    **Price(CNY):** 786.50    **Quantity:** Cancelled   
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/ergodox.png' | relative_url }}" alt="ergodox" class="image featured">
 
 ### 40%  
@@ -88,7 +88,7 @@ NOTE: USD to CNY exchange rate is 7.15
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### ~~ISO UK~~  
-**Price(MD):** 25.00    **Price(CNY):** 178.75    **Quantity:** Canceled  
+**Price(MD):** 25.00    **Price(CNY):** 178.75    **Quantity:** Cancelled  
 <img src="{{ 'assets/images/sa-keycaps/yuri/kits_pics/iso-uk.png' | relative_url }}" alt="iso-uk" class="image featured">
 
 ### 6.25u Spacebars  

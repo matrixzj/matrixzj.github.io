@@ -24,7 +24,7 @@ NOTE: USD to CNY exchange rate is 6.79
 |[Base](#base)|134.99|916.58|1006|
 |[Novelties](#novelties)|61.99|420.91|720|
 |[Colors](#colors)|26.99|183.26|263|
-|[~~Cartridges~~](#cartridges)|49.99|339.43|Canceled|
+|[~~Cartridges~~](#cartridges)|49.99|339.43|Cancelled|
 |[Batteries](#batteries)|31.99|217.21|187|
 
 <img src="{{ 'assets/images/gmk-keycaps/retrocast/history.png' | relative_url }}" alt="history" class="image featured">
@@ -44,7 +44,7 @@ NOTE: USD to CNY exchange rate is 6.79
 <img src="{{ 'assets/images/gmk-keycaps/retrocast/kits_pics/colors.png' | relative_url }}" alt="colors" class="image featured">
 
 ### ~~Cartridges~~  
-**Price(GH):** 49.99    **Price(CNY):** 339.43    **Quantity:** Canceled  
+**Price(GH):** 49.99    **Price(CNY):** 339.43    **Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/retrocast/kits_pics/cartridges.png' | relative_url }}" alt="cartridges" class="image featured">
 
 ### Batteries  

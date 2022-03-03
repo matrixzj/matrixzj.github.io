@@ -23,7 +23,7 @@ NOTE: USD to CNY exchange rate is 6.51
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|135.00|878.89|527|
 |[HHKB](#hhkb)|55.00|358.07|262|
-|[~~Alpha~~](#alpha)|70.00|455.72|Canceled|
+|[~~Alpha~~](#alpha)|70.00|455.72|Cancelled|
 |[Spacebars](#spacebars)|35.00|227.86|156|
 |[Numpad](#numpad)|35.00|227.86|150|
 
@@ -40,7 +40,7 @@ NOTE: USD to CNY exchange rate is 6.51
 <img src="{{ 'assets/images/gmk-keycaps/Modern-Japanese-Desko/kits_pics/hhkb.jpg' | relative_url }}" alt="hhkb" class="image featured">
 
 ### ~~Alpha~~  
-**Price(USD):** 70.00	**Price(CNY):** 455.72	**Quantity:** Canceled  
+**Price(USD):** 70.00	**Price(CNY):** 455.72	**Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/Modern-Japanese-Desko/kits_pics/alpha.png' | relative_url }}" alt="alpha" class="image featured">
 
 ### Spacebars  

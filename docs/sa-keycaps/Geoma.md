@@ -21,57 +21,58 @@ NOTE: USD to CNY exchange rate is 6.40
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Light Alphas](#light-alphas)|55.00|351.86|Unknown|
-|[Dark Alphas](#dark-alphas)|55.00|351.86|Unknown|
-|[Light Mods](#light-mods)|89.00|569.38|Unknown|
-|[Dark Mods](#dark-mods)|89.00|569.38|Unknown|
-|[Novelties](#novelties)|55.00|351.86|Unknown|
-|[Numpad](#numpad)|55.00|351.86|Unknown|
-|[Spacebars](#spacebars)|45.00|287.89|Unknown|
-|[NorDeUK](#nordeuk)|39.00|249.50|Unknown|
-|[Hibi Dark Artisan](#hibi-dark-artisan)|45.00|287.89|Unknown|
-|[Hibi Teal Artisan](#hibi-teal-artisan)|45.00|287.89|Unknown|
+|[Light Alphas](#light-alphas)|55.00|351.86|350|
+|[Dark Alphas](#dark-alphas)|55.00|351.86|161|
+|[Light Mods](#light-mods)|89.00|569.38|Cancelled|
+|[Dark Mods](#dark-mods)|89.00|569.38|399|
+|[Novelties](#novelties)|55.00|351.86|217|
+|[Numpad](#numpad)|55.00|351.86|83|
+|[Spacebars](#spacebars)|45.00|287.89|84|
+|[NorDeUK](#nordeuk)|39.00|249.50|50|
+|[Hibi Dark Artisan](#hibi-dark-artisan)|45.00|287.89|77|
+|[Hibi Teal Artisan](#hibi-teal-artisan)|45.00|287.89|117|
 
+<img src="{{ 'assets/images/sa-keycaps/Geoma/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Light Alphas  
-**Price(USD):** 55.00	**Price(CNY):** 351.86	**Quantity:** Unknown  
+**Price(USD):** 55.00	**Price(CNY):** 351.86	**Quantity:** 350  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/light-alphas.jpg' | relative_url }}" alt="light-alphas" class="image featured">
 
 ### Dark Alphas  
-**Price(USD):** 55.00	**Price(CNY):** 351.86	**Quantity:** Unknown  
+**Price(USD):** 55.00	**Price(CNY):** 351.86	**Quantity:** 161  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/dark-alphas.jpg' | relative_url }}" alt="dark-alphas" class="image featured">
 
 ### Light Mods  
-**Price(USD):** 89.00	**Price(CNY):** 569.38	**Quantity:** Unknown  
+**Price(USD):** 89.00	**Price(CNY):** 569.38	**Quantity:** Cancelled  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/light-mods.jpg' | relative_url }}" alt="light-mods" class="image featured">
 
 ### Dark Mods  
-**Price(USD):** 89.00	**Price(CNY):** 569.38	**Quantity:** Unknown  
+**Price(USD):** 89.00	**Price(CNY):** 569.38	**Quantity:** 399  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/dark-mods.jpg' | relative_url }}" alt="dark-mods" class="image featured">
 
 ### Novelties  
-**Price(USD):** 55.00	**Price(CNY):** 351.86	**Quantity:** Unknown  
+**Price(USD):** 55.00	**Price(CNY):** 351.86	**Quantity:** 217  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Numpad  
-**Price(USD):** 55.00	**Price(CNY):** 351.86	**Quantity:** Unknown  
+**Price(USD):** 55.00	**Price(CNY):** 351.86	**Quantity:** 83  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 45.00	**Price(CNY):** 287.89	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 287.89	**Quantity:** 84  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### NorDeUK  
-**Price(USD):** 39.00	**Price(CNY):** 249.50	**Quantity:** Unknown  
+**Price(USD):** 39.00	**Price(CNY):** 249.50	**Quantity:** 50  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/nordeuk.jpg' | relative_url }}" alt="nordeuk" class="image featured">
 
 ### Hibi Dark Artisan  
-**Price(USD):** 45.00	**Price(CNY):** 287.89	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 287.89	**Quantity:** 77  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/hibi-dark-artisan.jpg' | relative_url }}" alt="hibi-dark-artisan" class="image featured">
 
 ### Hibi Teal Artisan  
-**Price(USD):** 45.00	**Price(CNY):** 287.89	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 287.89	**Quantity:** 117  
 <img src="{{ 'assets/images/sa-keycaps/Geoma/kits_pics/hibi-teal-artisan.jpg' | relative_url }}" alt="hibi-teal-artisan" class="image featured">
 
 ## Info

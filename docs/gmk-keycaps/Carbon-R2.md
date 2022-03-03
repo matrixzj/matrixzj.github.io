@@ -29,8 +29,8 @@ NOTE: USD to RMB exchange rate is 6.94
 |[Boneyard Alphas](#boneyard-alphas)|109.99|763.33|768.00|76|
 |[Carbon Cadet](#carbon-cadet)|42.99|298.35|301.00|83|
 |[Bone Icon Extension](#bone-icon-extension)|72.99|506.55|510.00|48|
-|[~~NorDeUK~~](#nordeuk)|74.99|520.43|524.00|Canceled|
-|[~~DC~~](#dc)|59.99|416.33|419.00|Canceled|
+|[~~NorDeUK~~](#nordeuk)|74.99|520.43|524.00|Cancelled|
+|[~~DC~~](#dc)|59.99|416.33|419.00|Cancelled|
 |[Space](#space)|49.99|346.93|349.00|72|
 |[Arrows](#arrows)|49.99|346.93|349.00|56|
 |[Novelties](#novelties)|49.99|346.93|419.00|247|
@@ -79,11 +79,11 @@ NOTE: USD to RMB exchange rate is 6.94
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/boneiconextension.jpg' | relative_url }}" alt="BoneIconExtension" class="image featured">
 
 ### ~~NorDeUK~~
-**Price(USD):** 74.99   **Price(RMB):** 520.43          **Price(ZF):** 524.00           **Quantity:** Canceled  
+**Price(USD):** 74.99   **Price(RMB):** 520.43          **Price(ZF):** 524.00           **Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/nordeuk.png' | relative_url }}" alt="NorDeUK" class="image featured">
 
 ### ~~DC~~
-**Price(USD):** 59.99   **Price(RMB):** 416.33          **Price(ZF):** 419.00           **Quantity:** Canceled  
+**Price(USD):** 59.99   **Price(RMB):** 416.33          **Price(ZF):** 419.00           **Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/carbonr2/kits_pics/dc.png' | relative_url }}" alt="DC" class="image featured">
 
 ### Space

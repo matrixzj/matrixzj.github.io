@@ -25,7 +25,7 @@ NOTE: USD to CNY exchange rate is 6.38
 |[Alt Alphas](#alt-alphas)|70.00|446.94|100|
 |[Novelties](#novelties)|65.00|415.02|156|
 |[Spacebars](#spacebars)|65.00|415.02|106|
-|[Asero 3D Artisan](#asero-3d-artisan)|95.00|606.57|Canceled|
+|[Asero 3D Artisan](#asero-3d-artisan)|95.00|606.57|Cancelled|
 |[Hibi Scratch Artisan](#hibi-scratch-artisan)|40.00|255.40|102|
 |[Hibi Goopy Artisan](#hibi-goopy-artisan)|45.00|287.32|150|
 
@@ -50,7 +50,7 @@ NOTE: USD to CNY exchange rate is 6.38
 <img src="{{ 'assets/images/gmk-keycaps/Terror/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Asero 3D Artisan  
-**Price(USD):** 95.00	**Price(CNY):** 606.57	**Quantity:** Canceled  
+**Price(USD):** 95.00	**Price(CNY):** 606.57	**Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/Terror/kits_pics/asero-3d-artisan.jpg' | relative_url }}" alt="asero-3d-artisan" class="image featured">
 
 ### Hibi Scratch Artisan  

@@ -25,7 +25,7 @@ NOTE: USD to CNY exchange rate is 7.15
 |[Numpad](#numpad)|34.00|243.10|102|
 |[40s](#40s)|47.00|336.05|79|
 |[Spacebars](#spacebars)|24.00|171.60|168|
-|[~~NorDEUK~~](#nordeuk)|53.00|378.95|Canceled|
+|[~~NorDEUK~~](#nordeuk)|53.00|378.95|Cancelled|
 
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/order.png' | relative_url }}" alt="order" class="image featured">
@@ -48,7 +48,7 @@ NOTE: USD to CNY exchange rate is 7.15
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### ~~NorDEUK~~  
-**Price(GH):** 53.00    **Price(CNY):** 378.95    **Quantity:** Canceled  
+**Price(GH):** 53.00    **Price(CNY):** 378.95    **Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/phosphorous/kits_pics/nordeuk.png' | relative_url }}" alt="nordeuk" class="image featured">
 
 

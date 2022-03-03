@@ -29,7 +29,7 @@ NOTE: USD to CNY exchange rate is 6.46
 |[Extension](#extension)|49.00|316.45|150|
 |[Spacebar](#spacebar)|25.00|161.45|315|
 |[NorDeUK](#nordeuk)|59.00|381.03|103|
-|[Colerak](#colerak)|59.00|381.03|Canceled|
+|[Colerak](#colerak)|59.00|381.03|Cancelled|
 |[Electric Flux Capacitor](#electric-flux-capacitor)|88.00|305.00|Unknown|
 |[Asero Foundry Artisans 1](#asero-foundry-artisans-1)|59.00|48.00|Unknown|
 |[Asero Foundry Artisans 2](#asero-foundry-artisans-2)|59.00|61.00|Unknown|
@@ -70,7 +70,7 @@ NOTE: USD to CNY exchange rate is 6.46
 <img src="{{ 'assets/images/gmk-keycaps/Electric/kits_pics/nordeuk.jpg' | relative_url }}" alt="nordeuk" class="image featured">
 
 ### Colerak  
-**Price(USD):** 59.00	**Price(CNY):** 381.03	**Quantity:** Canceled  
+**Price(USD):** 59.00	**Price(CNY):** 381.03	**Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/Electric/kits_pics/colerak.jpg' | relative_url }}" alt="colerak" class="image featured">
 
 ### Electric Flux Capacitor  

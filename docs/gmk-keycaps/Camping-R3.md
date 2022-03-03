@@ -21,43 +21,44 @@ NOTE: USD to CNY exchange rate is 6.37
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Classic Base](#classic-base)|129.99|827.82|Unknown|
-|[Burgundy Base](#burgundy-base)|129.99|827.82|Unknown|
-|[Novelties](#novelties)|37.99|241.93|Unknown|
-|[Spacebars](#spacebars)|32.99|210.09|Unknown|
-|[Salvun Burgundy Brass Artisan](#salvun-burgundy-brass-artisan)|49.99|318.35|Unknown|
-|[Salvun Classic Copper Artisan](#salvun-classic-copper-artisan)|49.99|318.35|Unknown|
-|[Hibi Enter Artisan](#hibi-enter-artisan)|74.99|477.56|Unknown|
+|[Classic Base](#classic-base)|129.99|827.82|2026|
+|[Burgundy Base](#burgundy-base)|129.99|827.82|670|
+|[Novelties](#novelties)|37.99|241.93|1738|
+|[Spacebars](#spacebars)|32.99|210.09|528|
+|[Salvun Burgundy Brass Artisan](#salvun-burgundy-brass-artisan)|49.99|318.35|134|
+|[Salvun Classic Copper Artisan](#salvun-classic-copper-artisan)|49.99|318.35|134|
+|[Hibi Enter Artisan](#hibi-enter-artisan)|74.99|477.56|195|
 
 <img src="{{ 'assets/images/gmk-keycaps/Camping-R3/price.jpg' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Camping-R3/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Classic Base  
-**Price(USD):** 129.99	**Price(CNY):** 827.82	**Quantity:** Unknown  
+**Price(USD):** 129.99	**Price(CNY):** 827.82	**Quantity:** 2026  
 <img src="{{ 'assets/images/gmk-keycaps/Camping-R3/kits_pics/classic-base.png' | relative_url }}" alt="classic-base" class="image featured">
 
 ### Burgundy Base  
-**Price(USD):** 129.99	**Price(CNY):** 827.82	**Quantity:** Unknown  
+**Price(USD):** 129.99	**Price(CNY):** 827.82	**Quantity:** 670  
 <img src="{{ 'assets/images/gmk-keycaps/Camping-R3/kits_pics/burgundy-base.png' | relative_url }}" alt="burgundy-base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 37.99	**Price(CNY):** 241.93	**Quantity:** Unknown  
+**Price(USD):** 37.99	**Price(CNY):** 241.93	**Quantity:** 1738  
 <img src="{{ 'assets/images/gmk-keycaps/Camping-R3/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 32.99	**Price(CNY):** 210.09	**Quantity:** Unknown  
+**Price(USD):** 32.99	**Price(CNY):** 210.09	**Quantity:** 528  
 <img src="{{ 'assets/images/gmk-keycaps/Camping-R3/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Salvun Burgundy Brass Artisan  
-**Price(USD):** 49.99	**Price(CNY):** 318.35	**Quantity:** Unknown  
+**Price(USD):** 49.99	**Price(CNY):** 318.35	**Quantity:** 134  
 <img src="{{ 'assets/images/gmk-keycaps/Camping-R3/kits_pics/salvun-burgundy-brass-artisan.png' | relative_url }}" alt="salvun-burgundy-brass-artisan" class="image featured">
 
 ### Salvun Classic Copper Artisan  
-**Price(USD):** 49.99	**Price(CNY):** 318.35	**Quantity:** Unknown  
+**Price(USD):** 49.99	**Price(CNY):** 318.35	**Quantity:** 134  
 <img src="{{ 'assets/images/gmk-keycaps/Camping-R3/kits_pics/salvun-classic-copper-artisan.png' | relative_url }}" alt="salvun-classic-copper-artisan" class="image featured">
 
 ### Hibi Enter Artisan  
-**Price(USD):** 74.99	**Price(CNY):** 477.56	**Quantity:** Unknown  
+**Price(USD):** 74.99	**Price(CNY):** 477.56	**Quantity:** 195  
 <img src="{{ 'assets/images/gmk-keycaps/Camping-R3/kits_pics/hibi-enter-artisan.png' | relative_url }}" alt="hibi-enter-artisan" class="image featured">
 
 ## Info

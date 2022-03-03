@@ -24,7 +24,7 @@ NOTE: USD to CNY exchange rate is 6.55
 |[Base](#base)|135.00|884.10|1000|
 |[Katakana](#katakana)|65.00|425.68|285|
 |[Spaces](#spaces)|30.00|196.47|250|
-|[~~Extensions~~](#extensions)|40.00|261.96|Canceled|
+|[~~Extensions~~](#extensions)|40.00|261.96|Cancelled|
 |[RAMA](#rama)|56.00|366.74|248|
 
 <img src="{{ 'assets/images/gmk-keycaps/Kouhai/price.png' | relative_url }}" alt="price" class="image featured">
@@ -44,7 +44,7 @@ NOTE: USD to CNY exchange rate is 6.55
 <img src="{{ 'assets/images/gmk-keycaps/Kouhai/kits_pics/spaces.jpg' | relative_url }}" alt="spaces" class="image featured">
 
 ### ~~Extensions~~  
-**Price(USD):** 40.00	**Price(CNY):** 261.96	**Quantity:** Canceled  
+**Price(USD):** 40.00	**Price(CNY):** 261.96	**Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/Kouhai/kits_pics/extensions.png' | relative_url }}" alt="extensions" class="image featured">
 
 ### RAMA  

@@ -26,7 +26,7 @@ NOTE: USD to CNY exchange rate is 6.54
 |[Alpha](#alpha)|60.00|392.36|326|
 |[Love Darkness](#love-darkness)|30.00|196.18|165|
 |[Numpad](#numpad)|40.00|261.57|118|
-|[~~40s~~](#40s)|50.00|326.97|Canceled|
+|[~~40s~~](#40s)|50.00|326.97|Cancelled|
 |[Spacebars](#spacebars)|30.00|196.18|227|
 
 <img src="{{ 'assets/images/gmk-keycaps/Avanguardia/order.png' | relative_url }}" alt="order" class="image featured">
@@ -53,7 +53,7 @@ NOTE: USD to CNY exchange rate is 6.54
 <img src="{{ 'assets/images/gmk-keycaps/Avanguardia/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
 ### ~~40s~~   
-**Price(USD):** 50.00	**Price(CNY):** 326.97	**Quantity:** Canceled  
+**Price(USD):** 50.00	**Price(CNY):** 326.97	**Quantity:** Cancelled  
 <img src="{{ 'assets/images/gmk-keycaps/Avanguardia/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### Spacebars  

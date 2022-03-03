@@ -14,14 +14,14 @@
     "link": "https://geekhack.org/index.php?topic=115871.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/CSW-qXRts/GMKarctic-Orders220206fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/KGQwjSLJ/GMKarctic-Orders220206fin-Next.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "126", "pic": "https://i.imgur.com/ECVDqIQ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Compact", "price": "38", "pic": "https://i.imgur.com/ONIHmhd.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Space Bar", "price": "28", "pic": "https://i.imgur.com/FQAVKyW.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "53", "pic": "https://i.imgur.com/cTo8AEG.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "126", "pic": "https://i.imgur.com/ECVDqIQ.jpg", "price_cny": "", "quantity": "994", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Compact", "price": "38", "pic": "https://i.imgur.com/ONIHmhd.jpg", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Space Bar", "price": "28", "pic": "https://i.imgur.com/FQAVKyW.jpg", "price_cny": "", "quantity": "504", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "53", "pic": "https://i.imgur.com/cTo8AEG.jpg", "price_cny": "", "quantity": "654", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/HhWIzq4.jpg"

@@ -28,8 +28,8 @@ NOTE: USD to RMB exchange rate is 6.67
 |[AmberScreenNumpad](#amberscreennumpad)|36.99|250.42|68|
 |[Novelties](#novelties)|49.99|338.43|153|
 |[Assembly](#assembly)|23.99|162.41|114|
-|[~~40bit~~](#40bit)|99.99|676.93|Canceled|
-|[~~Ergodox~~](#ergodox)|114.99|778.48|Canceled|
+|[~~40bit~~](#40bit)|99.99|676.93|Cancelled|
+|[~~Ergodox~~](#ergodox)|114.99|778.48|Cancelled|
 |[GreenScreenColevrak](#greenscreencolevrak)|30.99|209.80|19|
 |[GreenScreenNorDeUK](#greenscreennordeuk)|69.99|473.83|14|
 |[AlternateF](#alternatef)|20.99|142.10|79|
@@ -81,11 +81,11 @@ NOTE: USD to RMB exchange rate is 6.67
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/assembly.png' | relative_url }}" alt="Assembly" class="image featured">
 
 ### ~~40bit~~
-**Price(USD):** 99.99   **Price(RMB):** 676.93  **Quantity:** Canceled   
+**Price(USD):** 99.99   **Price(RMB):** 676.93  **Quantity:** Cancelled   
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/40bit.png' | relative_url }}" alt="40bit" class="image featured">
 
 ### ~~Ergodox~~
-**Price(USD):** 114.99  **Price(RMB):** 778.48  **Quantity:** Canceled  
+**Price(USD):** 114.99  **Price(RMB):** 778.48  **Quantity:** Cancelled  
 <img src="{{ 'assets/images/sa-keycaps/greenscreen/kits_pics/ergodox.png' | relative_url }}" alt="Ergodox" class="image featured">
 
 ### GreenScreenColevrak

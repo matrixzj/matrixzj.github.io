@@ -21,27 +21,29 @@ NOTE: USD to CNY exchange rate is 6.38
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|126.00|803.59|Unknown|
-|[Compact](#compact)|38.00|242.35|Unknown|
-|[Space Bar](#space-bar)|28.00|178.58|Unknown|
-|[Novelties](#novelties)|53.00|338.02|Unknown|
+|[Base](#base)|126.00|803.59|994|
+|[Compact](#compact)|38.00|242.35|100|
+|[Space Bar](#space-bar)|28.00|178.58|504|
+|[Novelties](#novelties)|53.00|338.02|654|
 
+<img src="{{ 'assets/images/gmk-keycaps/Arctic/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Arctic/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 126.00	**Price(CNY):** 803.59	**Quantity:** Unknown  
+**Price(USD):** 126.00	**Price(CNY):** 803.59	**Quantity:** 994  
 <img src="{{ 'assets/images/gmk-keycaps/Arctic/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Compact  
-**Price(USD):** 38.00	**Price(CNY):** 242.35	**Quantity:** Unknown  
+**Price(USD):** 38.00	**Price(CNY):** 242.35	**Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/Arctic/kits_pics/compact.jpg' | relative_url }}" alt="compact" class="image featured">
 
 ### Space Bar  
-**Price(USD):** 28.00	**Price(CNY):** 178.58	**Quantity:** Unknown  
+**Price(USD):** 28.00	**Price(CNY):** 178.58	**Quantity:** 504  
 <img src="{{ 'assets/images/gmk-keycaps/Arctic/kits_pics/space-bar.jpg' | relative_url }}" alt="space-bar" class="image featured">
 
 ### Novelties  
-**Price(USD):** 53.00	**Price(CNY):** 338.02	**Quantity:** Unknown  
+**Price(USD):** 53.00	**Price(CNY):** 338.02	**Quantity:** 654  
 <img src="{{ 'assets/images/gmk-keycaps/Arctic/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ## Info

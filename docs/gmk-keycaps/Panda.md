@@ -21,38 +21,39 @@ NOTE: USD to CNY exchange rate is 6.38
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|125.00|797.88|Unknown|
-|[Canjie Alphas](#canjie-alphas)|59.00|376.60|Unknown|
-|[Novelties](#novelties)|45.00|287.24|Unknown|
-|[Spacebars](#spacebars)|25.00|159.58|Unknown|
-|[Monokei Alu Artisan](#monokei-alu-artisan)|45.00|287.24|Unknown|
-|[Monokei Brass Artisan](#monokei-brass-artisan)|55.00|351.07|Unknown|
+|[Base](#base)|125.00|797.88|500|
+|[Canjie Alphas](#canjie-alphas)|59.00|376.60|110|
+|[Novelties](#novelties)|45.00|287.24|358|
+|[Spacebars](#spacebars)|25.00|159.58|203|
+|[Monokei Alu Artisan](#monokei-alu-artisan)|45.00|287.24|100|
+|[Monokei Brass Artisan](#monokei-brass-artisan)|55.00|351.07|105|
 
 <img src="{{ 'assets/images/gmk-keycaps/Panda/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Panda/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 125.00	**Price(CNY):** 797.88	**Quantity:** Unknown  
+**Price(USD):** 125.00	**Price(CNY):** 797.88	**Quantity:** 500  
 <img src="{{ 'assets/images/gmk-keycaps/Panda/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Canjie Alphas  
-**Price(USD):** 59.00	**Price(CNY):** 376.60	**Quantity:** Unknown  
+**Price(USD):** 59.00	**Price(CNY):** 376.60	**Quantity:** 110  
 <img src="{{ 'assets/images/gmk-keycaps/Panda/kits_pics/canjie-alphas.jpg' | relative_url }}" alt="canjie-alphas" class="image featured">
 
 ### Novelties  
-**Price(USD):** 45.00	**Price(CNY):** 287.24	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 287.24	**Quantity:** 358  
 <img src="{{ 'assets/images/gmk-keycaps/Panda/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 25.00	**Price(CNY):** 159.58	**Quantity:** Unknown  
+**Price(USD):** 25.00	**Price(CNY):** 159.58	**Quantity:** 203  
 <img src="{{ 'assets/images/gmk-keycaps/Panda/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Monokei Alu Artisan  
-**Price(USD):** 45.00	**Price(CNY):** 287.24	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 287.24	**Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/Panda/kits_pics/monokei-alu-artisan.png' | relative_url }}" alt="monokei-alu-artisan" class="image featured">
 
 ### Monokei Brass Artisan  
-**Price(USD):** 55.00	**Price(CNY):** 351.07	**Quantity:** Unknown  
+**Price(USD):** 55.00	**Price(CNY):** 351.07	**Quantity:** 105  
 <img src="{{ 'assets/images/gmk-keycaps/Panda/kits_pics/monokei-brass-artisan.png' | relative_url }}" alt="monokei-brass-artisan" class="image featured">
 
 ## Info
