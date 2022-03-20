@@ -1,0 +1,29 @@
+{
+    "name": "Orange Boi",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "andromache",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-03-01 ~ 2022-03-31",
+    "ets": "Q2/Q3 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=116403.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/KBf8afg.png",
+    "price_list":[
+        { "name": "Base", "price": "129.99", "pic": "https://i.imgur.com/gs7UICA.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "53.99", "pic": "https://i.imgur.com/iB8YFZU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "25.99", "pic": "https://i.imgur.com/h7xzMWh.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "60", "pic": "https://i.imgur.com/0ZDLuLu.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/8c8VY4Z.jpg"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Nimbus",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "scott_mk",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-02-22 ~ 2022-03-25",
+    "ets": "Q2 2023",
+    "colorcodes":[
+        "|Alphas|RAL 230 85 20|N9",
+        "|Mods|WS2|N9",
+        "|Accents|N9|WS2"
+    ],
+    "color_pics":[
+        "https://imgur.com/MWUjg8C.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=116355.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://imgur.com/A0nxfeE.png",
+    "price_list":[
+        { "name": "Base", "price": "129", "pic": "https://imgur.com/Fak6q9B.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://imgur.com/6QwBbZp.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://imgur.com/lNOlIgh.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icon Mods", "price": "35", "pic": "https://imgur.com/eCyom3h.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "52", "pic": "https://imgur.com/gN7tbzR.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Casper ESC Artisan", "price": "35", "pic": "https://imgur.com/XZXn35Z.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Casper Enter Artisan", "price": "45", "pic": "https://imgur.com/xMwxonZ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://imgur.com/svEzzQK.png"
+    ]
+}
