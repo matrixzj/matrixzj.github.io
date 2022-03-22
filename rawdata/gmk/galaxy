@@ -19,16 +19,16 @@
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
-    "order_graph_without": "",
+    "order_graph_without": "https://i.postimg.cc/LmpPvT4S/GMKgalaxy-Orders220304fin-Next.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/SJrMD5p.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/sHoZ4IK.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "34", "pic": "https://i.imgur.com/LY1qiZP.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Aesthetics", "price": "34", "pic": "https://i.imgur.com/f4mDWMU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "HIBI Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Galaxy-HIBI-Metal-Artisan-Keycap-Vala-Supply-1_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "THOK Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Galaxy-THOK-Metal-Artisan-Keycap-Vala-Supply-1_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Keebee Artisan", "price": "59", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Galaxy-KeyBee-Metal-Artisan-Keycap-Vala-Supply-1_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/SJrMD5p.png", "price_cny": "", "quantity": "472", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/sHoZ4IK.png", "price_cny": "", "quantity": "372", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "34", "pic": "https://i.imgur.com/LY1qiZP.png", "price_cny": "", "quantity": "123", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Aesthetics", "price": "34", "pic": "https://i.imgur.com/f4mDWMU.png", "price_cny": "", "quantity": "181", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Galaxy-HIBI-Metal-Artisan-Keycap-Vala-Supply-1_900x.jpg", "price_cny": "", "quantity": "163", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Galaxy-THOK-Metal-Artisan-Keycap-Vala-Supply-1_900x.jpg", "price_cny": "", "quantity": "227", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Keebee Artisan", "price": "59", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Galaxy-KeyBee-Metal-Artisan-Keycap-Vala-Supply-1_900x.png", "price_cny": "", "quantity": "180", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/BbbLUKK.png"

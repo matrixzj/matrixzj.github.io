@@ -94,7 +94,7 @@ def parse_price_info_format():
 
          # Quantity is Unknown
         if kit['quantity']:
-            kit['quantity'] = int(kit['quantity'])
+            kit['quantity'] = kit['quantity']
         else:
             kit['quantity'] = 'Unknown'
 

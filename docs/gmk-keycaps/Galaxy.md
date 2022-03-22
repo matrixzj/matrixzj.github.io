@@ -21,42 +21,43 @@ NOTE: USD to CNY exchange rate is 6.36
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|858.74|Unknown|
-|[Novelties](#novelties)|49.00|311.69|Unknown|
-|[Spacebars](#spacebars)|34.00|216.28|Unknown|
-|[Aesthetics](#aesthetics)|34.00|216.28|Unknown|
-|[HIBI Artisan](#hibi-artisan)|45.00|286.25|Unknown|
-|[THOK Artisan](#thok-artisan)|45.00|286.25|Unknown|
-|[Keebee Artisan](#keebee-artisan)|59.00|375.30|Unknown|
+|[Base](#base)|135.00|858.74|472|
+|[Novelties](#novelties)|49.00|311.69|372|
+|[Spacebars](#spacebars)|34.00|216.28|123|
+|[Aesthetics](#aesthetics)|34.00|216.28|181|
+|[HIBI Artisan](#hibi-artisan)|45.00|286.25|163|
+|[THOK Artisan](#thok-artisan)|45.00|286.25|227|
+|[Keebee Artisan](#keebee-artisan)|59.00|375.30|180|
 
+<img src="{{ 'assets/images/gmk-keycaps/Galaxy/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 135.00	**Price(CNY):** 858.74	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 858.74	**Quantity:** 472  
 <img src="{{ 'assets/images/gmk-keycaps/Galaxy/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 49.00	**Price(CNY):** 311.69	**Quantity:** Unknown  
+**Price(USD):** 49.00	**Price(CNY):** 311.69	**Quantity:** 372  
 <img src="{{ 'assets/images/gmk-keycaps/Galaxy/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 34.00	**Price(CNY):** 216.28	**Quantity:** Unknown  
+**Price(USD):** 34.00	**Price(CNY):** 216.28	**Quantity:** 123  
 <img src="{{ 'assets/images/gmk-keycaps/Galaxy/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Aesthetics  
-**Price(USD):** 34.00	**Price(CNY):** 216.28	**Quantity:** Unknown  
+**Price(USD):** 34.00	**Price(CNY):** 216.28	**Quantity:** 181  
 <img src="{{ 'assets/images/gmk-keycaps/Galaxy/kits_pics/aesthetics.png' | relative_url }}" alt="aesthetics" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** 45.00	**Price(CNY):** 286.25	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 286.25	**Quantity:** 163  
 <img src="{{ 'assets/images/gmk-keycaps/Galaxy/kits_pics/hibi-artisan.jpg' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ### THOK Artisan  
-**Price(USD):** 45.00	**Price(CNY):** 286.25	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 286.25	**Quantity:** 227  
 <img src="{{ 'assets/images/gmk-keycaps/Galaxy/kits_pics/thok-artisan.jpg' | relative_url }}" alt="thok-artisan" class="image featured">
 
 ### Keebee Artisan  
-**Price(USD):** 59.00	**Price(CNY):** 375.30	**Quantity:** Unknown  
+**Price(USD):** 59.00	**Price(CNY):** 375.30	**Quantity:** 180  
 <img src="{{ 'assets/images/gmk-keycaps/Galaxy/kits_pics/keebee-artisan.png' | relative_url }}" alt="keebee-artisan" class="image featured">
 
 ## Info

@@ -18,17 +18,18 @@
     "link": "https://geekhack.org/index.php?topic=116109.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/TGj0316K/GMKntd-Orders220227fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/mbhpcsS0/GMKntd-Orders220227fin-Next.png",
     "price_pic": "https://i.imgur.com/TzSWBYB.png",
     "price_list":[
-        { "name": "Base", "price": "128", "pic": "https://i.imgur.com/Nl2gOWf.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extension", "price": "33", "pic": "https://i.imgur.com/HokqzXi.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebar", "price": "34", "pic": "https://i.imgur.com/MbjTdzF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Macro", "price": "42", "pic": "https://i.imgur.com/Msm7bX6.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "50", "pic": "https://i.imgur.com/BnTDNWb.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "HIBI Artisan", "price": "44", "pic": "https://i.imgur.com/MwzAZno.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Monokei Artisan", "price": "58", "pic": "https://i.imgur.com/XUGvddu.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "128", "pic": "https://i.imgur.com/Nl2gOWf.jpg", "price_cny": "", "quantity": "1145", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "33", "pic": "https://i.imgur.com/HokqzXi.jpg", "price_cny": "", "quantity": "124", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "34", "pic": "https://i.imgur.com/MbjTdzF.jpg", "price_cny": "", "quantity": "496", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro", "price": "42", "pic": "https://i.imgur.com/Msm7bX6.jpg", "price_cny": "", "quantity": "366", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "50", "pic": "https://i.imgur.com/BnTDNWb.jpg", "price_cny": "", "quantity": "937", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Grey Artisan", "price": "44", "pic": "https://i.imgur.com/3le3LoM.png", "price_cny": "", "quantity": "155", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Purple Artisan", "price": "44", "pic": "https://i.imgur.com/MwzAZno.png", "price_cny": "", "quantity": "224", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "58", "pic": "https://i.imgur.com/XUGvddu.png", "price_cny": "", "quantity": "316", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/lQa4zbp.jpg"

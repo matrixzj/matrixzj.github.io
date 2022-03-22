@@ -21,22 +21,23 @@ NOTE: USD to CNY exchange rate is 6.34
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|855.74|Unknown|
-|[Extension](#extension)|35.00|221.86|Unknown|
-|[JIS Mod](#jis-mod)|52.00|329.62|Unknown|
+|[Base](#base)|135.00|855.74|523|
+|[Extension](#extension)|35.00|221.86|123|
+|[JIS Mod](#jis-mod)|52.00|329.62|206|
 
+<img src="{{ 'assets/images/gmk-keycaps/TeraDrive/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 135.00	**Price(CNY):** 855.74	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 855.74	**Quantity:** 523  
 <img src="{{ 'assets/images/gmk-keycaps/TeraDrive/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Extension  
-**Price(USD):** 35.00	**Price(CNY):** 221.86	**Quantity:** Unknown  
+**Price(USD):** 35.00	**Price(CNY):** 221.86	**Quantity:** 123  
 <img src="{{ 'assets/images/gmk-keycaps/TeraDrive/kits_pics/extension.png' | relative_url }}" alt="extension" class="image featured">
 
 ### JIS Mod  
-**Price(USD):** 52.00	**Price(CNY):** 329.62	**Quantity:** Unknown  
+**Price(USD):** 52.00	**Price(CNY):** 329.62	**Quantity:** 206  
 <img src="{{ 'assets/images/gmk-keycaps/TeraDrive/kits_pics/jis-mod.jpg' | relative_url }}" alt="jis-mod" class="image featured">
 
 ## Info

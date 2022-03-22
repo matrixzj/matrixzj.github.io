@@ -21,7 +21,7 @@ NOTE: USD to CNY exchange rate is 6.45
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|130.99|844.45|1884|
+|[Base](#base)|130.99|844.45|1804|
 |[Novelties](#novelties)|51.99|335.16|1206|
 |[Latin Alphas](#latin-alphas)|49.99|322.27|227|
 |[Accent](#accent)|29.99|193.34|532|
@@ -34,7 +34,7 @@ NOTE: USD to CNY exchange rate is 6.45
 
 ## Kits
 ### Base  
-**Price(USD):** 130.99	**Price(CNY):** 844.45	**Quantity:** 1884  
+**Price(USD):** 130.99	**Price(CNY):** 844.45	**Quantity:** 1804  
 <img src="{{ 'assets/images/gmk-keycaps/Soyamilk/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
