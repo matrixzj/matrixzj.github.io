@@ -177,6 +177,10 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Jamon R2 火腿R2](docs/gmk-keycaps/Jamon-R2/)
+* [Maroon](docs/gmk-keycaps/Maroon/)
+* [Cream Matcha](docs/gmk-keycaps/Cream-Matcha/)
+* [Marmoreal](docs/gmk-keycaps/Marmoreal/)
 * [Purple-ish](docs/gmk-keycaps/Purple-ish/)
 * [Cluck](docs/gmk-keycaps/Cluck/)
 * [Orange Boi](docs/gmk-keycaps/Orange-Boi/)

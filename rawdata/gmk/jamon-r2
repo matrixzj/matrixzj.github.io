@@ -1,0 +1,30 @@
+{
+    "name": "Jamon R2",
+    "cname": "火腿R2",
+    "keycapstype": "GMK",
+    "designer": "Zambumon",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-04-04 ~ 2022-05-05",
+    "ets": "Q3, 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Core", "price": "135", "pic": "https://cdn.shopify.com/s/files/1/0351/4577/7289/products/ZAMBUMON-GMK_JAMON_2-KIT_01-CORE-UHD_1024x1024.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro Expansion", "price": "55", "pic": "https://cdn.shopify.com/s/files/1/0351/4577/7289/products/ZAMBUMON-GMK_JAMON_2-KIT_02-MACRO_EXPANSION-UHD_1024x1024.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0351/4577/7289/products/ZAMBUMON-GMK_JAMON_2-KIT_03-NOVELTIES-UHD_1024x1024.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Egg Artisan", "price": "47", "pic": "https://cdn.shopify.com/s/files/1/0351/4577/7289/products/ZAMBUMON-GMK_JAMON_2-KIT_04-HIBI_EGG-UHD_1024x1024.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Bacon Artisan", "price": "40", "pic": "https://cdn.shopify.com/s/files/1/0351/4577/7289/products/ZAMBUMON-GMK_JAMON_2-KIT_05-HIBI_BACON-UHD_1024x1024.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://matrixzj.github.io/assets/images/gmk-keycaps/jamon/rendering_pics/1.jpg"
+    ]
+}
