@@ -21,27 +21,28 @@ NOTE: USD to CNY exchange rate is 6.32
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|853.23|Unknown|
-|[Alt Alpha](#alt-alpha)|46.00|290.73|Unknown|
-|[Novelties](#novelties)|36.00|227.53|Unknown|
-|[Spacebars](#spacebars)|30.00|189.61|Unknown|
+|[Base](#base)|135.00|853.23|250|
+|[Alt Alpha](#alt-alpha)|46.00|290.73|133|
+|[Novelties](#novelties)|36.00|227.53|158|
+|[Spacebars](#spacebars)|30.00|189.61|100|
 
+<img src="{{ 'assets/images/gmk-keycaps/Cluck/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 135.00	**Price(CNY):** 853.23	**Quantity:** Unknown  
+**Price(USD):** 135.00	**Price(CNY):** 853.23	**Quantity:** 250  
 <img src="{{ 'assets/images/gmk-keycaps/Cluck/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Alt Alpha  
-**Price(USD):** 46.00	**Price(CNY):** 290.73	**Quantity:** Unknown  
+**Price(USD):** 46.00	**Price(CNY):** 290.73	**Quantity:** 133  
 <img src="{{ 'assets/images/gmk-keycaps/Cluck/kits_pics/alt-alpha.png' | relative_url }}" alt="alt-alpha" class="image featured">
 
 ### Novelties  
-**Price(USD):** 36.00	**Price(CNY):** 227.53	**Quantity:** Unknown  
+**Price(USD):** 36.00	**Price(CNY):** 227.53	**Quantity:** 158  
 <img src="{{ 'assets/images/gmk-keycaps/Cluck/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 30.00	**Price(CNY):** 189.61	**Quantity:** Unknown  
+**Price(USD):** 30.00	**Price(CNY):** 189.61	**Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/Cluck/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ## Info

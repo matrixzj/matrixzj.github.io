@@ -17,15 +17,15 @@
     "link": "https://geekhack.org/index.php?topic=115935.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/JmzG0wp5/GMKgrey-On-Black-Orders220220fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/iZc0aNw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extensions", "price": "39", "pic": "https://i.imgur.com/w9zeHmn.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "R5", "price": "29", "pic": "https://i.imgur.com/3B2oqVe.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/zzMgSfG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Accents", "price": "49", "pic": "https://i.imgur.com/Eo3l5Oq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "125", "pic": "https://i.imgur.com/iZc0aNw.png", "price_cny": "", "quantity": "503", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "39", "pic": "https://i.imgur.com/w9zeHmn.png", "price_cny": "", "quantity": "133", "price_table_format": "", "price_kit_format": "" },
+        { "name": "R5", "price": "29", "pic": "https://i.imgur.com/3B2oqVe.png", "price_cny": "", "quantity": "101", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/zzMgSfG.png", "price_cny": "", "quantity": "282", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accents", "price": "49", "pic": "https://i.imgur.com/Eo3l5Oq.png", "price_cny": "", "quantity": "290", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/OEficxG.jpg"

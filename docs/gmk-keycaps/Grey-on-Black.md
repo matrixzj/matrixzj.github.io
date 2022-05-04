@@ -21,32 +21,33 @@ NOTE: USD to CNY exchange rate is 6.37
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|125.00|796.75|Unknown|
-|[Extensions](#extensions)|39.00|248.59|Unknown|
-|[R5](#r5)|29.00|184.85|Unknown|
-|[Spacebars](#spacebars)|25.00|159.35|Unknown|
-|[Accents](#accents)|49.00|312.33|Unknown|
+|[Base](#base)|125.00|796.75|503|
+|[Extensions](#extensions)|39.00|248.59|133|
+|[R5](#r5)|29.00|184.85|101|
+|[Spacebars](#spacebars)|25.00|159.35|282|
+|[Accents](#accents)|49.00|312.33|290|
 
+<img src="{{ 'assets/images/gmk-keycaps/Grey-on-Black/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 125.00	**Price(CNY):** 796.75	**Quantity:** Unknown  
+**Price(USD):** 125.00	**Price(CNY):** 796.75	**Quantity:** 503  
 <img src="{{ 'assets/images/gmk-keycaps/Grey-on-Black/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Extensions  
-**Price(USD):** 39.00	**Price(CNY):** 248.59	**Quantity:** Unknown  
+**Price(USD):** 39.00	**Price(CNY):** 248.59	**Quantity:** 133  
 <img src="{{ 'assets/images/gmk-keycaps/Grey-on-Black/kits_pics/extensions.png' | relative_url }}" alt="extensions" class="image featured">
 
 ### R5  
-**Price(USD):** 29.00	**Price(CNY):** 184.85	**Quantity:** Unknown  
+**Price(USD):** 29.00	**Price(CNY):** 184.85	**Quantity:** 101  
 <img src="{{ 'assets/images/gmk-keycaps/Grey-on-Black/kits_pics/r5.png' | relative_url }}" alt="r5" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 25.00	**Price(CNY):** 159.35	**Quantity:** Unknown  
+**Price(USD):** 25.00	**Price(CNY):** 159.35	**Quantity:** 282  
 <img src="{{ 'assets/images/gmk-keycaps/Grey-on-Black/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Accents  
-**Price(USD):** 49.00	**Price(CNY):** 312.33	**Quantity:** Unknown  
+**Price(USD):** 49.00	**Price(CNY):** 312.33	**Quantity:** 290  
 <img src="{{ 'assets/images/gmk-keycaps/Grey-on-Black/kits_pics/accents.png' | relative_url }}" alt="accents" class="image featured">
 
 ## Info

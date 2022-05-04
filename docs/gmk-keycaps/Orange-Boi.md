@@ -21,28 +21,30 @@ NOTE: USD to CNY exchange rate is 6.31
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|129.99|820.56|Unknown|
-|[Novelty](#novelty)|53.99|340.81|Unknown|
-|[Spacebar](#spacebar)|25.99|164.06|Unknown|
-|[HIBI Artisan](#hibi-artisan)|60.00|378.75|Unknown|
+|[Base](#base)|129.99|820.56|778|
+|[Novelty](#novelty)|53.99|340.81|641|
+|[Spacebar](#spacebar)|25.99|164.06|232|
+|[HIBI Artisan](#hibi-artisan)|60.00|378.75|176|
 
 <img src="{{ 'assets/images/gmk-keycaps/Orange-Boi/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Orange-Boi/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Orange-Boi/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 129.99	**Price(CNY):** 820.56	**Quantity:** Unknown  
+**Price(USD):** 129.99	**Price(CNY):** 820.56	**Quantity:** 778  
 <img src="{{ 'assets/images/gmk-keycaps/Orange-Boi/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelty  
-**Price(USD):** 53.99	**Price(CNY):** 340.81	**Quantity:** Unknown  
+**Price(USD):** 53.99	**Price(CNY):** 340.81	**Quantity:** 641  
 <img src="{{ 'assets/images/gmk-keycaps/Orange-Boi/kits_pics/novelty.png' | relative_url }}" alt="novelty" class="image featured">
 
 ### Spacebar  
-**Price(USD):** 25.99	**Price(CNY):** 164.06	**Quantity:** Unknown  
+**Price(USD):** 25.99	**Price(CNY):** 164.06	**Quantity:** 232  
 <img src="{{ 'assets/images/gmk-keycaps/Orange-Boi/kits_pics/spacebar.png' | relative_url }}" alt="spacebar" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** 60.00	**Price(CNY):** 378.75	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 378.75	**Quantity:** 176  
 <img src="{{ 'assets/images/gmk-keycaps/Orange-Boi/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info

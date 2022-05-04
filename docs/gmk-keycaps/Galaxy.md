@@ -29,6 +29,7 @@ NOTE: USD to CNY exchange rate is 6.36
 |[THOK Artisan](#thok-artisan)|45.00|286.25|227|
 |[Keebee Artisan](#keebee-artisan)|59.00|375.30|180|
 
+<img src="{{ 'assets/images/gmk-keycaps/Galaxy/order.png' | relative_url }}" alt="order" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/Galaxy/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits

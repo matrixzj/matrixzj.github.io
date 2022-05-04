@@ -1,0 +1,36 @@
+{
+    "name": "Gladiator",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "SxM Designs",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-04-15 ~ 2022-05-16",
+    "ets": "Q4 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=116906.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/SvUJOQ9.jpg",
+    "price_list":[
+        { "name": "Rudis", "price": "129", "pic": "https://i.imgur.com/ZwH0trY.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spectacula", "price": "59", "pic": "https://i.imgur.com/u6awqpe.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Columna", "price": "39", "pic": "https://i.imgur.com/mgZ8hxS.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numeri", "price": "39", "pic": "https://i.imgur.com/saMI2z9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "53", "pic": "https://i.imgur.com/yFIBewQ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Armature", "price": "30", "pic": "https://i.imgur.com/eKnjrEt.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Gladiator Artisan", "price": "45", "pic": "https://i.imgur.com/ONVsNh6.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Colosseum Artisan", "price": "45", "pic": "https://i.imgur.com/HvOhcNT.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Keyrelic Emperor Artisan", "price": "55", "pic": "https://i.imgur.com/mAxaFez.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Keyrelic Corinthian Artisan", "price": "60", "pic": "https://i.imgur.com/2g1z6q9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "YVK Spacebar Artisan", "price": "95", "pic": "https://cdn.shopify.com/s/files/1/0375/7617/9847/products/gb-gmk-gladiator-615819_2048x2048.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/gfpmaoA.jpg"
+    ]
+}

@@ -177,6 +177,11 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Universe](docs/gmk-keycaps/Universe/)
+* [Peach Blossom R2 桃花R2](docs/gmk-keycaps/Peach-Blossom-R2/)
+* [Gladiator](docs/gmk-keycaps/Gladiator/)
+* [FengLiSu 凤梨酥](docs/gmk-keycaps/FengLiSu/)
+* [Cinder](docs/gmk-keycaps/Cinder/)
 * [Jamon R2 火腿R2](docs/gmk-keycaps/Jamon-R2/)
 * [Maroon](docs/gmk-keycaps/Maroon/)
 * [Cream Matcha](docs/gmk-keycaps/Cream-Matcha/)

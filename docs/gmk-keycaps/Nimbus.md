@@ -21,43 +21,45 @@ NOTE: USD to CNY exchange rate is 6.33
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|129.00|816.11|Unknown|
-|[Novelties](#novelties)|45.00|284.69|Unknown|
-|[Spacebars](#spacebars)|29.00|183.47|Unknown|
-|[Icon Mods](#icon-mods)|35.00|221.42|Unknown|
-|[Monokei Artisan](#monokei-artisan)|52.00|328.97|Unknown|
-|[Casper ESC Artisan](#casper-esc-artisan)|35.00|221.42|Unknown|
-|[Casper Enter Artisan](#casper-enter-artisan)|45.00|284.69|Unknown|
+|[Base](#base)|129.00|816.11|563|
+|[Novelties](#novelties)|45.00|284.69|226|
+|[Spacebars](#spacebars)|29.00|183.47|128|
+|[Icon Mods](#icon-mods)|35.00|221.42|86|
+|[Monokei Artisan](#monokei-artisan)|52.00|328.97|70|
+|[Casper ESC Artisan](#casper-esc-artisan)|35.00|221.42|54|
+|[Casper Enter Artisan](#casper-enter-artisan)|45.00|284.69|42|
 
 <img src="{{ 'assets/images/gmk-keycaps/Nimbus/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Nimbus/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Nimbus/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 129.00	**Price(CNY):** 816.11	**Quantity:** Unknown  
+**Price(USD):** 129.00	**Price(CNY):** 816.11	**Quantity:** 563  
 <img src="{{ 'assets/images/gmk-keycaps/Nimbus/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 45.00	**Price(CNY):** 284.69	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 284.69	**Quantity:** 226  
 <img src="{{ 'assets/images/gmk-keycaps/Nimbus/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 29.00	**Price(CNY):** 183.47	**Quantity:** Unknown  
+**Price(USD):** 29.00	**Price(CNY):** 183.47	**Quantity:** 128  
 <img src="{{ 'assets/images/gmk-keycaps/Nimbus/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Icon Mods  
-**Price(USD):** 35.00	**Price(CNY):** 221.42	**Quantity:** Unknown  
+**Price(USD):** 35.00	**Price(CNY):** 221.42	**Quantity:** 86  
 <img src="{{ 'assets/images/gmk-keycaps/Nimbus/kits_pics/icon-mods.png' | relative_url }}" alt="icon-mods" class="image featured">
 
 ### Monokei Artisan  
-**Price(USD):** 52.00	**Price(CNY):** 328.97	**Quantity:** Unknown  
+**Price(USD):** 52.00	**Price(CNY):** 328.97	**Quantity:** 70  
 <img src="{{ 'assets/images/gmk-keycaps/Nimbus/kits_pics/monokei-artisan.jpg' | relative_url }}" alt="monokei-artisan" class="image featured">
 
 ### Casper ESC Artisan  
-**Price(USD):** 35.00	**Price(CNY):** 221.42	**Quantity:** Unknown  
+**Price(USD):** 35.00	**Price(CNY):** 221.42	**Quantity:** 54  
 <img src="{{ 'assets/images/gmk-keycaps/Nimbus/kits_pics/casper-esc-artisan.png' | relative_url }}" alt="casper-esc-artisan" class="image featured">
 
 ### Casper Enter Artisan  
-**Price(USD):** 45.00	**Price(CNY):** 284.69	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 284.69	**Quantity:** 42  
 <img src="{{ 'assets/images/gmk-keycaps/Nimbus/kits_pics/casper-enter-artisan.png' | relative_url }}" alt="casper-enter-artisan" class="image featured">
 
 ## Info

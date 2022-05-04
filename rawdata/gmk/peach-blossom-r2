@@ -1,0 +1,29 @@
+{
+    "name": "Peach Blossom R2",
+    "cname": "桃花R2",
+    "keycapstype": "GMK",
+    "designer": "kema",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-05-01 ~ 2022-06-01",
+    "ets": "Q3 2023",
+    "colorcodes":[
+      "|Pantone 1767C|WS1"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=117058.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "129", "pic": "https://imgur.com/KAc0pDo.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hangul", "price": "42", "pic": "https://imgur.com/50LWQtV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "28", "pic": "https://imgur.com/v8VuhOK.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://imgur.com/Lm7HZZc.png"
+    ]
+}
