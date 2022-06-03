@@ -17,15 +17,15 @@
     "link": "https://geekhack.org/index.php?topic=116727.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/HT6GmnJ3/GMKmaroon-Orders220428fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/8DvVvT3P/GMKmaroon-Orders220428fin-Next3.png",
     "price_pic": "https://i.imgur.com/uZowpaZ.png",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/Lkm5nrq.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alt Alphas", "price": "69", "pic": "https://i.imgur.com/RDZRrvB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/FKDJf8t.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Asero Artisan", "price": "49", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Maroon-Asero-Foundry-Metal-Artisan-banned-Vala-Supply-1_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "HIBI Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Maroon-Hibi-Design-Metal-Artisan-banned-Vala-Supply-1_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/Lkm5nrq.jpg", "price_cny": "", "quantity": "323", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Alphas", "price": "69", "pic": "https://i.imgur.com/RDZRrvB.jpg", "price_cny": "", "quantity": "114", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/FKDJf8t.jpg", "price_cny": "", "quantity": "133", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "49", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Maroon-Asero-Foundry-Metal-Artisan-banned-Vala-Supply-1_900x.png", "price_cny": "", "quantity": "73", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Maroon-Hibi-Design-Metal-Artisan-banned-Vala-Supply-1_900x.png", "price_cny": "", "quantity": "59", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/puf6meQ.jpg"

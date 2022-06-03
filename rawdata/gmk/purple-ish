@@ -9,20 +9,21 @@
     "colorcodes":[
     ],
     "color_pics":[
+      "https://i.imgur.com/Mg2uKJq.png"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=116551.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "history_graph": "https://i.postimg.cc/JRbbY5RJ/GMKpurple-ish-History220418fin-YNext.png",
+    "order_graph": "https://i.postimg.cc/0PHmpQGw/GMKpurple-ish-Orders220418fin-Yext2.png",
+    "order_graph_without": "https://i.postimg.cc/gYpdH4KF/GMKpurple-ish-Orders220418fin-Next.png",
     "price_pic": "https://i.imgur.com/QkimyMz.png",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/VvuUKJQ.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "59", "pic": "https://i.imgur.com/4ZsGbsw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "34", "pic": "https://i.imgur.com/DDRNHYC.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Monokei Artisan", "price": "45", "pic": "https://i.imgur.com/E9jQPHP.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "THOK Artisan", "price": "49", "pic": "https://i.imgur.com/YVcN0J2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/VvuUKJQ.png", "price_cny": "", "quantity": "434", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "59", "pic": "https://i.imgur.com/4ZsGbsw.png", "price_cny": "", "quantity": "325", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "34", "pic": "https://i.imgur.com/DDRNHYC.png", "price_cny": "", "quantity": "135", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "45", "pic": "https://i.imgur.com/E9jQPHP.png", "price_cny": "", "quantity": "87", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK Artisan", "price": "49", "pic": "https://i.imgur.com/YVcN0J2.jpg", "price_cny": "", "quantity": "136", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/qMNhSX6.png"

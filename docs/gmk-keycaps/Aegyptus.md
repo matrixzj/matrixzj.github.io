@@ -64,6 +64,13 @@ NOTE: USD to CNY exchange rate is 6.47
 * Estimated Shipping Time: Q2 2022  
 * Color Codes:  
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alphas|L9|Pantone 4019C
+|Mods|Pantone 4019C|L9
+|Accents|N7|L9|
+
+<img src="{{ 'assets/images/gmk-keycaps/Aegyptus/0.jpg' | relative_url }}" alt="0" class="image featured">
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/Aegyptus/rendering_pics/0.png' | relative_url }}" alt="0" class="image featured">

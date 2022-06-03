@@ -7,8 +7,13 @@
     "time": "2022-03-03 ~ 2022-04-03",
     "ets": "Q3 2023",
     "colorcodes":[
+      "|Alphas|WS1|RO2|",
+      "|Mods|CV|RO2|",
+      "|Accent 1|RO2|CV|",
+      "|Accent 2|CR|N9|"
     ],
     "color_pics":[
+      "https://i.postimg.cc/8NcgChRM/colors-Untitled-1-13.png"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=116437.0",

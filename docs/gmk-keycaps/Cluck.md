@@ -52,6 +52,14 @@ NOTE: USD to CNY exchange rate is 6.32
 * Estimated Shipping Time: Q3 2023  
 * Color Codes:  
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alphas|WS1|RO2|
+|Mods|CV|RO2|
+|Accent 1|RO2|CV|
+|Accent 2|CR|N9|
+
+<img src="{{ 'assets/images/gmk-keycaps/Cluck/0.png' | relative_url }}" alt="0" class="image featured">
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/Cluck/rendering_pics/0.png' | relative_url }}" alt="0" class="image featured">

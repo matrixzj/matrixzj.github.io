@@ -1,0 +1,26 @@
+{
+    "name": "9009 40s Addon",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Arhipio",
+    "profile": "1-2-3-4",
+    "time": "2017-10",
+    "ets": "2018",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=91883",
+    "currencyunit": "USD",
+    "history_graph": "https://i.postimg.cc/byW3B4jT/GMK9009-40s-Addon171022fin.png",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "40s", "price": "40", "pic": "https://i.imgur.com/sscn88H.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/0WFWtah.jpg"
+    ]
+}

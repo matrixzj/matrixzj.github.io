@@ -19,15 +19,15 @@
     "link": "https://geekhack.org/index.php?topic=116844.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/Qj7kzX7g/GMKfenglisu-Orders220509fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/NsCdcdjR/GMKfenglisu-Orders220509fin-Next.png",
     "price_pic": "https://i.imgur.com/7UMQMIV.png",
     "price_list":[
-        { "name": "Base", "price": "139", "pic": "https://i.imgur.com/o3OvtY2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Cangjie Sublegend Alphas", "price": "64", "pic": "https://i.imgur.com/gFaR9IB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelty", "price": "39", "pic": "https://i.imgur.com/LO6z9d5.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebar", "price": "24", "pic": "https://i.imgur.com/7x7OXaz.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "139", "pic": "https://i.imgur.com/o3OvtY2.jpg", "price_cny": "", "quantity": "262", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cangjie Sublegend Alphas", "price": "64", "pic": "https://i.imgur.com/gFaR9IB.jpg", "price_cny": "", "quantity": "50", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "39", "pic": "https://i.imgur.com/LO6z9d5.jpg", "price_cny": "", "quantity": "205", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "24", "pic": "https://i.imgur.com/7x7OXaz.jpg", "price_cny": "", "quantity": "97", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "59", "pic": "https://i.postimg.cc/g0GQZ2xC/GMK-Fenglisu-THOK-CANCELED.png", "price_cny": "", "quantity": "Canceled", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/JhJqH2V.jpg"

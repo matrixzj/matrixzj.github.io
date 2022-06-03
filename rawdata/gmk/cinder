@@ -7,24 +7,28 @@
     "time": "2022-04-08 ~ 2022-05-08",
     "ets": "Q4 2023",
     "colorcodes":[
+      "|Alphas|Pantone 445 C|Pantone 1505 C|",
+      "|Mods|Pantone 445 C|Pantone 426 C|",
+      "|Accents|Pantone 426 C|Pantone 1505 C|"
     ],
     "color_pics":[
+      "https://i.imgur.com/wrxhxy6.jpg"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=116822.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/pWGKRy4j/GMKcinder-Orders220508fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/5fB71q3F/GMKcinder-Orders220508fin-Next.png",
     "price_pic": "https://i.imgur.com/BnB8WPR.png",
     "price_list":[
-        { "name": "Hiragana Base", "price": "135", "pic": "https://i.imgur.com/ozTWFg5.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Latin Base", "price": "135", "pic": "https://i.imgur.com/44WdkRF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/ImJN9sJ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/Hkz5tht.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "THOK Artisan", "price": "53", "pic": "https://i.imgur.com/Ti2cAMf.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "HIBI Artisan", "price": "38", "pic": "https://i.imgur.com/CdOpZwO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Asero Foundry Artisan", "price": "53", "pic": "https://i.imgur.com/kavllX1.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Hiragana Base", "price": "135", "pic": "https://i.imgur.com/ozTWFg5.jpg", "price_cny": "", "quantity": "184", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Base", "price": "135", "pic": "https://i.imgur.com/44WdkRF.jpg", "price_cny": "", "quantity": "177", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/ImJN9sJ.jpg", "price_cny": "", "quantity": "229", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/Hkz5tht.jpg", "price_cny": "", "quantity": "98", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK Artisan", "price": "53", "pic": "https://i.imgur.com/Ti2cAMf.png", "price_cny": "", "quantity": "131", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "38", "pic": "https://i.imgur.com/CdOpZwO.png", "price_cny": "", "quantity": "71", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Foundry Artisan", "price": "53", "pic": "https://i.imgur.com/kavllX1.jpg", "price_cny": "", "quantity": "41", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/dhHxeaz.jpg"

@@ -1,0 +1,34 @@
+{
+    "name": "Zimo",
+    "cname": "自摸",
+    "keycapstype": "GMK",
+    "designer": "HungHingDaiLo",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-05-05 ~ 2022-06-06",
+    "ets": "Q4 2023",
+    "colorcodes":[
+      "|Base|WS4|CR|",
+      "|Green Accents|N7|CR|",
+      "|Blue Accents|V4|CR|",
+      "|Red Accents|P3|CR|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=117025.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/HUoOQzr.jpg",
+    "price_list":[
+        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/UaDDUFI.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "36", "pic": "https://i.imgur.com/bVMYHkV.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "20", "pic": "https://i.imgur.com/NvfC37E.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "60", "pic": "https://i.imgur.com/HZqYTHi.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "110", "pic": "https://i.imgur.com/pKC6BEt.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/nIMgbjA.jpg"
+    ]
+}

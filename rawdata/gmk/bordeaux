@@ -1,0 +1,40 @@
+{
+    "name": "Bordeaux",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "aerospice",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-05-30 ~ 2022-06-30",
+    "ets": "Q3/Q4 2023",
+    "colorcodes":[
+      "|Base|Pantone 7643 C|Pantone 2309 C|",
+      "|Accents|Pantone 2309 C|Pantone 7603 C|",
+      "|Alt Alphas|Pantone 4045 C|Pantone 2309 C|"
+    ],
+    "color_pics":[
+      "https://i.imgur.com/eSfsveM.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=117351.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/8vVA1CA.png",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/eGpwl5a.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alphas", "price": "70", "pic": "https://i.imgur.com/Es1eDQi.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "41", "pic": "https://i.imgur.com/IJ9Y7ox.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "31", "pic": "https://i.imgur.com/NXBXz1Q.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "52", "pic": "https://i.imgur.com/ZjMxTpn.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "56", "pic": "https://i.imgur.com/0oCm6dY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK Artisan", "price": "59", "pic": "https://cdn.discordapp.com/attachments/889766802584911902/902482696574496788/BORDEAUX-top-2.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "50", "pic": "https://cdn.discordapp.com/attachments/885620252589850737/891879225479532615/Bordeaux.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Esc Metal Artisan", "price": "52", "pic": "https://cdn.discordapp.com/attachments/913681786305925160/955519669547171880/esc_lab_-_Collab_-_Bordeaux_-_Render_Post_-_1_-_00.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Esc Acrylic Artisan", "price": "45", "pic": "https://cdn.discordapp.com/attachments/913681786305925160/961681092614697040/esc_lab_-_Collab_-_Bordeaux_-_Render_Post_-_1_-_Aerator.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "YVK Studio Spacebar", "price": "95", "pic": "https://cdn.discordapp.com/attachments/925006902633578526/950587397538734110/bordeaux-mock-up-render.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/aCyxv9I.jpeg"
+    ]
+}

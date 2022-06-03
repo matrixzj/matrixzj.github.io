@@ -7,8 +7,12 @@
     "time": "2021-07-02 ~ 2021-08-02",
     "ets": "Q2 2022",
     "colorcodes":[
+      "|Alphas|L9|Pantone 4019C",
+      "|Mods|Pantone 4019C|L9",
+      "|Accents|N7|L9|"
     ],
     "color_pics":[
+      "https://i.imgur.com/IJClEHZ.jpg"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=113633.0",
