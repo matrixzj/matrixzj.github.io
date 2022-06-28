@@ -7,25 +7,29 @@
     "time": "2022-03-25 ~ 2022-04-25",
     "ets": "Q2 2023",
     "colorcodes":[
+      "|Alphas|Pantone 7490 C|Pantone 7506 C",
+      "|Modifiers|Pantone 7506 C|Pantone 7490 C"
     ],
     "color_pics":[
+      "https://i.postimg.cc/zXnpVzdn/colors-F5z-Cs-Hj.jpg",
+      "https://i.postimg.cc/Qs8Yd1kz/color-comparison-s3j-Ce-WU.jpg"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=116686.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/xfhmRKJ9/GMKcream-Matcha-Orders220425-fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/tqZZYYrw/GMKcream-Matcha-Orders220425-fin-Next.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "126", "pic": "https://i.imgur.com/qgDHYTW.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alt Alphas", "price": "69", "pic": "https://i.imgur.com/RxGtlp9.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Numpad", "price": "37", "pic": "https://i.imgur.com/pt00ssx.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/ixiViHz.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "NorDeUK", "price": "67", "pic": "https://i.imgur.com/PK6Er26.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "22", "pic": "https://i.imgur.com/YT6Z8Rj.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "THOK Artisan", "price": "59", "pic": "https://i.imgur.com/Nq0iMKg.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Asero Artisan", "price": "47", "pic": "https://i.imgur.com/3vy6T67.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "126", "pic": "https://i.imgur.com/qgDHYTW.jpg", "price_cny": "", "quantity": "165", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Alphas", "price": "69", "pic": "https://i.imgur.com/RxGtlp9.jpg", "price_cny": "", "quantity": "32", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "37", "pic": "https://i.imgur.com/pt00ssx.jpg", "price_cny": "", "quantity": "44", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49", "pic": "https://i.imgur.com/ixiViHz.jpg", "price_cny": "", "quantity": "123", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "67", "pic": "https://i.imgur.com/PK6Er26.jpg", "price_cny": "", "quantity": "Canceled", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "22", "pic": "https://i.imgur.com/YT6Z8Rj.jpg", "price_cny": "", "quantity": "41", "price_table_format": "", "price_kit_format": "" },
+        { "name": "THOK Artisan", "price": "59", "pic": "https://i.imgur.com/Nq0iMKg.png", "price_cny": "", "quantity": "43", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "47", "pic": "https://i.imgur.com/3vy6T67.png", "price_cny": "", "quantity": "20", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/F9Bffpy.jpg"

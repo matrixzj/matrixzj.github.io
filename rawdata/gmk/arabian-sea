@@ -1,0 +1,36 @@
+{
+    "name": "Arabian Sea",
+    "cname": "阿拉伯海",
+    "keycapstype": "GMK",
+    "designer": "KucherenkoZZZ",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-06-15 ~ 2022-07-15",
+    "ets": "Q3 2023",
+    "colorcodes":[
+      "|Alphas|RAL 270 40 20|Pantone 3242C",
+      "|Modifiers|RAL 270 30 20|Pantone 3242C",
+      "|Accents|Pantone 3242C|RAL 270 30 20"
+    ],
+    "color_pics":[
+      "https://i.imgur.com/wsTmF7L.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=117523.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/EhBXAPV.png",
+    "price_list":[
+        { "name": "Arabic Base", "price": "125", "pic": "https://i.imgur.com/Sn0Mg2b.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "39", "pic": "https://i.imgur.com/fxr4dyb.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/12q1IRv.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "45", "pic": "https://i.imgur.com/ikM1rVF.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "39", "pic": "https://i.imgur.com/NW6nACZ.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "59", "pic": "https://i.imgur.com/CboVgjH.jpeg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0482/3600/3480/products/GMK-Arabian-Sea-Mechanical-Keyboard-Keycaps-KucherenkoZZZ-Vala-Supply-HIBI-Metal-Artisan-Keycap-1_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/LjXe9aH.jpg"
+    ]
+}

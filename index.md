@@ -177,6 +177,10 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Coral R2 珊瑚R2](docs/gmk-keycaps/Coral-R2/)
+* [Classic Beige 经典灰白](docs/gmk-keycaps/Classic-Beige/)
+* [Arabian Sea 阿拉伯海](docs/gmk-keycaps/Arabian-Sea/)
+* [Rouge R2](docs/gmk-keycaps/Rouge-R2/)
 * [Prussian Blue](docs/gmk-keycaps/Prussian-Blue/)
 * [Mictlan](docs/gmk-keycaps/Mictlan/)
 * [Bordeaux](docs/gmk-keycaps/Bordeaux/)

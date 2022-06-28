@@ -1,0 +1,31 @@
+{
+    "name": "Coral R2",
+    "cname": "珊瑚R2",
+    "keycapstype": "GMK",
+    "designer": "HoodrowThrillson",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-06-22 ~ 2022-07-15",
+    "ets": "Q4 2022",
+    "colorcodes":[
+    ],
+    "color_pics":[
+      "https://i.imgur.com/Cw0ctNa.jpg"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115782.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/EzNreJa.png",
+    "price_list":[
+        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/18Ulsnz.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Coral Base", "price": "125", "pic": "https://i.imgur.com/NDwls2P.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "35", "pic": "https://i.imgur.com/XauOgyh.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://i.imgur.com/kbSdzph.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/0277/8021/8940/products/CORA_v001_01_TOP_0_695x695.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/6XvUA5m.jpg"
+    ]
+}

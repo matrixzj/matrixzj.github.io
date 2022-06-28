@@ -18,15 +18,15 @@
     "link": "https://geekhack.org/index.php?topic=116658.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/BqyFVhcx/GMKmarmoreal-Orders220421fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/8T6t46VX/GMKmarmoreal-Orders220421fin-Next.png",
     "price_pic": "https://i.imgur.com/GyNqzwi.png",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/WpmsA3H.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelty", "price": "49", "pic": "https://i.imgur.com/oTrQQH5.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/4wPI6PN.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alt Mods", "price": "89", "pic": "https://i.imgur.com/Dw7AUtR.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Monokei Artisan", "price": "49", "pic": "https://i.imgur.com/JrGPoIo.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/WpmsA3H.png", "price_cny": "", "quantity": "165", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "49", "pic": "https://i.imgur.com/oTrQQH5.png", "price_cny": "", "quantity": "94", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/4wPI6PN.png", "price_cny": "", "quantity": "54", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Mods", "price": "89", "pic": "https://i.imgur.com/Dw7AUtR.png", "price_cny": "", "quantity": "44", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "49", "pic": "https://i.imgur.com/JrGPoIo.png", "price_cny": "", "quantity": "49", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/77g0avf.jpg"

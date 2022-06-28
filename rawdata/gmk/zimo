@@ -18,15 +18,15 @@
     "link": "https://geekhack.org/index.php?topic=117025.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/8NdSJRnZ/GMKzimo-Orders220606fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "https://i.imgur.com/HUoOQzr.jpg",
     "price_list":[
-        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/UaDDUFI.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "36", "pic": "https://i.imgur.com/bVMYHkV.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "20", "pic": "https://i.imgur.com/NvfC37E.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "HIBI Artisan", "price": "60", "pic": "https://i.imgur.com/HZqYTHi.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Monokei Artisan", "price": "110", "pic": "https://i.imgur.com/pKC6BEt.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "129", "pic": "https://i.imgur.com/UaDDUFI.jpg", "price_cny": "", "quantity": "737", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "36", "pic": "https://i.imgur.com/bVMYHkV.jpg", "price_cny": "", "quantity": "1150", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "20", "pic": "https://i.imgur.com/NvfC37E.jpg", "price_cny": "", "quantity": "224", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "60", "pic": "https://i.imgur.com/HZqYTHi.png", "price_cny": "", "quantity": "284", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Monokei Artisan", "price": "110", "pic": "https://i.imgur.com/pKC6BEt.png", "price_cny": "", "quantity": "139", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/nIMgbjA.jpg"

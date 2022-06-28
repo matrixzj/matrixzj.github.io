@@ -1,0 +1,33 @@
+{
+    "name": "Rouge R2",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "EMIR",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-06-09 ~ 2022-07-11",
+    "ets": "Q3 2023",
+    "colorcodes":[
+        "|Base|RAL 290 20 15|RAL 320 50 20",
+        "|Number 1|RAL 310 20 20|RAL 320 50 20",
+        "|Number 2|RAL 310 30 20|RAL 320 50 20",
+        "|Number 3|RAL 300 30 20|RAL 320 50 20",
+        "|Number 4|RAL 300 30 15|RAL 320 50 20"
+    ],
+    "color_pics":[
+    ],
+    "platform": "KBDFans",
+    "link": "https://kbdfans.com/products/gmk-rouge-r2",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://cdn.shopify.com/s/files/1/1473/3902/products/lQDPJxZdZGr-gU_NB9DNB9CwDJwr9EZCzg0CmhSEqcCvAQ_2000_2000_720x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "52", "pic": "https://cdn.shopify.com/s/files/1/1473/3902/products/lQDPJxZdZGr-fyrNB9DNB9CwATW7cS4n2gUCmhSEqoD2AA_2000_2000_720x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s", "price": "41", "pic": "https://cdn.shopify.com/s/files/1/1473/3902/products/lQDPJxZdZGr-fkXNB9DNB9CwZPu7SvEKKYYCmhSEssD4AA_2000_2000_720x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://matrixzj.github.io/assets/images/gmk-keycaps/rouge/rendering_pics/1.jpg"
+    ]
+}

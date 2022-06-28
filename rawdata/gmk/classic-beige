@@ -1,0 +1,28 @@
+{
+    "name": "Classic Beige",
+    "cname": "经典灰白",
+    "keycapstype": "GMK",
+    "designer": "",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-06-17 ~ 2022-07-17",
+    "ets": "Q3 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "ASHKEEBS",
+    "link": "https://www.ashkeebs.com/product/gmk-classic-beige-keycaps/",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://www.ashkeebs.com/wp-content/uploads/2022/06/Classic-beige-bg.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hangul Alphas", "price": "60", "pic": "https://www.ashkeebs.com/wp-content/uploads/2022/06/Hangul-beige-bg.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "42", "pic": "https://www.ashkeebs.com/wp-content/uploads/2022/06/CLASSB_v001_02_TOP_0.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://www.ashkeebs.com/wp-content/uploads/2022/06/KA1953.2501.jpg"
+    ]
+}
