@@ -1,0 +1,29 @@
+{
+    "name": "RGBY Addon",
+    "cname": "RGBY增补",
+    "keycapstype": "GMK",
+    "designer": "Preston Walz",
+    "profile": "4-4-4-5-4-5-4-5",
+    "time": "2022-08-16 ~ 2022-09-16",
+    "ets": "Q5 2023",
+    "colorcodes":[
+      "|P3|CR|",
+      "|N7|CR|",
+      "|V4|CR|",
+      "|CV|CR|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=118119.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "All", "price": "60", "pic": "https://i.imgur.com/gwL3Bte.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+    ]
+}

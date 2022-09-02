@@ -1,41 +1,41 @@
 {
-    "name": "Harderbeige",
+    "name": "Handarbeige",
     "cname": "",
     "keycapstype": "GMK",
     "designer": "guypigeotto",
     "profile": "1-1-2-3-4-4",
-    "time": "2021-10-14 ~ 2021-11-12",
-    "ets": "Q4 2022",
+    "time": "2022-08-26 ~ 2022-09-26",
+    "ets": "Q1 2024",
     "colorcodes":[
-        "|Alpha Base|L9",
-        "|Modifiers Base|U9",
-        "|Legends 1|P3",
-        "|Legends 2|V4",
-        "|Legends 3|3C",
-        "|Legends 4|N6",
-        "|Legends 5|N7",
-        "|Legends 6|AE",
-        "|Legends 7|DY",
-        "|Legends 8|V2",
-        "|Legends 9|3A",
-        "|Legends 10|TU1",
-        "|Front-Print|V4"
+       "|Legend 1|P3",
+       "|Legend 2|N6",
+       "|Legend 3|V4",
+       "|Legend 4|AE",
+       "|Legend 5|3C",
+       "|Legend 6|DY",
+       "|Legend 7|N7",
+       "|Legend 8|V2",
+       "|Legend 9|3A",
+       "|Legent 10|TU1",
+       "|Base 1|L9",
+       "|Base 2|N9"
     ],
     "color_pics":[
     ],
     "platform": "GH",
-    "link": "https://geekhack.org/index.php?topic=114987.0",
+    "link": "https://geekhack.org/index.php?topic=118186.0",
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "140", "pic": "https://i.imgur.com/Fv6Qdq5.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Relegendables", "price": "20", "pic": "https://i.imgur.com/fr0kcG6.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hibi Artisan", "price": "55", "pic": "https://i.imgur.com/9ebpBpq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/OkTc8eE.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Front Print Relegendables", "price": "28", "pic": "https://i.imgur.com/fr0kcG6.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "R5", "price": "35", "pic": "https://i.imgur.com/cXmoHti.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "33", "pic": "https://i.imgur.com/wkjUdnL.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
-        "https://i.imgur.com/i8OMt3X.jpg"
+        "https://i.imgur.com/fKvn5uy.jpg"
     ]
 }

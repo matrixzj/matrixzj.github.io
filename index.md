@@ -177,6 +177,13 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Lilac on Black 黑紫](docs/gmk-keycaps/Lilac-on-Black/)
+* [Handarbeige](docs/gmk-keycaps/Handarbeige/)
+* [Frost Witch 2](docs/gmk-keycaps/Frost-Witch-2/)
+* [RGBY Addon RGBY增补](docs/gmk-keycaps/RGBY-Addon/)
+* [Taiga 泰茶](docs/gmk-keycaps/Taiga/)
+* [Yutousu 芋头酥](docs/gmk-keycaps/Yutousu/)
+* [Regal](docs/gmk-keycaps/Regal/)
 * [Coral R2 珊瑚R2](docs/gmk-keycaps/Coral-R2/)
 * [Classic Beige 经典灰白](docs/gmk-keycaps/Classic-Beige/)
 * [Arabian Sea 阿拉伯海](docs/gmk-keycaps/Arabian-Sea/)

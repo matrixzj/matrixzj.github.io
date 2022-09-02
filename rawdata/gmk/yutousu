@@ -1,0 +1,30 @@
+{
+    "name": "Yutousu",
+    "cname": "芋头酥",
+    "keycapstype": "GMK",
+    "designer": "imivanh",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-07-18 ~ 2022-08-19",
+    "ets": "Q4 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=117813.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "130", "pic": "https://i.imgur.com/MHGznba.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Alphas", "price": "79", "pic": "https://i.imgur.com/IjkQ7Vy.png", "price_cny": "", "quantity": "Canceled", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "45", "pic": "https://i.imgur.com/Vcw2Rnb.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "27", "pic": "https://i.imgur.com/OamdXhC.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "42", "pic": "https://i.imgur.com/B4W0YWb.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/Z8X349a.jpg"
+    ]
+}

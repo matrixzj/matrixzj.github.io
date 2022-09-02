@@ -1,0 +1,29 @@
+{
+    "name": "Taiga",
+    "cname": "泰茶",
+    "keycapstype": "GMK",
+    "designer": "Oggi",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-07-22 ~ 2022-08-22",
+    "ets": "Q4 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=117825",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://imgur.com/0Ej8iPi.jpg",
+    "price_list":[
+        { "name": "Base", "price": "128", "pic": "https://imgur.com/wIVGTD4.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "46", "pic": "https://imgur.com/OjKRYpd.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "26", "pic": "https://imgur.com/WpmXSZB.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "", "pic": "https://imgur.com/J3TFj5w.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://imgur.com/3sAWXmu.jpg"
+    ]
+}
