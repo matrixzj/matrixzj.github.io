@@ -1,0 +1,30 @@
+{
+    "name": "Tenshi",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "misotsu",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-10-10 ~ 2022-11-09",
+    "ets": "Q4 2023 ~ Q1 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=118541.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "124.99", "pic": "https://i.imgur.com/2ijl2Dx.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin", "price": "59.99", "pic": "https://i.imgur.com/iE4LInf.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/NrfI8em.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "24.99", "pic": "https://i.imgur.com/Ln1zeGN.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "49.99", "pic": "https://i.imgur.com/yb8ONON.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/y2ncXot.jpg"
+    ]
+}

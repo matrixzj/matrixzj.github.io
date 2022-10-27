@@ -15,13 +15,15 @@
     "link": "https://geekhack.org/index.php?topic=117058.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/hnN8nYL4/GMKpeach-Blossom-R2orders220601fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/p2TQVbcr/GMKpeach-Blossom-R2orders220601fin-Next.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "129", "pic": "https://imgur.com/KAc0pDo.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Hangul", "price": "42", "pic": "https://imgur.com/50LWQtV.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "28", "pic": "https://imgur.com/v8VuhOK.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "129", "pic": "https://imgur.com/KAc0pDo.png", "price_cny": "", "quantity": "427", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hangul", "price": "42", "pic": "https://imgur.com/50LWQtV.png", "price_cny": "", "quantity": "159", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "28", "pic": "https://imgur.com/v8VuhOK.png", "price_cny": "", "quantity": "221", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "59", "pic": "https://imgur.com/3c8Kq4x.png", "price_cny": "", "quantity": "108", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "49", "pic": "https://imgur.com/oFmpa6W.png", "price_cny": "", "quantity": "76", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://imgur.com/Lm7HZZc.png"

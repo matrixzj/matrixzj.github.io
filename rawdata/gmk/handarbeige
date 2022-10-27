@@ -26,14 +26,14 @@
     "link": "https://geekhack.org/index.php?topic=118186.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/jqxQzM8j/GMKhandarbeige-Orders220926fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/OkTc8eE.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Front Print Relegendables", "price": "28", "pic": "https://i.imgur.com/fr0kcG6.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "R5", "price": "35", "pic": "https://i.imgur.com/cXmoHti.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extension", "price": "33", "pic": "https://i.imgur.com/wkjUdnL.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "120", "pic": "https://i.imgur.com/OkTc8eE.jpg", "price_cny": "", "quantity": "500", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Front Print Relegendables", "price": "28", "pic": "https://i.imgur.com/fr0kcG6.jpg", "price_cny": "", "quantity": "300", "price_table_format": "", "price_kit_format": "" },
+        { "name": "R5", "price": "35", "pic": "https://i.imgur.com/cXmoHti.png", "price_cny": "", "quantity": "153", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "33", "pic": "https://i.imgur.com/wkjUdnL.jpg", "price_cny": "", "quantity": "255", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/fKvn5uy.jpg"

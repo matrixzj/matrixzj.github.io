@@ -21,12 +21,14 @@ NOTE: USD to CNY exchange rate is 6.65
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[All](#all)|60.00|399.00|Unknown|
+|[All](#all)|60.00|399.00|169|
 
+<img src="{{ 'assets/images/gmk-keycaps/RGBY-Addon/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/RGBY-Addon/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### All  
-**Price(USD):** 60.00	**Price(CNY):** 399.00	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 399.00	**Quantity:** 169  
 <img src="{{ 'assets/images/gmk-keycaps/RGBY-Addon/kits_pics/all.jpg' | relative_url }}" alt="all" class="image featured">
 
 ## Info
@@ -36,8 +38,8 @@ NOTE: USD to CNY exchange rate is 6.65
 * Estimated Shipping Time: Q5 2023  
 * Color Codes:  
 
-| Base Color     | Legend Color
-| :-------------: | :------------:
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
 |P3|CR|
 |N7|CR|
 |V4|CR|

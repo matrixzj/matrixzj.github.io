@@ -21,28 +21,30 @@ NOTE: USD to CNY exchange rate is 6.65
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|128.00|851.20|Unknown|
-|[Extension](#extension)|46.00|305.90|Unknown|
-|[Spacebar](#spacebar)|26.00|172.90|Unknown|
-|[HIBI Artisan](#hibi-artisan)|Unknown|Unknown|Unknown|
+|[Base](#base)|128.00|851.20|461|
+|[Extension](#extension)|46.00|305.90|183|
+|[Spacebar](#spacebar)|26.00|172.90|205|
+|[HIBI Artisan](#hibi-artisan)|Unknown|Unknown|87|
 
 <img src="{{ 'assets/images/gmk-keycaps/Taiga/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Taiga/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Taiga/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 128.00	**Price(CNY):** 851.20	**Quantity:** Unknown  
+**Price(USD):** 128.00	**Price(CNY):** 851.20	**Quantity:** 461  
 <img src="{{ 'assets/images/gmk-keycaps/Taiga/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Extension  
-**Price(USD):** 46.00	**Price(CNY):** 305.90	**Quantity:** Unknown  
+**Price(USD):** 46.00	**Price(CNY):** 305.90	**Quantity:** 183  
 <img src="{{ 'assets/images/gmk-keycaps/Taiga/kits_pics/extension.png' | relative_url }}" alt="extension" class="image featured">
 
 ### Spacebar  
-**Price(USD):** 26.00	**Price(CNY):** 172.90	**Quantity:** Unknown  
+**Price(USD):** 26.00	**Price(CNY):** 172.90	**Quantity:** 205  
 <img src="{{ 'assets/images/gmk-keycaps/Taiga/kits_pics/spacebar.png' | relative_url }}" alt="spacebar" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** Unknown	**Price(CNY):** Unknown	**Quantity:** Unknown  
+**Price(USD):** Unknown	**Price(CNY):** Unknown	**Quantity:** 87  
 <img src="{{ 'assets/images/gmk-keycaps/Taiga/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info

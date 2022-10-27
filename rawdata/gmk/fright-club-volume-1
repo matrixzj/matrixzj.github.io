@@ -1,0 +1,30 @@
+{
+    "name": "Fright Club Volume 1",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Dotnick",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-10-17 ~ 2022-11-04",
+    "ets": "Q4 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=118089.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Combat Training", "price": "115", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_FCv1_Base_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "The Recruits", "price": "35", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_FCv1_Novelties_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Decorum", "price": "25", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_FCv1_Accents_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Boomsticks", "price": "25", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/GMK_FCv1_Spacebars_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "45", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/HIBI_FCV1_top_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/TAAFrG7.jpg"
+    ]
+}

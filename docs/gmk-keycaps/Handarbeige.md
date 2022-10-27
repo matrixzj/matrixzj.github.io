@@ -21,27 +21,28 @@ NOTE: USD to CNY exchange rate is 6.65
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|798.00|Unknown|
-|[Front Print Relegendables](#front-print-relegendables)|28.00|186.20|Unknown|
-|[R5](#r5)|35.00|232.75|Unknown|
-|[Extension](#extension)|33.00|219.45|Unknown|
+|[Base](#base)|120.00|798.00|500|
+|[Front Print Relegendables](#front-print-relegendables)|28.00|186.20|300|
+|[R5](#r5)|35.00|232.75|153|
+|[Extension](#extension)|33.00|219.45|255|
 
+<img src="{{ 'assets/images/gmk-keycaps/Handarbeige/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 120.00	**Price(CNY):** 798.00	**Quantity:** Unknown  
+**Price(USD):** 120.00	**Price(CNY):** 798.00	**Quantity:** 500  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeige/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Front Print Relegendables  
-**Price(USD):** 28.00	**Price(CNY):** 186.20	**Quantity:** Unknown  
+**Price(USD):** 28.00	**Price(CNY):** 186.20	**Quantity:** 300  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeige/kits_pics/front-print-relegendables.jpg' | relative_url }}" alt="front-print-relegendables" class="image featured">
 
 ### R5  
-**Price(USD):** 35.00	**Price(CNY):** 232.75	**Quantity:** Unknown  
+**Price(USD):** 35.00	**Price(CNY):** 232.75	**Quantity:** 153  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeige/kits_pics/r5.png' | relative_url }}" alt="r5" class="image featured">
 
 ### Extension  
-**Price(USD):** 33.00	**Price(CNY):** 219.45	**Quantity:** Unknown  
+**Price(USD):** 33.00	**Price(CNY):** 219.45	**Quantity:** 255  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeige/kits_pics/extension.jpg' | relative_url }}" alt="extension" class="image featured">
 
 ## Info
@@ -51,8 +52,8 @@ NOTE: USD to CNY exchange rate is 6.65
 * Estimated Shipping Time: Q1 2024  
 * Color Codes:  
 
-| Item    | Color
-| :-------------: | :------------:
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
 |Legend 1|P3
 |Legend 2|N6
 |Legend 3|V4

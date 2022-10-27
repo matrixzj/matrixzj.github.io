@@ -177,6 +177,8 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Fright Club Volume 1](docs/gmk-keycaps/Fright-Club-Volume-1/)
+* [Tenshi](docs/gmk-keycaps/Tenshi/)
 * [Lilac on Black 黑紫](docs/gmk-keycaps/Lilac-on-Black/)
 * [Handarbeige](docs/gmk-keycaps/Handarbeige/)
 * [Frost Witch 2](docs/gmk-keycaps/Frost-Witch-2/)
@@ -222,10 +224,8 @@ Just buy it :)
 * [Trackday](docs/gmk-keycaps/Trackday/)
 
 ### 2021
-* [Power Chord](docs/gmk-keycaps/Power-Chord/)
 * [Olive R2 橄榄R2](docs/gmk-keycaps/Olive-R2/)
 * [Camping R3 野营R3](docs/gmk-keycaps/Camping-R3/)
-* [Trash Friends](docs/gmk-keycaps/Trash-Friends/)
 * [Night Runner R2 夜跑R2](docs/gmk-keycaps/Night-Runner-R2/)
 * [Relegendables](docs/gmk-keycaps/Relegendables/)
 * [Villanelle](docs/gmk-keycaps/Villanelle/)

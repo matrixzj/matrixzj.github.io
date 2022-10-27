@@ -21,32 +21,33 @@ NOTE: USD to CNY exchange rate is 6.65
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|140.00|931.00|Unknown|
-|[Extension](#extension)|52.00|345.80|Unknown|
-|[Relegendables](#relegendables)|26.00|172.90|Unknown|
-|[Novelties](#novelties)|55.00|365.75|Unknown|
-|[HIBI Artisan](#hibi-artisan)|46.00|305.90|Unknown|
+|[Base](#base)|140.00|931.00|503|
+|[Extension](#extension)|52.00|345.80|115|
+|[Relegendables](#relegendables)|26.00|172.90|237|
+|[Novelties](#novelties)|55.00|365.75|252|
+|[HIBI Artisan](#hibi-artisan)|46.00|305.90|271|
 
+<img src="{{ 'assets/images/gmk-keycaps/Regal/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 140.00	**Price(CNY):** 931.00	**Quantity:** Unknown  
+**Price(USD):** 140.00	**Price(CNY):** 931.00	**Quantity:** 503  
 <img src="{{ 'assets/images/gmk-keycaps/Regal/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Extension  
-**Price(USD):** 52.00	**Price(CNY):** 345.80	**Quantity:** Unknown  
+**Price(USD):** 52.00	**Price(CNY):** 345.80	**Quantity:** 115  
 <img src="{{ 'assets/images/gmk-keycaps/Regal/kits_pics/extension.jpg' | relative_url }}" alt="extension" class="image featured">
 
 ### Relegendables  
-**Price(USD):** 26.00	**Price(CNY):** 172.90	**Quantity:** Unknown  
+**Price(USD):** 26.00	**Price(CNY):** 172.90	**Quantity:** 237  
 <img src="{{ 'assets/images/gmk-keycaps/Regal/kits_pics/relegendables.jpg' | relative_url }}" alt="relegendables" class="image featured">
 
 ### Novelties  
-**Price(USD):** 55.00	**Price(CNY):** 365.75	**Quantity:** Unknown  
+**Price(USD):** 55.00	**Price(CNY):** 365.75	**Quantity:** 252  
 <img src="{{ 'assets/images/gmk-keycaps/Regal/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** 46.00	**Price(CNY):** 305.90	**Quantity:** Unknown  
+**Price(USD):** 46.00	**Price(CNY):** 305.90	**Quantity:** 271  
 <img src="{{ 'assets/images/gmk-keycaps/Regal/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info

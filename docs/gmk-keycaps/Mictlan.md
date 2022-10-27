@@ -17,37 +17,38 @@ ref link: [Mictlan GH GB Link](https://geekhack.org/index.php?topic=117389.0)
 
 ## Price
 
-NOTE: USD to CNY exchange rate is 6.66
+NOTE: USD to CNY exchange rate is 6.65
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Papel Picado](#papel-picado)|99.00|659.37|Unknown|
-|[Noche Negra](#noche-negra)|99.00|659.37|Unknown|
-|[Calavera](#calavera)|45.00|299.71|Unknown|
-|[Ocote](#ocote)|15.00|99.90|Unknown|
-|[HIBI Artisan](#hibi-artisan)|44.00|293.05|Unknown|
+|[Papel Picado](#papel-picado)|99.00|658.35|2408|
+|[Noche Negra](#noche-negra)|99.00|658.35|677|
+|[Calavera](#calavera)|45.00|299.25|2329|
+|[Ocote](#ocote)|15.00|99.75|538|
+|[HIBI Artisan](#hibi-artisan)|44.00|292.60|689|
 
 <img src="{{ 'assets/images/gmk-keycaps/Mictlan/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Mictlan/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Papel Picado  
-**Price(USD):** 99.00	**Price(CNY):** 659.37	**Quantity:** Unknown  
+**Price(USD):** 99.00	**Price(CNY):** 658.35	**Quantity:** 2408  
 <img src="{{ 'assets/images/gmk-keycaps/Mictlan/kits_pics/papel-picado.png' | relative_url }}" alt="papel-picado" class="image featured">
 
 ### Noche Negra  
-**Price(USD):** 99.00	**Price(CNY):** 659.37	**Quantity:** Unknown  
+**Price(USD):** 99.00	**Price(CNY):** 658.35	**Quantity:** 677  
 <img src="{{ 'assets/images/gmk-keycaps/Mictlan/kits_pics/noche-negra.png' | relative_url }}" alt="noche-negra" class="image featured">
 
 ### Calavera  
-**Price(USD):** 45.00	**Price(CNY):** 299.71	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 299.25	**Quantity:** 2329  
 <img src="{{ 'assets/images/gmk-keycaps/Mictlan/kits_pics/calavera.png' | relative_url }}" alt="calavera" class="image featured">
 
 ### Ocote  
-**Price(USD):** 15.00	**Price(CNY):** 99.90	**Quantity:** Unknown  
+**Price(USD):** 15.00	**Price(CNY):** 99.75	**Quantity:** 538  
 <img src="{{ 'assets/images/gmk-keycaps/Mictlan/kits_pics/ocote.png' | relative_url }}" alt="ocote" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** 44.00	**Price(CNY):** 293.05	**Quantity:** Unknown  
+**Price(USD):** 44.00	**Price(CNY):** 292.60	**Quantity:** 689  
 <img src="{{ 'assets/images/gmk-keycaps/Mictlan/kits_pics/hibi-artisan.jpg' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info

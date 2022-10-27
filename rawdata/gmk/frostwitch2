@@ -13,15 +13,15 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=118133.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/7DFDq8LB/GMKfrost-Witch2orders220916fin-Next.png",
+    "order_graph": "https://i.postimg.cc/2zRCGssb/GMKfrost-Witch2orders220916fin-Text.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/hLOqk30.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "30", "pic": "https://i.imgur.com/lluoXad.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Latin Addon", "price": "60", "pic": "https://i.imgur.com/Pnqgf6v.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "HIBI Artisan", "price": "50", "pic": "https://i.imgur.com/oBDGPbn.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "135", "pic": "https://i.imgur.com/hLOqk30.png", "price_cny": "", "quantity": "1762", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "30", "pic": "https://i.imgur.com/lluoXad.png", "price_cny": "", "quantity": "1341", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin Addon", "price": "60", "pic": "https://i.imgur.com/Pnqgf6v.png", "price_cny": "", "quantity": "381", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "50", "pic": "https://i.imgur.com/oBDGPbn.png", "price_cny": "", "quantity": "531", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/l0E8awN.jpg"

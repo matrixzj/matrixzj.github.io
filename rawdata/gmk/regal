@@ -14,15 +14,15 @@
     "link": "https://geekhack.org/index.php?topic=117656.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
+    "order_graph": "https://i.postimg.cc/wHVtxCND/GMKregal-Orders220801fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "140", "pic": "https://i.imgur.com/4nURZjE.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extension", "price": "52", "pic": "https://i.imgur.com/XqSe816.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Relegendables", "price": "26", "pic": "https://i.imgur.com/1BUmvgn.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "55", "pic": "https://i.imgur.com/o9KggHI.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "HIBI Artisan", "price": "46", "pic": "https://i.imgur.com/c2y2kyY.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "140", "pic": "https://i.imgur.com/4nURZjE.jpg", "price_cny": "", "quantity": "503", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "52", "pic": "https://i.imgur.com/XqSe816.jpg", "price_cny": "", "quantity": "115", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Relegendables", "price": "26", "pic": "https://i.imgur.com/1BUmvgn.jpg", "price_cny": "", "quantity": "237", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "55", "pic": "https://i.imgur.com/o9KggHI.png", "price_cny": "", "quantity": "252", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "46", "pic": "https://i.imgur.com/c2y2kyY.png", "price_cny": "", "quantity": "271", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/3rkv1tf.jpg"

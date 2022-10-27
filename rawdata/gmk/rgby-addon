@@ -18,11 +18,11 @@
     "link": "https://geekhack.org/index.php?topic=118119.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/mRkq36cg/GMKdcs-RGBYK2022orders220916fin-Next.png",
+    "order_graph_without": "https://i.postimg.cc/0PWyW4nX/GMKdcs-RGBYK2022orders220916fin-Yext.png",
     "price_pic": "",
     "price_list":[
-        { "name": "All", "price": "60", "pic": "https://i.imgur.com/gwL3Bte.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "All", "price": "60", "pic": "https://i.imgur.com/gwL3Bte.jpg", "price_cny": "", "quantity": "169", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
     ]
