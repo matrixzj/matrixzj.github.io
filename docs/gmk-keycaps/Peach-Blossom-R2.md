@@ -58,8 +58,8 @@ NOTE: USD to CNY exchange rate is 6.65
 * Estimated Shipping Time: Q3 2023  
 * Color Codes:  
 
-| |Base Color     | Legend Color
-| :-------------: | :-------------: | :------------:
+|Base Color     | Legend Color
+| :-------------: | :------------:
 |Pantone 1767C|WS1
 
 
