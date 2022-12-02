@@ -1,0 +1,29 @@
+ {
+     "name": "Vamp",
+     "cname": "",
+     "keycapstype": "GMK",
+     "designer": "Krelbit",
+     "profile": "1-1-2-3-4-4",
+     "time": "2022-11-04 ~ 2022-12-02",
+     "ets": "December 2023",
+     "colorcodes":[
+     ],
+     "color_pics":[
+     ],
+     "platform": "GH",
+     "link": "https://geekhack.org/index.php?topic=118753.0",
+     "currencyunit": "USD",
+     "history_graph": "",
+     "order_graph": "",
+     "order_graph_without": "",
+     "price_pic": "",
+     "price_list":[
+         { "name": "Base", "price": "110", "pic": "https://i.imgur.com/f6GF7Sw.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+         { "name": "Novelties", "price": "30", "pic": "https://i.imgur.com/pFXd95X.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+         { "name": "Extension", "price": "35", "pic": "https://i.imgur.com/ZFnWj0c.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+         { "name": "HIBI Artisan", "price": "50", "pic": "https://i.imgur.com/SZNvOii.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+     ],
+     "render_pics":[
+         "https://i.imgur.com/jZ65f7E.png"
+     ]
+ }

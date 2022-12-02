@@ -1,0 +1,42 @@
+{
+    "name": "Beige Addon Extension",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "mcmcmc",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-10-30 ~ 2022-11-30",
+    "ets": "Q4 2023 - Q1 2024",
+    "colorcodes":[
+      "|L9|CR|",
+      "|U9|CR|",
+      "|MG1|CR|",
+      "|TU2|CR|",
+      "|CV|CR|",
+      "|DY|CR|",
+      "|P3|CR|",
+      "|V4|CR|",
+      "|N7|CR|",
+      "|V2|CR|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=118710.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "40s", "price": "50", "pic": "https://live.staticflickr.com/65535/52414666308_3fa796e4b8_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "R0&R5", "price": "60", "pic": "https://live.staticflickr.com/65535/52414664133_466b724170_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Addition", "price": "50", "pic": "https://live.staticflickr.com/65535/52414598820_a73b596701_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "BAE", "price": "25", "pic": "https://live.staticflickr.com/65535/52414598660_d49c58a2e7_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Bars", "price": "15", "pic": "https://live.staticflickr.com/65535/52414152866_70104bf642_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "2002", "price": "40", "pic": "https://live.staticflickr.com/65535/52414664633_aba943779d_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "CMYK", "price": "60", "pic": "https://live.staticflickr.com/65535/52414664238_a54528a17c_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://live.staticflickr.com/65535/52443705716_be444f8f97_o.png"
+    ]
+}

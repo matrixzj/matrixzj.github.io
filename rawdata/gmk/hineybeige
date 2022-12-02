@@ -1,0 +1,28 @@
+{
+    "name": "Hineybeige",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "hineybush",
+    "profile": "1-1-2-3-4-4",
+    "time": "2022-11-11 ~ 2022-12-09",
+    "ets": "Q4 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=118749.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "99", "pic": "https://i.imgur.com/OTjqEvO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "38", "pic": "https://i.imgur.com/K5XmfcK.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/bBCnVLD.jpg"
+    ]
+}
+

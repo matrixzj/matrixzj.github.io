@@ -177,6 +177,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2022
+* [Hineybeige](docs/gmk-keycaps/Hineybeige/)
+* [Vamp](docs/gmk-keycaps/Vamp/)
+* [Beige Addon Extension](docs/gmk-keycaps/Beige-Addon-Extension/)
 * [Fright Club Volume 1](docs/gmk-keycaps/Fright-Club-Volume-1/)
 * [Tenshi](docs/gmk-keycaps/Tenshi/)
 * [Lilac on Black 黑紫](docs/gmk-keycaps/Lilac-on-Black/)
