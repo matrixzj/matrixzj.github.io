@@ -24,17 +24,17 @@
     "link": "https://geekhack.org/index.php?topic=118710.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/FNhf0CTb/GMKbeige-Addon-Extension-Orders230103fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/DhDddhGr/GMKbeige-Addon-Extension-Orders230103fin-Next.png",
     "price_pic": "",
     "price_list":[
-        { "name": "40s", "price": "50", "pic": "https://live.staticflickr.com/65535/52414666308_3fa796e4b8_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "R0&R5", "price": "60", "pic": "https://live.staticflickr.com/65535/52414664133_466b724170_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Addition", "price": "50", "pic": "https://live.staticflickr.com/65535/52414598820_a73b596701_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "BAE", "price": "25", "pic": "https://live.staticflickr.com/65535/52414598660_d49c58a2e7_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Bars", "price": "15", "pic": "https://live.staticflickr.com/65535/52414152866_70104bf642_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "2002", "price": "40", "pic": "https://live.staticflickr.com/65535/52414664633_aba943779d_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "CMYK", "price": "60", "pic": "https://live.staticflickr.com/65535/52414664238_a54528a17c_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "40s", "price": "50", "pic": "https://live.staticflickr.com/65535/52414666308_3fa796e4b8_o.png", "price_cny": "", "quantity": "96", "price_table_format": "", "price_kit_format": "" },
+        { "name": "R0&R5", "price": "60", "pic": "https://live.staticflickr.com/65535/52414664133_466b724170_o.png", "price_cny": "", "quantity": "140", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Addition", "price": "50", "pic": "https://live.staticflickr.com/65535/52414598820_a73b596701_o.png", "price_cny": "", "quantity": "329", "price_table_format": "", "price_kit_format": "" },
+        { "name": "BAE", "price": "25", "pic": "https://live.staticflickr.com/65535/52414598660_d49c58a2e7_o.png", "price_cny": "", "quantity": "125", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Bars", "price": "15", "pic": "https://live.staticflickr.com/65535/52414152866_70104bf642_o.png", "price_cny": "", "quantity": "179", "price_table_format": "", "price_kit_format": "" },
+        { "name": "2002", "price": "40", "pic": "https://live.staticflickr.com/65535/52414664633_aba943779d_o.png", "price_cny": "", "quantity": "140", "price_table_format": "", "price_kit_format": "" },
+        { "name": "CMYK", "price": "60", "pic": "https://live.staticflickr.com/65535/52414664238_a54528a17c_o.png", "price_cny": "", "quantity": "256", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://live.staticflickr.com/65535/52443705716_be444f8f97_o.png"

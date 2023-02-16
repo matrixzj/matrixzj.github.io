@@ -1,0 +1,33 @@
+{
+    "name": "Olivia R3",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "olivia",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-02-03 ~ 2023-02-24",
+    "ets": "Q4 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "NovelKeys",
+    "link": "https://novelkeys.com/products/gmk-olivia-no3",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "99", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/Olivia_Standard_eef54089-fad8-4a0f-9899-b588837d59e6_110x110@2x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Base", "price": "119", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/Olivia_DarkAPL_110x110@2x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "65", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/Olivia_International_110x110@2x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "55", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/Olivia_Extensions_110x110@2x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "25", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/Olivia_Novelties_110x110@2x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "25", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/Olivia_Spaces_110x110@2x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Enter Artisan", "price": "55", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/HIBI_OliviaR3_top_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI 1u Artisan", "price": "40", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/HIBI_OliviaR1_top_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.shopify.com/s/files/1/3099/8088/products/NKPlusWide_110x110@2x.png"
+    ]
+}

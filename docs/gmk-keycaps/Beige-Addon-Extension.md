@@ -21,42 +21,44 @@ NOTE: USD to CNY exchange rate is 6.65
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[40s](#40s)|50.00|332.50|Unknown|
-|[R0&R5](#r0&r5)|60.00|399.00|Unknown|
-|[Addition](#addition)|50.00|332.50|Unknown|
-|[BAE](#bae)|25.00|166.25|Unknown|
-|[Bars](#bars)|15.00|99.75|Unknown|
-|[2002](#2002)|40.00|266.00|Unknown|
-|[CMYK](#cmyk)|60.00|399.00|Unknown|
+|[40s](#40s)|50.00|332.50|96|
+|[R0&R5](#r0&r5)|60.00|399.00|140|
+|[Addition](#addition)|50.00|332.50|329|
+|[BAE](#bae)|25.00|166.25|125|
+|[Bars](#bars)|15.00|99.75|179|
+|[2002](#2002)|40.00|266.00|140|
+|[CMYK](#cmyk)|60.00|399.00|256|
 
+<img src="{{ 'assets/images/gmk-keycaps/Beige-Addon-Extension/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Beige-Addon-Extension/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### 40s  
-**Price(USD):** 50.00	**Price(CNY):** 332.50	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 332.50	**Quantity:** 96  
 <img src="{{ 'assets/images/gmk-keycaps/Beige-Addon-Extension/kits_pics/40s.png' | relative_url }}" alt="40s" class="image featured">
 
 ### R0&R5  
-**Price(USD):** 60.00	**Price(CNY):** 399.00	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 399.00	**Quantity:** 140  
 <img src="{{ 'assets/images/gmk-keycaps/Beige-Addon-Extension/kits_pics/r0&r5.png' | relative_url }}" alt="r0&r5" class="image featured">
 
 ### Addition  
-**Price(USD):** 50.00	**Price(CNY):** 332.50	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 332.50	**Quantity:** 329  
 <img src="{{ 'assets/images/gmk-keycaps/Beige-Addon-Extension/kits_pics/addition.png' | relative_url }}" alt="addition" class="image featured">
 
 ### BAE  
-**Price(USD):** 25.00	**Price(CNY):** 166.25	**Quantity:** Unknown  
+**Price(USD):** 25.00	**Price(CNY):** 166.25	**Quantity:** 125  
 <img src="{{ 'assets/images/gmk-keycaps/Beige-Addon-Extension/kits_pics/bae.png' | relative_url }}" alt="bae" class="image featured">
 
 ### Bars  
-**Price(USD):** 15.00	**Price(CNY):** 99.75	**Quantity:** Unknown  
+**Price(USD):** 15.00	**Price(CNY):** 99.75	**Quantity:** 179  
 <img src="{{ 'assets/images/gmk-keycaps/Beige-Addon-Extension/kits_pics/bars.png' | relative_url }}" alt="bars" class="image featured">
 
 ### 2002  
-**Price(USD):** 40.00	**Price(CNY):** 266.00	**Quantity:** Unknown  
+**Price(USD):** 40.00	**Price(CNY):** 266.00	**Quantity:** 140  
 <img src="{{ 'assets/images/gmk-keycaps/Beige-Addon-Extension/kits_pics/2002.png' | relative_url }}" alt="2002" class="image featured">
 
 ### CMYK  
-**Price(USD):** 60.00	**Price(CNY):** 399.00	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 399.00	**Quantity:** 256  
 <img src="{{ 'assets/images/gmk-keycaps/Beige-Addon-Extension/kits_pics/cmyk.png' | relative_url }}" alt="cmyk" class="image featured">
 
 ## Info

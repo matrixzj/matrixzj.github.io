@@ -24,6 +24,9 @@ Just buy it :)
 ## SA KeyCaps
 * [SP ABS Standard Color Codes](docs/sa-keycaps/ColorCodes/)
 
+### 2023
+* [128K BR](docs/sa-keycaps/128K-BR/)
+
 ### 2021
 * [Ambassador](docs/sa-keycaps/Ambassador/)
 * [Metaverse](docs/sa-keycaps/Metaverse/)
@@ -176,7 +179,11 @@ Just buy it :)
 ## GMK KeyCaps
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
+### 2023
+* [Euler](docs/gmk-keycaps/Euler/)
+
 ### 2022
+* [Euler](docs/gmk-keycaps/Euler/)
 * [Hineybeige](docs/gmk-keycaps/Hineybeige/)
 * [Vamp](docs/gmk-keycaps/Vamp/)
 * [Beige Addon Extension](docs/gmk-keycaps/Beige-Addon-Extension/)

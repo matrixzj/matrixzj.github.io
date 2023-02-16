@@ -29,6 +29,7 @@ NOTE: USD to CNY exchange rate is 7.03
 
 <img src="{{ 'assets/images/gmk-keycaps/yugo/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/yugo/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/yugo/order1.png' | relative_url }}" alt="order1" class="image featured">
 
 ## Kits  
 ### Yugo 45  

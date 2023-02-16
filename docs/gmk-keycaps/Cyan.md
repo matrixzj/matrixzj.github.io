@@ -8,7 +8,7 @@ nav_order: 360980
 
 # Cyan
 
-ref link: [Cyan GH GB Link](https://geekhack.org/index.php?topic=63953.0)
+ref link: [Cyan GH GB Link](https://geekhack.org/index.php?topic=62917)
 
 * [Price](#price)
 * [Kits](#kits)

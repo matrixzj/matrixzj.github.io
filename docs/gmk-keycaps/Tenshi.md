@@ -21,33 +21,35 @@ NOTE: USD to CNY exchange rate is 6.65
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|124.99|831.18|Unknown|
-|[Latin](#latin)|59.99|398.93|Unknown|
-|[Novelties](#novelties)|49.99|332.43|Unknown|
-|[Spacebars](#spacebars)|24.99|166.18|Unknown|
-|[Asero Artisan](#asero-artisan)|49.99|332.43|Unknown|
+|[Base](#base)|124.99|831.18|135|
+|[Latin](#latin)|59.99|398.93|Canceled|
+|[Novelties](#novelties)|49.99|332.43|88|
+|[Spacebars](#spacebars)|24.99|166.18|Canceled|
+|[Asero Artisan](#asero-artisan)|49.99|332.43|Canceled|
 
+<img src="{{ 'assets/images/gmk-keycaps/Tenshi/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Tenshi/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 124.99	**Price(CNY):** 831.18	**Quantity:** Unknown  
+**Price(USD):** 124.99	**Price(CNY):** 831.18	**Quantity:** 135  
 <img src="{{ 'assets/images/gmk-keycaps/Tenshi/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Latin  
-**Price(USD):** 59.99	**Price(CNY):** 398.93	**Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/Tenshi/kits_pics/latin.jpg' | relative_url }}" alt="latin" class="image featured">
+**Price(USD):** 59.99	**Price(CNY):** 398.93	**Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/Tenshi/kits_pics/latin.png' | relative_url }}" alt="latin" class="image featured">
 
 ### Novelties  
-**Price(USD):** 49.99	**Price(CNY):** 332.43	**Quantity:** Unknown  
+**Price(USD):** 49.99	**Price(CNY):** 332.43	**Quantity:** 88  
 <img src="{{ 'assets/images/gmk-keycaps/Tenshi/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 24.99	**Price(CNY):** 166.18	**Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/Tenshi/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
+**Price(USD):** 24.99	**Price(CNY):** 166.18	**Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/Tenshi/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Asero Artisan  
-**Price(USD):** 49.99	**Price(CNY):** 332.43	**Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/Tenshi/kits_pics/asero-artisan.jpg' | relative_url }}" alt="asero-artisan" class="image featured">
+**Price(USD):** 49.99	**Price(CNY):** 332.43	**Quantity:** Canceled  
+<img src="{{ 'assets/images/gmk-keycaps/Tenshi/kits_pics/asero-artisan.png' | relative_url }}" alt="asero-artisan" class="image featured">
 
 ## Info
 * Designer: misotsu  
@@ -56,6 +58,7 @@ NOTE: USD to CNY exchange rate is 6.65
 * Estimated Shipping Time: Q4 2023 ~ Q1 2024  
 * Color Codes:  
 
+<img src="{{ 'assets/images/gmk-keycaps/Tenshi/0.png' | relative_url }}" alt="0" class="image featured">
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/Tenshi/rendering_pics/0.jpg' | relative_url }}" alt="0" class="image featured">

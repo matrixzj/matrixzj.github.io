@@ -9,20 +9,21 @@
     "colorcodes":[
     ],
     "color_pics":[
+      "https://i.postimg.cc/VzHs36RN/GMK-Tenshi-colors-221002-Qctxnsb.png"
     ],
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=118541.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/LHnDc7Nj/GMKtenshi-Orders221109d3-fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/YM6sRJs9/GMKtenshi-Orders221109d3-fin-Next.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "124.99", "pic": "https://i.imgur.com/2ijl2Dx.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Latin", "price": "59.99", "pic": "https://i.imgur.com/iE4LInf.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/NrfI8em.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "24.99", "pic": "https://i.imgur.com/Ln1zeGN.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Asero Artisan", "price": "49.99", "pic": "https://i.imgur.com/yb8ONON.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "124.99", "pic": "https://i.imgur.com/2ijl2Dx.jpg", "price_cny": "", "quantity": "135", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Latin", "price": "59.99", "pic": "https://i.postimg.cc/ys5thPGN/GMK-Tenshi-latin-alphas-CANCELED.png", "price_cny": "", "quantity": "Canceled", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "49.99", "pic": "https://i.imgur.com/NrfI8em.jpg", "price_cny": "", "quantity": "88", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "24.99", "pic": "https://i.postimg.cc/fZb0mjXp/GMK-Tenshi-spacebars-CANCELED.png", "price_cny": "", "quantity": "Canceled", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Asero Artisan", "price": "49.99", "pic": "https://i.postimg.cc/59kzQjnX/GMK-Tenshi-Asero-CANCELED.png", "price_cny": "", "quantity": "Canceled", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://i.imgur.com/y2ncXot.jpg"
