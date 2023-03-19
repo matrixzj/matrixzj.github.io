@@ -1,0 +1,38 @@
+{
+    "name": "WoB Essentials",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "ankit",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-02-27 ~ 2023-03-24",
+    "ets": "Q1 2024",
+    "colorcodes":[
+      "|CYMW 1|TU2|WS1|",
+      "|CYMW 2|MG1|WS1|",
+      "|CYMW 3|CV|WS1|",
+      "|CYMW 4|DY|WS1|",
+      "|RGBW 1|RAL 010 20 25|WS1|",
+      "|RGBW 2|Pantone 289 C|WS1|",
+      "|RGBW 3|RAL 6005|WS1|",
+      "|WoB|CR|WS1|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=119655.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://i.imgur.com/69D5vI8.png",
+    "price_list":[
+        { "name": "CMYW", "price": "60", "pic": "https://live.staticflickr.com/65535/52550852967_d21127d969_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark RGB", "price": "60", "pic": "https://live.staticflickr.com/65535/52551852028_fc3b52f736_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icons", "price": "30", "pic": "https://live.staticflickr.com/65535/52551779190_c9c0aa6caa_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Row 5", "price": "43", "pic": "https://live.staticflickr.com/65535/52540305571_6c4ff3560c_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "47", "pic": "https://live.staticflickr.com/65535/52540789755_62668d5b42_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://live.staticflickr.com/65535/52539844442_b433259d9b_o.png"
+    ]
+}

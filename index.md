@@ -180,7 +180,11 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2023
-* [Euler](docs/gmk-keycaps/Euler/)
+* [Kitsune](docs/gmk-keycaps/Kitsune/)
+* [3](docs/gmk-keycaps/3/)
+* [Abyssal](docs/gmk-keycaps/Abyssal/)
+* [WoB Essentials](docs/gmk-keycaps/WoB-Essentials/)
+* [Olivia R3](docs/gmk-keycaps/Olivia-R3/)
 
 ### 2022
 * [Euler](docs/gmk-keycaps/Euler/)

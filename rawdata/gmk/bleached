@@ -5,9 +5,11 @@
     "designer": "botallu",
     "profile": "1-1-2-3-4-4",
     "time": "2020-04-10 ~ 2020-05-09",
+    "ets": "",
     "colorcodes":[
         "|WS2|CR"
     ],
+    "color_pics": "",
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=105650.0",
     "currencyunit": "USD",
@@ -15,10 +17,13 @@
     "order_graph": "https://i.postimg.cc/dQ0781Dh/GMKbleached-Status200509p-Fin-Yext.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "99.99", "price_cny": "", "quantity": "1650", "price_table_format": "","price_kit_format": "" },
-        { "name": "NumISO", "price": "44.99", "price_cny": "", "quantity": "270", "price_table_format": "","price_kit_format": "" },
-        { "name": "Spacebars", "price": "29.99", "price_cny": "", "quantity": "515", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA X", "price": "45", "price_cny": "", "quantity": "792", "price_table_format": "","price_kit_format": "" },
-        { "name": "RAMA O", "price": "45", "price_cny": "", "quantity": "521", "price_table_format": "","price_kit_format": "" }
+        { "name": "Base", "price": "99.99", "pic": "https://i.imgur.com/62nIvBT.png", "price_cny": "", "quantity": "1650", "price_table_format": "","price_kit_format": "" },
+        { "name": "NumISO", "price": "44.99", "pic": "https://i.imgur.com/7xV8NYY.png", "price_cny": "", "quantity": "270", "price_table_format": "","price_kit_format": "" },
+        { "name": "Spacebars", "price": "29.99", "pic": "https://i.imgur.com/6SyDtvs.png", "price_cny": "", "quantity": "515", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA X", "price": "45", "pic": "https://i.imgur.com/K6GSRr6.png", "price_cny": "", "quantity": "792", "price_table_format": "","price_kit_format": "" },
+        { "name": "RAMA O", "price": "45", "pic": "https://i.imgur.com/K6GSRr6.png", "price_cny": "", "quantity": "521", "price_table_format": "","price_kit_format": "" }
+    ],
+    "render_pics": [
+      "https://i.imgur.com/MgzoKtu.png"
     ]
 }

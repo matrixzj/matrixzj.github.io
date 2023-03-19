@@ -1,0 +1,30 @@
+{
+    "name": "3",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "MrBingo",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-03-03 ~ 2023-03-24",
+    "ets": "Q4 2023",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=119704.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "110", "pic": "https://i.imgur.com/rGbM8kX.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "50", "pic": "https://i.imgur.com/8voObbt.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accents", "price": "45", "pic": "https://i.imgur.com/69PBSBh.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "20", "pic": "https://i.imgur.com/qQAgvnA.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hibi Artisan", "price": "55", "pic": "https://cdn.shopify.com/s/files/1/3099/8088/products/HIBI_GMK3_TOP_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/4kmkEjP.jpg"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Kitsune",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "SxM Designs",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-03-03 ~ 2023-04-03",
+    "ets": "Q1 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=119687.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "115", "pic": "https://i.imgur.com/rDFE1C0.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "39", "pic": "https://i.imgur.com/MN5hlH4.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "34", "pic": "https://i.imgur.com/ov8nY19.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://i.imgur.com/jLGOx9Q.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "KBM Maru Shiro Artisan", "price": "39", "pic": "https://i.imgur.com/3dldohr.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "KBM Kogitsune Artisan", "price": "39", "pic": "https://i.imgur.com/3Z8n1Lj.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://i.imgur.com/dJpbArl.jpg"
+    ]
+}
