@@ -17,33 +17,33 @@ ref link: [Frost Witch 2 GH GB Link](https://geekhack.org/index.php?topic=118133
 
 ## Price
 
-NOTE: USD to CNY exchange rate is 6.65
+NOTE: USD to CNY exchange rate is 6.82
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|135.00|897.75|1762|
-|[Novelties](#novelties)|30.00|199.50|1341|
-|[Latin Addon](#latin-addon)|60.00|399.00|381|
-|[HIBI Artisan](#hibi-artisan)|50.00|332.50|531|
+|[Base](#base)|135.00|920.31|1762|
+|[Novelties](#novelties)|30.00|204.51|1341|
+|[Latin Addon](#latin-addon)|60.00|409.03|381|
+|[HIBI Artisan](#hibi-artisan)|50.00|340.86|531|
 
 <img src="{{ 'assets/images/gmk-keycaps/Frost-Witch-2/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/Frost-Witch-2/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 135.00	**Price(CNY):** 897.75	**Quantity:** 1762  
+**Price(USD):** 135.00	**Price(CNY):** 920.31	**Quantity:** 1762  
 <img src="{{ 'assets/images/gmk-keycaps/Frost-Witch-2/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 30.00	**Price(CNY):** 199.50	**Quantity:** 1341  
+**Price(USD):** 30.00	**Price(CNY):** 204.51	**Quantity:** 1341  
 <img src="{{ 'assets/images/gmk-keycaps/Frost-Witch-2/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Latin Addon  
-**Price(USD):** 60.00	**Price(CNY):** 399.00	**Quantity:** 381  
+**Price(USD):** 60.00	**Price(CNY):** 409.03	**Quantity:** 381  
 <img src="{{ 'assets/images/gmk-keycaps/Frost-Witch-2/kits_pics/latin-addon.png' | relative_url }}" alt="latin-addon" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** 50.00	**Price(CNY):** 332.50	**Quantity:** 531  
+**Price(USD):** 50.00	**Price(CNY):** 340.86	**Quantity:** 531  
 <img src="{{ 'assets/images/gmk-keycaps/Frost-Witch-2/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info

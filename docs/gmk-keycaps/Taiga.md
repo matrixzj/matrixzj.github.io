@@ -17,13 +17,13 @@ ref link: [Taiga GH GB Link](https://geekhack.org/index.php?topic=117825)
 
 ## Price
 
-NOTE: USD to CNY exchange rate is 6.65
+NOTE: USD to CNY exchange rate is 6.75
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|128.00|851.20|461|
-|[Extension](#extension)|46.00|305.90|183|
-|[Spacebar](#spacebar)|26.00|172.90|205|
+|[Base](#base)|128.00|864.17|461|
+|[Extension](#extension)|46.00|310.56|183|
+|[Spacebar](#spacebar)|26.00|175.53|205|
 |[HIBI Artisan](#hibi-artisan)|Unknown|Unknown|87|
 
 <img src="{{ 'assets/images/gmk-keycaps/Taiga/price.png' | relative_url }}" alt="price" class="image featured">
@@ -32,15 +32,15 @@ NOTE: USD to CNY exchange rate is 6.65
 
 ## Kits
 ### Base  
-**Price(USD):** 128.00	**Price(CNY):** 851.20	**Quantity:** 461  
+**Price(USD):** 128.00	**Price(CNY):** 864.17	**Quantity:** 461  
 <img src="{{ 'assets/images/gmk-keycaps/Taiga/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Extension  
-**Price(USD):** 46.00	**Price(CNY):** 305.90	**Quantity:** 183  
+**Price(USD):** 46.00	**Price(CNY):** 310.56	**Quantity:** 183  
 <img src="{{ 'assets/images/gmk-keycaps/Taiga/kits_pics/extension.png' | relative_url }}" alt="extension" class="image featured">
 
 ### Spacebar  
-**Price(USD):** 26.00	**Price(CNY):** 172.90	**Quantity:** 205  
+**Price(USD):** 26.00	**Price(CNY):** 175.53	**Quantity:** 205  
 <img src="{{ 'assets/images/gmk-keycaps/Taiga/kits_pics/spacebar.png' | relative_url }}" alt="spacebar" class="image featured">
 
 ### HIBI Artisan  

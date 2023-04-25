@@ -18,9 +18,11 @@ def retrieve_exchange_rate(date, currency = 'USD'):
     api_url = "%s&%s&%s&%s" % (API_BASE_URL, EXCHANGE_RATE_API_KEY, currency_checked, check_date)
     print(api_url)
     exchange_rate_result = requests.get(api_url)
+    print(exchange_rate_result.json())
     currency_key_USDtoCNY = "USDCNY"
-    currency_key_USDtoDest = "USD%s" % currency
-    exchange_rate = float(exchange_rate_result.json()['quotes'][currency_key_USDtoCNY]) / float(exchange_rate_result.json()['quotes'][currency_key_USDtoDest])
+#    currency_key_USDtoDest = "USD%s" % currency
+    exchange_rate = float(exchange_rate_result.json()['quotes'][currency_key_USDtoCNY])
+#    exchange_rate = float(exchange_rate_result.json()['quotes'][currency_key_USDtoCNY]) / float(exchange_rate_result.json()['quotes'][currency_key_USDtoDest])
 
     return exchange_rate
 

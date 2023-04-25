@@ -17,32 +17,32 @@ ref link: [Handarbeige GH GB Link](https://geekhack.org/index.php?topic=118186.0
 
 ## Price
 
-NOTE: USD to CNY exchange rate is 6.65
+NOTE: USD to CNY exchange rate is 6.87
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|120.00|798.00|500|
-|[Front Print Relegendables](#front-print-relegendables)|28.00|186.20|300|
-|[R5](#r5)|35.00|232.75|153|
-|[Extension](#extension)|33.00|219.45|255|
+|[Base](#base)|120.00|824.62|500|
+|[Front Print Relegendables](#front-print-relegendables)|28.00|192.41|300|
+|[R5](#r5)|35.00|240.51|153|
+|[Extension](#extension)|33.00|226.77|255|
 
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeige/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 120.00	**Price(CNY):** 798.00	**Quantity:** 500  
+**Price(USD):** 120.00	**Price(CNY):** 824.62	**Quantity:** 500  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeige/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Front Print Relegendables  
-**Price(USD):** 28.00	**Price(CNY):** 186.20	**Quantity:** 300  
+**Price(USD):** 28.00	**Price(CNY):** 192.41	**Quantity:** 300  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeige/kits_pics/front-print-relegendables.jpg' | relative_url }}" alt="front-print-relegendables" class="image featured">
 
 ### R5  
-**Price(USD):** 35.00	**Price(CNY):** 232.75	**Quantity:** 153  
+**Price(USD):** 35.00	**Price(CNY):** 240.51	**Quantity:** 153  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeige/kits_pics/r5.png' | relative_url }}" alt="r5" class="image featured">
 
 ### Extension  
-**Price(USD):** 33.00	**Price(CNY):** 219.45	**Quantity:** 255  
+**Price(USD):** 33.00	**Price(CNY):** 226.77	**Quantity:** 255  
 <img src="{{ 'assets/images/gmk-keycaps/Handarbeige/kits_pics/extension.jpg' | relative_url }}" alt="extension" class="image featured">
 
 ## Info

@@ -17,31 +17,31 @@ ref link: [Vamp GH GB Link](https://geekhack.org/index.php?topic=118753.0)
 
 ## Price
 
-NOTE: USD to CNY exchange rate is 6.65
+NOTE: USD to CNY exchange rate is 7.19
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|110.00|731.50|Unknown|
-|[Novelties](#novelties)|30.00|199.50|Unknown|
-|[Extension](#extension)|35.00|232.75|Unknown|
-|[HIBI Artisan](#hibi-artisan)|50.00|332.50|Unknown|
+|[Base](#base)|110.00|790.36|Unknown|
+|[Novelties](#novelties)|30.00|215.55|Unknown|
+|[Extension](#extension)|35.00|251.48|Unknown|
+|[HIBI Artisan](#hibi-artisan)|50.00|359.26|Unknown|
 
 
 ## Kits
 ### Base  
-**Price(USD):** 110.00	**Price(CNY):** 731.50	**Quantity:** Unknown  
+**Price(USD):** 110.00	**Price(CNY):** 790.36	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Vamp/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 30.00	**Price(CNY):** 199.50	**Quantity:** Unknown  
+**Price(USD):** 30.00	**Price(CNY):** 215.55	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Vamp/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Extension  
-**Price(USD):** 35.00	**Price(CNY):** 232.75	**Quantity:** Unknown  
+**Price(USD):** 35.00	**Price(CNY):** 251.48	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Vamp/kits_pics/extension.png' | relative_url }}" alt="extension" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** 50.00	**Price(CNY):** 332.50	**Quantity:** Unknown  
+**Price(USD):** 50.00	**Price(CNY):** 359.26	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Vamp/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info
