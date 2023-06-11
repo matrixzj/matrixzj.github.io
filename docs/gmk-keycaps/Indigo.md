@@ -51,7 +51,7 @@ NOTE: USD to CNY exchange rate is 6.33
 
 ### Novelties  
 **Price(USD):** 42.00	**Price(CNY):** 265.66	**Quantity:** Unknown  
-<img src="{{ 'assets/images/gmk-keycaps/Indigo/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Indigo/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Monokei Artisan  
 **Price(USD):** 42.00	**Price(CNY):** 265.66	**Quantity:** Unknown  
@@ -71,6 +71,12 @@ NOTE: USD to CNY exchange rate is 6.33
 * GB Time: 2022-02-18 ~ 2022-03-18  
 * Estimated Shipping Time: Q1 2023  
 * Color Codes:  
+
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alphas|RAL 5000|CP|
+|Mods|RAL 5011|CP
+|Novelties|RAL 5014|CP
 
 
 ## Pictures  

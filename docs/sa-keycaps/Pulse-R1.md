@@ -8,7 +8,7 @@ nav_order: 360985
 
 # Pulse R1 脉冲R1
 
-ref link: [Pulse R1 link](https://geekhack.org/index.php?topic=61822.0)
+ref link: [Pulse R1 link](https://geekhack.org/index.php?topic=62554.0)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -23,14 +23,16 @@ NOTE: USD to RMB exchange rate is 6.16
 | ------------- | ------------- | ----------- | ---------- | -------- |
 |[Base](#base)|81.00|498.96|unknown|207|
 |[Novelties](#novelties)|73.00|449.68|unknown|128|
-|[F-Row](#f-row)|10.00|61.60|unknown|unknown|
-|[60% Stripe](#60-stripe)|16.00|98.56|unknown|unknown|
+|[F-Row](#f-row)|10.00|61.60|unknown|42|
+|[60% Stripe](#60-stripe)|16.00|98.56|unknown|58|
 |[Numpad](#numpad)|29.00|178.64|unknown|71|
-|[ISO](#iso)|14.00|86.24|unknown|unknown|
-|[Tsangan](#tsangan)|10.00|61.60|unknown|unknown|
-|[Halfadox](#halfadox)|22.00|135.52|unknown|unknown|
-|[Spacebars](#spacebars)|6.55|40.35|unknown|unknown|
+|[ISO](#iso)|14.00|86.24|unknown|21|
+|[Tsangan](#tsangan)|10.00|61.60|unknown|43|
+|[Halfadox](#halfadox)|22.00|135.52|unknown|37|
+|[Spacebars](#spacebars)|6.55|40.35|unknown|184|
 |[Blanks](#blanks)|0.45|2.77|unknown|unknown|
+
+<img src="{{ 'assets/images/sa-keycaps/pulser1/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base

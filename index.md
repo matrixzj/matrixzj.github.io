@@ -180,6 +180,7 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2023
+* [Blot](docs/gmk-keycaps/Blot/)
 * [Kitsune](docs/gmk-keycaps/Kitsune/)
 * [3](docs/gmk-keycaps/3/)
 * [Abyssal](docs/gmk-keycaps/Abyssal/)

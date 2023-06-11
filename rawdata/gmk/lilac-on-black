@@ -13,16 +13,16 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=118212.0",
     "currencyunit": "USD",
-    "history_graph": "",
-    "order_graph": "",
+    "history_graph": "https://i.postimg.cc/SqVS4GPD/GMKlilac-On-Black-History221005fin-Yext.png",
+    "order_graph": "https://i.postimg.cc/qrbDdhL2/GMKlilac-On-Black-Orders221005fin-Yext.png",
     "order_graph_without": "",
     "price_pic": "https://imgur.com/zBtTIFC.png",
     "price_list":[
-        { "name": "Base", "price": "125", "pic": "https://imgur.com/QPnhcIk.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Alt Alphas", "price": "69", "pic": "https://imgur.com/KOh3vG9.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "NorDeUK", "price": "69", "pic": "https://imgur.com/YFh9pA6.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Spacebars", "price": "29", "pic": "https://imgur.com/X0QoQ8T.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "HIBI Artisan", "price": "45", "pic": "https://imgur.com/n10qBSq.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "125", "pic": "https://imgur.com/QPnhcIk.png", "price_cny": "", "quantity": "478", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alt Alphas", "price": "69", "pic": "https://imgur.com/KOh3vG9.png", "price_cny": "", "quantity": "121", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "69", "pic": "https://imgur.com/YFh9pA6.png", "price_cny": "", "quantity": "103", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://imgur.com/X0QoQ8T.png", "price_cny": "", "quantity": "148", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "45", "pic": "https://imgur.com/n10qBSq.png", "price_cny": "", "quantity": "100", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://imgur.com/uNVNKYO.png"

@@ -120,6 +120,10 @@ def generate_graph_info(url, sub_path, name):
     if not os.path.isdir(path):
         os.makedirs(path)
     graph_path = download_graph.download_graph(url, KEYCAP_ASSETS_WITH_PATH, sub_path, name)
+    if not graph_path: 
+        print ("unable to download {} from {}".format(name, url))
+        os._exit(os.EX_OSERR)
+
     resize_pic.resize_file(graph_path)
     graph_info = """<img src=\"{{{{ '{}' | relative_url }}}}\" alt=\"{}\" class=\"image featured\">
 """.format(os.path.relpath(graph_path, os.getcwd()), name)

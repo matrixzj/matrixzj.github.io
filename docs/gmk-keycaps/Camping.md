@@ -21,17 +21,18 @@ NOTE: USD to RMB exchange rate is 6.29
 
 | Name          | Price(Kono)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|175.00|1100.75|unknown|
-|[Spacebars](#spacebars)|35.00|220.15|unknown|
+|[Base](#base)|175.00|1100.75|365|
+|[Spacebars](#spacebars)|35.00|220.15|220|
 
+<img src="{{ 'assets/images/gmk-keycaps/camping/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base
-**Price(Kono):** 175.00    **Price(RMB):** 1100.75    **Quantity:** unknown  
+**Price(Kono):** 175.00    **Price(RMB):** 1100.75    **Quantity:** 365  
 <img src="{{ 'assets/images/gmk-keycaps/camping/kits_pics/base.jpg' | relative_url }}" alt="Base" class="image featured">
 
 ### Spacebars
-**Price(Kono):** 35.00    **Price(RMB):** 220.15    **Quantity:** unknown  
+**Price(Kono):** 35.00    **Price(RMB):** 220.15    **Quantity:** 220  
 <img src="{{ 'assets/images/gmk-keycaps/camping/kits_pics/spacebars.jpg' | relative_url }}" alt="Spacebars" class="image featured">
 
 

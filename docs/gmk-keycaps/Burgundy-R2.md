@@ -21,22 +21,25 @@ NOTE: USD to RMB exchange rate is 6.42
 
 | Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|165.00|998.00|unknown|
-|[Icon Modifilers](#icon-modifilers)|81.00|488.00|unknown|
-|[KR](#kr)|53.00|298.00|unknown|
+|[Base](#base)|165.00|998.00|101|
+|[Icon Modifilers](#icon-modifilers)|81.00|488.00|67|
+|[KR](#kr)|53.00|298.00|77|
 
+<img src="{{ 'assets/images/gmk-keycaps/burgundyr2/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/burgundyr2/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/burgundyr2/order1.png' | relative_url }}" alt="order1" class="image featured">
 
 ## Kits
 ### Base
-**Price(GH):** 165.00    **Price(RMB):** 998.00    **Quantity:** unknown  
+**Price(GH):** 165.00    **Price(RMB):** 998.00    **Quantity:** 101  
 <img src="{{ 'assets/images/gmk-keycaps/burgundyr2/kits_pics/base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Icon Modifilers
-**Price(GH):** 81.00    **Price(RMB):** 488.00    **Quantity:** unknown  
+**Price(GH):** 81.00    **Price(RMB):** 488.00    **Quantity:** 67  
 <img src="{{ 'assets/images/gmk-keycaps/burgundyr2/kits_pics/icon-modifiers.png' | relative_url }}" alt="Icon Modifilers" class="image featured">
 
 ### KR
-**Price(GH):** 53.00    **Price(RMB):** 298.00    **Quantity:** unknown  
+**Price(GH):** 53.00    **Price(RMB):** 298.00    **Quantity:** 77  
 <img src="{{ 'assets/images/gmk-keycaps/burgundyr2/kits_pics/kr.png' | relative_url }}" alt="KR" class="image featured">
 
 

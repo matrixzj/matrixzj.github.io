@@ -21,33 +21,35 @@ NOTE: USD to CNY exchange rate is 6.91
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|125.00|863.37|Unknown|
-|[Alt Alphas](#alt-alphas)|69.00|476.58|Unknown|
-|[NorDeUK](#nordeuk)|69.00|476.58|Unknown|
-|[Spacebars](#spacebars)|29.00|200.30|Unknown|
-|[HIBI Artisan](#hibi-artisan)|45.00|310.81|Unknown|
+|[Base](#base)|125.00|863.37|478|
+|[Alt Alphas](#alt-alphas)|69.00|476.58|121|
+|[NorDeUK](#nordeuk)|69.00|476.58|103|
+|[Spacebars](#spacebars)|29.00|200.30|148|
+|[HIBI Artisan](#hibi-artisan)|45.00|310.81|100|
 
 <img src="{{ 'assets/images/gmk-keycaps/Lilac-on-Black/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Lilac-on-Black/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Lilac-on-Black/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 125.00	**Price(CNY):** 863.37	**Quantity:** Unknown  
+**Price(USD):** 125.00	**Price(CNY):** 863.37	**Quantity:** 478  
 <img src="{{ 'assets/images/gmk-keycaps/Lilac-on-Black/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Alt Alphas  
-**Price(USD):** 69.00	**Price(CNY):** 476.58	**Quantity:** Unknown  
+**Price(USD):** 69.00	**Price(CNY):** 476.58	**Quantity:** 121  
 <img src="{{ 'assets/images/gmk-keycaps/Lilac-on-Black/kits_pics/alt-alphas.png' | relative_url }}" alt="alt-alphas" class="image featured">
 
 ### NorDeUK  
-**Price(USD):** 69.00	**Price(CNY):** 476.58	**Quantity:** Unknown  
+**Price(USD):** 69.00	**Price(CNY):** 476.58	**Quantity:** 103  
 <img src="{{ 'assets/images/gmk-keycaps/Lilac-on-Black/kits_pics/nordeuk.png' | relative_url }}" alt="nordeuk" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 29.00	**Price(CNY):** 200.30	**Quantity:** Unknown  
+**Price(USD):** 29.00	**Price(CNY):** 200.30	**Quantity:** 148  
 <img src="{{ 'assets/images/gmk-keycaps/Lilac-on-Black/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** 45.00	**Price(CNY):** 310.81	**Quantity:** Unknown  
+**Price(USD):** 45.00	**Price(CNY):** 310.81	**Quantity:** 100  
 <img src="{{ 'assets/images/gmk-keycaps/Lilac-on-Black/kits_pics/hibi-artisan.png' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info

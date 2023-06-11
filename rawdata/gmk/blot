@@ -1,0 +1,34 @@
+{
+    "name": "Blot",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "WoobEC",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-03-30 ~ 2023-04-24",
+    "ets": "2024 Q1-Q2",
+    "colorcodes":[
+      "|Base|Pantone 188C|WS1|"
+    ],
+    "color_pics":[
+      "https://imgur.com/DQTMFcS.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=119946",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "https://imgur.com/ahULVFz.png",
+    "price_list":[
+        { "name": "Base", "price": "129", "pic": "https://imgur.com/2wNQtOU.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Outsiders", "price": "40", "pic": "https://imgur.com/IpCkBir.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ESFR", "price": "60", "pic": "https://imgur.com/sppfjll.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "55", "pic": "https://imgur.com/Uhijb87.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "47", "pic": "https://imgur.com/E9dPLbE.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Bars", "price": "16", "pic": "https://imgur.com/ihRJhms.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "55", "pic": "https://imgur.com/0s18vMN.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://imgur.com/GJZkWzb.png"
+    ]
+}

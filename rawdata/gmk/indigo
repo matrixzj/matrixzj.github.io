@@ -7,6 +7,9 @@
     "time": "2022-02-18 ~ 2022-03-18",
     "ets": "Q1 2023",
     "colorcodes":[
+      "|Alphas|RAL 5000|CP|",
+      "|Mods|RAL 5011|CP",
+      "|Novelties|RAL 5014|CP"
     ],
     "color_pics":[
     ],
@@ -22,7 +25,7 @@
         { "name": "Hiragana", "price": "80", "pic": "https://i.imgur.com/aHwvC7z.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Extension", "price": "28.50", "pic": "https://i.imgur.com/rb4eAzf.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Spacebars", "price": "28.50", "pic": "https://i.imgur.com/yJJXiGZ.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "42", "pic": "https://i.imgur.com/8oeMETS.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "42", "pic": "https://i.postimg.cc/nnYws1Kp/GMK-Indigo-Novelties-VKVn2-VW.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Monokei Artisan", "price": "42", "pic": "https://i.imgur.com/Yha5voG.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "Salvun Artisan", "price": "55", "pic": "https://i.imgur.com/IPKXoDA.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
         { "name": "HIBI Artisan", "price": "75", "pic": "https://i.imgur.com/mk45051.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }

@@ -11,6 +11,7 @@ TEMP_PIC_FILE = '/tmp/KEYCAP_PIC_FILE'
 
 def download_graph(url, path, sub_path, name):
 
+#    print (os.path.join(path, sub_path, name))
     pattern = r"%s\..*" % name
     for file_name in os.listdir(os.path.join(path, sub_path)):
         if re.match(pattern, file_name):
@@ -37,7 +38,7 @@ def download_graph(url, path, sub_path, name):
         os.rename(TEMP_PIC_FILE, file_path_name)
         return file_path_name
     else:
-        print(file_format)
+#        print(file_format)
         return False
 
 if __name__ == '__main__':

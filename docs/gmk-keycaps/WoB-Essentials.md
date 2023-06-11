@@ -21,33 +21,35 @@ NOTE: USD to CNY exchange rate is 6.95
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[CMYW](#cmyw)|60.00|416.70|Unknown|
-|[Dark RGB](#dark-rgb)|60.00|416.70|Unknown|
-|[Icons](#icons)|30.00|208.35|Unknown|
-|[Row 5](#row-5)|43.00|298.64|Unknown|
-|[Extensions](#extensions)|47.00|326.42|Unknown|
+|[CMYW](#cmyw)|60.00|416.70|248|
+|[Dark RGB](#dark-rgb)|60.00|416.70|355|
+|[Icons](#icons)|30.00|208.35|279|
+|[Row 5](#row-5)|43.00|298.64|222|
+|[Extensions](#extensions)|47.00|326.42|348|
 
 <img src="{{ 'assets/images/gmk-keycaps/WoB-Essentials/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/WoB-Essentials/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/WoB-Essentials/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### CMYW  
-**Price(USD):** 60.00	**Price(CNY):** 416.70	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 416.70	**Quantity:** 248  
 <img src="{{ 'assets/images/gmk-keycaps/WoB-Essentials/kits_pics/cmyw.png' | relative_url }}" alt="cmyw" class="image featured">
 
 ### Dark RGB  
-**Price(USD):** 60.00	**Price(CNY):** 416.70	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 416.70	**Quantity:** 355  
 <img src="{{ 'assets/images/gmk-keycaps/WoB-Essentials/kits_pics/dark-rgb.png' | relative_url }}" alt="dark-rgb" class="image featured">
 
 ### Icons  
-**Price(USD):** 30.00	**Price(CNY):** 208.35	**Quantity:** Unknown  
+**Price(USD):** 30.00	**Price(CNY):** 208.35	**Quantity:** 279  
 <img src="{{ 'assets/images/gmk-keycaps/WoB-Essentials/kits_pics/icons.png' | relative_url }}" alt="icons" class="image featured">
 
 ### Row 5  
-**Price(USD):** 43.00	**Price(CNY):** 298.64	**Quantity:** Unknown  
+**Price(USD):** 43.00	**Price(CNY):** 298.64	**Quantity:** 222  
 <img src="{{ 'assets/images/gmk-keycaps/WoB-Essentials/kits_pics/row-5.png' | relative_url }}" alt="row-5" class="image featured">
 
 ### Extensions  
-**Price(USD):** 47.00	**Price(CNY):** 326.42	**Quantity:** Unknown  
+**Price(USD):** 47.00	**Price(CNY):** 326.42	**Quantity:** 348  
 <img src="{{ 'assets/images/gmk-keycaps/WoB-Essentials/kits_pics/extensions.png' | relative_url }}" alt="extensions" class="image featured">
 
 ## Info

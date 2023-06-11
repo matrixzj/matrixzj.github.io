@@ -34,6 +34,7 @@ NOTE: USD to CNY exchange rate is 7.15
 
 <img src="{{ 'assets/images/gmk-keycaps/dracula/progress1.png' | relative_url }}" alt="progress1" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/dracula/progress2.png' | relative_url }}" alt="progress2" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/dracula/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Core

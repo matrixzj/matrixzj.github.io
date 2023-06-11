@@ -22,15 +22,15 @@
     "link": "https://geekhack.org/index.php?topic=119655.0",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/Q8fQrPdq/Gmk-Wo-Bessentials-Orders230327fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/051cBthX/Gmk-Wo-Bessentials-Orders230327fin-Next.png",
     "price_pic": "https://i.imgur.com/69D5vI8.png",
     "price_list":[
-        { "name": "CMYW", "price": "60", "pic": "https://live.staticflickr.com/65535/52550852967_d21127d969_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Dark RGB", "price": "60", "pic": "https://live.staticflickr.com/65535/52551852028_fc3b52f736_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Icons", "price": "30", "pic": "https://live.staticflickr.com/65535/52551779190_c9c0aa6caa_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Row 5", "price": "43", "pic": "https://live.staticflickr.com/65535/52540305571_6c4ff3560c_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Extensions", "price": "47", "pic": "https://live.staticflickr.com/65535/52540789755_62668d5b42_o.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "CMYW", "price": "60", "pic": "https://live.staticflickr.com/65535/52550852967_d21127d969_o.png", "price_cny": "", "quantity": "248", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark RGB", "price": "60", "pic": "https://live.staticflickr.com/65535/52551852028_fc3b52f736_o.png", "price_cny": "", "quantity": "355", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icons", "price": "30", "pic": "https://live.staticflickr.com/65535/52551779190_c9c0aa6caa_o.png", "price_cny": "", "quantity": "279", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Row 5", "price": "43", "pic": "https://live.staticflickr.com/65535/52540305571_6c4ff3560c_o.png", "price_cny": "", "quantity": "222", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "47", "pic": "https://live.staticflickr.com/65535/52540789755_62668d5b42_o.png", "price_cny": "", "quantity": "348", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://live.staticflickr.com/65535/52539844442_b433259d9b_o.png"
