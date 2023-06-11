@@ -1,0 +1,26 @@
+{
+    "name": "Cocogoat",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Krelbit",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-05-15 ~ 2023-05-16",
+    "ets": "Q1 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=120242.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "159.99", "pic": "https://switchmod.net/cdn/shop/files/base_text_icon.1660_bdaeaf97-2fe0-41e0-8ba6-7966463ca823.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://switchmod.net/cdn/shop/files/GMK-Cocogoat_TGR_Jane_top_6dbabdd4-5505-418d-bf15-5b2b38c6a12e.png"
+    ]
+}

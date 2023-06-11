@@ -1,0 +1,26 @@
+{
+    "name": "Purple UWU",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "twitchytheinsideman",
+    "profile": "1-2-3-4",
+    "time": "2023-04-17 ~ 2023-06-01",
+    "ets": "2023-10-31",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=120108.0",
+    "currencyunit": "EUR",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Kit", "price": "40", "pic": "https://cdn.discordapp.com/attachments/1094386879127896136/1094429253170385040/GMK_Purple_uwu_24c.PNG", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cdn.discordapp.com/attachments/1051501185435193374/1094396960963821598/gb-uwu-w1at-002_-_Copy_Custom.png"
+    ]
+}

@@ -180,6 +180,9 @@ Just buy it :)
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
 ### 2023
+* [Purple UWU](docs/gmk-keycaps/Purple-UWU/)
+* [Cocogoat](docs/gmk-keycaps/Cocogoat/)
+* [Blanc sur Noir](docs/gmk-keycaps/Blanc-sur-Noir/)
 * [Blot](docs/gmk-keycaps/Blot/)
 * [Kitsune](docs/gmk-keycaps/Kitsune/)
 * [3](docs/gmk-keycaps/3/)
