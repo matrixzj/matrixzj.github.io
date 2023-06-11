@@ -17,16 +17,16 @@ ref link: [Purple UWU GH GB Link](https://geekhack.org/index.php?topic=120108.0)
 
 ## Price
 
-NOTE: USD to CNY exchange rate is 6.88
+NOTE: EUR to CNY exchange rate is 7.52
 
 | Name          | Price(EUR)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Kit](#kit)|40.00|275.19|Unknown|
+|[Kit](#kit)|40.00|300.65|Unknown|
 
 
 ## Kits
 ### Kit  
-**Price(EUR):** 40.00	**Price(CNY):** 275.19	**Quantity:** Unknown  
+**Price(EUR):** 40.00	**Price(CNY):** 300.65	**Quantity:** Unknown  
 <img src="{{ 'assets/images/gmk-keycaps/Purple-UWU/kits_pics/kit.png' | relative_url }}" alt="kit" class="image featured">
 
 ## Info

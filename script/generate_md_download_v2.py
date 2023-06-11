@@ -41,7 +41,7 @@ KEYCAP_FILENAME_WITH_PATH = os.path.join("docs", PROFILE_PATH, KEYCAP_FILENAME)
 # Example: assets/images/sa-keycaps/GodSpeed-R2
 KEYCAP_ASSETS_WITH_PATH = os.path.join("assets/images", PROFILE_PATH, KEYCAP_NAME)
 
-info_dict['rate'] = exchange_rate.retrieve_exchange_rate(info_dict['time'].split('~')[0].strip())
+info_dict['rate'] = exchange_rate.retrieve_exchange_rate(info_dict['time'].split('~')[0].strip(), info_dict['currencyunit'])
 # info_dict['rate'] = 6.65
 
 def write_to_file(string):
@@ -151,8 +151,8 @@ def generate_keycap_page_price():
 
 ## Price
 
-NOTE: USD to CNY exchange rate is {:.2f}
-""".format(info_dict['rate'])
+NOTE: {} to CNY exchange rate is {:.2f}
+""".format(info_dict['currencyunit'], info_dict['rate'])
     write_to_file(keycap_page_price_header)
 
     keycap_page_price_table_header = """
