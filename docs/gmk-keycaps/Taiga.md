@@ -1,12 +1,12 @@
 ---
-title: Taiga 泰茶
+title: Taiga 
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 280815
 ---
 
-# Taiga 泰茶
+# Taiga 
 
 ref link: [Taiga GH GB Link](https://geekhack.org/index.php?topic=117825)
 

@@ -207,6 +207,8 @@ def generate_keycap_page_kit():
         write_to_file(keycap_page_kit_entry)
 
 def generate_keycap_page_info():
+    if not info_dict.get('ets'):
+        info_dict['ets'] = ""
     keycap_page_info_header = """## Info
 * Designer: {}  
 * Profile: {} {}  

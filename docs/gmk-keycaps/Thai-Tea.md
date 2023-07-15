@@ -1,12 +1,12 @@
 ---
-title: Thai Tea 
+title: Thai Tea 泰茶
 layout: default
 icon: fa-keyboard-o
 parent: GMK Keycaps
 nav_order: 300520
 ---
 
-# Thai Tea 
+# Thai Tea 泰茶
 
 ref link: [Thai Tea GH GB Link](https://geekhack.org/index.php?topic=109700.0)
 
@@ -45,6 +45,7 @@ NOTE: USD to CNY exchange rate is 6.56
 * Designer: pyade3  
 * Profile: GMK 1-1-2-3-4-4  
 * GB Time: 2020-11-20 ~ 2020-12-18  
+* Estimated Shipping Time:   
 * Color Codes:  
 
 | |Base Color     | Legend Color
