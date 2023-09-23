@@ -1,0 +1,30 @@
+{
+    "name": "CYL Kaiju",
+    "cname": "CYL怪兽",
+    "keycapstype": "GMK",
+    "designer": "nephlock",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-09-04 ~ 2023-09-29",
+    "ets": "Q2 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "NovelKeys",
+    "link": "https://novelkeys.com/products/cyl-kaiju-part-deux",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://novelkeys.com/cdn/shop/files/Kaiju_16x9_1c14050e-03bf-48d2-afbf-3b9dabe3b168_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Mecha Base", "price": "125", "pic": "https://novelkeys.com/cdn/shop/files/Mecha_16x9_b593fae9-63af-4d01-90c9-d7ef5ceffa0b_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macros", "price": "40", "pic": "https://novelkeys.com/cdn/shop/files/Macros_16x9_9d942663-25aa-4730-96a7-7e878856f08f_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accents", "price": "35", "pic": "https://novelkeys.com/cdn/shop/files/Accents_16x9_dc6d9094-dcd2-40c1-877a-1f52ec4432c8_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "55", "pic": "https://novelkeys.com/cdn/shop/files/Novelties_16x9_fba05745-9ae2-4c28-9a67-a104d7b4be16_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://novelkeys.com/cdn/shop/files/Kaiju_Matrix_Meta_Wide_1512x.png"
+    ]
+}

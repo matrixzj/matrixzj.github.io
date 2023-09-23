@@ -1,0 +1,25 @@
+{
+    "name": "ASCII",
+    "cname": "",
+    "keycapstype": "SA",
+    "designer": "Oblotzky",
+    "profile": "1-1-2-3-4-3",
+    "time": "2023-08-04 ~ 2023-08-25",
+    "ets": "Q1 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "NovelKeys",
+    "link": "https://novelkeys.com/products/sa-ascii",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "150", "pic": "https://novelkeys.com/cdn/shop/files/Base_16x9_a88885db-10ed-47a3-bbd6-6cbde073767b_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://novelkeys.com/cdn/shop/files/SA_Ascii_Kaze_03_Wide_110x110@2x.png"
+    ]
+}

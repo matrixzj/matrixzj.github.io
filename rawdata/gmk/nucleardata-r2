@@ -1,0 +1,30 @@
+{
+    "name": "Nuclear Data R2",
+    "cname": "核子R2",
+    "keycapstype": "GMK",
+    "designer": "hineybush",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-07-07 ~ 2023-07-28",
+    "ets": "Q1 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=107254.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://novelkeys.com/cdn/shop/files/Base_16x9_ec8a9d6c-4cc0-4fb9-900b-5fd9dbf33346_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ASCII Alphas", "price": "50", "pic": "https://novelkeys.com/cdn/shop/files/ASCII_16x9_352c39d6-004e-4337-ae55-b4e009330a08_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Cadet Alphas", "price": "45", "pic": "https://novelkeys.com/cdn/shop/files/Cadet_16x9_8301611b-e2af-474e-955a-4671b8ad2e81_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "50", "pic": "https://novelkeys.com/cdn/shop/files/Novs_16x9_d23cfbde-3962-4d3e-afae-ad6b05289f41_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "45", "pic": "https://novelkeys.com/cdn/shop/files/nucleardata_R1_top_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://novelkeys.com/cdn/shop/files/06_GMK_Nuclear_Data_Ibis_Wide_1512x.png"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Retro Rerun",
+    "cname": "复古Rerun",
+    "keycapstype": "SA",
+    "designer": "Matt3o",
+    "profile": "1-1-2-3-4-3",
+    "time": "2023-09-23 ~ ",
+    "ets": "",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "PMK",
+    "link": "https://pimpmykeyboard.com/sa-retro-keyset-two-shot/",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Alpha", "price": "93", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4095/alpha__86891.1691194546.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "TKL", "price": "92", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4093/tkl-retro__21160.1691194616.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "TKL Burgundy", "price": "92", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4099/tkl-burgundy__71427.1691194637.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "33", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4091/numpad-retro__32741.1691193528.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad Burgundy", "price": "33", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4094/numpad-burgundy__07901.1691193540.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ALT Function", "price": "53", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4101/alt-function__65401.1691193562.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extras", "price": "48", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4100/extras-retro__38012.1686873525.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extras Burgundy", "price": "48", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4097/extra-burgundy__55537.1686873525.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s Ortho", "price": "66", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4092/40s-retro__39220.1691193611.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "40s Ortho Burgundy", "price": "69", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4096/40s-burgundy__95084.1691193592.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "ISO UK Nordic", "price": "83", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4098/iso__78961.1691193637.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Lime", "price": "23", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4090/lime__14629.1691193654.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Small Spacebars", "price": "16", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4089/small-spacebars__68611.1691193668.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "7u Spacebar", "price": "3", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4086/7u__51960.1691193744.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "6u Spacebar", "price": "3", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4087/6u__48700.1691193736.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "625u Spacebar", "price": "3", "pic": "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4088/625u__99695.1691193749.1280.1280.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics": [
+        "https://cdn10.bigcommerce.com/s-ktpi93fl/products/352/images/4119/R3__57321.1695417578.1280.1280.jpg"
+    ]
+}
