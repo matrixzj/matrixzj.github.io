@@ -72,11 +72,11 @@ NOTE: USD to CNY exchange rate is 6.33
 * Estimated Shipping Time: Q1 2023  
 * Color Codes:  
 
-| |Base Color     | Legend Color
-| :-------------: | :-------------: | :------------:
-|Alphas|RAL 5000|CP|
-|Mods|RAL 5011|CP
-|Novelties|RAL 5014|CP
+| |Base Color     | Legend Color | UV Printed Color
+| :-------------: | :-------------: | :------------: | :------------:
+|Alphas|RAL 5000|CP|RO1|
+|Mods|RAL 5011|CP| |
+|Novelties|RAL 5014|CP| |
 
 
 ## Pictures  

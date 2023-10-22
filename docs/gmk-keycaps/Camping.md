@@ -8,7 +8,7 @@ nav_order: 320990
 
 # Camping 野营
 
-ref link: [Camping Kono GB Link](https://kono.store/products/gmk-camping)
+ref link: [Camping GH GB Link](https://geekhack.org/index.php?topic=93441.0)
 
 * [Price](#price)
 * [Kits](#kits)
@@ -19,7 +19,7 @@ ref link: [Camping Kono GB Link](https://kono.store/products/gmk-camping)
 ## Price  
 NOTE: USD to RMB exchange rate is 6.29
 
-| Name          | Price(Kono)    |  Price(RMB) | Quantity |
+| Name          | Price(GH)    |  Price(RMB) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
 |[Base](#base)|175.00|1100.75|365|
 |[Spacebars](#spacebars)|35.00|220.15|220|

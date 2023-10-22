@@ -41,7 +41,7 @@ NOTE: USD to RMB exchange rate is 6.65
 
 ### Ergo
 **Price(MD):** 40.00    **Price(RMB):** 269.00    **Quantity:** unknown  
-<img src="{{ 'assets/images/gmk-keycaps/carbonr1/kits_pics/ergodox.jpg' | relative_url }}" alt="Novelties" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/carbonr1/kits_pics/ergodox.png' | relative_url }}" alt="Novelties" class="image featured">
 
 ### Community
 **Price(MD):** 32.00    **Price(RMB):** 212.80    **Quantity:** 126
@@ -49,7 +49,7 @@ NOTE: USD to RMB exchange rate is 6.65
 
 ### Spacebars
 **Price(MD):** 18.00    **Price(RMB):** 119.70    **Quantity:** 217
-<img src="{{ 'assets/images/gmk-keycaps/carbonr1/kits_pics/spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/carbonr1/kits_pics/spacebar.jpg' | relative_url }}" alt="Spacebars" class="image featured">
 
 ### International
 **Price(MD):** 43.00    **Price(RMB):** 285.95    **Quantity:** 68

@@ -21,12 +21,13 @@ NOTE: EUR to CNY exchange rate is 7.52
 
 | Name          | Price(EUR)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Kit](#kit)|40.00|300.65|Unknown|
+|[Kit](#kit)|40.00|300.65|66|
 
+<img src="{{ 'assets/images/gmk-keycaps/Purple-UWU/history.png' | relative_url }}" alt="history" class="image featured">
 
 ## Kits
 ### Kit  
-**Price(EUR):** 40.00	**Price(CNY):** 300.65	**Quantity:** Unknown  
+**Price(EUR):** 40.00	**Price(CNY):** 300.65	**Quantity:** 66  
 <img src="{{ 'assets/images/gmk-keycaps/Purple-UWU/kits_pics/kit.png' | relative_url }}" alt="kit" class="image featured">
 
 ## Info

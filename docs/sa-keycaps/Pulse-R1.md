@@ -21,59 +21,66 @@ NOTE: USD to RMB exchange rate is 6.16
 
 | Name          | Price(USD)    | Price(RMB)  | Price(KP)  | Quantity |
 | ------------- | ------------- | ----------- | ---------- | -------- |
-|[Base](#base)|81.00|498.96|unknown|207|
-|[Novelties](#novelties)|73.00|449.68|unknown|128|
-|[F-Row](#f-row)|10.00|61.60|unknown|42|
-|[60% Stripe](#60-stripe)|16.00|98.56|unknown|58|
-|[Numpad](#numpad)|29.00|178.64|unknown|71|
-|[ISO](#iso)|14.00|86.24|unknown|21|
-|[Tsangan](#tsangan)|10.00|61.60|unknown|43|
-|[Halfadox](#halfadox)|22.00|135.52|unknown|37|
-|[Spacebars](#spacebars)|6.55|40.35|unknown|184|
-|[Blanks](#blanks)|0.45|2.77|unknown|unknown|
+|[Base](#base)|60.00|369.60|unknown|207|
+|[Novelties](#novelties)|16.00|98.56|unknown|127|
+|[F-Row](#f-row)|8.00|49.28|unknown|42|
+|[60% Stripe](#60-stripe)|10.00|61.60|unknown|58|
+|[Numpad](#numpad)|16.00|98.56|unknown|71|
+|[ISO](#iso)|9.00|55.44|unknown|21|
+|[Tsangan](#tsangan)|14.00|86.24|unknown|43|
+|[Halfadox](#halfadox)|13.00|80.08|unknown|37|
+|[Spacebars](#spacebars)|1.51|9.30|unknown|184|
+|[R3 1u Blanks](#r3-1u-blanks)|0.45|2.77|unknown|674|
+|[R3 1.5u Blanks](#r3-15u-blanks)|1.05|6.47|unknown|127|
+|[R3 2u Blanks](#r3-2u-blanks)|1.75|10.78|unknown|54|
 
 <img src="{{ 'assets/images/sa-keycaps/pulser1/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base
-**Price(USD):** 81.00   **Price(RMB):** 498.96  **Price(KP):** unkown   **Quantity:** unknown
+**Price(USD):** 60.00   **Price(RMB):** 369.60  **Price(KP):** unkown   **Quantity:** 207  
 <img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1base.png' | relative_url }}" alt="Base" class="image featured">
 
 ### Novelties
-**Price(USD):** 73.00   **Price(RMB):** 449.68  **Price(KP):** unkown   **Quantity:** unknown
+**Price(USD):** 16.00   **Price(RMB):** 98.56  **Price(KP):** unkown   **Quantity:** 127   
 <img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1novelties.png' | relative_url }}" alt="Novelties" class="image featured">
 
 ### F-Row
-**Price(USD):** 10.00   **Price(RMB):** 61.60   **Price(KP):** unkown   **Quantity:** unknown
+**Price(USD):** 8.00   **Price(RMB):** 49.28   **Price(KP):** unkown   **Quantity:** 42  
 <img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1f-row.png' | relative_url }}" alt="F-Row" class="image featured">
 
 ### 60% Stripe
-**Price(USD):** 16.00   **Price(RMB):** 98.56   **Price(KP):** unkown   **Quantity:** unknown
+**Price(USD):** 10.00   **Price(RMB):** 61.60   **Price(KP):** unkown   **Quantity:** 58  
 <img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r160stripe.png' | relative_url }}" alt="60%Stripe" class="image featured">
 
 ### Numpad
-**Price(USD):** 29.00   **Price(RMB):** 178.64  **Price(KP):** unkown   **Quantity:** unknown
+**Price(USD):** 16.00   **Price(RMB):** 98.56  **Price(KP):** unkown   **Quantity:** 71  
 <img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1numpad.png' | relative_url }}" alt="Numpad" class="image featured">
 
 ### ISO
-**Price(USD):** 14.00   **Price(RMB):** 86.24   **Price(KP):** unkown   **Quantity:** unknown
+**Price(USD):** 9.00   **Price(RMB):** 55.44   **Price(KP):** unkown   **Quantity:** 21  
 <img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1iso.png' | relative_url }}" alt="ISO" class="image featured">
 
 ### Tsangan
-**Price(USD):** 10.00   **Price(RMB):** 61.60   **Price(KP):** unkown   **Quantity:** unknown
+**Price(USD):** 14.00   **Price(RMB):** 86.24   **Price(KP):** unkown   **Quantity:** 43   
 <img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1tsangan.png' | relative_url }}" alt="Tsangan" class="image featured">
 
 ### Halfadox
-**Price(USD):** 22.00   **Price(RMB):** 135.52  **Price(KP):** unkown   **Quantity:** unknown
+**Price(USD):** 13.00   **Price(RMB):** 80.08  **Price(KP):** unkown   **Quantity:** 37  
 <img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1halfadox.png' | relative_url }}" alt="Halfadox" class="image featured">
 
-### Blanks
-**Price(USD):** 0.45/each    **Price(RMB):** 2.77    **Price(KP):** unkown   **Quantity:** unknown
-<img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1blanks.png' | relative_url }}" alt="Blanks" class="image featured">
-
 ### Spacebars
-**Price(USD):** 6.55/each    **Price(RMB):** 40.35   **Price(KP):** unkown   **Quantity:** unknown
+**Price(USD):** 1.51/each    **Price(RMB):** 9.30   **Price(KP):** unkown   **Quantity:** 184  
 <img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1spacebars.png' | relative_url }}" alt="Spacebars" class="image featured">
+
+### R3 1u Blanks
+**Price(USD):** 0.45/each    **Price(RMB):** 2.77    **Price(KP):** unkown   **Quantity:** 674  
+### R3 1.5u Blanks
+**Price(USD):** 1.05/each    **Price(RMB):** 6.47    **Price(KP):** unkown   **Quantity:** 127  
+### R3 2u Blanks
+**Price(USD):** 1.75/each    **Price(RMB):** 10.78    **Price(KP):** unkown   **Quantity:** 54     
+<img src="{{ 'assets/images/sa-keycaps/pulser1/kits_pics/r1blanks.png' | relative_url }}" alt="R3-Blanks" class="image featured">
+
 
 ## Info
 * Designer: Mito

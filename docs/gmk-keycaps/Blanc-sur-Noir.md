@@ -21,12 +21,13 @@ NOTE: USD to CNY exchange rate is 6.89
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|130.00|895.31|Unknown|
+|[Base](#base)|130.00|895.31|390|
 
+<img src="{{ 'assets/images/gmk-keycaps/Blanc-sur-Noir/history.png' | relative_url }}" alt="history" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 130.00	**Price(CNY):** 895.31	**Quantity:** Unknown  
+**Price(USD):** 130.00	**Price(CNY):** 895.31	**Quantity:** 390  
 <img src="{{ 'assets/images/gmk-keycaps/Blanc-sur-Noir/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ## Info

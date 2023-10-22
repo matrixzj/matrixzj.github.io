@@ -21,43 +21,45 @@ NOTE: USD to CNY exchange rate is 6.87
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|129.00|886.48|Unknown|
-|[Outsiders](#outsiders)|40.00|274.88|Unknown|
-|[ESFR](#esfr)|60.00|412.31|Unknown|
-|[NorDeUK](#nordeuk)|55.00|377.95|Unknown|
-|[Novelties](#novelties)|47.00|322.98|Unknown|
-|[Bars](#bars)|16.00|109.95|Unknown|
-|[HIBI Artisan](#hibi-artisan)|55.00|377.95|Unknown|
+|[Base](#base)|129.00|886.48|359|
+|[Outsiders](#outsiders)|40.00|274.88|133|
+|[ESFR](#esfr)|60.00|412.31|32|
+|[NorDeUK](#nordeuk)|55.00|377.95|26|
+|[Novelties](#novelties)|47.00|322.98|181|
+|[Bars](#bars)|16.00|109.95|134|
+|[HIBI Artisan](#hibi-artisan)|55.00|377.95|43|
 
 <img src="{{ 'assets/images/gmk-keycaps/Blot/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Blot/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Blot/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 129.00	**Price(CNY):** 886.48	**Quantity:** Unknown  
+**Price(USD):** 129.00	**Price(CNY):** 886.48	**Quantity:** 359  
 <img src="{{ 'assets/images/gmk-keycaps/Blot/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Outsiders  
-**Price(USD):** 40.00	**Price(CNY):** 274.88	**Quantity:** Unknown  
+**Price(USD):** 40.00	**Price(CNY):** 274.88	**Quantity:** 133  
 <img src="{{ 'assets/images/gmk-keycaps/Blot/kits_pics/outsiders.png' | relative_url }}" alt="outsiders" class="image featured">
 
 ### ESFR  
-**Price(USD):** 60.00	**Price(CNY):** 412.31	**Quantity:** Unknown  
+**Price(USD):** 60.00	**Price(CNY):** 412.31	**Quantity:** 32  
 <img src="{{ 'assets/images/gmk-keycaps/Blot/kits_pics/esfr.png' | relative_url }}" alt="esfr" class="image featured">
 
 ### NorDeUK  
-**Price(USD):** 55.00	**Price(CNY):** 377.95	**Quantity:** Unknown  
+**Price(USD):** 55.00	**Price(CNY):** 377.95	**Quantity:** 26  
 <img src="{{ 'assets/images/gmk-keycaps/Blot/kits_pics/nordeuk.png' | relative_url }}" alt="nordeuk" class="image featured">
 
 ### Novelties  
-**Price(USD):** 47.00	**Price(CNY):** 322.98	**Quantity:** Unknown  
+**Price(USD):** 47.00	**Price(CNY):** 322.98	**Quantity:** 181  
 <img src="{{ 'assets/images/gmk-keycaps/Blot/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Bars  
-**Price(USD):** 16.00	**Price(CNY):** 109.95	**Quantity:** Unknown  
+**Price(USD):** 16.00	**Price(CNY):** 109.95	**Quantity:** 134  
 <img src="{{ 'assets/images/gmk-keycaps/Blot/kits_pics/bars.png' | relative_url }}" alt="bars" class="image featured">
 
 ### HIBI Artisan  
-**Price(USD):** 55.00	**Price(CNY):** 377.95	**Quantity:** Unknown  
+**Price(USD):** 55.00	**Price(CNY):** 377.95	**Quantity:** 43  
 <img src="{{ 'assets/images/gmk-keycaps/Blot/kits_pics/hibi-artisan.jpg' | relative_url }}" alt="hibi-artisan" class="image featured">
 
 ## Info

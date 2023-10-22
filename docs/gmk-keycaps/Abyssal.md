@@ -21,37 +21,39 @@ NOTE: USD to CNY exchange rate is 6.87
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|110.00|755.60|Unknown|
-|[Dark Alphas](#dark-alphas)|76.00|522.05|Unknown|
-|[Numpad](#numpad)|38.00|261.03|Unknown|
-|[Spacebars](#spacebars)|24.00|164.86|Unknown|
-|[Novelties](#novelties)|39.00|267.89|Unknown|
-|[KBM Metal Artisan](#kbm-metal-artisan)|40.00|274.76|Unknown|
+|[Base](#base)|110.00|755.60|200|
+|[Dark Alphas](#dark-alphas)|76.00|522.05|83|
+|[Numpad](#numpad)|38.00|261.03|44|
+|[Spacebars](#spacebars)|24.00|164.86|25|
+|[Novelties](#novelties)|39.00|267.89|125|
+|[KBM Metal Artisan](#kbm-metal-artisan)|40.00|274.76|63|
 
+<img src="{{ 'assets/images/gmk-keycaps/Abyssal/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Abyssal/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 110.00	**Price(CNY):** 755.60	**Quantity:** Unknown  
+**Price(USD):** 110.00	**Price(CNY):** 755.60	**Quantity:** 200  
 <img src="{{ 'assets/images/gmk-keycaps/Abyssal/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Dark Alphas  
-**Price(USD):** 76.00	**Price(CNY):** 522.05	**Quantity:** Unknown  
+**Price(USD):** 76.00	**Price(CNY):** 522.05	**Quantity:** 83  
 <img src="{{ 'assets/images/gmk-keycaps/Abyssal/kits_pics/dark-alphas.jpg' | relative_url }}" alt="dark-alphas" class="image featured">
 
 ### Numpad  
-**Price(USD):** 38.00	**Price(CNY):** 261.03	**Quantity:** Unknown  
+**Price(USD):** 38.00	**Price(CNY):** 261.03	**Quantity:** 44  
 <img src="{{ 'assets/images/gmk-keycaps/Abyssal/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 24.00	**Price(CNY):** 164.86	**Quantity:** Unknown  
+**Price(USD):** 24.00	**Price(CNY):** 164.86	**Quantity:** 25  
 <img src="{{ 'assets/images/gmk-keycaps/Abyssal/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### Novelties  
-**Price(USD):** 39.00	**Price(CNY):** 267.89	**Quantity:** Unknown  
+**Price(USD):** 39.00	**Price(CNY):** 267.89	**Quantity:** 125  
 <img src="{{ 'assets/images/gmk-keycaps/Abyssal/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### KBM Metal Artisan  
-**Price(USD):** 40.00	**Price(CNY):** 274.76	**Quantity:** Unknown  
+**Price(USD):** 40.00	**Price(CNY):** 274.76	**Quantity:** 63  
 <img src="{{ 'assets/images/gmk-keycaps/Abyssal/kits_pics/kbm-metal-artisan.jpg' | relative_url }}" alt="kbm-metal-artisan" class="image featured">
 
 ## Info

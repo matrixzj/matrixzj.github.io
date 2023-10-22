@@ -14,12 +14,12 @@
     "link": "https://geekhack.org/index.php?topic=120966",
     "currencyunit": "USD",
     "history_graph": "",
-    "order_graph": "",
-    "order_graph_without": "",
+    "order_graph": "https://i.postimg.cc/fDjPr1J7/GMKalter-Redux-Orders230825fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/nHYfYMqx/GMKalter-Redux-Orders230825fin-Next.png",
     "price_pic": "",
     "price_list":[
-        { "name": "Base", "price": "114.99", "pic": "https://switchmod.net/cdn/shop/files/aje85yO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "Novelties", "price": "24.99", "pic": "https://switchmod.net/cdn/shop/files/15Mdg1R.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "114.99", "pic": "https://switchmod.net/cdn/shop/files/aje85yO.png", "price_cny": "", "quantity": "631", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "24.99", "pic": "https://switchmod.net/cdn/shop/files/15Mdg1R.png", "price_cny": "", "quantity": "417", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
         "https://switchmod.net/cdn/shop/files/qYDLmlO.jpg"

@@ -7,11 +7,15 @@
     "time": "2022-05-03 ~ 2022-06-03",
     "ets": "Q3 2023",
     "colorcodes":[
+      "|Base|Pantone PQ-432C|WS1|",
+      "|Mods|Pantone PQ-5463C|WS1|",
+      "|Accents|Pantone PQ-149C|Pantone PQ-5463C|"
     ],
     "color_pics":[
+      "https://i.postimg.cc/1m9KYHvS/230921-colors-approved-IMG-9561.png"
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=117103.0",
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "https://i.postimg.cc/s3QWYcxn/GMKuniverse-Orders220603fin-Yext.png",

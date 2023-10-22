@@ -21,37 +21,38 @@ NOTE: USD to CNY exchange rate is 6.91
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|115.00|794.35|Unknown|
-|[Novelties](#novelties)|39.00|269.39|Unknown|
-|[Numpad](#numpad)|34.00|234.85|Unknown|
-|[Spacebars](#spacebars)|29.00|200.31|Unknown|
-|[KBM Maru Shiro Artisan](#kbm-maru-shiro-artisan)|39.00|269.39|Unknown|
-|[KBM Kogitsune Artisan](#kbm-kogitsune-artisan)|39.00|269.39|Unknown|
+|[Base](#base)|115.00|794.35|1006|
+|[Novelties](#novelties)|39.00|269.39|807|
+|[Numpad](#numpad)|34.00|234.85|152|
+|[Spacebars](#spacebars)|29.00|200.31|283|
+|[KBM Maru Shiro Artisan](#kbm-maru-shiro-artisan)|39.00|269.39|143|
+|[KBM Kogitsune Artisan](#kbm-kogitsune-artisan)|39.00|269.39|132|
 
+<img src="{{ 'assets/images/gmk-keycaps/Kitsune/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 115.00	**Price(CNY):** 794.35	**Quantity:** Unknown  
+**Price(USD):** 115.00	**Price(CNY):** 794.35	**Quantity:** 1006  
 <img src="{{ 'assets/images/gmk-keycaps/Kitsune/kits_pics/base.jpg' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 39.00	**Price(CNY):** 269.39	**Quantity:** Unknown  
+**Price(USD):** 39.00	**Price(CNY):** 269.39	**Quantity:** 807  
 <img src="{{ 'assets/images/gmk-keycaps/Kitsune/kits_pics/novelties.jpg' | relative_url }}" alt="novelties" class="image featured">
 
 ### Numpad  
-**Price(USD):** 34.00	**Price(CNY):** 234.85	**Quantity:** Unknown  
+**Price(USD):** 34.00	**Price(CNY):** 234.85	**Quantity:** 152  
 <img src="{{ 'assets/images/gmk-keycaps/Kitsune/kits_pics/numpad.jpg' | relative_url }}" alt="numpad" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 29.00	**Price(CNY):** 200.31	**Quantity:** Unknown  
+**Price(USD):** 29.00	**Price(CNY):** 200.31	**Quantity:** 283  
 <img src="{{ 'assets/images/gmk-keycaps/Kitsune/kits_pics/spacebars.jpg' | relative_url }}" alt="spacebars" class="image featured">
 
 ### KBM Maru Shiro Artisan  
-**Price(USD):** 39.00	**Price(CNY):** 269.39	**Quantity:** Unknown  
+**Price(USD):** 39.00	**Price(CNY):** 269.39	**Quantity:** 143  
 <img src="{{ 'assets/images/gmk-keycaps/Kitsune/kits_pics/kbm-maru-shiro-artisan.jpg' | relative_url }}" alt="kbm-maru-shiro-artisan" class="image featured">
 
 ### KBM Kogitsune Artisan  
-**Price(USD):** 39.00	**Price(CNY):** 269.39	**Quantity:** Unknown  
+**Price(USD):** 39.00	**Price(CNY):** 269.39	**Quantity:** 132  
 <img src="{{ 'assets/images/gmk-keycaps/Kitsune/kits_pics/kbm-kogitsune-artisan.jpg' | relative_url }}" alt="kbm-kogitsune-artisan" class="image featured">
 
 ## Info

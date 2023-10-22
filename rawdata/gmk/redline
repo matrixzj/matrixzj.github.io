@@ -15,6 +15,7 @@
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "https://i.postimg.cc/y1vDpJsL/GMKredline-Status201122fin-Yext.png",
+    "order_graph_without": "https://i.postimg.cc/9CrFZWPR/GMKredline-Status201114yfin-Next3.png",
     "price_list":[
         { "name": "Standard", "price": "104.99", "price_cny": "", "quantity": "3445", "price_table_format": "","price_kit_format": "" },
         { "name": "Dashboard", "price": "39.99", "price_cny": "", "quantity": "1805", "price_table_format": "","price_kit_format": "" },
