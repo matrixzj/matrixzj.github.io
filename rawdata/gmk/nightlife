@@ -1,0 +1,29 @@
+{
+    "name": "Nightlife",
+    "cname": "夜生活",
+    "keycapstype": "GMK",
+    "designer": "biip",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-11-03 ~ 2023-11-24",
+    "ets": "Q1 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=121805.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://novelkeys.com/cdn/shop/files/Base_16x9-2_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "28", "pic": "https://novelkeys.com/cdn/shop/files/Novs_16x9_fe0b611d-3b3a-407d-a94f-771ae800d984_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Ramen Bowl Artisans", "price": "40", "pic": "https://novelkeys.com/cdn/shop/files/HIBI_Nightlife_1_top_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Beer Artisans", "price": "40", "pic": "https://novelkeys.com/cdn/shop/files/HIBI_Nightlife_2_top_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://novelkeys.com/cdn/shop/files/CYL_Nightlife_Wampus_Wide_69a9de3f-129e-4cc7-a558-eb8245dfbf60_1512x.png"
+    ]
+}

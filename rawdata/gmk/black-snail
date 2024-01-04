@@ -1,0 +1,32 @@
+{
+    "name": "Black Snail",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "GEONWORKS",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-12-01 ~ 2023-12-15",
+    "ets": "March/April, 2024",
+    "colorcodes":[
+      "|CR|L9|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=121961.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "79", "pic": "https://cdn.discordapp.com/attachments/843758131728482334/1177481572820209664/Base.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alpha", "price": "39", "pic": "https://media.discordapp.net/attachments/843758131728482334/1177481570307813376/Alpha.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "29", "pic": "https://media.discordapp.net/attachments/843758131728482334/1177481577589125140/Numpad.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebar", "price": "19", "pic": "https://media.discordapp.net/attachments/843758131728482334/1177481579875008552/Spacebar.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "24", "pic": "https://media.discordapp.net/attachments/843758131728482334/1177481574963478628/Novelties.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Alu Artisan", "price": "40", "pic": "https://cdn.discordapp.com/attachments/843758131728482334/1177481681574314014/Top.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://media.discordapp.net/attachments/843758131728482334/1177481539110572092/W1-AT.png"
+    ]
+}

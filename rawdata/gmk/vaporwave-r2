@@ -1,0 +1,30 @@
+{
+    "name": "Vaporwave R2",
+    "cname": "蒸汽波R2",
+    "keycapstype": "GMK",
+    "designer": "NaturalPack / biip",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-10-06 ~ 2023-10-27",
+    "ets": "Q2 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112165.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Latin Base", "price": "135", "pic": "https://novelkeys.com/cdn/shop/files/Base_16x9_8b7cc290-f9fc-4336-82d1-7511c816be59_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragana Base", "price": "135", "pic": "https://novelkeys.com/cdn/shop/files/Hiragana_16x9_d0b843cf-5b9d-4638-93fa-1ea14c4c17b9_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Aesthetic", "price": "55", "pic": "https://novelkeys.com/cdn/shop/files/A0FC5939-9132-4A51-8278-66EFD1C569DA_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extensions", "price": "45", "pic": "https://novelkeys.com/cdn/shop/files/Extensions_16x9_0be141fa-9420-4b66-a106-409d7d10a888_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "60", "pic": "https://novelkeys.com/cdn/shop/files/GMK_CYL_VaporwaveW2_HIBI_Top_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://novelkeys.com/cdn/shop/files/CYL_VaporwareW2_NKPlus_Wide_110x110@2x.png"
+    ]
+}

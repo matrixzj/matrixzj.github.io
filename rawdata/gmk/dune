@@ -1,0 +1,26 @@
+{
+    "name": "Dune",
+    "cname": "沙丘",
+    "keycapstype": "GMK",
+    "designer": "lelelab",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-12-11 ~ 2023-12-30",
+    "ets": "Q2 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=122055",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://cannonkeys.com/cdn/shop/files/8_c0a68039-4775-4766-afcf-38bbbc424cd8_900x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cannonkeys.com/cdn/shop/files/10_db6de86b-ea93-4e58-a500-5f6952d5eb15_900x.jpg"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "CYL Beloved",
+    "cname": "KA2017 Re-Run",
+    "keycapstype": "GMK",
+    "designer": "mcmcmc",
+    "profile": "1-1-2-3-4-5",
+    "time": "2023-11-11 ~ 2023-12-11",
+    "ets": "Q3, 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=121851.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "https://i.postimg.cc/tyF6t5Xr/GMKbeloved-Orders231211fin-Yext2.png",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "130", "pic": "https://switchmod.net/cdn/shop/files/53235210636_61897b6c52_o.png", "price_cny": "", "quantity": "378", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "30", "pic": "https://switchmod.net/cdn/shop/files/53235517143_2a5ba8e187_o_fbf01532-d50f-4199-a693-06060555996f.jpg", "price_cny": "", "quantity": "250", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hangul Alpha", "price": "45", "pic": "https://switchmod.net/cdn/shop/files/53242824970_673f8a74e3_o_a816175c-0bfc-4d75-9f7c-73e0248c12d6.jpg", "price_cny": "", "quantity": "150", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://switchmod.net/cdn/shop/files/53235515778_478f0a3269_o.jpg"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Phantom R2",
+    "cname": ,
+    "keycapstype": "GMK",
+    "designer": "briano1905 / vheissu",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-01-05 ~ 2024-01-26",
+    "ets": "",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "",
+        ""
+    ]
+}

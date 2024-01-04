@@ -1,0 +1,26 @@
+{
+    "name": "Gegenschlag Add-on",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "biip",
+    "profile": "1-1-2-4",
+    "time": "2023-10-01 ~ 2023-10-20",
+    "ets": "Feb 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "Oblotzky Industries",
+    "link": "https://oblotzky.industries/products/gmk-cyl-gegenschlag",
+    "currencyunit": "EUR",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "ALL", "price": "41.18", "pic": "https://oblotzky.industries/cdn/shop/files/gmk_cyl_gegenschlag_kit_590x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://oblotzky.industries/cdn/shop/files/gmk_cyl_gegenschlag_keyboard_01_590x.jpg"
+    ]
+}

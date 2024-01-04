@@ -1,0 +1,28 @@
+{
+    "name": "Modern Materials",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Mod Musings",
+    "profile": "1-1-2-3-4-4",
+    "time": "2023-12-01 ~ 2023-12-29",
+    "ets": "Q2 2024",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "NovelKeys",
+    "link": "",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Concrete Base", "price": "125", "pic": "https://novelkeys.com/cdn/shop/files/Concrete_16x9_8cdc2c72-dafd-4101-a890-247d4bc383fd_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Stone Base", "price": "125", "pic": "https://novelkeys.com/cdn/shop/files/Stone_16x9_3d0c58c8-18d3-4f61-a15f-9e9d584cb1b3_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Accents", "price": "45", "pic": "https://novelkeys.com/cdn/shop/files/Accents_16x9_3e860f6e-cf8b-43e2-acfb-c6cb667335a3_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://novelkeys.com/cdn/shop/files/CYL_Modern_Materials_Haus_Wide_1512x.png"
+    ]
+}

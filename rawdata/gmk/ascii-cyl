@@ -1,0 +1,30 @@
+{
+    "name": "Ascii CYL",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Oblotzky",
+    "profile": "0-1-2-3-4-4",
+    "time": "2023-12-01 ~ 2023-12-28",
+    "ets": "Q3 2024",
+    "colorcodes":[
+      "|2B|2M|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "OMNI",
+    "link": "https://omnitype.com/products/gmk-ascii",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "124.99", "pic": "https://omnitype.com/cdn/shop/files/gmk_cyl_ascii_kit_01_base_4f5a9728-a739-4074-9e61-84335781c3ab_1100x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Add-on", "price": "29.99", "pic": "https://omnitype.com/cdn/shop/files/gmk_cyl_ascii_kit_04_addon_1100x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Icons", "price": "34.99", "pic": "https://omnitype.com/cdn/shop/files/gmk_cyl_ascii_kit_03_icons_1100x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "69.99", "pic": "https://omnitype.com/cdn/shop/files/gmk_cyl_ascii_kit_02_international_1100x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://matrixzj.github.io/assets/images/gmk-keycaps/ascii/rendering_pics/1.png"
+    ]
+}
