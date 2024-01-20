@@ -169,6 +169,7 @@ Just buy it :)
 ### 2014
 * [Pulse R1 脉冲R1](docs/sa-keycaps/Pulse-R1/)
 * [Nuclear Data 核子](docs/sa-keycaps/Nuclear-Data/)
+* [Rad Hard](docs/sa-keycaps/Rad-Hard/)
 * [Penumbra](docs/sa-keycaps/Penumbra/)
 
 ### 2013
