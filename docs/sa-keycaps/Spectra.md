@@ -81,7 +81,7 @@ NOTE: USD to CNY exchange rate is 6.41
 * Profile: SA 1-1-2-3-4-3  
 * GB Time: 2021-05-25 ~ 2021-06-25  
 * Estimated Shipping Time: October 2022  
-* Color Codes:  
+* Color Codes:  NN, WA, PANTONE Cyan C, PANTONE Magenta C, PANTONE Yellow C
 
 
 ## Pictures  
