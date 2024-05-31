@@ -1,0 +1,34 @@
+{
+    "name": "Rainy Day R2",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Owl",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-05-15 ~ 2024-06-15",
+    "ets": "2024 Q4",
+    "colorcodes":[
+      "|Alphas|Pantone PQ-15-4101TCX|Pantone PQ-10393C|",
+      "|Modifiers|Pantone PQ-10393C|Pantone 9481 C|",
+      "|Accents|Pantone 9481 C|Pantone PQ-10393C|"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=122988.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "115", "pic": "https://cannonkeys.com/cdn/shop/files/basekit_overlay_spec_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hangul", "price": "49", "pic": "https://cannonkeys.com/cdn/shop/files/hangul_overlay_spec_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "29", "pic": "https://cannonkeys.com/cdn/shop/files/novelty_overlay_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "29", "pic": "https://cannonkeys.com/cdn/shop/files/spacebars_overlay_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "International", "price": "46", "pic": "https://cannonkeys.com/cdn/shop/files/international_overlay_spec_db272f17-f6e5-4e07-89d3-d7d46a44744b_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "45", "pic": "https://cannonkeys.com/cdn/shop/files/m2aYi1h_900x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://cannonkeys.com/cdn/shop/files/DSCF4105_900x.jpg"
+    ]
+}

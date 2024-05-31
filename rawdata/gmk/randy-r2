@@ -1,0 +1,30 @@
+{
+    "name": "Randy R2",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "sour",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-05-03 ~ 2024-06-03",
+    "ets": "2024 OCT",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=122916.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://spaceholdings.net/cdn/shop/files/dandybase.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "54.99", "pic": "https://spaceholdings.net/cdn/shop/files/dandynovelty_1.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Bars", "price": "29.99", "pic": "https://spaceholdings.net/cdn/shop/files/dandybars_1.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "59.99", "pic": "https://spaceholdings.net/cdn/shop/files/hibi_169-2.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "RAMA Artisan", "price": "59.99", "pic": "https://spaceholdings.net/cdn/shop/files/Dandy-RAMA-WORKS-Novelty-Keycap-Mechanical-Keyboard.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://spaceholdings.net/cdn/shop/files/dandy2024_0533.jpg"
+    ]
+}

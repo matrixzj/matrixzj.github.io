@@ -1,0 +1,27 @@
+{
+    "name": "Griseann R2",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "byhfforever & Qarmaa",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-05-03 ~ 2024-05-31",
+    "ets": "2024 Q4",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=115954.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://novelkeys.com/cdn/shop/files/Base_16x9_70d88f67-f171-419c-a792-16f00cd455e2_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Macro", "price": "45", "pic": "https://novelkeys.com/cdn/shop/files/Macro_16x9_59eb18a0-ee60-4b52-9937-80f4671222a2_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://novelkeys.com/cdn/shop/files/CYL_Griseann_R2_KeycultNo1_TKL_Frontal_1512x.png"
+    ]
+}

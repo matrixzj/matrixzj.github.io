@@ -1,0 +1,34 @@
+{
+    "name": "CYL ZX",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "BeesKeys",
+    "profile": "0-1-2-3-4-5",
+    "time": "2024-04-30 ~ 2024-05-15",
+    "ets": "2024 Oct",
+    "colorcodes":[
+      "|Base|N9|WS1",
+      "|Accent 1|RO2|CR",
+      "|Accent 2|CV|CR",
+      "|Accent 3|AE|CR",
+      "|Accent 4|TU2|CR"
+    ],
+    "color_pics":[
+      "https://i.postimg.cc/R0VxpVdV/colors.png"
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=122894.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "119", "pic": "https://massdrop-s3.imgix.net/product-images/drop-bees-keys-gmk-zx-keycap-set/FP/r5uaZpxBQdORsYwsyksv_GMK%20CYL%20ZX_Basekit_Final_Drop%20(1).jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "", "pic": "https://massdrop-s3.imgix.net/product-images/drop-bees-keys-gmk-zx-keycap-set/FP/X6xBlIXqQJinQ3YSymEb_Extension%20Kit.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Artisan", "price": "41", "pic": "https://i.postimg.cc/7Y04fRbD/artisan.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://massdrop-s3.imgix.net/product-images/drop-bees-keys-gmk-zx-keycap-set/FP/INuCEsotTSOJw1B6GRyb_GMK%20CYL%20ZX_PhaseOne_Final.jpg"
+    ]
+}

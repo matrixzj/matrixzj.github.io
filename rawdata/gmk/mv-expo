@@ -1,0 +1,27 @@
+{
+    "name": "MV Expo",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "maxvoltar",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-01-09 ~ 2024-02-09",
+    "ets": "2024 Q3",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "MVKB",
+    "link": "https://mvkb.com/expo/",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "124.99", "pic": "https://omnitype.com/cdn/shop/files/kitting_1100x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Artisan", "price": "44.99", "pic": "https://omnitype.com/cdn/shop/files/Top-Watermark_1100x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://mvkb.com/expo/renders/bench%20-%20front.jpeg"
+    ]
+}

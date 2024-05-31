@@ -1,0 +1,27 @@
+{
+    "name": "Rubrehose",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "BadChad",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-05-07 ~ 2024-06-07",
+    "ets": "2024 Q4",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "KLC",
+    "link": "https://klc-playground.com/products/gb-gmk-rubrehose",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "150", "pic": "https://klc-playground.com/cdn/shop/files/gmk_cyl_rubrehose_01_base_87d714e7-4b9a-4aa3-8f87-dbdf38aa26a2_720x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDeUK", "price": "45", "pic": "https://klc-playground.com/cdn/shop/files/gmk_cyl_rubrehose_02_nordeuk_7cf06494-8764-4651-ac77-bba4ef8ed90a_720x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://klc-playground.com/cdn/shop/files/gmk_cyl_rubrehose_rubrejane_beige_persp_front_720x.png"
+    ]
+}

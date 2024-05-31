@@ -1,0 +1,25 @@
+{
+    "name": "Mictlan NorDeUK Addon",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "vheissu",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-04-24 ~ 2024-05-05",
+    "ets": "2024 Q3",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=112071.msg3185526#msg3185526",
+    "currencyunit": "EUR",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "All", "price": "37.5", "pic": "https://i.postimg.cc/Fm23VcbQ/gmk-cyl-mictlan-nordeuk-label.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+    ]
+}

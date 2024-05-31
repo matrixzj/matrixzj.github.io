@@ -1,0 +1,31 @@
+{
+    "name": "International Kit Addon",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "",
+    "profile": "",
+    "time": "2024-01-17 ~ 2024-02-17",
+    "ets": "2024 March",
+    "colorcodes":[
+      "|Classic|CV|CR",
+      "|Brown||CP",
+      "|Green||",
+      "|Galaxy||CP",
+      "|Marble||CP"
+    ],
+    "color_pics":[
+    ],
+    "platform": "protoTypist",
+    "link": "https://geekhack.org/index.php?topic=122194.0",
+    "currencyunit": "EUR",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "All", "price": "6.25", "pic": "https://prototypist.net/cdn/shop/files/eNkMuWGQYwsZPPaYqnJJH43d6AcfHi-metaVElLLVIyLV8wMDEwX0dyb3VwLTEucG5n-___webp_1000_1000.webp", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://prototypist.net/cdn/shop/files/NpUWvtO9cJijzHPqzmgVlI7Go2KXY8-metaVElLLVIyLV8wMDA3X093bGFicy1Wb2ljZS1NaW5pLUxhdHRlLUdNSy1USUstUjItQ2xhc3NpYy5wbmc_3D-___webp_1000_1000.webp"
+    ]
+}

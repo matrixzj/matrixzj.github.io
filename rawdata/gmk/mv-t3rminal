@@ -1,0 +1,27 @@
+{
+    "name": "MV T3rminal",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "maxvoltar",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-01-08 ~ 2024-03-18",
+    "ets": "2024 Q2",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "MVKB",
+    "link": "https://mvkb.com/terminal/",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "134.99", "pic": "https://spaceholdings.net/cdn/shop/files/kitting.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Salvun Artisan", "price": "54.99", "pic": "https://spaceholdings.net/cdn/shop/files/Terminal-Artisan---Top169.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://mvkb.com/terminal/renders/computer%20-%20top.jpeg"
+    ]
+}

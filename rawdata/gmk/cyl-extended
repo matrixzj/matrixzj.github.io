@@ -1,0 +1,31 @@
+{
+    "name": "CYL Extended",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "biip",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-02-03 ~ 2024-02-23",
+    "ets": "2024 Q3",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=122417.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Light Base", "price": "155", "pic": "https://novelkeys.com/cdn/shop/files/Light_16x9_2b870716-313f-486a-a768-82c2a0a06711_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Base", "pic": "https://novelkeys.com/cdn/shop/files/Dark_16x9_cb604fe8-37f8-495e-8f82-147372144ae5_1512x.png", "price": "155", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Light Novelties", "price": "50", "pic": "https://novelkeys.com/cdn/shop/files/LightNov_16x9_6d1c4b1e-50a0-4895-a9ac-8b5f5a5a735c_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark Novelties", "price": "50", "pic": "https://novelkeys.com/cdn/shop/files/DarkNov_16x9_695ced6e-49c1-48f9-827f-194eb4737e41_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Light International", "price": "60", "pic": "https://novelkeys.com/cdn/shop/files/LightINTL_16x9_1_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Dark International", "price": "60", "pic": "https://novelkeys.com/cdn/shop/files/DarkINTL_16x9_1_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://novelkeys.com/cdn/shop/files/CYL_Extended_2048_Boop_Wide_1512x.png"
+    ]
+}

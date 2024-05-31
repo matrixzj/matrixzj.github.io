@@ -1,0 +1,30 @@
+{
+    "name": "Mecha 00",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Fu11.Meta1",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-05-21 ~ 2024-05-28",
+    "ets": "2024 Nov",
+    "colorcodes":[
+    ],
+    "color_pics":[
+      "https://massdrop-s3.imgix.net/product-images/drop-fu11-meta1-gmk-mecha-00-keycap-set/FP/24Dzmu8zTlC1ARN6l679_00%20Pantone%20Colors%20v2.png"
+    ],
+    "platform": "Drop",
+    "link": "https://drop.com/buy/drop-fu11-meta1-gmk-mecha-00-keycap-set",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "", "pic": "https://massdrop-s3.imgix.net/product-images/drop-fu11-meta1-gmk-mecha-00-keycap-set/FP/SGu3PAvkROSCsVy77esb_GMK%20Mecha-00%20-%20Base%20Kit.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelty", "price": "", "pic": "https://massdrop-s3.imgix.net/product-images/drop-fu11-meta1-gmk-mecha-00-keycap-set/FP/czrJVDoSaulcflynOPdQ_GMK%20Mecha-00%20-%20Novelties.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Prototype Alphas", "price": "", "pic": "https://massdrop-s3.imgix.net/product-images/drop-fu11-meta1-gmk-mecha-00-keycap-set/FP/odtdLXtcTPGi82RefOSO_GMK%20Mecha-00%20-%20Prototype%20Alphas.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "", "pic": "https://massdrop-s3.imgix.net/product-images/drop-fu11-meta1-gmk-mecha-00-keycap-set/FP/tBw05dFNQzy5f7GgZB9S_GMK%20Mecha-00%20-%20Space%20Bars.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://massdrop-s3.imgix.net/product-images/drop-fu11-meta1-gmk-mecha-00-keycap-set/FP/tU5PoEd7RFO4n9eY5nmo_60%20v1.png"
+    ]
+}

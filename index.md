@@ -181,6 +181,27 @@ Just buy it :)
 ## GMK KeyCaps
 * [GMK Standard Color Codes](docs/gmk-keycaps/ColorCodes/)
 
+### 2024
+* [Dragon Witch](docs/gmk-keycaps/Dragon-Witch/)
+* [Rainy Day R2](docs/gmk-keycaps/Rainy-Day-R2/)
+* [Randy R2](docs/gmk-keycaps/Randy-R2/)
+* [Hi! Viz](docs/gmk-keycaps/Hi!-Viz/)
+* [Griseann R2](docs/gmk-keycaps/Griseann-R2/)
+* [Mecha 00](docs/gmk-keycaps/Mecha-00/)
+* [CYL ZX](docs/gmk-keycaps/CYL-ZX/)
+* [Monokai Material NorDeUK Addon](docs/gmk-keycaps/Monokai-Material-NorDeUK-Addon/)
+* [Mictlan NorDeUK Addon](docs/gmk-keycaps/Mictlan-NorDeUK-Addon/)
+* [Metropolis R2 NorDeUK Addon](docs/gmk-keycaps/Metropolis-R2-NorDeUK-Addon/)
+* [Oblivion V3.1 Hagoromo](docs/gmk-keycaps/Oblivion-V3.1-Hagoromo/)
+* [Nerve](docs/gmk-keycaps/Nerve/)
+* [FTRO](docs/gmk-keycaps/FTRO/)
+* [1520](docs/gmk-keycaps/1520/)
+* [CYL Extended](docs/gmk-keycaps/CYL-Extended/)
+* [International Kit Addon](docs/gmk-keycaps/International-Kit-Addon/)
+* [MV Expo](docs/gmk-keycaps/MV-Expo/)
+* [MV T3rminal](docs/gmk-keycaps/MV-T3rminal/)
+* [Phantom R2](docs/gmk-keycaps/Phantom-R2/)
+
 ### 2023
 * [Dune 沙丘](docs/gmk-keycaps/Dune/)
 * [Black Snail](docs/gmk-keycaps/Black-Snail/)

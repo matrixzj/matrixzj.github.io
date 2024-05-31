@@ -1,0 +1,27 @@
+{
+    "name": "Hi! Viz",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "maxvoltar",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-05-03 ~ 2024-05-31",
+    "ets": "2024 Q4",
+    "colorcodes":[
+      "|Pantone 13-0630|RAL 9023"
+    ],
+    "color_pics":[
+    ],
+    "platform": "MVKB",
+    "link": "https://mvkb.com/hi-viz/",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "135", "pic": "https://novelkeys.com/cdn/shop/files/HiVizBaseKit_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://novelkeys.com/cdn/shop/files/CYL_Hi_Viz_Classic_TKL_Wide_1512x.png"
+    ]
+}

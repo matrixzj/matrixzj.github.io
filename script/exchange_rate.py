@@ -28,5 +28,6 @@ def retrieve_exchange_rate(date, currency = 'USD'):
 
 if __name__ == '__main__':
     date = sys.argv[1]
-    rate = retrieve_exchange_rate(date, 'EUR')
+#    rate = retrieve_exchange_rate(date, 'EUR')
+    rate = retrieve_exchange_rate(date)
     print(rate)

@@ -1,0 +1,27 @@
+{
+    "name": "1520",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "hark",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-03-01 ~ 2024-03-29",
+    "ets": "2024 Q3",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=122578.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "125", "pic": "https://novelkeys.com/cdn/shop/files/1520-Base_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Extension", "price": "40", "pic": "https://novelkeys.com/cdn/shop/files/1520-Extension_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://novelkeys.com/cdn/shop/files/CYL_1520_Quetzal_Wide_1512x.png"
+    ]
+}

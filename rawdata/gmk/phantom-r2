@@ -1,28 +1,30 @@
 {
     "name": "Phantom R2",
-    "cname": ,
+    "cname": "",
     "keycapstype": "GMK",
     "designer": "briano1905 / vheissu",
     "profile": "1-1-2-3-4-4",
     "time": "2024-01-05 ~ 2024-01-26",
-    "ets": "",
+    "ets": "2024 Q3",
     "colorcodes":[
     ],
     "color_pics":[
     ],
     "platform": "GH",
-    "link": "",
+    "link": "https://geekhack.org/index.php?topic=122194.0",
     "currencyunit": "USD",
     "history_graph": "",
     "order_graph": "",
     "order_graph_without": "",
     "price_pic": "",
     "price_list":[
-        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
-        { "name": "", "price": "", "pic": "", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+        { "name": "Base", "price": "125", "pic": "https://novelkeys.com/cdn/shop/files/Base_16x9_47c39dae-442c-4cad-bf85-53621029a0d0_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "50", "pic": "https://novelkeys.com/cdn/shop/files/Novelties_16x9_9da59b57-6f5b-4d58-8cbc-4baba67144c5_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "R5", "price": "65", "pic": "https://novelkeys.com/cdn/shop/files/R5_16x9_3438d5f1-3fd7-498c-ba5b-874ceb55c07a_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Spacebars", "price": "30", "pic": "https://novelkeys.com/cdn/shop/files/Spacebars_16x9_c7eb7b60-bbad-4046-b414-d8c7e3f96df9_1512x.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "HIBI Artisan", "price": "64", "pic": "https://novelkeys.com/cdn/shop/files/HIBI_PhantomR2_Top_1512x.jpg", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
     ],
     "render_pics":[
-        "",
-        ""
+        "https://novelkeys.com/cdn/shop/files/CYL_Phantom_Daji_Wide_1512x.png"
     ]
 }

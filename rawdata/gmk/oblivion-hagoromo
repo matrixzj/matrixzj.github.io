@@ -1,0 +1,26 @@
+{
+    "name": "Oblivion V3.1 Hagoromo",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Oblotzky",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-04-24 ~ 2024-05-05",
+    "ets": "2024 Q3",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=113224.msg3185518#msg3185518",
+    "currencyunit": "EUR",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Alpha", "price": "54.17", "pic": "https://prototypist.net/cdn/shop/files/gmk_cyl_oblivion_hagoromo_ansi.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NorDe", "price": "62.50", "pic": "https://prototypist.net/cdn/shop/files/gmk_cyl_oblivion_hagoromo_norde.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+    ]
+}

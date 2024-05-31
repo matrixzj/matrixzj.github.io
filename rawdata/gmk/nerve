@@ -1,0 +1,33 @@
+{
+    "name": "Nerve",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Manu & LoobedSwitches & Baionlenja",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-04-15 ~ 2024-05-06",
+    "ets": "2024 Q4",
+    "colorcodes":[
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=122475.0",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Neon Base", "price": "125", "pic": "https://geon.works/cdn/shop/files/resize_GMKNERVENEON.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Acero Base", "price": "125", "pic": "https://geon.works/cdn/shop/files/resize_GMKNERVEACERO.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "65", "pic": "https://geon.works/cdn/shop/files/resize_NOVELTIESNERVE.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Numpad", "price": "45", "pic": "https://geon.works/cdn/shop/files/resize_GMKNERVENUMPAD.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "AIGLATSON Artisan 1", "price": "55", "pic": "https://geon.works/cdn/shop/files/resize_GMK_Nerve-01.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "AIGLATSON Artisan 2", "price": "55", "pic": "https://geon.works/cdn/shop/files/resize_GMK_Nerve_Grey-01.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NEBULA Artisan 1", "price": "40", "pic": "https://geon.works/cdn/shop/files/resize_IMG_20240327_081548.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "NEBULA Artisan 2", "price": "40", "pic": "https://geon.works/cdn/shop/files/resize_IMG_20240330_231132.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://basekeys.jp/cdn/shop/files/00_GMKNERVE_Sceme1_Render1_MikeyDigit.png"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Dragon Witch",
+    "cname": "",
+    "keycapstype": "GMK",
+    "designer": "Kiririn",
+    "profile": "1-1-2-3-4-4",
+    "time": "2024-05-20 ~ 2024-06-23",
+    "ets": "2025 Q1",
+    "colorcodes":[
+      "|Alphas|RAL 075 85 10|RAL 300 20 15",
+      "|Modifiers|RAL 300 20 15|RAL 075 85 10",
+      "|Accents|RAL 300 50 35|RAL 300 20 15"
+    ],
+    "color_pics":[
+    ],
+    "platform": "GH",
+    "link": "https://geekhack.org/index.php?topic=123008",
+    "currencyunit": "USD",
+    "history_graph": "",
+    "order_graph": "",
+    "order_graph_without": "",
+    "price_pic": "",
+    "price_list":[
+        { "name": "Base", "price": "130", "pic": "https://mekibo.com/cdn/shop/files/dragonwitchbase_1920x1079.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Hiragana Alphas", "price": "55", "pic": "https://mekibo.com/cdn/shop/files/dragonwitchhirachild_696x391.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" },
+        { "name": "Novelties", "price": "50", "pic": "https://mekibo.com/cdn/shop/files/dragonwitchnovs_696x391.png", "price_cny": "", "quantity": "", "price_table_format": "", "price_kit_format": "" }
+    ],
+    "render_pics":[
+        "https://mekibo.com/cdn/shop/files/dragonwitch.2099_1_696x391.png"
+    ]
+}
