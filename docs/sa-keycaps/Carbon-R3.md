@@ -33,7 +33,7 @@ NOTE: USD to CNY exchange rate is 6.79
 |[Ergodox](#ergodox)|70.00|475.30|63|
 |[ISO UK](#iso-uk)|40.00|271.60|67|
 |[XTRA](#xtra)|25.00|169.75|71|
-|[Carbon Novelties](#carbon-novelties)|34.00|454.00|Unknown|
+|[Carbon Novelties](#carbon-novelties)|34.00|454.00|454|
 |[Warning Signs](#warning-signs)|22.00|149.38|423|
 |[Rolling Bones](#rolling-bones)|70.00|475.30|461|
 |[Half-Life Lambda](#half-life-lambda)|9.00|61.11|327|
@@ -95,7 +95,7 @@ NOTE: USD to CNY exchange rate is 6.79
 <img src="{{ 'assets/images/sa-keycaps/carbonr3/kits_pics/xtra.jpg' | relative_url }}" alt="xtra" class="image featured">
 
 ### Carbon Novelties  
-**Price(MD):** 34.00    **Price(CNY):** 454.00    **Quantity:** Unknown  
+**Price(MD):** 34.00    **Price(CNY):** 454.00    **Quantity:** 454  
 <img src="{{ 'assets/images/sa-keycaps/carbonr3/kits_pics/carbon-novelties.jpg' | relative_url }}" alt="carbon-novelties" class="image featured">
 
 ### Warning Signs  

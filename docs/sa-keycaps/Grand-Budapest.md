@@ -21,27 +21,29 @@ NOTE: USD to RMB exchange rate is 6.75
 
 | Name          | Price(USD)   | Price(RMB)  | Quantity |
 | ------------- | ------------- | ----------- | -------- |
-|[Alphas](#alphas)|65.00|439.00|unknown|
-|[Modifiers](#modifiers)|120.00|805.00|unknown|
-|[40s](#40s)|53.00|353.00|unknown|
+|[Alphas](#alphas)|65.00|439.00|193|
+|[Modifiers](#modifiers)|120.00|805.00|150|
+|[40s](#40s)|53.00|353.00|50|
 |~~[Ergo](#ergo)~~|~~47.00~~|~~341.00~~|~~unknown~~|
 |~~[iSO](#iso)~~|~~70.00~~|~~473.00~~|~~unknown~~|
 
 \* Price in USD is from MOQ1.
+<img src="{{ 'assets/images/sa-keycaps/grandbudapest/order.png' | relative_url }}" alt="order" class="image featured">
+
 
 ## Kits
 ### Alphas
-**Price(USD):** 65.00    **Price(RMB):** 439.00    **Quantity:** unknown  
+**Price(USD):** 65.00    **Price(RMB):** 439.00    **Quantity:** 193  
 Note: Novelties of Grand Budapest finally changed as second piture.
 <img src="{{ 'assets/images/sa-keycaps/grandbudapest/kits_pics/alphas.png' | relative_url }}" alt="Alphas" class="image featured">
 <img src="{{ 'assets/images/sa-keycaps/grandbudapest/kits_pics/novelties.jpeg' | relative_url }}" alt="Alphas" class="image featured">
 
 ### Modifiers
-**Price(USD):** 120.00    **Price(RMB):** 805.00    **Quantity:** unknown
+**Price(USD):** 120.00    **Price(RMB):** 805.00    **Quantity:** 150
 <img src="{{ 'assets/images/sa-keycaps/grandbudapest/kits_pics/modifiers.png' | relative_url }}" alt="Modifiers" class="image featured">
 
 ### 40s
-**Price(USD):** 53.00    **Price(RMB):** 353.00+341.00    **Quantity:** unknown
+**Price(USD):** 53.00    **Price(RMB):** 353.00+341.00    **Quantity:** 50
 <img src="{{ 'assets/images/sa-keycaps/grandbudapest/kits_pics/40s.jpg' | relative_url }}" alt="40s" class="image featured">
 
 ### ~~Ergo~~

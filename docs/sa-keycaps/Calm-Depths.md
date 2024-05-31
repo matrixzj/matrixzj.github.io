@@ -29,6 +29,8 @@ NOTE: USD to RMB exchange rate is 6.13
 |[Ergodox](#ergodox)|29.40|180.22|46|
 |[Gamer](#gamer)|4.74|29.06|82|
 
+<img src="{{ 'assets/images/sa-keycaps/calmdepts/order.png' | relative_url }}" alt="order" class="image featured">
+
 
 ## Kits
 ### Alphas

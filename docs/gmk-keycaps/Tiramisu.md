@@ -62,6 +62,12 @@ NOTE: USD to CNY exchange rate is 6.40
 * Estimated Shipping Time: Q1 2023  
 * Color Codes:  
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Alphas|RAL 075 90 10| |
+|Modifiers||RAL 075 90 10
+|Accents||RAL 075 90 10
+
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/Tiramisu/rendering_pics/0.jpg' | relative_url }}" alt="0" class="image featured">
