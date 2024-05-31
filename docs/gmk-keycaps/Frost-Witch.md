@@ -58,14 +58,5 @@ NOTE: USD to CNY exchange rate is 7.07
 * GB Time: 2020-04-19 ~ 2020-05-24  
 * Color Codes:  
 
-| |Base Color     | Legend Color
-| :-------------: | :-------------: | :------------:
-|Alpha|RAL 300 80 15|RAL 290 70 25
-|Modifiers|RAL 290 70 25|RAL 300 80 15
-|Accents|RAL 300 50 30|RAL 300 80 15
-
-<img src="{{ 'assets/images/gmk-keycaps/frostwitch/color.png' | relative_url }}" alt="color" class="image featured">
-
-
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/frostwitch/rendering_pics/1.png' | relative_url }}" alt="1.png" class="image featured">

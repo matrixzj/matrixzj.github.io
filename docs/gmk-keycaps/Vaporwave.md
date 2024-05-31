@@ -27,6 +27,8 @@ NOTE: USD to RMB exchange rate is 6.88
 |[Novelties](#novelties)|50.00|344.00|390|
 |[Spacebars](#spacebars)|20.00|137.60|275|
 
+<img src="{{ 'assets/images/gmk-keycaps/vaporwave/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/vaporwave/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base

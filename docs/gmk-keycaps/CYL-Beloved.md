@@ -25,7 +25,9 @@ NOTE: USD to CNY exchange rate is 7.29
 |[Novelties](#novelties)|30.00|218.67|250|
 |[Hangul Alpha](#hangul-alpha)|45.00|328.01|150|
 
+<img src="{{ 'assets/images/gmk-keycaps/CYL-Beloved/history.png' | relative_url }}" alt="history" class="image featured">
 <img src="{{ 'assets/images/gmk-keycaps/CYL-Beloved/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/CYL-Beloved/order_no_extra.png' | relative_url }}" alt="order_no_extra" class="image featured">
 
 ## Kits
 ### Base  

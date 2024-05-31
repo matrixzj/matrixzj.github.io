@@ -41,6 +41,13 @@ NOTE: USD to CNY exchange rate is 7.11
 * Estimated Shipping Time: 2024 Q3  
 * Color Codes:  
 
+| |Base Color     | Legend Color
+| :-------------: | :-------------: | :------------:
+|Base 1|RAL 160 30 10|RAL 110 90 05
+|Base 2|RAL 160 30 10|RAL 050 60 60
+|Base 3|RAL 160 30 10|RAL 080 80 80
+|Base 4|RAL 160 30 10|RAL 210 60 20
+
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/MV-Expo/rendering_pics/0.jpg' | relative_url }}" alt="0" class="image featured">

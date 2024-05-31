@@ -41,6 +41,11 @@ NOTE: USD to CNY exchange rate is 7.10
 * Estimated Shipping Time: 2024 Q2  
 * Color Codes:  
 
+| |Base Color     | Legend Color | UV print Color
+| :-------------: | :-------------: | :------------: | :------------:
+|Alphas|CR|WS1|RAL 060 70 70
+|Modifiers|CR|RAL 120 70 70| |
+
 
 ## Pictures  
 <img src="{{ 'assets/images/gmk-keycaps/MV-T3rminal/rendering_pics/0.jpg' | relative_url }}" alt="0" class="image featured">

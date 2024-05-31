@@ -21,23 +21,25 @@ NOTE: USD to CNY exchange rate is 7.27
 
 | Name          | Price(USD)   |  Price(CNY) | Quantity |
 | ------------- | ------------ |  ---------- | -------- |
-|[Base](#base)|139.99|1018.40|Unknown|
-|[Novelties](#novelties)|65.00|472.86|Unknown|
-|[Spacebars](#spacebars)|20.00|145.50|Unknown|
+|[Base](#base)|139.99|1018.40|284|
+|[Novelties](#novelties)|65.00|472.86|250|
+|[Spacebars](#spacebars)|20.00|145.50|153|
 
 <img src="{{ 'assets/images/gmk-keycaps/Underworld/price.png' | relative_url }}" alt="price" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Underworld/history.png' | relative_url }}" alt="history" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/Underworld/order.png' | relative_url }}" alt="order" class="image featured">
 
 ## Kits
 ### Base  
-**Price(USD):** 139.99	**Price(CNY):** 1018.40	**Quantity:** Unknown  
+**Price(USD):** 139.99	**Price(CNY):** 1018.40	**Quantity:** 284  
 <img src="{{ 'assets/images/gmk-keycaps/Underworld/kits_pics/base.png' | relative_url }}" alt="base" class="image featured">
 
 ### Novelties  
-**Price(USD):** 65.00	**Price(CNY):** 472.86	**Quantity:** Unknown  
+**Price(USD):** 65.00	**Price(CNY):** 472.86	**Quantity:** 250  
 <img src="{{ 'assets/images/gmk-keycaps/Underworld/kits_pics/novelties.png' | relative_url }}" alt="novelties" class="image featured">
 
 ### Spacebars  
-**Price(USD):** 20.00	**Price(CNY):** 145.50	**Quantity:** Unknown  
+**Price(USD):** 20.00	**Price(CNY):** 145.50	**Quantity:** 153  
 <img src="{{ 'assets/images/gmk-keycaps/Underworld/kits_pics/spacebars.png' | relative_url }}" alt="spacebars" class="image featured">
 
 ## Info

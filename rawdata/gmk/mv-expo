@@ -7,6 +7,10 @@
     "time": "2024-01-09 ~ 2024-02-09",
     "ets": "2024 Q3",
     "colorcodes":[
+      "|Base 1|RAL 160 30 10|RAL 110 90 05",
+      "|Base 2|RAL 160 30 10|RAL 050 60 60",
+      "|Base 3|RAL 160 30 10|RAL 080 80 80",
+      "|Base 4|RAL 160 30 10|RAL 210 60 20"
     ],
     "color_pics":[
     ],

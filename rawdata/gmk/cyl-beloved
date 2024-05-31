@@ -13,9 +13,9 @@
     "platform": "GH",
     "link": "https://geekhack.org/index.php?topic=121851.0",
     "currencyunit": "USD",
-    "history_graph": "",
+    "history_graph": "https://i.postimg.cc/81sW-Rg5W/GMKbeloved-History231211fin-YNext2.png",
     "order_graph": "https://i.postimg.cc/tyF6t5Xr/GMKbeloved-Orders231211fin-Yext2.png",
-    "order_graph_without": "",
+    "order_graph_without": "https://i.postimg.cc/tqxxcdF4/GMKbeloved-Orders231211fin-Next2.png",
     "price_pic": "",
     "price_list":[
         { "name": "Base", "price": "130", "pic": "https://switchmod.net/cdn/shop/files/53235210636_61897b6c52_o.png", "price_cny": "", "quantity": "378", "price_table_format": "", "price_kit_format": "" },

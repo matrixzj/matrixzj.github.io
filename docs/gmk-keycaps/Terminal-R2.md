@@ -27,7 +27,7 @@ NOTE: USD to RMB exchange rate is 6.47
 |[Ergodox](#ergodox)|65.00|420.55|42|
 |[Spacebar](#spacebar)|18.00|116.46|135|
 
-<img src="{{ 'assets/images/sa-keycaps/terminalr2/order.png' | relative_url }}" alt="order" class="image featured">
+<img src="{{ 'assets/images/gmk-keycaps/terminalr2/order.png' | relative_url }}" alt="order" class="image featured">
 
 
 ## Kits
